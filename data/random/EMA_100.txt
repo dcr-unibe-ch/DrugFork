@@ -1,0 +1,100 @@
+Vizamyl	EMEA/H/C/002557
+Pepaxti	EMEA/H/C/005681
+Tandemact	EMEA/H/C/000680
+Vyvgart	EMEA/H/C/005849
+Adzynma	EMEA/H/C/006198
+Revasc	EMEA/H/C/000104
+Truvada	EMEA/H/C/000594
+Zynquista	EMEA/H/C/004889
+Rezolsta	EMEA/H/C/002819
+Loargys	EMEA/H/C/005484
+Thorinane	EMEA/H/C/003795
+Qaialdo	EMEA/H/C/005535
+Vibativ	EMEA/H/C/000864
+Allex	EMEA/H/C/000312
+ViraferonPeg	EMEA/H/C/000329
+Cimzia	EMEA/H/C/000740
+Prandin	EMEA/H/C/000362
+Evotopin	EMEA/H/C/000124
+Pirfenidone axunio (previously Pirfenidone AET)	EMEA/H/C/005873
+Arxxant	EMEA/H/C/000753
+Olanzapine Viatris (previously Olanzapine Mylan)	EMEA/H/C/000961
+Tobi Podhaler	EMEA/H/C/002155
+Zeffix	EMEA/H/C/000242
+Aranesp	EMEA/H/C/000332
+Mycamine	EMEA/H/C/000734
+Fingolimod Mylan	EMEA/H/C/005661
+Valdyn (previously Kudeq)	EMEA/H/C/000437
+Abraxane	EMEA/H/C/000778
+Entacapone Orion	EMEA/H/C/002440
+Tikosyn	EMEA/H/C/000238
+Fareston	EMEA/H/C/000091
+Biopoin	EMEA/H/C/001036
+Moventig	EMEA/H/C/002810
+Drovelis	EMEA/H/C/005336
+Rekambys	EMEA/H/C/005060
+Irbesartan Hydrochlorothiazide BMS	EMEA/H/C/000784
+Velsipity	EMEA/H/C/006007
+Clopidogrel Taw Pharma (previously Clopidogrel Mylan)	EMEA/H/C/001134
+Ituxredi	EMEA/H/C/006224
+Pumarix	EMEA/H/C/001212
+Bronchitol	EMEA/H/C/001252
+ImmunoGam	EMEA/H/C/001055
+Plivensia	EMEA/H/C/004165
+Intelence	EMEA/H/C/000900
+Respreeza	EMEA/H/C/002739
+Lympreva	EMEA/H/C/002772
+Ibandronic acid Accord	EMEA/H/C/002638
+Tibsovo	EMEA/H/C/005056
+Opaxio	EMEA/H/C/000994
+Abasaglar (previously Abasria)	EMEA/H/C/002835
+Ontozry	EMEA/H/C/005377
+Dukoral	EMEA/H/C/000476
+Vyloy	EMEA/H/C/005868
+Myalepta	EMEA/H/C/004218
+Sildenafil FGK	EMEA/H/C/005439
+Prepandemic Influenza Vaccine (H5N1) (Split Virion, Inactivated, Adjuvanted) GlaxoSmithKline Biologicals	EMEA/H/C/001015
+Zinplava	EMEA/H/C/004136
+Comtan	EMEA/H/C/000171
+Kalydeco	EMEA/H/C/002494
+Olazax Disperzi	EMEA/H/C/001088
+Celdoxome pegylated liposomal	EMEA/H/C/005330
+Mulpleo (previously Lusutrombopag Shionogi)	EMEA/H/C/004720
+Deltyba	EMEA/H/C/002552
+Veraseal	EMEA/H/C/003914
+Niapelf	EMEA/H/C/006185
+Ammonaps	EMEA/H/C/000219
+Xigris	EMEA/H/C/000396
+Duloxetine Viatris (previously Duloxetine Mylan)	EMEA/H/C/003981
+Feraheme	EMEA/H/C/005974
+Valdyn	EMEA/H/C/000432
+Ulunar Breezhaler	EMEA/H/C/003875
+Clopidogrel BMS	EMEA/H/C/000974
+Jakavi	EMEA/H/C/002464
+Naveruclif	EMEA/H/C/006173
+Fiasp	EMEA/H/C/004046
+Hympavzi	EMEA/H/C/006240
+Waylivra	EMEA/H/C/004538
+Litfulo	EMEA/H/C/006025
+Multaq	EMEA/H/C/000676
+Esmya	EMEA/H/C/002041
+Pantozol Control	EMEA/H/C/001013
+Fertavid	EMEA/H/C/001042
+Topotecan Actavis	EMEA/H/C/001031
+Selincro	EMEA/H/C/002583
+Libmyris	EMEA/H/C/005947
+Copalia	EMEA/H/C/000774
+Olysio	EMEA/H/C/002777
+Taluvian	EMEA/H/C/000386
+Kimmtrak	EMEA/H/C/004929
+Raligize	EMEA/H/C/004473
+Zerene	EMEA/H/C/000228
+Sialanar	EMEA/H/C/003883
+Axura	EMEA/H/C/000378
+Rivastigmine Teva	EMEA/H/C/001044
+Xeljanz	EMEA/H/C/002542
+Eporatio	EMEA/H/C/001033
+Portrazza	EMEA/H/C/003886
+Clopidogrel Qualimed	EMEA/H/C/001135
+Dabigatran etexilate Teva	EMEA/H/C/006023
+Nerventra	EMEA/H/C/002546
