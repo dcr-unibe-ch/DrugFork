@@ -1,4 +1,5 @@
 import os
+import csv
 import json
 from dotenv import load_dotenv
 from PyPDF2 import PdfReader
@@ -80,20 +81,15 @@ def process_files(file_list, client, model_name, save_dir, data_dir):
     """Process all files listed in the file."""
 
     output_file = os.path.join(save_dir, f'{model_name}_responses.json')
-    
-    # Create the save directory if it doesn't exist
+    output_file_csv = os.path.join(save_dir, f'{model_name}_responses.csv')
     os.makedirs(save_dir, exist_ok=True)
 
-    # Check if the common JSON file exists
     if os.path.exists(output_file):
-        # Load the existing data
         with open(output_file, 'r') as f:
             existing_data = json.load(f)
     else:
-        # Initialize an empty dictionary if the file doesn't exist
         existing_data = {}
 
-    # Iterate over each file in the list and process it
     with open(file_list, 'r') as file:
         for line in file:
             file_name = line.strip()
@@ -112,17 +108,35 @@ def process_files(file_list, client, model_name, save_dir, data_dir):
             else:
                 existing_data[file_name] = "Error: File not found."
     
-    # Write the updated data back to the common JSON file
     with open(output_file, 'w') as f:
         json.dump(existing_data, f, indent=4)
     print(f"All responses saved to {output_file}")
+
+    # Save the data to CSV
+    save_to_csv(existing_data, output_file_csv)
+    print(f"All responses saved to {output_file_csv}")
+
+def save_to_csv(data, output_csv_file):
+    """Save the results to a CSV file."""
+    with open(output_csv_file, 'w', newline='') as csvfile:
+        fieldnames = ["File Name"] + [key for key in question_response_pairs.keys()]
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        
+        writer.writeheader()
+        for file_name, response in data.items():
+            row = {"File Name": file_name}
+            if isinstance(response, dict):  # Only write the valid response as the data
+                for key, value in response.items():
+                    row[key] = value
+            else:
+                row["Error"] = response
+            writer.writerow(row)
 
 def main():
     args = parse_arguments()
     OPENAI_API_KEY, _ = load_env_variables()
     client = OpenAI(api_key=OPENAI_API_KEY)
 
-    # Process all files listed in the input file
     process_files(args.file_list, client, model_name=args.model, save_dir=args.save_dir, data_dir=args.data_dir)
 
 if __name__ == "__main__":
