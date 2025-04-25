@@ -5,7 +5,9 @@ import json
 import argparse
 from jsonschema import validate, ValidationError
 from openai import OpenAI
+
 from schema import json_schema
+from question_response import question_response_pairs
 
 
 def load_env_variables():
@@ -38,29 +40,23 @@ def generate_response(text, client, model_name, file_name):
 
     system_role = "You are a helpful expert in Swiss drug approval processes"
     user_prompt = f"""
-        You are going to read a drug approval report. Read the text attentively and answer the following questions in the specified json format with the specified keys:\n\
-        1) Question: What is the drug name?\n\
-        2) What is the substance name?\n\
-        3) What year was the decision made?\n\n\
-        Generate only the answers to the above questions, in the correct order. Be as concise as possible.\n\
-        TEXT:\n{text}\n\n
+        You are going to read a drug approval report. Read the text attentively and answer the following questions in the specified JSON format with the specified keys:\n
         """ 
-
-    output_schema = """
-        Generate a response in JSON format with the following keys:\
-        - `drug_name` (string)\n\
-        - `substance_name` (string)\n\
-        - `year_of_decision` (integer)\n\n\
-        Your response should contain these keys and only these keys, with appropriate values based on the report you're analyzing."""
-    prompt = user_prompt + output_schema
-
-    """Generate a response from the OpenAI API."""
+    for key, value in question_response_pairs.items():
+        user_prompt += f"Question: {value['question']}\n"
+        user_prompt += f"Response format: {value['response']}\n"
+    user_prompt += "\n\n"
+    user_prompt += """
+        Generate only the answers to the above questions, in the correct order. Your response should contain these keys and only these keys, with appropriate values based on the report you're analyzing. Be as concise as possible.\n
+        """
+    user_prompt += f"TEXT: {text}\n"
+    
     try:
         response = client.chat.completions.create(
             model=model_name,
             messages=[
                 {"role": "system", "content": system_role},
-                {"role": "user", "content": prompt}
+                {"role": "user", "content": user_prompt}
             ],
             temperature=0.1,
             max_tokens=300
