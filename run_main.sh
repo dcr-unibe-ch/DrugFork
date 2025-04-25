@@ -1,6 +1,6 @@
 #!/bin/bash
 # ===========================================================
-FILE_LIST="data/random/SwissPar_5.txt"
+FILE_LIST="data/random/SwissPar_20.txt"
 # ==========================================================
 
 DATA_DIR="./data/SwissPar/SwissPAR_Jan19_2025"
