@@ -4,7 +4,7 @@ question_response_pairs = {
         "response": "`Origin` (string)"
     },
     "Marketing_authorisation_number": {
-        "question": "What is the marketing authorisation / document number?",
+        "question": "What is the marketing authorisation number for Drugs approved by Swissmedic? For drugs approved by EMA: what is the document number?",
         "response": "`Marketing_authorisation_number` (string)"
     },
     "Drug": {
@@ -16,7 +16,7 @@ question_response_pairs = {
         "response": "`Non_proprietary_name` (string)"
     },
     "Drug_class": {
-        "question": "What is the drug class? Choose from the following: `Small molecule`, `Biologics`, `Peptides and proteins`, `Cell and gene therapy`, `Vaccine`, or else `Other`",
+        "question": "What is the drug class? Choose from the following: `Small molecule`, `Biologics`, `Peptides and proteins`, `Cell and gene therapy`, or else `Vaccine`",
         "response": "`Drug_class` (string)"
     },
     "Pharmaceutical_form": {
@@ -48,11 +48,11 @@ question_response_pairs = {
         "response": "`Indication_requested` (string)"
     },
     "Indication_approved": {
-        "question": "What is the indication approved for the drug?",
+        "question": "What is the indication approved for the drug? If it is the same as the indication requested state: `same`",
         "response": "`Indication_approved` (string)"
     },
     "Disease_class(es)": {
-        "question": "What is the disease class of the drug?",
+        "question": "What is the disease class of the drug? Choose from the following, more than one option is possible sometimes: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chomosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes`",
         "response": "`Disease_class(es)` (string)"
     },
     "Application_date": {
