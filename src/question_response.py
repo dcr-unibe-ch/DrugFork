@@ -1,6 +1,6 @@
 question_response_pairs = {
     "Origin": {
-        "question": "What is the authorisation body which performs drug approval?",
+        "question": "What is the authorisation body which performs drug approval? Choose from the following: `Swissmedic`, `EMA`",
         "response": "`Origin` (string)"
     },
     "Marketing_authorisation_number": {
