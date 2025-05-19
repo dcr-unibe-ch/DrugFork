@@ -5,6 +5,7 @@ __pycache__/
 
 # heavy data in data/
 /data/SwissPar/SwissPAR_Jan19_2025/
+/data/EMA/EMA_downloads/
 
 # C extensions
 *.so
