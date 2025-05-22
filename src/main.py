@@ -27,6 +27,7 @@ def parse_arguments():
     parser.add_argument("--save_dir", type=str, help="Path to the output dir", required=False)
     parser.add_argument("--temperature", type=float, default=0.7, help="Temperature for the model")
     parser.add_argument("--max_tokens", type=int, default=300, help="Max tokens for the model")
+    parser.add_argument("--dataset", type=str, required=True, help="Dataset name")
     return parser.parse_args()
 
 def handle_file(file_path):
@@ -77,11 +78,11 @@ def generate_response(text, client, model_name, file_name):
     except Exception as e:
         return {file_name: f"Error generating response: {str(e)}"}
 
-def process_files(file_list, client, model_name, save_dir, data_dir):
+def process_files(args, file_list, client, model_name, save_dir, data_dir):
     """Process all files listed in the file."""
 
-    output_file = os.path.join(save_dir, f'{model_name}_responses.json')
-    output_file_csv = os.path.join(save_dir, f'{model_name}_responses.csv')
+    output_file = os.path.join(save_dir, f'{model_name}_responses_{args.dataset}.json')
+    output_file_csv = os.path.join(save_dir, f'{model_name}_responses_{args.dataset}.csv')
     os.makedirs(save_dir, exist_ok=True)
 
     if os.path.exists(output_file):
@@ -137,7 +138,7 @@ def main():
     OPENAI_API_KEY, _ = load_env_variables()
     client = OpenAI(api_key=OPENAI_API_KEY)
 
-    process_files(args.file_list, client, model_name=args.model, save_dir=args.save_dir, data_dir=args.data_dir)
+    process_files(args, args.file_list, client, model_name=args.model, save_dir=args.save_dir, data_dir=args.data_dir)
 
 if __name__ == "__main__":
     main()
