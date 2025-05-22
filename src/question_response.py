@@ -48,7 +48,7 @@ question_response_pairs = {
         "response": "`Indication_requested` (string)"
     },
     "Indication_approved": {
-        "question": "What is the indication approved for the drug? If it is exactly (word by word) the same as the indication requested state: `same`",
+        "question": "What is the indication approved for the drug?",
         "response": "`Indication_approved` (string)"
     },
     "Disease_class(es)": {
@@ -60,7 +60,7 @@ question_response_pairs = {
         "response": "`Application_date` (string)"
     },
     "Nonclinical_pharmacology_species": {
-        "question": "What is/are the species used for nonclinical pharmacology? Look under non-clinical aspects: pharmacology. Format: use singular form of the species name. For example, if the species is `mouse`, use `mouse` instead of `mice`. If there are multiple species, separate them with a comma. For example, `mouse, rat, hamster`. Possible species: `rat`, `mouse`, `hamster`, `guinea pig`, `rabbit`, `dog`, `cat`, `monkey`, `ferret`, `pig`, `sheep`, `goat`, `horse`, `cow`, `chicken`, `fish`. `human` is not a valid species. If the species is not reported, use `Not reported`. If no nonclinical pharmacology experiments have been conducted, use `NA`. If there are multiple species, separate them with a comma and state all of them.",
+        "question": "What is/are the species used for nonclinical pharmacology? Look under non-clinical aspects: pharmacology. Format: use singular form of the species name. For example, if the species is `mouse`, use `mouse` instead of `mice`. If there are multiple species, separate them with a comma. For example, `mouse, rat, hamster`. Possible species: `rat`, `mouse`, `hamster`, `guinea pig`, `rabbit`, `dog`, `cat`, `monkey`, `ferret`, `pig`, `sheep`, `goat`, `horse`, `cow`, `chicken`, `fish`. `human` is not a valid species. If the species is not reported, use `Not reported`. If no nonclinical pharmacology experiments have been conducted, use `NA`. If there are multiple species, separate them with a comma and state all of them. Important: Only extract species that are *explicitly stated* as being used in *nonclinical toxicology*. Do not guess or infer.",
         "response": "`Nonclinical_pharmacology_species` (string)"
     },
     "Nonclinical_pharmacology_strain": {
@@ -72,7 +72,7 @@ question_response_pairs = {
         "response": "`Nonclinical_pharmacology_model` (string)"
     },
     "Nonclinical_pharmacokinetics_species": {
-        "question": "What is the species used for nonclinical pharmacokinetics? Look under non-clinical aspects: pharmacokinetics. Format: use singular form of the species name. For example, if the species is `mouse`, use `mouse` instead of `mice`. If there are multiple species, separate them with a comma. For example, `mouse, rat, hamster`.Possible species: `rat`, `mouse`, `hamster`, `guinea pig`, `rabbit`, `dog`, `cat`, `monkey`, `ferret`, `pig`, `sheep`, `goat`, `horse`, `cow`, `chicken`, `fish`. `human` is not a valid species. If the species is not reported, use `Not reported`. If no nonclinical pharmacology experiments have been conducted, use `NA`. If there are multiple species, separate them with a comma and state all of them.",
+        "question": "What is the species used for nonclinical pharmacokinetics? Look under non-clinical aspects: pharmacokinetics. Format: use singular form of the species name. For example, if the species is `mouse`, use `mouse` instead of `mice`. If there are multiple species, separate them with a comma. For example, `mouse, rat, hamster`.Possible species: `rat`, `mouse`, `hamster`, `guinea pig`, `rabbit`, `dog`, `cat`, `monkey`, `ferret`, `pig`, `sheep`, `goat`, `horse`, `cow`, `chicken`, `fish`. `human` is not a valid species. If the species is not reported, use `Not reported`. If no nonclinical pharmacology experiments have been conducted, use `NA`. If there are multiple species, separate them with a comma and state all of them. Important: Only extract species that are *explicitly stated* as being used in *nonclinical toxicology*. Do not guess or infer.",
         "response": "`Nonclinical_pharmacokinetics_species` (string)"
     },
     "Nonclinical_pharmacokinetics_strain": {
@@ -84,7 +84,7 @@ question_response_pairs = {
         "response": "`Nonclinical_pharmacokinetics_model` (string)"
     },
     "Nonclinical_toxicology_species": {
-        "question": "What is the species used for nonclinical toxicology? Look under non-clinical aspects: toxicology. Format: use singular form of the species name. For example, if the species is `mouse`, use `mouse` instead of `mice`. If there are multiple species, separate them with a comma. For example, `mouse, rat, hamster`.Possible species: `rat`, `mouse`, `hamster`, `guinea pig`, `rabbit`, `dog`, `cat`, `monkey`, `ferret`, `pig`, `sheep`, `goat`, `horse`, `cow`, `chicken`, `fish`. `human` is not a valid species. If the species is not reported, use `Not reported`. If no nonclinical pharmacology experiments have been conducted, use `NA`. If there are multiple species, separate them with a comma and state all of them.",
+        "question": "What is the species used for nonclinical toxicology? Look under non-clinical aspects: toxicology. Format: use singular form of the species name. For example, if the species is `mouse`, use `mouse` instead of `mice`. If there are multiple species, separate them with a comma. For example, `mouse, rat, hamster`.Possible species: `rat`, `mouse`, `hamster`, `guinea pig`, `rabbit`, `dog`, `cat`, `monkey`, `ferret`, `pig`, `sheep`, `goat`, `horse`, `cow`, `chicken`, `fish`. `human` is not a valid species. If the species is not reported, use `Not reported`. If no nonclinical pharmacology experiments have been conducted, use `NA`. If there are multiple species, separate them with a comma and state all of them. Important: Only extract species that are *explicitly stated* as being used in *nonclinical toxicology*. Do not guess or infer.",
         "response": "`Nonclinical_toxicology_species` (string)"
     },
     "Nonclinical_toxicology_strain": {
