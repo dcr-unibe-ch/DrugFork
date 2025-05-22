@@ -6,6 +6,7 @@ from PyPDF2 import PdfReader
 import argparse
 from jsonschema import validate, ValidationError
 from openai import OpenAI
+from datetime import datetime
 
 from schema import json_schema
 from question_response import question_response_pairs
@@ -41,7 +42,7 @@ def handle_file(file_path):
 
 def generate_response(text, client, model_name, file_name):
     """Generate a response from OpenAI API based on the extracted text."""
-    system_role = "You are a helpful expert in Swiss drug approval processes"
+    system_role = "You are a helpful expert in Swiss drug approval processes."
     user_prompt = f"""
         You are going to read a drug approval report. Read the text attentively and answer the following questions in the specified JSON format with the specified keys:\n
         """ 
@@ -50,7 +51,7 @@ def generate_response(text, client, model_name, file_name):
         user_prompt += f"Response format: {value['response']}\n"
     user_prompt += "\n\n"
     user_prompt += """
-        Generate only the answers to the above questions, in the correct order. Your response should contain these keys and only these keys, with appropriate values based on the report you're analyzing. Be as concise as possible.\n
+        Generate only the answers to the above questions, in the correct order. Your response should contain these keys and only these keys, with appropriate values based on the report you're analyzing. If no answer can be found in the text, write "<N/A>". Be as concise as possible.\n
         """
     user_prompt += f"TEXT: {text}\n"
     
@@ -78,11 +79,29 @@ def generate_response(text, client, model_name, file_name):
     except Exception as e:
         return {file_name: f"Error generating response: {str(e)}"}
 
+def save_to_csv(data, output_csv_file):
+    """Save the results to a CSV file."""
+    with open(output_csv_file, 'w', newline='') as csvfile:
+        fieldnames = ["File Name"] + [key for key in question_response_pairs.keys()]
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        
+        writer.writeheader()
+        for file_name, response in data.items():
+            row = {"File Name": file_name}
+            if isinstance(response, dict):  # Only write the valid response as the data
+                for key, value in response.items():
+                    row[key] = value
+            else:
+                row["Error"] = response
+            writer.writerow(row)
+
 def process_files(args, file_list, client, model_name, save_dir, data_dir):
     """Process all files listed in the file."""
 
-    output_file = os.path.join(save_dir, f'{model_name}_responses_{args.dataset}.json')
-    output_file_csv = os.path.join(save_dir, f'{model_name}_responses_{args.dataset}.csv')
+    timestamp = datetime.now().strftime('%Y%m%d')
+
+    output_file = os.path.join(save_dir, f'{timestamp}_{args.dataset}_{model_name}.json')
+    output_file_csv = os.path.join(save_dir, f'{timestamp}_{args.dataset}_{model_name}.csv')
     os.makedirs(save_dir, exist_ok=True)
 
     if os.path.exists(output_file):
@@ -113,25 +132,8 @@ def process_files(args, file_list, client, model_name, save_dir, data_dir):
         json.dump(existing_data, f, indent=4)
     print(f"All responses saved to {output_file}")
 
-    # Save the data to CSV
     save_to_csv(existing_data, output_file_csv)
     print(f"All responses saved to {output_file_csv}")
-
-def save_to_csv(data, output_csv_file):
-    """Save the results to a CSV file."""
-    with open(output_csv_file, 'w', newline='') as csvfile:
-        fieldnames = ["File Name"] + [key for key in question_response_pairs.keys()]
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        
-        writer.writeheader()
-        for file_name, response in data.items():
-            row = {"File Name": file_name}
-            if isinstance(response, dict):  # Only write the valid response as the data
-                for key, value in response.items():
-                    row[key] = value
-            else:
-                row["Error"] = response
-            writer.writerow(row)
 
 def main():
     args = parse_arguments()
