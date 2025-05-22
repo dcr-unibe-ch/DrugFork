@@ -21,7 +21,10 @@ json_schema = {
         "Nonclinical_pharmacology_model": {"type": "string"},
         "Nonclinical_pharmacokinetics_species": {"type": "string"},
         "Nonclinical_pharmacokinetics_strain": {"type": "string"},
-        "Nonclinical_pharmacokinetics_model": {"type": "string"}
+        "Nonclinical_pharmacokinetics_model": {"type": "string"},
+        "Nonclinical_toxicology_species": {"type": "string"},
+        "Nonclinical_toxicology_strain": {"type": "string"},
+        "Nonclinical_toxicology_model": {"type": "string"}
     },
-    "required": ["Origin", "Marketing_authorisation_number", "Drug", "Non_proprietary_name", "Drug_class", "Pharmaceutical_form", "Administration_route", "Decision", "Current_status", "Decision_date", "Orphan_drug_status", "Indication_requested", "Indication_approved", "Disease_class(es)", "Application_date", "Nonclinical_pharmacology_species", "Nonclinical_pharmacology_strain", "Nonclinical_pharmacology_model", "Nonclinical_pharmacokinetics_species", "Nonclinical_pharmacokinetics_strain", "Nonclinical_pharmacokinetics_model"]
+    "required": ["Origin", "Marketing_authorisation_number", "Drug", "Non_proprietary_name", "Drug_class", "Pharmaceutical_form", "Administration_route", "Decision", "Current_status", "Decision_date", "Orphan_drug_status", "Indication_requested", "Indication_approved", "Disease_class(es)", "Application_date", "Nonclinical_pharmacology_species", "Nonclinical_pharmacology_strain", "Nonclinical_pharmacology_model", "Nonclinical_pharmacokinetics_species", "Nonclinical_pharmacokinetics_strain", "Nonclinical_pharmacokinetics_model", "Nonclinical_toxicology_species", "Nonclinical_toxicology_strain", "Nonclinical_toxicology_model"]
 }
