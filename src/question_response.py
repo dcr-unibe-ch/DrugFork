@@ -16,7 +16,7 @@ question_response_pairs = {
         "response": "`Non_proprietary_name` (string)"
     },
     "Drug_class": {
-        "question": "What is the drug class? Choose from the following: `Small molecule`, `Biologics`, `Peptides and proteins`, `Cell and gene therapy`, or else `Vaccine`",
+        "question": "What is the drug class? Choose from the following: `Small molecule`, `Biologics`, `Peptides and proteins`, `Cell and gene therapy`, or else `Vaccine`. Explanation of drug classes: \nSmall Molecules are low molecular weight compounds, typically synthesized chemically. Examples: aspirin, statins, antidepressants.\nBiologics are large, complex molecules derived from living organisms. Examples: monoclonal antibodies.\nPeptides and Proteins are short or long chains of amino acids not classified as full biologics. Examples: insulin, somatostatin.\nCell and Gene Therapies are therapies using modified cells or genes. Examples: CAR-T cell therapies, CRISPR-based gene therapies.\nVaccines are agents stimulating the immune system to prevent or mitigate diseases. Examples: mRNA vaccines, live-attenuated vaccines.",
         "response": "`Drug_class` (string)"
     },
     "Pharmaceutical_form": {
