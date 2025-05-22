@@ -52,7 +52,7 @@ question_response_pairs = {
         "response": "`Indication_approved` (string)"
     },
     "Disease_class(es)": {
-        "question": "What is the disease class of the drug? Choose from the following, more than one option is possible sometimes: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chomosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes`",
+        "question": "What is the disease class/ disease classes of the drug according to ICD-11? Choose from the following, more than one option is sometimes possible: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chomosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes`",
         "response": "`Disease_class(es)` (string)"
     },
     "Application_date": {
@@ -60,7 +60,7 @@ question_response_pairs = {
         "response": "`Application_date` (string)"
     },
     "Nonclinical_pharmacology_species": {
-        "question": "What is the species used for nonclinical pharmacology? Look under non-clinical aspects: pharmacology. Format: use singular form of the species name. For example, if the species is `mouse`, use `mouse` instead of `mice`. If there are multiple species, separate them with a comma. For example, `mouse, rat, hamster`.",
+        "question": "What is/are the species used for nonclinical pharmacology? Look under non-clinical aspects: pharmacology. Format: use singular form of the species name. For example, if the species is `mouse`, use `mouse` instead of `mice`. If there are multiple species, separate them with a comma. For example, `mouse, rat, hamster`. Possible species: `rat`, `mouse`, `hamster`, `guinea pig`, `rabbit`, `dog`, `cat`, `monkey`, `ferret`, `pig`, `sheep`, `goat`, `horse`, `cow`, `chicken`, `fish`.",
         "response": "`Nonclinical_pharmacology_species` (string)"
     },
     "Nonclinical_pharmacology_strain": {
@@ -68,11 +68,11 @@ question_response_pairs = {
         "response": "`Nonclinical_pharmacology_strain` (string)"
     },
     "Nonclinical_pharmacology_model": {
-        "question": "What is the model used for nonclinical pharmacology? Look under non-clinical aspects: pharmacology. Format: model + species name in singular form. `NA` if not reported. If there are multiple models, separate them with a comma.",
+        "question": "What is the model used for nonclinical pharmacology? Look under non-clinical aspects: pharmacology. Format: model + species name in singular form. `Not reported` if not reported. NA if no nonclinical toxicology experiments have been conducted. If there are multiple models, separate them with a comma.",
         "response": "`Nonclinical_pharmacology_model` (string)"
     },
     "Nonclinical_pharmacokinetics_species": {
-        "question": "What is the species used for nonclinical pharmacokinetics? Look under non-clinical aspects: pharmacokinetics. Format: use singular form of the species name. For example, if the species is `mouse`, use `mouse` instead of `mice`. If there are multiple species, separate them with a comma. For example, `mouse, rat, hamster`.",
+        "question": "What is the species used for nonclinical pharmacokinetics? Look under non-clinical aspects: pharmacokinetics. Format: use singular form of the species name. For example, if the species is `mouse`, use `mouse` instead of `mice`. If there are multiple species, separate them with a comma. For example, `mouse, rat, hamster`.Possible species: `rat`, `mouse`, `hamster`, `guinea pig`, `rabbit`, `dog`, `cat`, `monkey`, `ferret`, `pig`, `sheep`, `goat`, `horse`, `cow`, `chicken`, `fish`.",
         "response": "`Nonclinical_pharmacokinetics_species` (string)"
     },
     "Nonclinical_pharmacokinetics_strain": {
@@ -80,7 +80,19 @@ question_response_pairs = {
         "response": "`Nonclinical_pharmacokinetics_strain` (string)"
     },
     "Nonclinical_pharmacokinetics_model": {
-        "question": "What is the model used for nonclinical pharmacokinetics? Look under non-clinical aspects: pharmacokinetics. Format: model + species name in singular form. `NA` if not reported. If there are multiple models, separate them with a comma.",
+        "question": "What is the model used for nonclinical pharmacokinetics? Look under non-clinical aspects: pharmacokinetics. Format: model + species name in singular form. `Not reported` if not reported. NA if no nonclinical toxicology experiments have been conducted. If there are multiple models, separate them with a comma.",
         "response": "`Nonclinical_pharmacokinetics_model` (string)"
+    },
+    "Nonclinical_toxicology_species": {
+        "question": "What is the species used for nonclinical toxicology? Look under non-clinical aspects: toxicology. Format: use singular form of the species name. For example, if the species is `mouse`, use `mouse` instead of `mice`. If there are multiple species, separate them with a comma. For example, `mouse, rat, hamster`.Possible species: `rat`, `mouse`, `hamster`, `guinea pig`, `rabbit`, `dog`, `cat`, `monkey`, `ferret`, `pig`, `sheep`, `goat`, `horse`, `cow`, `chicken`, `fish`.",
+        "response": "`Nonclinical_toxicology_species` (string)"
+    },
+    "Nonclinical_toxicology_strain": {
+        "question": "What is the strain used for nonclinical toxicology? Look under non-clinical aspects: toxicology. Format: strain + species name in singular form. If there are multiple strains, separate them with a comma. For example, `baboon monkey, cotton rat, NSG mouse`. ",
+        "response": "`Nonclinical_toxicology_strain` (string)"
+    },
+    "Nonclinical_toxicology_model": {
+        "question": "What is the model used for nonclinical toxicology? Look under non-clinical aspects: toxicology. Format: model + species name in singular form. `Not reported` if not reported. NA if no nonclinical toxicology experiments have been conducted. If there are multiple models, separate them with a comma.",
+        "response": "`Nonclinical_toxicology_model` (string)"
     }
 }
