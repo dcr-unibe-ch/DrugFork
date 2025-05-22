@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==========================================================
 # TODO change the below arguments as needed
-FILE_LIST="data/random/EMA_5.txt"
+FILE_LIST="data/randomized_data/EMA_5.txt"
 DATASET="EMA" # Options: EMA, SwissPar
 # ==========================================================
 
@@ -12,6 +12,7 @@ elif [ "$DATASET" == "SwissPar" ]; then
     DATA_DIR="data/SwissPar/SwissPAR_Jan19_2025"
 fi
 
+SAVE_DIR="./output"
 mkdir -p "$SAVE_DIR"
 
 python ./src/main.py\
