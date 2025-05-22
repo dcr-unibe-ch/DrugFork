@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==========================================================
 # TODO change the below arguments as needed
-FILE_LIST="data/randomized_data/EMA_5.txt"
+FILE_LIST="data/randomized_data/EMA_manually_annotated.txt"
 DATASET="EMA" # Options: EMA, SwissPar
 # ==========================================================
 
