@@ -1,4 +1,0 @@
-true: if the output was completely correct
-false: 
-missing
-partial

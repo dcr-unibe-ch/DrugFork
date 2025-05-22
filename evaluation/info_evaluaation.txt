@@ -1,0 +1,6 @@
+# Descriptions for Evaluation
+
+true: if the output was completely correct
+false: if the output is completely wrong
+missing: if there is no output generated or the model states something on the lines of "could not process"
+partial: if the output is partially correct
