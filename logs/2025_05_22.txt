@@ -1,1 +1,15 @@
 question_response: add drug class explanation
+
+Rewiew 1 (22.05.2025):
+- Drug classes: 0 Erorrs -> descriptions helped a lot
+- Disease classes: often some missing
+- Animals used (species): ca 50% correct, rest is missing some species, human also listed
+- decision/ current status: correct
+- decision date: correct
+- indication: the indication ist displayed correctly, problem: not always in the right spot (indication_requested: always "same")
+
+-> chages in question_response:
+- adding description to disease classes (saved in study report)
+- added explanation in indication part, specified the "same"
+- specified species (`human` is not a valid species. If the species is not reported, use `Not reported`. If no nonclinical pharmacology experiments have been conducted, use `NA`. If there are multiple species, separate them with a comma and state all of them.)
+
