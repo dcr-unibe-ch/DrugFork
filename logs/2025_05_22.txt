@@ -13,3 +13,12 @@ Rewiew 1 (22.05.2025):
 - added explanation in indication part, specified the "same"
 - specified species (`human` is not a valid species. If the species is not reported, use `Not reported`. If no nonclinical pharmacology experiments have been conducted, use `NA`. If there are multiple species, separate them with a comma and state all of them.)
 
+Reviews 2-10 (22.05.2025):
+- many different models and prompts (more specific) 
+-> gpt 4.1 (mini) is more sensitive than 4o mini 
+-> gpt 4.1 needs more time to do the data extraction than the mini models
+=> Sensitivity is more important than Specificity!! -> choose a gpt 4.1 model
+- Did the final analysis for the 3R Day due to time reasons with gpt 4o-mini 
+-> went back to the original prompts for the species extraction, added in vivo experiments and corrected the prompts
+-> for Disease classes decided on only extracting one disease class (more than would didn't work at that time -> would give wrong ones)
+=> Sensitivity is more important than Specificity!! -> change this back!!!!
