@@ -2,8 +2,8 @@
 
 # ==========================================================
 # TODO change the below arguments as needed
-NUM_SAMPLES=5
-DATASET="SwissPar" # options: EMA, SwissPar
+NUM_SAMPLES=3
+DATASET="EMA" # options: EMA, SwissPar
 # ==========================================================
 
 
