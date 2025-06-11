@@ -7,6 +7,7 @@ __pycache__/
 /data/SwissPar/SwissPAR_Jan19_2025/
 /data/EMA/EMA_downloads/
 /data/EMA/
+/data/FDA/drugs@fda_openFDA.json
 
 # C extensions
 *.so
