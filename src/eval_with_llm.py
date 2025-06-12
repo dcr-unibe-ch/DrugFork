@@ -14,7 +14,7 @@ def parse_arguments():
     parser.add_argument("--eval_sheet", type=str, required=True, help="Path to the evaluation sheet CSV")
     parser.add_argument("--output_file", type=str, required=True, help="Path to write out the completed sheet")
     parser.add_argument("--model_name", type=str, required=True, help="Short model name to use for evaluation")
-    parser.add_argument("--slice_size", type=int, default=-1, help="Slice for development purposes, how many rows to process")
+    parser.add_argument("--slice_size", default=-1, help="Slice for development purposes, how many rows to process")
     parser.add_argument("--temperature", type=float, default=0.1, help="Temperature for the LLM")
     parser.add_argument("--max_tokens", type=int, default=1, help="Maximum number of tokens for the LLM response")
     return parser.parse_args()

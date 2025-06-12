@@ -14,7 +14,7 @@ python ./src/eval_with_llm.py \
     --eval_sheet "./evaluation/$EVAL_SHEET_NAME" \
     --output_file "./evaluation/compared_$EVAL_SHEET_NAME" \
     --model_name "$MODEL_NAME" \
-    # --slice_size 1 \
+    --slice_size "-1" \
     --temperature 0.1 \
     --max_tokens 5
     
