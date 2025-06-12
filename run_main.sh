@@ -21,5 +21,5 @@ python ./src/main.py\
     --model "gpt-4o-mini" \
     --save_dir "./output" \
     --temperature "0.1" \
-    --max_tokens "500" \
+    --max_tokens "1000" \
     --dataset "$DATASET" 
