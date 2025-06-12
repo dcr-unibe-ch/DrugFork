@@ -42,7 +42,7 @@ def handle_file(file_path):
 
 def generate_response(text, client, model_name, file_name):
     """Generate a response from OpenAI API based on the extracted text."""
-    system_role = "You are a helpful expert in Swiss drug approval processes."
+    system_role = "You are a helpful expert in drug approval processes."
     user_prompt = f"""
         You are going to read a drug approval report. Read the text attentively and answer the following questions in the specified JSON format with the specified keys:\n
         """ 
