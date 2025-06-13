@@ -53,7 +53,8 @@ def merge_dfs_with_suffixes(df_llm, df_annotated,
         col2 = c + suffix2
         col3 = c + suffix3
         col4 = c + suffix4
-        merged[col3] = merged[col1] == merged[col2]
+        # merged[col3] = merged[col1] == merged[col2]
+        merged[col3] = ""
         merged[col4] = ""
     merged = merged[sorted(merged.columns)]
 
