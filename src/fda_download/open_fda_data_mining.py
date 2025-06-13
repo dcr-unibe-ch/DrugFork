@@ -18,16 +18,16 @@ status_dict = {
 # Mapping final output fields to source fields
 output_field_map = {
     'Origin': lambda entry: 'FDA', # set FDA as default origin
-    'Marketing authorisation Number': 'application_number',
-    'Drug name': 'brand_name',
-    'Non proprietary name': 'generic_name',
-    'Marketing authorisation holder/ applicant': 'sponsor_name',
-    'Pharmaceutical form': 'dosage_form',
-    'Administration route': 'route',
+    'Marketing_authorisation_number': 'application_number',
+    'Drug': 'brand_name',
+    'Non_proprietary_name': 'generic_name',
+    'Marketing_authorisation_holder': 'sponsor_name',
+    'Pharmaceutical_form': 'dosage_form',
+    'Administration_route': 'route',
     'Decision': 'submission_status',
-    'Decision date': 'submission_status_date',
-    'Current status': 'current_status',
-    'Non-clinical abridge': 'non_clinical_abridge',
+    'Decision_date': 'submission_status_date',
+    'Current_status': 'current_status',
+    'Non_clinical_abridge': 'non_clinical_abridge',
     'Referral': 'reference_drug'
 }
 formatted_fieldnames = list(output_field_map.keys())
