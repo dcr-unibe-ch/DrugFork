@@ -8,9 +8,10 @@ __pycache__/
 /data/EMA/EMA_downloads/
 /data/EMA/
 /data/FDA/drugs@fda_openFDA.json
+/data/FDA/drug-event-0034-of-0034.json
 
 # C extensions
-*.so
+*.sos
 
 # Distribution / packaging
 .Python
