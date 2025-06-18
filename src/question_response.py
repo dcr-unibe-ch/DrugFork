@@ -1,10 +1,10 @@
 question_response_pairs = {
     "Origin": {
-        "question": "What is the authorisation body which performs drug approval? Choose from the following: `Swissmedic`, `EMA`",
+        "question": "What is the authorisation body which performs drug approval? Choose from the following: `Swissmedic`, `EMA`, `FDA`",
         "response": "`Origin` (string)"
     },
     "Marketing_authorisation_number": {
-        "question": "What is the marketing authorisation number for Drugs approved by Swissmedic? For drugs approved by EMA: what is the document number?",
+        "question": "What is the marketing authorisation number for Drugs approved by Swissmedic? For drugs approved by EMA: what is the document number? For Drugs approved by the FDA: what is the Approval number?",
         "response": "`Marketing_authorisation_number` (string)"
     },
     "Drug": {
@@ -28,11 +28,11 @@ question_response_pairs = {
         "response": "`Administration_route` (string)"
     },
     "Decision": {
-        "question": "What is the decision of the authorisation body? Choose from the following: `approved`, `temporary authorisation`, `withdrawn`, `refused`",
+        "question": "What is the decision of the authorisation body? Choose from the following: `approved`, `temporary authorisation`, `withdrawn`, `refused`, `conditional marketing authorisation`",
         "response": "`Decision` (string)"
     },
     "Current_status": {
-        "question": "What is the current status of the drug? Choose from the following: `authorised`, `authorised (under additional monitoring)`, `withdrawn`, `NA`",
+        "question": "What is the current status of the drug? Choose from the following: `authorised`, `authorised (under additional monitoring)`, `withdrawn`, `NA`, `revoked`",
         "response": "`Current_status` (string)"
     },
     "Decision_date": {
