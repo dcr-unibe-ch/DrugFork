@@ -2,8 +2,8 @@
 
 # ==========================================================
 # TODO change the below arguments as needed
-NUM_SAMPLES=33
-DATASET="SwissPar" # options: EMA, SwissPar
+NUM_SAMPLES=30
+DATASET="Japan" # options: EMA, SwissPar, Japan
 # ==========================================================
 
 
@@ -11,6 +11,8 @@ if [ "$DATASET" == "EMA" ]; then
     DATA_DIR="data/EMA/EMA_downloads"
 elif [ "$DATASET" == "SwissPar" ]; then    
     DATA_DIR="data/SwissPar/SwissPAR_Jan19_2025"
+elif [ "$DATASET" == "Japan" ]; then
+    DATA_DIR="data/Japan/Japan_PAR_download"
 fi
 
 python src/randomize_data.py\
