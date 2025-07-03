@@ -11,6 +11,7 @@ __pycache__/
 /data/FDA/drug-event-0034-of-0034.json
 /data/FDA/Google_API_key.json
 /data/Japan/Japan_PAR_download
+data/Australia/AusPAR_download
 
 # C extensions
 *.sos
