@@ -12,6 +12,7 @@ __pycache__/
 /data/FDA/Google_API_key.json
 /data/Japan/Japan_PAR_download
 data/Australia/AusPAR_download
+data/AusPAR/AusPAR_merged.csv
 
 # C extensions
 *.sos
