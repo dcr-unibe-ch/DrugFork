@@ -64,7 +64,7 @@ EMA_pairs = {
         "response": "`Indication_approved` (string)"
     },
     "Disease_class(es)": {
-        "question": "What is the disease class/ disease classes of the drug according to ICD-11? The classes commanly aren't named directly in the report, so you have to conclude based on the implicit information in the report. Choose from the following list and select all that are applicable, separating by semicolon: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chromosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes`. If none from the list apply, then and only then write `Other`, avoid it as much as possible.",
+        "question": "What is/are the disease class or disease classes of the drug? The classes are usually not explicitely stated in the report, so you have to conclude based on the implicit information. Choose from the following list and select all that are applicable, separating by semicolon: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chromosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes`. If none from the list apply, then and only then write `Other`, avoid it as much as possible. Choose every applicable class.",
         "response": "`Disease_class(es)` (string)"
     },
     "Application_date": {
@@ -76,7 +76,7 @@ EMA_pairs = {
         "response": "`Application_year` (string)"
     },
     "Nonclinical_abridged": {
-        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`",
+        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. If there is no information about nonclinical aspects, then it is certainly abridged. Phrases like `an abridged evaluation`, `nonclinical data not available` or `no nonclinical documentation was submitted` indicate that that it is abridged.",
         "response": "`Nonclinical_abridged` (string)"
     },
     "Referral_body": {
@@ -162,7 +162,7 @@ SwissMedic_pairs = {
         "response": "`Application_year` (string)"
     },
     "Nonclinical_abridged": {
-        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `nonclinical aspects`.",
+        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `nonclinical aspects` or similar. If there is no information about nonclinical aspects, then it is certainly abridged. Phrases like `an abridged evaluation`, `nonclinical data not available` or `no nonclinical documentation was submitted` indicate that that it is abridged.",
         "response": "`Nonclinical_abridged` (string)"
     },
     "Referral_body": {
@@ -248,7 +248,7 @@ Japan_pairs = {
         "response": "`Application_year` (string)"
     },
     "Nonclinical_abridged": {
-        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `non-clinical data` or similar.",
+        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `non-clinical data` or similar. If there is no information about nonclinical aspects, then it is certainly abridged. Phrases like `an abridged evaluation`, `nonclinical data not available` or `no nonclinical documentation was submitted` indicate that that it is abridged.",
         "response": "`Nonclinical_abridged` (string)"
     },
     "Referral_body": {
@@ -334,7 +334,7 @@ Australia_pairs = {
         "response": "`Application_year` (string)"
     },
     "Nonclinical_abridged": {
-        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `nonclinical findings` or elsewhere in the text.",
+        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `nonclinical findings` or elsewhere in the text. If there is no information about nonclinical aspects, then it is certainly abridged. Phrases like `an abridged evaluation`, `nonclinical data not available` or `no nonclinical documentation was submitted` indicate that that it is abridged.",
         "response": "`Nonclinical_abridged` (string)"
     },
     "Referral_body": {
