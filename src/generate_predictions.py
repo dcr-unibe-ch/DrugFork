@@ -35,7 +35,8 @@ def handle_file(file_path):
     """Extract text from the PDF file."""
     if file_path.endswith('.pdf'):
         reader = PdfReader(file_path)
-        text = "".join([page.extract_text() or '' for page in reader.pages])
+        max_pages = 80
+        text = "".join([page.extract_text() or '' for page in reader.pages[:max_pages]])
     else:
         return None
     return text

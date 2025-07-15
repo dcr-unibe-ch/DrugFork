@@ -76,7 +76,7 @@ EMA_pairs = {
         "response": "`Application_year` (string)"
     },
     "Nonclinical_abridged": {
-        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. If there is no information about nonclinical aspects, then it is certainly abridged. Phrases like `an abridged evaluation`, `nonclinical data not available` or `no nonclinical documentation was submitted` indicate that that it is abridged.",
+        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. If there is no information about nonclinical aspects, then it might be abridged, be attentive. Phrases like `an abridged evaluation`, `nonclinical data not available` or `no nonclinical documentation was submitted` indicate that it is abridged.",
         "response": "`Nonclinical_abridged` (string)"
     },
     "Referral_body": {
@@ -162,7 +162,7 @@ SwissMedic_pairs = {
         "response": "`Application_year` (string)"
     },
     "Nonclinical_abridged": {
-        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `nonclinical aspects` or similar. If there is no information about nonclinical aspects, then it is certainly abridged. Phrases like `an abridged evaluation`, `nonclinical data not available` or `no nonclinical documentation was submitted` indicate that that it is abridged.",
+        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `nonclinical aspects` or similar. If there is no information about nonclinical aspects, then it might be abridged, be attentive. Phrases like `an abridged evaluation`, `nonclinical data not available` or `no nonclinical documentation was submitted` indicate that it is abridged.",
         "response": "`Nonclinical_abridged` (string)"
     },
     "Referral_body": {
@@ -248,7 +248,7 @@ Japan_pairs = {
         "response": "`Application_year` (string)"
     },
     "Nonclinical_abridged": {
-        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `non-clinical data` or similar. If there is no information about nonclinical aspects, then it is certainly abridged. Phrases like `an abridged evaluation`, `nonclinical data not available` or `no nonclinical documentation was submitted` indicate that that it is abridged.",
+        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `non-clinical data` or similar. If there is no information about nonclinical aspects, then it might be abridged, be attentive. Phrases like `an abridged evaluation`, `nonclinical data not available` or `no nonclinical documentation was submitted` indicate that it is abridged.",
         "response": "`Nonclinical_abridged` (string)"
     },
     "Referral_body": {
@@ -267,7 +267,7 @@ Australia_pairs = {
     },
     "Drug_name": {
         "question": "What is the product name of the drug? It is usually specified in the introduction.",
-        "response": "`Product_name` (string)."
+        "response": "`Drug_name` (string)."
     },
     "Non_proprietary_name": {
         "question": "What is the non-proprietary name of the drug (also called active ingredient)? Only keep the name of the drug, ignore dosage and additional information.",
@@ -334,7 +334,7 @@ Australia_pairs = {
         "response": "`Application_year` (string)"
     },
     "Nonclinical_abridged": {
-        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `nonclinical findings` or elsewhere in the text. If there is no information about nonclinical aspects, then it is certainly abridged. Phrases like `an abridged evaluation`, `nonclinical data not available` or `no nonclinical documentation was submitted` indicate that that it is abridged.",
+        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `nonclinical findings` or elsewhere in the text. If there is no information about nonclinical aspects, then it might be abridged, be attentive. Phrases like `an abridged evaluation`, `nonclinical data not available` or `no nonclinical documentation was submitted` indicate that it is abridged.",
         "response": "`Nonclinical_abridged` (string)"
     },
     "Referral_body": {
