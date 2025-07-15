@@ -2,6 +2,7 @@ json_schema = {
     "type": "object",
     "properties": {
         "Marketing_authorisation_number": {"type": "string"},
+        "Procedure_number": {"type": "string"},
         "Drug_name": {"type": "string"},
         "Non_proprietary_name": {"type": "string"},
         "Marketing_authorisation_holder": {"type": "string"},
@@ -19,5 +20,5 @@ json_schema = {
         "Nonclinical_abridged": {"type": "string"},
         "Referral_body": {"type": "string"}
     },
-    "required": ["Marketing_authorisation_number", "Drug_name", "Non_proprietary_name", "Marketing_authorisation_holder", "Drug_class", "Pharmaceutical_form", "Administration_route", "Decision", "Current_status", "Decision_date", "Orphan_drug_status", "Indication_extended", "Indication_approved", "Disease_class(es)", "Application_date", "Nonclinical_abridged", "Referral_body"]
+    "required": ["Marketing_authorisation_number", "Procedure_number", "Drug_name", "Non_proprietary_name", "Marketing_authorisation_holder", "Drug_class", "Pharmaceutical_form", "Administration_route", "Decision", "Current_status", "Decision_date", "Orphan_drug_status", "Indication_extended", "Indication_approved", "Disease_class(es)", "Application_date", "Nonclinical_abridged", "Referral_body"]
 }
