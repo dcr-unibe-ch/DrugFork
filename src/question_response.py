@@ -1,98 +1,344 @@
-question_response_pairs = {
-    "Origin": {
-        "question": "What is the authorisation body which performs drug approval? Choose from the following: `Swissmedic`, `EMA`, `FDA`",
-        "response": "`Origin` (string)"
-    },
+question_response_pairs_ema = {
     "Marketing_authorisation_number": {
-        "question": "What is the marketing authorisation number for Drugs approved by Swissmedic? For drugs approved by EMA: what is the document number? For Drugs approved by the FDA: what is the Approval number?",
-        "response": "`Marketing_authorisation_number` (string)"
+        "question": "What is the EMA product number?",
+        "response": "Product number, usually specified below the date on the first page. It usually has the form of `EMA/{6-digit-number}/{year-of-decision} (string)"
     },
-    "Drug": {
+    "Procedure_number": {
+        "question": "What is the procedure number?",
+        "response": "`Procedure number, usually stated on the first page. It usually has the form of `EMEA/H/C/{6-digit-number}/0000` or `EMEA/H/C/{6-digit-number}` (string)."
+    },
+    "Drug_name": {
         "question": "What is the market name of the drug?",
-        "response": "`Drug` (string)"
+        "response": "Market name, usually specified on the first page (string)."
     },
     "Non_proprietary_name": {
         "question": "What is the non-proprietary name of the drug (name of the substance)?",
-        "response": "`Non_proprietary_name` (string)"
+        "response": "The nonprioprietary name of the drug is usually specified on the first page, following `international non-proprietary name` or similar. Otherwise in the report body (string)."
+    },
+    "Marketing_authorisation_holder": {
+        "question": "Who is the marketing authorisation holder? This is the company that holds the marketing authorisation for the drug or applied for it.",
+        "response": "`Marketing authorisation holder` (string)"
     },
     "Drug_class": {
-        "question": "What is the drug class? Choose from the following: `Small molecule`, `Biologics`, `Peptides and proteins`, `Cell and gene therapy`, or else `Vaccine`. Explanation of drug classes: \nSmall Molecules are low molecular weight compounds, typically synthesized chemically. Examples: aspirin, statins, antidepressants.\nBiologics are large, complex molecules derived from living organisms. Examples: monoclonal antibodies.\nPeptides and Proteins are short or long chains of amino acids not classified as full biologics. Examples: insulin, somatostatin.\nCell and Gene Therapies are therapies using modified cells or genes. Examples: CAR-T cell therapies, CRISPR-based gene therapies.\nVaccines are agents stimulating the immune system to prevent or mitigate diseases. Examples: mRNA vaccines, live-attenuated vaccines.",
-        "response": "`Drug_class` (string)"
+        "question": "What is the drug class? Choose only from the following list: `Small molecule`, `Biologics`, `Peptides and proteins`, `Cell and gene therapy`, `Vaccine`, `Other`. Explanation of drug classes: \nSmall Molecules are low molecular weight compounds, typically synthesized chemically. Examples: aspirin, statins, antidepressants.\nBiologics are large, complex molecules derived from living organisms. Examples: monoclonal antibodies.\nPeptides and Proteins are short or long chains of amino acids not classified as full biologics. Examples: insulin, somatostatin.\nCell and Gene Therapies are therapies using modified cells or genes. Examples: CAR-T cell therapies, CRISPR-based gene therapies.\nVaccines are agents stimulating the immune system to prevent or mitigate diseases. Examples: mRNA vaccines, live-attenuated vaccines. \nOther should only be used if you are sure that the drug does not belong to any of the above classes. Try not to use it.",
+        "response": "`Drug class` (string)"
     },
     "Pharmaceutical_form": {
-        "question": "What is the pharmaceutical form of the drug (application form)?",
-        "response": "`Pharmaceutical_form` (string)"
+        "question": "What is the pharmaceutical form of the drug (application form)? For example, it could be `solution for injection`, `cream`, `inhalation powder`, `tablet`, etc. It is usually specified in the report section where the drug is described, e.g. `about the product` or similar.",
+        "response": "`Pharmaceutical form` (string)"
     },
     "Administration_route": {
-        "question": "How is the drug administered to the patient?",
-        "response": "`Administration_route` (string)"
+        "question": "How is the drug administered to the patient? It is usually specified in the report section where the drug is described, e.g. `about the product` or similar. Examples: `autologous`, `cutaneous`, `epicutaneous`, `inhalation`, `intramuscular`, `intratumoural`, `intravenous`, `inravitreal`, `nasal`, `ocular`, `oral`, `subcutaneous`, `subretinal`, `intravesical`, `intrathecal`, `vaginal`, etc. Other options are possible. If the administration route is not specified, write `Not reported`.",
+        "response": "`Administration route` (string)"
     },
     "Decision": {
-        "question": "What is the decision of the authorisation body? Choose from the following: `approved`, `temporary authorisation`, `withdrawn`, `refused`, `conditional marketing authorisation`",
+        "question": "What is the decision of the authorisation body? Choose from the following: `approved`, `temporary authorisation`, `withdrawn`, `refused`, `conditional marketing authorisation`. It is usually stated in the section about the steps taken for the assessment of the drug, or else somewhere in the text.",
         "response": "`Decision` (string)"
     },
     "Current_status": {
-        "question": "What is the current status of the drug? Choose from the following: `authorised`, `authorised (under additional monitoring)`, `withdrawn`, `NA`, `revoked`",
-        "response": "`Current_status` (string)"
+        "question": "What is the current status of the drug? Choose from the following: `authorised`, `authorised (under additional monitoring)`, `withdrawn`, `NA`, `revoked`. If not explicitely stated, it is likely to be `authorised`, but double-check the report",
+        "response": "`Current status` (string)"
     },
     "Decision_date": {
         "question": "What is the date of the decision? Format: dd.mm.yyyy",
-        "response": "`Decision_date` (string)"
+        "response": "`Decision date` (string)"
+    },
+    "Decision_year": {
+        "question": "What is the year the decision was made? Format: yyyy",
+        "response": "`Decision year` (string)"
     },
     "Orphan_drug_status": {
-        "question": "Is the drug designated as an orphan drug? Choose from the following: `yes`, `no`",
-        "response": "`Orphan_drug_status` (string)"
+        "question": "Is the drug designated as an orphan drug? Choose from the following options:  `yes`, `no`.",
+        "response": "`Orphan drug status` (string)"
+    },
+    "Indication_extended": {
+        "question": "Is the indication extended? Meaning, is it a drug which was previously authorised for a different indication? Choose from the following options:  `yes`, `no`.",
+        "response": "`Indication extended` (string)"
     },
     "Indication_requested": {
-        "question": "What is the indication requested for approval of the drug? Note: this is not the indication requested in the application process by the company.",
-        "response": "`Indication_requested` (string)"
+        "question": "What is the indication initially requested for approval of the drug?",
+        "response": "`Indication requested` (string)"
     },
     "Indication_approved": {
-        "question": "What is the indication approved for the drug?",
-        "response": "`Indication_approved` (string)"
+        "question": "If the drug is approved, what indication is it approved for? Otherwise, state `NA`.",
+        "response": "`Indication approved` (string)"
     },
     "Disease_class(es)": {
-        "question": "What is the disease class/ disease classes of the drug according to ICD-11? The classes commanly aren't named directly in the report. Please choose to your best judgment. Choose from the following and only choose the most accurate one: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chomosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes` Explanation of drug classes: \n1. Infectious and parasitic diseases cover illnesses caused by pathogens such as bacteria, viruses, parasites, and fungi. This includes conditions like HIV/AIDS, tuberculosis, and malaria. \n2. Neoplasms includes benign and malignant tumors (cancers), in situ neoplasms, and those of uncertain behavior, affecting tissues and organs throughout the body. \n3. Diseases of the blood and blood-forming organs covers disorders like anemia, clotting disorders, and diseases affecting bone marrow and immune cells, including hemophilia and sickle cell disease. \n4. Endocrine, nutritional, and metabolic diseases encompasses hormonal and metabolic disorders such as diabetes, thyroid diseases, obesity, and nutritional deficiencies like scurvy or rickets. \n5. Mental and behavioural disorders includes psychiatric and neurodevelopmental disorders such as depression, anxiety, schizophrenia, autism spectrum disorders, and substance use disorders. \n6. Diseases of the nervous system covers disorders affecting the brain, spinal cord, and nerves, including epilepsy, multiple sclerosis, Parkinson’s disease, and migraines. \n7. Diseases of the eye and adnexa encompasses visual system diseases like cataracts, glaucoma, and infections or inflammations of the eye and its surrounding structures (adnexa). \n8. Diseases of the ear and mastoid process includes hearing and balance disorders such as otitis media, tinnitus, and Meniere’s disease, as well as mastoiditis. \n9. Diseases of the circulatory system covers heart and blood vessel conditions like hypertension, coronary artery disease, stroke, and heart failure. \n10. Diseases of the respiratory system encompasses disorders of the lungs and airways, such as asthma, chronic obstructive pulmonary disease (COPD), pneumonia, and sleep apnea. \n11. Diseases of the digestive system includes conditions affecting the gastrointestinal tract and associated organs, such as gastritis, liver cirrhosis, gallstones, and irritable bowel syndrome (IBS). \n12. Diseases of the skin covers dermatological conditions such as eczema, psoriasis, acne, and skin infections like cellulitis and fungal infections. \n13. Diseases of the musculoskeletal system and connective tissue encompasses conditions affecting bones, muscles, joints, and connective tissue, including arthritis, osteoporosis, and systemic lupus erythematosus (SLE). \n14. Diseases of the genitourinary system covers diseases of the kidneys, urinary tract, and reproductive organs, including urinary tract infections, chronic kidney disease, and infertility. \n15. Pregnancy and childbirth includes conditions related to pregnancy, labor, delivery, and the postpartum period, such as gestational diabetes, pre-eclampsia, and complications during birth. \n16. Congenital malformations and chromosomal abnormalities covers birth defects and genetic disorders present from birth, such as Down syndrome, spina bifida, and congenital heart defects. \n17. Injury, poisoning and certain other consequences of external causes includes trauma, burns, fractures, poisoning, and complications from external forces like accidents, violence, or medical procedures.",
-        "response": "`Disease_class(es)` (string)"
+        "question": "What is the disease class/ disease classes of the drug according to ICD-11? The classes commanly aren't named directly in the report, so you have to conclude based on the implicit information in the report. Choose from the following list and select all that are applicable, separating by semicolon: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chromosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes`. If none from the list apply, then and only then write `Other`, avoid it as much as possible.",
+        "response": "`Disease class(es)` (string)"
     },
     "Application_date": {
         "question": "What is the date of the application for drug approval? Format: dd.mm.yyyy",
-        "response": "`Application_date` (string)"
+        "response": "`Application date` (string)"
     },
-    "Nonclinical_pharmacology_species": {
-        "question": "What is/are the species used for nonclinical pharmacology in vivo experiments? Look under non-clinical aspects: pharmacology. Format: use singular form of the species name. For example, if the species is `mouse`, use `mouse` instead of `mice`. If there are multiple species, separate them with a comma. For example, `mouse, rat, hamster`. Choose from this list: `rat`, `mouse`, `hamster`, `guinea pig`, `rabbit`, `dog`, `cat`, `monkey`, `ferret`, `pig`, `sheep`, `goat`, `horse`, `cow`, `chicken`, `fish`. `human` is not a valid species. If the species is not reported, use `Not reported`. If no nonclinical pharmacology experiments have been conducted, use `NA`. If there are multiple species, separate them with a comma and state all of them. Important: Only extract species that are *explicitly stated* as being used in *nonclinical pharmacology*. Do not guess or infer.",
-        "response": "`Nonclinical_pharmacology_species` (string)"
+    "Application_year": {
+        "question": "What is the year of the application for drug approval? Format: yyyy",
+        "response": "`Application year` (string)"
     },
-    "Nonclinical_pharmacology_strain": {
-        "question": "What is the strain used for nonclinical pharmacology? Look under non-clinical aspects: pharmacology. Format: strain + species name in singular form. If there are multiple strains, separate them with a comma. For example, `baboon monkey, cotton rat, NSG mouse`.",
-        "response": "`Nonclinical_pharmacology_strain` (string)"
+    "Nonclinical_abridged": {
+        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`",
+        "response": "`Nonclinical abridged` (string)"
     },
-    "Nonclinical_pharmacology_model": {
-        "question": "What is the model used for nonclinical pharmacology? Look under non-clinical aspects: pharmacology. Format: model + species name in singular form. `Not reported` if not reported. NA if no nonclinical pharmacology experiments have been conducted. If there are multiple models, separate them with a comma.",
-        "response": "`Nonclinical_pharmacology_model` (string)"
+    "Referral_body": {
+        "question": "For nonclinically abridged applications, what is the referral body? Else, write `NA`.",
+        "response": "`Referral body` (string)"
+    }
+},
+question_response_pairs_swissmedic = {
+    "Marketing_authorisation_number": {
+        "question": "What is the marketing authorisation number?",
+        "response": "Product number, usually specified on the first page. It is always a 5-digit number (string)"
     },
-    "Nonclinical_pharmacokinetics_species": {
-        "question": "What is the species used for nonclinical pharmacokinetics in vivo experiments? Look under non-clinical aspects: pharmacokinetics. Format: use singular form of the species name. For example, if the species is `mouse`, use `mouse` instead of `mice`. If there are multiple species, separate them with a comma. For example, `mouse, rat, hamster`. Choose from this list: `rat`, `mouse`, `hamster`, `guinea pig`, `rabbit`, `dog`, `cat`, `monkey`, `ferret`, `pig`, `sheep`, `goat`, `horse`, `cow`, `chicken`, `fish`. `human` is not a valid species. If the species is not reported, use `Not reported`. If no nonclinical pharmacokinetics experiments have been conducted, use `NA`. If there are multiple species, separate them with a comma and state all of them. Important: Only extract species that are *explicitly stated* as being used in *nonclinical pharmacokinetics*. Do not guess or infer.",
-        "response": "`Nonclinical_pharmacokinetics_species` (string)"
+    "Procedure_number": {
+        "question": "What is the procedure number? If not specified, write `Not reported`.",
+        "response": "`Procedure number` (string)"
     },
-    "Nonclinical_pharmacokinetics_strain": {
-        "question": "What is the strain used for nonclinical pharmacokinetics? Look under non-clinical aspects: pharmacokinetics. Format: strain + species name in singular form. If there are multiple strains, separate them with a comma. For example, `baboon monkey, cotton rat, NSG mouse`. ",
-        "response": "`Nonclinical_pharmacokinetics_strain` (string)"
+    "Drug_name": {
+        "question": "What is the market name of the drug?",
+        "response": "Market name, usually specified on the first page (string)."
     },
-    "Nonclinical_pharmacokinetics_model": {
-        "question": "What is the model used for nonclinical pharmacokinetics? Look under non-clinical aspects: pharmacokinetics. Format: model + species name in singular form. `Not reported` if not reported. NA if no nonclinical pharmacokinetics experiments have been conducted. If there are multiple models, separate them with a comma.",
-        "response": "`Nonclinical_pharmacokinetics_model` (string)"
+    "Non_proprietary_name": {
+        "question": "What is the non-proprietary name of the drug (name of the substance)?",
+        "response": "The nonprioprietary name of the drug is usually specified on the first page, following `international non-proprietary name` or similar. Otherwise in the report body (string)."
     },
-    "Nonclinical_toxicology_species": {
-        "question": "What is the species used for nonclinical toxicology in vivo experiments? Look under non-clinical aspects: toxicology. Format: use singular form of the species name. For example, if the species is `mouse`, use `mouse` instead of `mice`. If there are multiple species, separate them with a comma. For example, `mouse, rat, hamster`. Choose from this list: `rat`, `mouse`, `hamster`, `guinea pig`, `rabbit`, `dog`, `cat`, `monkey`, `ferret`, `pig`, `sheep`, `goat`, `horse`, `cow`, `chicken`, `fish`. `human` is not a valid species. If the species is not reported, use `Not reported`. If no nonclinical toxicology experiments have been conducted, use `NA`. If there are multiple species, separate them with a comma and state all of them. Important: Only extract species that are *explicitly stated* as being used in *nonclinical toxicology*. Do not guess or infer.",
-        "response": "`Nonclinical_toxicology_species` (string)"
+    "Marketing_authorisation_holder": {
+        "question": "Who is the marketing authorisation holder? This is the company that holds the marketing authorisation for the drug or applied for it. It is usually specified on the first page, following `Marketing authorisation holder` or similar.",
+        "response": "`Marketing authorisation holder` (string)"
     },
-    "Nonclinical_toxicology_strain": {
-        "question": "What is the strain used for nonclinical toxicology? Look under non-clinical aspects: toxicology. Format: strain + species name in singular form. If there are multiple strains, separate them with a comma. For example, `baboon monkey, cotton rat, NSG mouse`. ",
-        "response": "`Nonclinical_toxicology_strain` (string)"
+    "Drug_class": {
+        "question": "What is the drug class? Choose only from the following list: `Small molecule`, `Biologics`, `Peptides and proteins`, `Cell and gene therapy`, `Vaccine`, `Other`. Explanation of drug classes: \nSmall Molecules are low molecular weight compounds, typically synthesized chemically. Examples: aspirin, statins, antidepressants.\nBiologics are large, complex molecules derived from living organisms. Examples: monoclonal antibodies.\nPeptides and Proteins are short or long chains of amino acids not classified as full biologics. Examples: insulin, somatostatin.\nCell and Gene Therapies are therapies using modified cells or genes. Examples: CAR-T cell therapies, CRISPR-based gene therapies.\nVaccines are agents stimulating the immune system to prevent or mitigate diseases. Examples: mRNA vaccines, live-attenuated vaccines. \nOther should only be used if you are sure that the drug does not belong to any of the above classes. Try not to use it.",
+        "response": "`Drug class` (string)"
     },
-    "Nonclinical_toxicology_model": {
-        "question": "What is the model used for nonclinical toxicology? Look under non-clinical aspects: toxicology. Format: model + species name in singular form. `Not reported` if not reported. NA if no nonclinical toxicology experiments have been conducted. If there are multiple models, separate them with a comma.",
-        "response": "`Nonclinical_toxicology_model` (string)"
+    "Pharmaceutical_form": {
+        "question": "What is the pharmaceutical form of the drug (application form)? For example, it could be `solution for injection`, `cream`, `inhalation powder`, `tablet`, etc. It is sometimes specified on the front page under the non-proprietary name.",
+        "response": "`Pharmaceutical form` (string)"
+    },
+    "Administration_route": {
+        "question": "How is the drug administered to the patient? It is usually specified on the first page. Examples: `autologous`, `cutaneous`, `epicutaneous`, `inhalation`, `intramuscular`, `intratumoural`, `intravenous`, `inravitreal`, `nasal`, `ocular`, `oral`, `subcutaneous`, `subretinal`, `intravesical`, `intrathecal`, `vaginal`, etc. Other options are possible. If the administration route is not specified, write `Not reported`.",
+        "response": "`Administration route` (string)"
+    },
+    "Decision": {
+        "question": "What is the decision of the authorisation body? Choose from the following: `approved`, `temporary authorisation`, `withdrawn`, `refused`, `conditional marketing authorisation`. It is usually stated in the section about the steps taken for the assessment of the drug, or else somewhere in the text.",
+        "response": "`Decision` (string)"
+    },
+    "Current_status": {
+        "question": "What is the current status of the drug? Choose from the following: `authorised`, `authorised (under additional monitoring)`, `withdrawn`, `NA`, `revoked`. If not explicitely stated, it is likely to be `authorised`, but double-check the report",
+        "response": "`Current status` (string)"
+    },
+    "Decision_date": {
+        "question": "What is the date of the final decision? Format: dd.mm.yyyy",
+        "response": "`Decision date` (string)"
+    },
+    "Decision_year": {
+        "question": "What is the year the final decision was made? Format: yyyy",
+        "response": "`Decision year` (string)"
+    },
+    "Orphan_drug_status": {
+        "question": "Is the drug designated as an orphan drug? Choose from the following options:  `yes`, `no`.",
+        "response": "`Orphan drug status` (string)"
+    },
+    "Indication_extended": {
+        "question": "Is the indication extended? Meaning, is it a drug which was previously authorised for a different indication? Choose from the following options:  `yes`, `no`.",
+        "response": "`Indication extended` (string)"
+    },
+    "Indication_requested": {
+        "question": "What is the indication initially requested for approval of the drug?",
+        "response": "`Indication requested` (string)"
+    },
+    "Indication_approved": {
+        "question": "If the drug is approved, what indication is it approved for? Otherwise, state `NA`.",
+        "response": "`Indication approved` (string)"
+    },
+    "Disease_class(es)": {
+        "question": "What is the disease class/ disease classes of the drug according to ICD-11? The classes commanly aren't named directly in the report, so you have to conclude based on the implicit information in the report. Choose from the following list and select all that are applicable, separating by semicolon: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chromosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes`. If none from the list apply, then and only then write `Other`, avoid it as much as possible.",
+        "response": "`Disease class(es)` (string)"
+    },
+    "Application_date": {
+        "question": "What is the date of the application for drug approval? Format: dd.mm.yyyy",
+        "response": "`Application date` (string)"
+    },
+    "Application_year": {
+        "question": "What is the year of the application for drug approval? Format: yyyy",
+        "response": "`Application year` (string)"
+    },
+    "Nonclinical_abridged": {
+        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `nonclinical aspects`.",
+        "response": "`Nonclinical abridged` (string)"
+    },
+    "Referral_body": {
+        "question": "For nonclinically abridged applications, what is the referral body? Else, write `NA`. It is usually specified in the section `nonclinical aspects`.",
+        "response": "`Referral body` (string)"
+    }
+},
+question_response_pairs_japan = {
+    "Marketing_authorisation_number": {
+        "question": "What is the marketing authorisation number? If not specified, write `Not reported`.",
+        "response": "`Marketing authorisation number` (string)"
+    },
+    "Procedure_number": {
+        "question": "What is the procedure number? If not specified, write `Not reported`.",
+        "response": "`Procedure number` (string)."
+    },
+    "Drug_name": {
+        "question": "What is the brand name of the drug? Only keep the drug name, ignore the dosage and administration route or form.",
+        "response": "`brand name` (string)."
+    },
+    "Non_proprietary_name": {
+        "question": "What is the non-proprietary name of the drug (name of the substance)? Only keep the name, ignore additional information.",
+        "response": "`non-proprietary name` (string)."
+    },
+    "Marketing_authorisation_holder": {
+        "question": "Who is the marketing authorisation holder (applicant)?",
+        "response": "`Marketing authorisation holder` (string)"
+    },
+    "Drug_class": {
+        "question": "What is the drug class? Choose only from the following list: `Small molecule`, `Biologics`, `Peptides and proteins`, `Cell and gene therapy`, `Vaccine`, `Other`. Explanation of drug classes: \nSmall Molecules are low molecular weight compounds, typically synthesized chemically. Examples: aspirin, statins, antidepressants.\nBiologics are large, complex molecules derived from living organisms. Examples: monoclonal antibodies.\nPeptides and Proteins are short or long chains of amino acids not classified as full biologics. Examples: insulin, somatostatin.\nCell and Gene Therapies are therapies using modified cells or genes. Examples: CAR-T cell therapies, CRISPR-based gene therapies.\nVaccines are agents stimulating the immune system to prevent or mitigate diseases. Examples: mRNA vaccines, live-attenuated vaccines. \nOther should only be used if you are sure that the drug does not belong to any of the above classes. Try not to use it.",
+        "response": "`Drug class` (string)"
+    },
+    "Pharmaceutical_form": {
+        "question": "What is the pharmaceutical form of the drug (application form)? For example, it could be `solution for injection`, `cream`, `inhalation powder`, `tablet`, etc. It is usually specified following `dosage form/strength` across the document. Keep only the pharmaceutical form.",
+        "response": "`Pharmaceutical form` (string)"
+    },
+    "Administration_route": {
+        "question": "How is the drug administered to the patient? It is specified somewhere in the text. Examples: `autologous`, `cutaneous`, `epicutaneous`, `inhalation`, `intramuscular`, `intratumoural`, `intravenous`, `inravitreal`, `nasal`, `ocular`, `oral`, `subcutaneous`, `subretinal`, `intravesical`, `intrathecal`, `vaginal`, etc. Other options are possible. If the administration route is not specified, write `Not reported`.",
+        "response": "`Administration route` (string)"
+    },
+    "Decision": {
+        "question": "What is the decision of the authorisation body? Choose from the following: `approved`, `temporary authorisation`, `withdrawn`, `refused`, `conditional marketing authorisation`. It is usually stated in the section about the results of deliberation.",
+        "response": "`Decision` (string)"
+    },
+    "Current_status": {
+        "question": "What is the current status of the drug? Choose from the following: `authorised`, `authorised (under additional monitoring)`, `withdrawn`, `NA`, `revoked`. If not explicitely stated, it is likely to be `authorised`, but double-check the report",
+        "response": "`Current status` (string)"
+    },
+    "Decision_date": {
+        "question": "What is the date of the decision? Format: `dd.mm.yyyy`. It is usually stated in the section about the results of deliberation.",
+        "response": "`Decision date` (string)"
+    },
+    "Decision_year": {
+        "question": "What is the year the decision was made? Format: `yyyy`. It is usually stated in the section about the results of deliberation.",
+        "response": "`Decision year` (string)"
+    },
+    "Orphan_drug_status": {
+        "question": "Is the drug designated as an orphan drug? Choose from the following options:  `yes`, `no`.",
+        "response": "`Orphan drug status` (string)"
+    },
+    "Indication_extended": {
+        "question": "Is the indication extended? Meaning, is it a drug which was previously authorised for a different indication? Choose from the following options:  `yes`, `no`.",
+        "response": "`Indication extended` (string)"
+    },
+    "Indication_requested": {
+        "question": "What is the indication initially requested for approval of the drug? If not specified, write `Not reported`.",
+        "response": "`Indication requested` (string)"
+    },
+    "Indication_approved": {
+        "question": "If the drug is approved, what indication is it approved for? Otherwise, state `NA`.",
+        "response": "`Indication approved` (string)"
+    },
+    "Disease_class(es)": {
+        "question": "What is the disease class/ disease classes of the drug according to ICD-11? The classes commanly aren't named directly in the report, so you have to conclude based on the implicit information in the report. Choose from the following list and select all that are applicable, separating by semicolon: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chromosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes`. If none from the list apply, then and only then write `Other`, avoid it as much as possible.",
+        "response": "`Disease class(es)` (string)"
+    },
+    "Application_date": {
+        "question": "What is the date of the application for drug approval? Format: `dd.mm.yyyy`. It is usually stated following `data of application` or similar.",
+        "response": "`Application date` (string)"
+    },
+    "Application_year": {
+        "question": "What is the year of the application for drug approval? Format: `yyyy`. It is usually stated following `data of application` or similar.",
+        "response": "`Application year` (string)"
+    },
+    "Nonclinical_abridged": {
+        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `non-clinical data` or similar.",
+        "response": "`Nonclinical abridged` (string)"
+    },
+    "Referral_body": {
+        "question": "For nonclinically abridged applications, what is the referral body? Else, write `NA`. If not specified, write `Not reported`.",
+        "response": "`Referral body` (string)"
+    }
+},
+question_response_pairs_australia = {
+    "Marketing_authorisation_number": {
+        "question": "What is the marketing authorisation number? If not specified, write `Not reported`.",
+        "response": "`Marketing authorisation number` (string)"
+    },
+    "Procedure_number": {
+        "question": "What is the procedure number? If not specified, write `Not reported`.",
+        "response": "`Procedure number` (string)."
+    },
+    "Drug_name": {
+        "question": "What is the product name of the drug? It is usually specified in the introduction.",
+        "response": "`Product name` (string)."
+    },
+    "Non_proprietary_name": {
+        "question": "What is the non-proprietary name of the drug (also called active ingredient)? Only keep the name of the drug, ignore dosage and additional information.",
+        "response": "`Non-proprietary name` (string)."
+    },
+    "Marketing_authorisation_holder": {
+        "question": "Who is the marketing authorisation holder (also called sponsor)? This is the company that holds the marketing authorisation for the drug or applied for it. Only keep the name of the company, ignore address, contact details and additional information.",
+        "response": "`Marketing authorisation holder` (string)"
+    },
+    "Drug_class": {
+        "question": "What is the drug class? Choose only from the following list: `Small molecule`, `Biologics`, `Peptides and proteins`, `Cell and gene therapy`, `Vaccine`, `Other`. Explanation of drug classes: \nSmall Molecules are low molecular weight compounds, typically synthesized chemically. Examples: aspirin, statins, antidepressants.\nBiologics are large, complex molecules derived from living organisms. Examples: monoclonal antibodies.\nPeptides and Proteins are short or long chains of amino acids not classified as full biologics. Examples: insulin, somatostatin.\nCell and Gene Therapies are therapies using modified cells or genes. Examples: CAR-T cell therapies, CRISPR-based gene therapies.\nVaccines are agents stimulating the immune system to prevent or mitigate diseases. Examples: mRNA vaccines, live-attenuated vaccines. \nOther should only be used if you are sure that the drug does not belong to any of the above classes. Try not to use it.",
+        "response": "`Drug class` (string)"
+    },
+    "Pharmaceutical_form": {
+        "question": "What is the pharmaceutical form of the drug (dose form)? For example, it could be `solution for injection`, `cream`, `inhalation powder`, `tablet`, etc. It is usually specified in the report section where the drug is described, e.g. `about the product` or similar.",
+        "response": "`Pharmaceutical form` (string)"
+    },
+    "Administration_route": {
+        "question": "How is the drug administered to the patient? It is usually specified in the report section where the drug is described, e.g. `about the product` or similar. Examples: `autologous`, `cutaneous`, `epicutaneous`, `inhalation`, `intramuscular`, `intratumoural`, `intravenous`, `inravitreal`, `nasal`, `ocular`, `oral`, `subcutaneous`, `subretinal`, `intravesical`, `intrathecal`, `vaginal`, etc. Other options are possible. If the administration route is not specified, write `Not reported`.",
+        "response": "`Administration route` (string)"
+    },
+    "Decision": {
+        "question": "What is the decision of the authorisation body? Choose from the following: `approved`, `temporary authorisation`, `withdrawn`, `refused`, `conditional marketing authorisation`. It is usually explicitely stated in the introduction.",
+        "response": "`Decision` (string)"
+    },
+    "Current_status": {
+        "question": "What is the current status of the drug? Choose from the following: `authorised`, `authorised (under additional monitoring)`, `withdrawn`, `NA`, `revoked`. If not explicitely stated, it is likely to be `authorised`, but double-check the report",
+        "response": "`Current status` (string)"
+    },
+    "Decision_date": {
+        "question": "What is the date of the decision? Format: `dd.mm.yyyy`. It is usually stated in the introduction.",
+        "response": "`Decision date` (string)"
+    },
+    "Decision_year": {
+        "question": "What is the year the decision was made? Format: `yyyy`. It is usually stated in the introduction.",
+        "response": "`Decision year` (string)"
+    },
+    "Orphan_drug_status": {
+        "question": "Is the drug designated as an orphan drug? Choose from the following options:  `yes`, `no`.",
+        "response": "`Orphan drug status` (string)"
+    },
+    "Indication_extended": {
+        "question": "Is the indication extended? Choose from the following options:  `yes`, `no`. If the type of submission is extension of indications, the answer is certainly `yes`.",
+        "response": "`Indication extended` (string)"
+    },
+    "Indication_requested": {
+        "question": "What is the indication initially requested for approval of the drug? It is usually specified in the section about the product background.",
+        "response": "`Indication requested` (string)"
+    },
+    "Indication_approved": {
+        "question": "If the drug is approved, what indication is it approved for? Otherwise, state `NA`. It is usually specified following `new approved therapeutic use` or similar.",
+        "response": "`Indication approved` (string)"
+    },
+    "Disease_class(es)": {
+        "question": "What is the disease class/ disease classes of the drug according to ICD-11? The classes commanly aren't named directly in the report, so you have to conclude based on the implicit information in the report. Choose from the following list and select all that are applicable, separating by semicolon: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chromosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes`. If none from the list apply, then and only then write `Other`, avoid it as much as possible.",
+        "response": "`Disease class(es)` (string)"
+    },
+    "Application_date": {
+        "question": "What is the date of the application for drug approval? Format: dd.mm.yyyy",
+        "response": "`Application date` (string)"
+    },
+    "Application_year": {
+        "question": "What is the year of the application for drug approval? Format: yyyy",
+        "response": "`Application year` (string)"
+    },
+    "Nonclinical_abridged": {
+        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `nonclinical findings` or elsewhere in the text.",
+        "response": "`Nonclinical abridged` (string)"
+    },
+    "Referral_body": {
+        "question": "For nonclinically abridged applications, what is the referral body? Else, write `NA`. It is usually specified in the section `nonclinical findings` or elsewhere in the text. If not specified, write `Not reported`.",
+        "response": "`Referral body` (string)"
     }
 }
