@@ -1,15 +1,19 @@
 #!/bin/bash
 # ==========================================================
 # TODO change the below arguments as needed
-FILE_LIST="data/EMA/EMA_list.txt"
-DATASET="EMA" # Options: EMA, SwissPar
+FILE_LIST="data/randomized_data/EMA_5.txt"
+DATASET="EMA" # Options: EMA, SwissMedic, Japan, Australia
 # ==========================================================
 
 
 if [ "$DATASET" == "EMA" ]; then
     DATA_DIR="data/EMA/EMA_downloads"
-elif [ "$DATASET" == "SwissPar" ]; then    
+elif [ "$DATASET" == "SwissMedic" ]; then    
     DATA_DIR="data/SwissPar/SwissPAR_Jan19_2025"
+elif [ "$DATASET" == "Japan" ]; then
+    DATA_DIR="data/Japan/Japan_PAR_download"
+elif [ "$DATASET" == "Australia" ]; then
+    DATA_DIR="data/Australia/AusPAR_download"
 fi
 
 SAVE_DIR="./output"
