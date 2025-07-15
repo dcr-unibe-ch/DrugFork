@@ -9,7 +9,7 @@ from openai import OpenAI
 from datetime import datetime
 
 from schema import json_schema
-from question_response import question_response_pairs
+from question_response import EMA_pairs, SwissMedic_pairs, Japan_pairs, Australia_pairs
 
 
 def load_env_variables():
@@ -22,12 +22,12 @@ def load_env_variables():
 def parse_arguments():
     """Parse command line arguments."""
     parser = argparse.ArgumentParser()  
-    parser.add_argument("--file_list", type=str, help="Path to the file containing a list of PDFs", required=True),
-    parser.add_argument("--data_dir", type=str, help="Path to the directory containing the PDFs", required=True),
-    parser.add_argument("--model", type=str, default="gpt-4o-mini", help="Model name", required=False)
+    parser.add_argument("--file_list", type=str, help="Path to the file containing a list of PDFs", required=True)
+    parser.add_argument("--data_dir", type=str, help="Path to the directory containing the PDFs", required=True)
+    parser.add_argument("--model", type=str, default="gpt-4o", help="Model name", required=False)
     parser.add_argument("--save_dir", type=str, help="Path to the output dir", required=False)
-    parser.add_argument("--temperature", type=float, default=0.7, help="Temperature for the model")
-    parser.add_argument("--max_tokens", type=int, default=300, help="Max tokens for the model")
+    parser.add_argument("--temperature", type=float, default=0.1, help="Temperature for the model")
+    parser.add_argument("--max_tokens", type=int, default=500, help="Max tokens for the model")
     parser.add_argument("--dataset", type=str, required=True, help="Dataset name")
     return parser.parse_args()
 
@@ -40,8 +40,9 @@ def handle_file(file_path):
         return None
     return text
 
-def generate_response(text, client, model_name, file_name):
+def generate_response(text, client, model_name, file_name, question_response_pairs):
     """Generate a response from OpenAI API based on the extracted text."""
+
     system_role = "You are a helpful expert in drug approval processes."
     user_prompt = f"""
         You are going to read a drug approval report. Read the text attentively and answer the following questions in the specified JSON format with the specified keys:\n
@@ -79,7 +80,7 @@ def generate_response(text, client, model_name, file_name):
     except Exception as e:
         return {file_name: f"Error generating response: {str(e)}"}
 
-def save_to_csv(data, output_csv_file):
+def save_to_csv(data, output_csv_file, question_response_pairs):
     """Save the results to a CSV file."""
     with open(output_csv_file, 'w', newline='') as csvfile:
         fieldnames = ["File Name"] + [key for key in question_response_pairs.keys()]
@@ -104,6 +105,8 @@ def process_files(args, file_list, client, model_name, save_dir, data_dir):
     output_file_csv = os.path.join(save_dir, f'{timestamp}_{args.dataset}_{model_name}.csv')
     os.makedirs(save_dir, exist_ok=True)
 
+    dataset_pairs = EMA_pairs if args.dataset == "EMA" else SwissMedic_pairs if args.dataset == "SwissMedic" else Japan_pairs if args.dataset == "Japan" else Australia_pairs
+
     if os.path.exists(output_file):
         with open(output_file, 'r') as f:
             existing_data = json.load(f)
@@ -120,7 +123,12 @@ def process_files(args, file_list, client, model_name, save_dir, data_dir):
             if os.path.exists(file_path):
                 text = handle_file(file_path)
                 if text:
-                    response = generate_response(text, client, model_name=model_name, file_name=file_name)
+                    response = generate_response(text, 
+                                                 client, 
+                                                 model_name=model_name, 
+                                                 file_name=file_name, 
+                                                 question_response_pairs=dataset_pairs
+                                                )
                     print(f"--- Response:\n{response}")
                     existing_data[file_name] = response.get(file_name, "Error processing the file.")
                 else:
@@ -132,7 +140,12 @@ def process_files(args, file_list, client, model_name, save_dir, data_dir):
         json.dump(existing_data, f, indent=4)
     print(f"All responses saved to {output_file}")
 
-    save_to_csv(existing_data, output_file_csv)
+    save_to_csv(existing_data, 
+                output_file_csv, 
+                question_response_pairs= EMA_pairs if args.dataset == "EMA" else
+                                                     SwissMedic_pairs if args.dataset == "SwissMedic" else
+                                                     Japan_pairs if args.dataset == "Japan" else
+                                                     Australia_pairs)
     print(f"All responses saved to {output_file_csv}")
 
 def main():
