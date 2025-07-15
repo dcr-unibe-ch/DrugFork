@@ -1,8 +1,8 @@
 #!/bin/bash
 # ==========================================================
 # TODO change the below arguments as needed
-FILE_LIST="data/randomized_data/SwissPar_5.txt"
-DATASET="SwissMedic" # Options: EMA, SwissMedic, Japan, Australia
+FILE_LIST="data/randomized_data/Australia_5.txt"
+DATASET="Australia" # Options: EMA, SwissMedic, Japan, Australia
 # ==========================================================
 
 
@@ -22,7 +22,7 @@ mkdir -p "$SAVE_DIR"
 python ./src/generate_predictions.py\
     --file_list "$FILE_LIST" \
     --data_dir "$DATA_DIR" \
-    --model "gpt-4o-mini" \
+    --model "gpt-4o" \
     --save_dir "./output" \
     --temperature "0.1" \
     --max_tokens "1000" \

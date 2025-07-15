@@ -2,8 +2,8 @@
 
 # ==========================================================
 # TODO change the below arguments as needed
-NUM_SAMPLES=30
-DATASET="Australia" # options: EMA, SwissPar, Japan, Australia
+NUM_SAMPLES=20
+DATASET="Japan" # options: EMA, SwissPar, Japan, Australia
 # ==========================================================
 
 
