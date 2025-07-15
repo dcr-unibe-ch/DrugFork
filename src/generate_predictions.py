@@ -43,16 +43,16 @@ def handle_file(file_path):
 def generate_response(text, client, model_name, file_name, question_response_pairs):
     """Generate a response from OpenAI API based on the extracted text."""
 
-    system_role = "You are a helpful expert in drug approval processes."
+    system_role = "You are a helpful expert in drug approval processes, with an expertise in dataset annotation."
     user_prompt = f"""
-        You are going to read a drug approval report. Read the text attentively and answer the following questions in the specified JSON format with the specified keys:\n
+        You are going to read a drug approval report. Read the text attentively and answer the following questions in the strictly specified JSON format with the specified keys:\n
         """ 
     for key, value in question_response_pairs.items():
         user_prompt += f"Question: {value['question']}\n"
         user_prompt += f"Response format: {value['response']}\n"
     user_prompt += "\n\n"
     user_prompt += """
-        Generate only the answers to the above questions, in the correct order. Your response should contain these keys and only these keys, with appropriate values based on the report you're analyzing. If no answer can be found in the text, write "<N/A>". Be as concise as possible.\n
+        Generate only the answers to the above questions, in the correct order. Your response should contain these keys and only these keys, with appropriate values based on the report you are annotating. If no answer can be found in the text, write `Not reported` unless specified otherwise in the question-response pair instructions. Be as concise as possible. Think hard before responding.\n
         """
     user_prompt += f"TEXT: {text}\n"
     
