@@ -143,10 +143,7 @@ def process_files(args, file_list, client, model_name, save_dir, data_dir):
 
     save_to_csv(existing_data, 
                 output_file_csv, 
-                question_response_pairs= EMA_pairs if args.dataset == "EMA" else
-                                                     SwissMedic_pairs if args.dataset == "SwissMedic" else
-                                                     Japan_pairs if args.dataset == "Japan" else
-                                                     Australia_pairs)
+                question_response_pairs=dataset_pairs)
     print(f"All responses saved to {output_file_csv}")
 
 def main():
