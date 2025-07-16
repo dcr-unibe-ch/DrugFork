@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 # heavy data in data/
+*/downloads/
 /data/SwissPar/SwissPAR_Jan19_2025/
 /data/EMA/EMA_downloads/
 /data/EMA/

@@ -1,6 +1,10 @@
 {
     "auspar-xeljanz-240828.pdf": {
+<<<<<<< HEAD
         "Marketing_authorisation_number": "196987, 233439, 298307, 381790, 381810, 386772",
+=======
+        "Marketing_authorisation_number": "Not reported",
+>>>>>>> 3f3d792f7569f2d5b6bff85ce30d480167c5fa68
         "Procedure_number": "PM-2021-04843-1-3",
         "Drug_name": "Xeljanz",
         "Non_proprietary_name": "Tofacitinib",
@@ -14,8 +18,13 @@
         "Decision_year": "2023",
         "Orphan_drug_status": "no",
         "Indication_extended": "yes",
+<<<<<<< HEAD
         "Indication_requested": "Ankylosing Spondylitis (AS); Juvenile Idiopathic Arthritis (JIA)",
         "Indication_approved": "Ankylosing Spondylitis (AS); Juvenile Idiopathic Arthritis (JIA)",
+=======
+        "Indication_requested": "Treatment of adult patients with active ankylosing spondylitis who have responded inadequately to conventional therapy; Treatment of active polyarticular course juvenile idiopathic arthritis and juvenile psoriatic arthritis in patients 2 years of age and older",
+        "Indication_approved": "Treatment of adult patients with active ankylosing spondylitis who have responded inadequately to conventional therapy; Treatment of active polyarticular course juvenile idiopathic arthritis and juvenile psoriatic arthritis in patients 2 years of age and older",
+>>>>>>> 3f3d792f7569f2d5b6bff85ce30d480167c5fa68
         "Disease_class(es)": "Diseases of the musculoskeletal system and connective tissue",
         "Application_date": "30.11.2021",
         "Application_year": "2021",
@@ -40,7 +49,11 @@
         "Indication_requested": "Treatment of severe hepatic veno-occlusive disease (VOD) in haematopoietic stem-cell transplantation (HSCT) therapy",
         "Indication_approved": "Treatment of severe hepatic veno-occlusive disease (VOD) in haematopoietic stem-cell transplantation (HSCT) therapy",
         "Disease_class(es)": "Diseases of the blood and blood-forming organs",
+<<<<<<< HEAD
         "Application_date": "31.07.2019",
+=======
+        "Application_date": "21.02.2019",
+>>>>>>> 3f3d792f7569f2d5b6bff85ce30d480167c5fa68
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported"
@@ -85,11 +98,19 @@
         "Indication_extended": "yes",
         "Indication_requested": "Treatment of newly diagnosed patients with Acute Myeloid Leukaemia (AML) who are ineligible for intensive chemotherapy",
         "Indication_approved": "Treatment of newly diagnosed patients with Acute Myeloid Leukaemia (AML) who are ineligible for intensive chemotherapy",
+<<<<<<< HEAD
         "Disease_class(es)": "Neoplasms; Diseases of the blood and blood-forming organs",
         "Application_date": "31.01.2019",
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA"
+=======
+        "Disease_class(es)": "Neoplasms",
+        "Application_date": "31.01.2019",
+        "Application_year": "2019",
+        "Nonclinical_abridged": "yes",
+        "Referral_body": "Not reported"
+>>>>>>> 3f3d792f7569f2d5b6bff85ce30d480167c5fa68
     },
     "auspar-digoxin-specific-140505.pdf": {
         "Marketing_authorisation_number": "203623",
@@ -106,8 +127,13 @@
         "Decision_year": "2014",
         "Orphan_drug_status": "yes",
         "Indication_extended": "no",
+<<<<<<< HEAD
         "Indication_requested": "Treatment of known or strongly suspected life-threatening digoxin toxicity associated with ventricular arrhythmias, progressive bradycardia, or second or third degree heart block not responsive to atropine.",
         "Indication_approved": "Treatment of known or strongly suspected life-threatening digoxin toxicity associated with ventricular arrhythmias, progressive bradycardia, or second or third degree heart block not responsive to atropine.",
+=======
+        "Indication_requested": "Treatment of known or strongly suspected life-threatening digoxin toxicity associated with ventricular arrhythmias, progressive bradycardia, or second or third degree heart block not responsive to atropine, and where additional measures besides withdrawal of digoxin and correction of serum electrolyte abnormalities are considered necessary.",
+        "Indication_approved": "Treatment of known or strongly suspected life-threatening digoxin toxicity associated with ventricular arrhythmias, progressive bradycardia, or second or third degree heart block not responsive to atropine, and where additional measures besides withdrawal of digoxin and correction of serum electrolyte abnormalities are considered necessary.",
+>>>>>>> 3f3d792f7569f2d5b6bff85ce30d480167c5fa68
         "Disease_class(es)": "Diseases of the circulatory system",
         "Application_date": "Not reported",
         "Application_year": "Not reported",
