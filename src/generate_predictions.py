@@ -73,6 +73,7 @@ def generate_response(text, client, model_name, file_name, question_response_pai
         try:
             response_json = json.loads(response_content)
             validate(instance=response_json, schema=json_schema)
+            response_json["Document_name"] = file_name
             return {file_name: response_json}
         except json.JSONDecodeError:
             return {file_name: f"Error: The response is not valid JSON: {response_content}"}
@@ -84,12 +85,12 @@ def generate_response(text, client, model_name, file_name, question_response_pai
 def save_to_csv(data, output_csv_file, question_response_pairs):
     """Save the results to a CSV file."""
     with open(output_csv_file, 'w', newline='') as csvfile:
-        fieldnames = ["File Name"] + [key for key in question_response_pairs.keys()]
+        fieldnames = ["Document_name"] + [key for key in question_response_pairs.keys()]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         
         writer.writeheader()
         for file_name, response in data.items():
-            row = {"File Name": file_name}
+            row = {"Document_name": file_name}
             if isinstance(response, dict):  # Only write the valid response as the data
                 for key, value in response.items():
                     row[key] = value
@@ -108,11 +109,8 @@ def process_files(args, file_list, client, model_name, save_dir, data_dir):
 
     dataset_pairs = EMA_pairs if args.dataset == "EMA" else SwissMedic_pairs if args.dataset == "SwissMedic" else Japan_pairs if args.dataset == "Japan" else Australia_pairs
 
-    if os.path.exists(output_file):
-        with open(output_file, 'r') as f:
-            existing_data = json.load(f)
-    else:
-        existing_data = {}
+
+    existing_data = {}
 
     with open(file_list, 'r') as file:
         for line in file:
