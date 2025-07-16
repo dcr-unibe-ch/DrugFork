@@ -20,8 +20,8 @@ def merge_dfs_with_suffixes(df_llm, df_annotated,
 
     df1 = df_llm.copy()
     df2 = df_annotated.copy()
-    df1[key] = df1[key].str.lower()
-    df2[key] = df2[key].str.lower()
+    df1[key] = df1[key].astype(str).str.strip().str.lower()
+    df2[key] = df2[key].astype(str).str.strip().str.lower()
     df1 = df1.drop_duplicates(subset=key)
     df2 = df2.drop_duplicates(subset=key)
 
@@ -29,7 +29,7 @@ def merge_dfs_with_suffixes(df_llm, df_annotated,
     df1 = df1[df1[key].isin(common_keys)]
     df2 = df2[df2[key].isin(common_keys)]
 
-    common_cols = sorted(set(df1.columns).intersection(df2.columns))
+    common_cols = sorted(set(df1.columns).intersection(df2.columns).union({key}))
     df1 = df1[common_cols]
     df2 = df2[common_cols]
 
@@ -51,8 +51,12 @@ def merge_dfs_with_suffixes(df_llm, df_annotated,
         col1 = c + suffix1
         col2 = c + suffix2
         col3 = c + suffix3
-        # merged[col3] = merged[col1] == merged[col2]
-        merged[col3] = ""
+        merged[col3] = "..."
+        if col1 in merged.columns and col2 in merged.columns:
+            merged[col3] = merged.apply(
+                lambda row: "match" if row[col1] == row[col2] else "", axis=1
+            )
+
     merged = merged[sorted(merged.columns)]
 
     return merged
