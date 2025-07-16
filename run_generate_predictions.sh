@@ -7,13 +7,13 @@ DATASET="Australia" # Options: EMA, SwissMedic, Japan, Australia
 
 
 if [ "$DATASET" == "EMA" ]; then
-    DATA_DIR="data/EMA/EMA_downloads"
+    DATA_DIR="data/EMA/downloads"
 elif [ "$DATASET" == "SwissMedic" ]; then    
-    DATA_DIR="data/SwissPar/SwissPAR_Jan19_2025"
+    DATA_DIR="data/SwissPar/downloads"
 elif [ "$DATASET" == "Japan" ]; then
-    DATA_DIR="data/Japan/Japan_PAR_download"
+    DATA_DIR="data/Japan/downloads"
 elif [ "$DATASET" == "Australia" ]; then
-    DATA_DIR="data/Australia/AusPAR_download"
+    DATA_DIR="data/Australia/downloads"
 fi
 
 SAVE_DIR="./output"
