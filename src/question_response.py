@@ -56,7 +56,7 @@ EMA_pairs = {
         "response": "`Indication_extended` (string)"
     },
     "Indication_requested": {
-        "question": "What is the indication initially requested for approval of the drug?",
+        "question": "What is the indication initially requested by the applicant for approval of the drug?",
         "response": "`Indication_requested` (string)"
     },
     "Indication_approved": {
@@ -64,7 +64,7 @@ EMA_pairs = {
         "response": "`Indication_approved` (string)"
     },
     "Disease_class(es)": {
-        "question": "What is/are the disease class or disease classes of the drug? The classes are usually not explicitely stated in the report, so you have to conclude based on the implicit information. Choose from the following list and select all that are applicable, separating by semicolon: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chromosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes`. If none from the list apply, then and only then write `Other`, avoid it as much as possible. Choose every applicable class.",
+        "question": "What is/are the disease class or disease classes of the drug? Identify all applicable disease classes for the drug described in the document. Use the following list and select **all that apply**, separated by semicolons: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chromosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes`.If the disease classes are not explicitly stated, infer them based on indications, mechanism of action, or therapeutic area described in the text. For example, if the drug is used for small cell lung cancer, answer: `Neoplasms; Diseases of the respiratory system`. A drug for non-small cell lung cancer **and** non hodgkin lymphoma → `Neoplasms; Diseases of the respiratory system; Diseases of the blood and blood forming organs`. Use `Other` only if **none** of the listed categories fit, which should be rare. Be exhaustive and select every applicable class even if only briefly mentioned.",
         "response": "`Disease_class(es)` (string)"
     },
     "Application_date": {
@@ -76,7 +76,7 @@ EMA_pairs = {
         "response": "`Application_year` (string)"
     },
     "Nonclinical_abridged": {
-        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. If there is no information about nonclinical aspects, then it might be abridged, be attentive. Phrases like `an abridged evaluation`, `nonclinical data not available` or `no nonclinical documentation was submitted` indicate that it is abridged.",
+        "question": "Is the nonclinical part of the application abridged? Answer only with `yes` or `no`. Answer `yes` if the document explicitly states phrases like `an abridged nonclinical evaluation`, `nonclinical data not available`, `no nonclinical documentation was submitted`. Also answer `yes` if there is no mention of nonclinical experiments, studies, or data at all. Only answer `no` if the document provides descriptions of nonclinical studies, experiments, or data.",
         "response": "`Nonclinical_abridged` (string)"
     },
     "Referral_body": {
@@ -150,7 +150,7 @@ SwissMedic_pairs = {
         "response": "`Indication_approved` (string)"
     },
     "Disease_class(es)": {
-        "question": "What is the disease class/ disease classes of the drug according to ICD-11? The classes commanly aren't named directly in the report, so you have to conclude based on the implicit information in the report. Choose from the following list and select all that are applicable, separating by semicolon: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chromosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes`. If none from the list apply, then and only then write `Other`, avoid it as much as possible.",
+        "question": "What is/are the disease class or disease classes of the drug? Identify all applicable disease classes for the drug described in the document. Use the following list and select **all that apply**, separated by semicolons: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chromosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes`.If the disease classes are not explicitly stated, infer them based on indications, mechanism of action, or therapeutic area described in the text. For example, if the drug is used for small cell lung cancer, answer: `Neoplasms; Diseases of the respiratory system`. A drug for non-small cell lung cancer **and** non hodgkin lymphoma → `Neoplasms; Diseases of the respiratory system; Diseases of the blood and blood forming organs`. Use `Other` only if **none** of the listed categories fit, which should be rare. Be exhaustive and select every applicable class even if only briefly mentioned.",
         "response": "`Disease_class(es)` (string)"
     },
     "Application_date": {
@@ -162,7 +162,7 @@ SwissMedic_pairs = {
         "response": "`Application_year` (string)"
     },
     "Nonclinical_abridged": {
-        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `nonclinical aspects` or similar. If there is no information about nonclinical aspects, then it might be abridged, be attentive. Phrases like `an abridged evaluation`, `nonclinical data not available` or `no nonclinical documentation was submitted` indicate that it is abridged.",
+        "question": "Is the nonclinical part of the application abridged? Answer only with `yes` or `no`. Answer `yes` if the document explicitly states phrases like `an abridged nonclinical evaluation`, `nonclinical data not available`, `no nonclinical documentation was submitted`. Also answer `yes` if there is no mention of nonclinical experiments, studies, or data at all. Only answer `no` if the document provides descriptions of nonclinical studies, experiments, or data.",
         "response": "`Nonclinical_abridged` (string)"
     },
     "Referral_body": {
@@ -212,7 +212,7 @@ Japan_pairs = {
         "response": "`Current_status` (string)"
     },
     "Decision_date": {
-        "question": "What is the date of the decision? Format: `dd.mm.yyyy`. It is usually stated in the section about the results of deliberation.",
+        "question": "What is the date of the meeting in which the decision to approve the product was made? Answer in format `dd.mm.yyyy`. The relevant date is when the committee met and decided that the product may be approved, usually indicated by phrases like 'In the meeting held on... the committee concluded'. Ignore other dates such as the report date, application date, or re-examination period. For example, if the text says 'In the meeting held on May 28, 2015, the committee concluded...', then the correct answer is `28.05.2015`.",
         "response": "`Decision_date` (string)"
     },
     "Decision_year": {
@@ -236,7 +236,7 @@ Japan_pairs = {
         "response": "`Indication_approved` (string)"
     },
     "Disease_class(es)": {
-        "question": "What is the disease class/ disease classes of the drug according to ICD-11? The classes commanly aren't named directly in the report, so you have to conclude based on the implicit information in the report. Choose from the following list and select all that are applicable, separating by semicolon: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chromosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes`. If none from the list apply, then and only then write `Other`, avoid it as much as possible.",
+        "question": "What is/are the disease class or disease classes of the drug? Identify all applicable disease classes for the drug described in the document. Use the following list and select **all that apply**, separated by semicolons: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chromosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes`.If the disease classes are not explicitly stated, infer them based on indications, mechanism of action, or therapeutic area described in the text. For example, if the drug is used for small cell lung cancer, answer: `Neoplasms; Diseases of the respiratory system`. A drug for non-small cell lung cancer **and** non hodgkin lymphoma → `Neoplasms; Diseases of the respiratory system; Diseases of the blood and blood forming organs`. Use `Other` only if **none** of the listed categories fit, which should be rare. Be exhaustive and select every applicable class even if only briefly mentioned.",
         "response": "`Disease_class(es)` (string)"
     },
     "Application_date": {
@@ -248,7 +248,7 @@ Japan_pairs = {
         "response": "`Application_year` (string)"
     },
     "Nonclinical_abridged": {
-        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `non-clinical data` or similar. If there is no information about nonclinical aspects, then it might be abridged, be attentive. Phrases like `an abridged evaluation`, `nonclinical data not available` or `no nonclinical documentation was submitted` indicate that it is abridged.",
+        "question": "Is the nonclinical part of the application abridged? Answer only with `yes` or `no`. Answer `yes` if the document explicitly states phrases like `an abridged nonclinical evaluation`, `nonclinical data not available`, `no nonclinical documentation was submitted`. Also answer `yes` if there is no mention of nonclinical experiments, studies, or data at all. Only answer `no` if the document provides descriptions of nonclinical studies, experiments, or data.",
         "response": "`Nonclinical_abridged` (string)"
     },
     "Referral_body": {
@@ -322,11 +322,11 @@ Australia_pairs = {
         "response": "`Indication_approved` (string)"
     },
     "Disease_class(es)": {
-        "question": "What is the disease class/ disease classes of the drug according to ICD-11? The classes commanly aren't named directly in the report, so you have to conclude based on the implicit information in the report. Choose from the following list and select all that are applicable, separating by semicolon: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chromosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes`. If none from the list apply, then and only then write `Other`, avoid it as much as possible.",
+        "question": "What is/are the disease class or disease classes of the drug? Identify all applicable disease classes for the drug described in the document. Use the following list and select **all that apply**, separated by semicolons: `Infectious and parasitic diseases`, `Neoplasms`, `Diseases of the blood and blood-forming organs`, `Endocrine, nutritional, and metabolic diseases`, `Mental and behavioural disorders`, `Diseases of the nervous system`, `Diseases of the eye and adnexa`, `Diseases of the ear and mastoid process`, `Diseases of the circulatory system`, `Diseases of the respiratory system`, `Diseases of the digestive system`, `Diseases of the skin`, `Diseases of the musculoskeletal system and connective tissue`, `Diseases of the genitourinary system`, `Pregnancy and childbirth`, `Congenital malformations and chromosomal abnormalities`, `Injury, poisoning and certain other consequences of external causes`.If the disease classes are not explicitly stated, infer them based on indications, mechanism of action, or therapeutic area described in the text. For example, if the drug is used for small cell lung cancer, answer: `Neoplasms; Diseases of the respiratory system`. A drug for non-small cell lung cancer **and** non hodgkin lymphoma → `Neoplasms; Diseases of the respiratory system; Diseases of the blood and blood forming organs`. Use `Other` only if **none** of the listed categories fit, which should be rare. Be exhaustive and select every applicable class even if only briefly mentioned.",
         "response": "`Disease_class(es)` (string)"
     },
     "Application_date": {
-        "question": "What is the date of the application for drug approval? Format: dd.mm.yyyy",
+        "question": "What is the date when the formal application for drug approval was submitted and accepted by the authority? If the document contains a **timeline table**, extract the date corresponding to `Submission dossier accepted` or similar phrasing. If no table is available, extract the earliest date mentioned in the text where the dossier submission or formal acceptance of the application is described. Ignore any other dates such as `Orphan designation`, `evaluation rounds`, or `committee meetings`. Return the date in the format `dd.mm.yyyy`.",
         "response": "`Application_date` (string)"
     },
     "Application_year": {
@@ -334,7 +334,7 @@ Australia_pairs = {
         "response": "`Application_year` (string)"
     },
     "Nonclinical_abridged": {
-        "question": "Is the nonclinical part of the application abridged? Choose from the following options: `yes`, `no`. It is usually specified in the section `nonclinical findings` or elsewhere in the text. If there is no information about nonclinical aspects, then it might be abridged, be attentive. Phrases like `an abridged evaluation`, `nonclinical data not available` or `no nonclinical documentation was submitted` indicate that it is abridged.",
+        "question": "Is the nonclinical part of the application abridged? Answer only with `yes` or `no`. Answer `yes` if the document explicitly states phrases like `an abridged nonclinical evaluation`, `nonclinical data not available`, `no nonclinical documentation was submitted`. Also answer `yes` if there is no mention of nonclinical experiments, studies, or data at all. Only answer `no` if the document provides descriptions of nonclinical studies, experiments, or data.",
         "response": "`Nonclinical_abridged` (string)"
     },
     "Referral_body": {
