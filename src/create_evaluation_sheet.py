@@ -16,8 +16,7 @@ def merge_dfs_with_suffixes(df_llm, df_annotated,
                             key="Marketing_authorisation_number",
                             suffix1="_llm",
                             suffix2="_human",
-                            suffix3="_verdict_human",
-                            suffix4="_verdict_llm"):
+                            suffix3="_verdict_human"):
 
     df1 = df_llm.copy()
     df2 = df_annotated.copy()
@@ -52,10 +51,8 @@ def merge_dfs_with_suffixes(df_llm, df_annotated,
         col1 = c + suffix1
         col2 = c + suffix2
         col3 = c + suffix3
-        col4 = c + suffix4
         # merged[col3] = merged[col1] == merged[col2]
         merged[col3] = ""
-        merged[col4] = ""
     merged = merged[sorted(merged.columns)]
 
     return merged
