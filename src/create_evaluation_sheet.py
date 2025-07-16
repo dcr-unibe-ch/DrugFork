@@ -13,7 +13,8 @@ def load_from_csv(file_path):
     return pd.read_csv(file_path, encoding='utf-8')
 
 def merge_dfs_with_suffixes(df_llm, df_annotated,
-                            key="Marketing_authorisation_number",
+                            # key="Marketing_authorisation_number",
+                            key="Document_name",
                             suffix1="_llm",
                             suffix2="_human",
                             suffix3="_verdict_human"):
@@ -38,10 +39,19 @@ def merge_dfs_with_suffixes(df_llm, df_annotated,
 
     key1 = key + suffix1
     key2 = key + suffix2
+
+    print("\n📄 LLM Data:")
+    print(df_llm[["Document_name"]].head())
+    print("\n📄 Human Data:")
+    print(df_annotated[["Document_name"]].head())
+
+
+
     merged = pd.merge(df1, df2,
                       left_on=key1, 
                       right_on=key2,
                       how="inner")
+
     
     for col in merged.select_dtypes(include="object"):
         merged[col] = merged[col].str.strip()
