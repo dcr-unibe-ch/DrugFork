@@ -3,9 +3,9 @@
 # ==========================================================
 # TODO change the below arguments as needed
 
-LLM_FILENAME="poster1_20250522_EMA_gpt-4o-mini.json"
+LLM_FILENAME="20250716_Australia_gpt-4o.json"
 
-HUMAN_ANNOTATIONS_FILEPATH="./data/annotations/EMA_Swissmedic_Drug_Approval-Sheet1.csv"
+HUMAN_ANNOTATIONS_FILEPATH="data/annotations/Drug_Approval_Annotations_all_datasets-Sheet1_cleaned.csv"
 # ==========================================================
 
 

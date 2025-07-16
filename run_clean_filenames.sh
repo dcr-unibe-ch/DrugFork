@@ -1,6 +1,8 @@
 DIR_PATHS=(
-    "data/EMA/EMA_downloads"
-    "data/SwissPar/SwissPAR_Jan19_2025"
+    "data/EMA/downloads"
+    # "data/SwissPar/downloads"
+    # "data/Japan/downloads"
+    "data/Australia/downloads"
 )
 
 for DIR_PATH in "${DIR_PATHS[@]}"; do

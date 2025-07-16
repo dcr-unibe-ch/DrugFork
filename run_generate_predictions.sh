@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==========================================================
 # TODO change the below arguments as needed
-FILE_LIST="data/randomized_data/Australia_5.txt"
+FILE_LIST="data\randomized_data\Australia_annotated_test.txt"
 DATASET="Australia" # Options: EMA, SwissMedic, Japan, Australia
 # ==========================================================
 
