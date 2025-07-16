@@ -13,16 +13,16 @@ def load_from_csv(file_path):
     return pd.read_csv(file_path, encoding='utf-8')
 
 def merge_dfs_with_suffixes(df_llm, df_annotated,
-                            key="Marketing_authorisation_number",
+                            # key="Marketing_authorisation_number",
+                            key="Document_name",
                             suffix1="_llm",
                             suffix2="_human",
-                            suffix3="_verdict_human",
-                            suffix4="_verdict_llm"):
+                            suffix3="_verdict_human"):
 
     df1 = df_llm.copy()
     df2 = df_annotated.copy()
-    df1[key] = df1[key].str.lower()
-    df2[key] = df2[key].str.lower()
+    df1[key] = df1[key].astype(str).str.strip().str.lower()
+    df2[key] = df2[key].astype(str).str.strip().str.lower()
     df1 = df1.drop_duplicates(subset=key)
     df2 = df2.drop_duplicates(subset=key)
 
@@ -30,7 +30,7 @@ def merge_dfs_with_suffixes(df_llm, df_annotated,
     df1 = df1[df1[key].isin(common_keys)]
     df2 = df2[df2[key].isin(common_keys)]
 
-    common_cols = sorted(set(df1.columns).intersection(df2.columns))
+    common_cols = sorted(set(df1.columns).intersection(df2.columns).union({key}))
     df1 = df1[common_cols]
     df2 = df2[common_cols]
 
@@ -39,10 +39,19 @@ def merge_dfs_with_suffixes(df_llm, df_annotated,
 
     key1 = key + suffix1
     key2 = key + suffix2
+
+    print("\n📄 LLM Data:")
+    print(df_llm[["Document_name"]].head())
+    print("\n📄 Human Data:")
+    print(df_annotated[["Document_name"]].head())
+
+
+
     merged = pd.merge(df1, df2,
                       left_on=key1, 
                       right_on=key2,
                       how="inner")
+
     
     for col in merged.select_dtypes(include="object"):
         merged[col] = merged[col].str.strip()
@@ -52,10 +61,12 @@ def merge_dfs_with_suffixes(df_llm, df_annotated,
         col1 = c + suffix1
         col2 = c + suffix2
         col3 = c + suffix3
-        col4 = c + suffix4
-        # merged[col3] = merged[col1] == merged[col2]
-        merged[col3] = ""
-        merged[col4] = ""
+        merged[col3] = "..."
+        if col1 in merged.columns and col2 in merged.columns:
+            merged[col3] = merged.apply(
+                lambda row: "match" if row[col1] == row[col2] else "", axis=1
+            )
+
     merged = merged[sorted(merged.columns)]
 
     return merged

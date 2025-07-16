@@ -1,10 +1,14 @@
 {
     "auspar-xeljanz-240828.pdf": {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "Marketing_authorisation_number": "196987, 233439, 298307, 381790, 381810, 386772",
 =======
         "Marketing_authorisation_number": "Not reported",
 >>>>>>> 3f3d792f7569f2d5b6bff85ce30d480167c5fa68
+=======
+        "Marketing_authorisation_number": "196987, 233439, 298307, 381790, 381810, 386772",
+>>>>>>> 0dc1a976d65ec07d26878e56df7d6a40df29cfe7
         "Procedure_number": "PM-2021-04843-1-3",
         "Drug_name": "Xeljanz",
         "Non_proprietary_name": "Tofacitinib",
@@ -19,28 +23,35 @@
         "Orphan_drug_status": "no",
         "Indication_extended": "yes",
 <<<<<<< HEAD
+<<<<<<< HEAD
         "Indication_requested": "Ankylosing Spondylitis (AS); Juvenile Idiopathic Arthritis (JIA)",
         "Indication_approved": "Ankylosing Spondylitis (AS); Juvenile Idiopathic Arthritis (JIA)",
 =======
         "Indication_requested": "Treatment of adult patients with active ankylosing spondylitis who have responded inadequately to conventional therapy; Treatment of active polyarticular course juvenile idiopathic arthritis and juvenile psoriatic arthritis in patients 2 years of age and older",
         "Indication_approved": "Treatment of adult patients with active ankylosing spondylitis who have responded inadequately to conventional therapy; Treatment of active polyarticular course juvenile idiopathic arthritis and juvenile psoriatic arthritis in patients 2 years of age and older",
 >>>>>>> 3f3d792f7569f2d5b6bff85ce30d480167c5fa68
+=======
+        "Indication_requested": "Ankylosing Spondylitis (AS); Juvenile Idiopathic Arthritis (JIA)",
+        "Indication_approved": "Ankylosing Spondylitis (AS); Juvenile Idiopathic Arthritis (JIA)",
+>>>>>>> 0dc1a976d65ec07d26878e56df7d6a40df29cfe7
         "Disease_class(es)": "Diseases of the musculoskeletal system and connective tissue",
         "Application_date": "30.11.2021",
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
-        "Referral_body": "Not reported"
+        "Referral_body": "Not reported",
+        "Document_name": "auspar-xeljanz-240828.pdf"
     },
-    "auspar-defibrotide-201203.pdf": {
-        "Marketing_authorisation_number": "319221",
-        "Procedure_number": "PM-2019-01763-1-3",
-        "Drug_name": "Defitelio",
-        "Non_proprietary_name": "Defibrotide",
-        "Marketing_authorisation_holder": "Link Medical Products Pty Ltd",
+    "auspar-bevacizumab-120806.pdf": {
+        "Marketing_authorisation_number": "Not reported",
+        "Procedure_number": "PM-2010-3786-3-4",
+        "Drug_name": "Avastin",
+        "Non_proprietary_name": "Bevacizumab",
+        "Marketing_authorisation_holder": "Roche Products Pty Ltd",
         "Drug_class": "Biologics",
-        "Pharmaceutical_form": "Concentrated solution for infusion",
+        "Pharmaceutical_form": "Injection Vial",
         "Administration_route": "Intravenous",
         "Decision": "approved",
+<<<<<<< HEAD
         "Current_status": "authorised (under additional monitoring)",
         "Decision_date": "15.07.2020",
         "Decision_year": "2020",
@@ -55,30 +66,44 @@
         "Application_date": "21.02.2019",
 >>>>>>> 3f3d792f7569f2d5b6bff85ce30d480167c5fa68
         "Application_year": "2019",
+=======
+        "Current_status": "authorised",
+        "Decision_date": "23.02.2012",
+        "Decision_year": "2012",
+        "Orphan_drug_status": "no",
+        "Indication_extended": "yes",
+        "Indication_requested": "First-line treatment of patients with epithelial ovarian, fallopian tube, or primary peritoneal cancer in combination with carboplatin and paclitaxel.",
+        "Indication_approved": "In combination with carboplatin and paclitaxel for the first line treatment of patients with advanced (FIGO stages IIIB, IIIC and IV) epithelial ovarian, fallopian tube or primary peritoneal cancer.",
+        "Disease_class(es)": "Neoplasms",
+        "Application_date": "Not reported",
+        "Application_year": "Not reported",
+>>>>>>> 0dc1a976d65ec07d26878e56df7d6a40df29cfe7
         "Nonclinical_abridged": "yes",
-        "Referral_body": "Not reported"
+        "Referral_body": "Not reported",
+        "Document_name": "auspar-bevacizumab-120806.pdf"
     },
-    "auspar-sofosbuvir-velpatasvir-171108.pdf": {
-        "Marketing_authorisation_number": "266823",
-        "Procedure_number": "PM-2015-03984-1-2",
-        "Drug_name": "Epclusa",
-        "Non_proprietary_name": "Sofosbuvir / Velpatasvir",
-        "Marketing_authorisation_holder": "Gilead Sciences Pty Ltd",
+    "auspar-lenvatinib-mesilate-160830.pdf": {
+        "Marketing_authorisation_number": "Not reported",
+        "Procedure_number": "PM-2014-04321-1-4",
+        "Drug_name": "Lenvima",
+        "Non_proprietary_name": "Lenvatinib mesilate",
+        "Marketing_authorisation_holder": "Eisai Australia Pty Ltd",
         "Drug_class": "Small molecule",
-        "Pharmaceutical_form": "Film coated tablet",
-        "Administration_route": "oral",
+        "Pharmaceutical_form": "Hard capsules",
+        "Administration_route": "Oral",
         "Decision": "approved",
         "Current_status": "authorised",
-        "Decision_date": "13.12.2016",
+        "Decision_date": "21.01.2016",
         "Decision_year": "2016",
-        "Orphan_drug_status": "no",
+        "Orphan_drug_status": "yes",
         "Indication_extended": "no",
-        "Indication_requested": "treatment of chronic hepatitis C virus (HCV) infection in adults",
-        "Indication_approved": "treatment of chronic hepatitis C virus (HCV) infection (genotype 1, 2, 3, 4, 5 or 6) in adults",
-        "Disease_class(es)": "Infectious and parasitic diseases",
+        "Indication_requested": "treatment of patients with progressive, radioactive iodine refractory differentiated thyroid cancer",
+        "Indication_approved": "treatment of patients with progressive, locally advanced or metastatic, radioactive iodine refractory differentiated thyroid cancer",
+        "Disease_class(es)": "Neoplasms",
         "Application_date": "Not reported",
         "Application_year": "Not reported",
         "Nonclinical_abridged": "no",
+<<<<<<< HEAD
         "Referral_body": "NA"
     },
     "auspar-venetoclax-200924.pdf": {
@@ -139,5 +164,9 @@
         "Application_year": "Not reported",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported"
+=======
+        "Referral_body": "NA",
+        "Document_name": "auspar-lenvatinib-mesilate-160830.pdf"
+>>>>>>> 0dc1a976d65ec07d26878e56df7d6a40df29cfe7
     }
 }
