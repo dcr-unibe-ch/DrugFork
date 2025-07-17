@@ -1,8 +1,8 @@
 import os
 
 # Pfad zum Ordner mit den PDFs
-pdf_folder = "data/SwissPar/SwissPAR_Jan19_2025"
-output_file = "data/SwissPAR/SwissPAR_list.txt"
+pdf_folder = "data/EMA/downloads"
+output_file = "data/EMA/EMA_list.txt"
 
 # Alle .pdf-Dateien auflisten
 pdf_files = [f for f in os.listdir(pdf_folder) if f.endswith(".pdf")]
