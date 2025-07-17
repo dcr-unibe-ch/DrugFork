@@ -12,7 +12,10 @@ def clean_string(s):
     return s.strip().lower().replace(" ", "_")
 
 def clean_csv_column(csv_path, output_csv):
-    df = pd.read_csv(csv_path, encoding='utf-8')
+    df = pd.read_csv(csv_path, 
+                     encoding='utf-8', 
+                     dtype=str
+                     )
     if "Document_name" not in df.columns:
         raise ValueError("CSV file does not contain a 'Document_name' column.")
 
