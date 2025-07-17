@@ -10,7 +10,11 @@
         "Administration_route": "intravenous",
         "Decision": "approved",
         "Current_status": "authorised",
+<<<<<<< HEAD
+        "Decision_date": "28.05.2015",
+=======
         "Decision_date": "03.06.2015",
+>>>>>>> 0dc1a976d65ec07d26878e56df7d6a40df29cfe7
         "Decision_year": "2015",
         "Orphan_drug_status": "no",
         "Indication_extended": "no",
@@ -19,9 +23,14 @@
         "Disease_class(es)": "Diseases of the blood and blood-forming organs",
         "Application_date": "31.07.2014",
         "Application_year": "2014",
+<<<<<<< HEAD
+        "Nonclinical_abridged": "no",
+        "Referral_body": "NA"
+=======
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
         "Document_name": "000216795.pdf"
+>>>>>>> 0dc1a976d65ec07d26878e56df7d6a40df29cfe7
     },
     "000249129.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -44,8 +53,12 @@
         "Application_date": "10.11.2021",
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
+<<<<<<< HEAD
+        "Referral_body": "Not reported"
+=======
         "Referral_body": "Not reported",
         "Document_name": "000249129.pdf"
+>>>>>>> 0dc1a976d65ec07d26878e56df7d6a40df29cfe7
     },
     "000232793.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -67,9 +80,14 @@
         "Disease_class(es)": "Diseases of the musculoskeletal system and connective tissue",
         "Application_date": "19.12.2016",
         "Application_year": "2016",
+<<<<<<< HEAD
+        "Nonclinical_abridged": "no",
+        "Referral_body": "NA"
+=======
         "Nonclinical_abridged": "Not reported",
         "Referral_body": "NA",
         "Document_name": "000232793.pdf"
+>>>>>>> 0dc1a976d65ec07d26878e56df7d6a40df29cfe7
     },
     "000222576.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -91,9 +109,14 @@
         "Disease_class(es)": "Infectious and parasitic diseases",
         "Application_date": "31.03.2016",
         "Application_year": "2016",
+<<<<<<< HEAD
+        "Nonclinical_abridged": "no",
+        "Referral_body": "NA"
+=======
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
         "Document_name": "000222576.pdf"
+>>>>>>> 0dc1a976d65ec07d26878e56df7d6a40df29cfe7
     },
     "000252521.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -103,20 +126,35 @@
         "Marketing_authorisation_holder": "Fujimoto Pharmaceutical Corporation",
         "Drug_class": "Small molecule",
         "Pharmaceutical_form": "Capsules",
+<<<<<<< HEAD
+        "Administration_route": "Oral",
+        "Decision": "approved",
+        "Current_status": "authorised",
+        "Decision_date": "27.01.2021",
+=======
         "Administration_route": "oral",
         "Decision": "approved",
         "Current_status": "authorised",
         "Decision_date": "08.02.2021",
+>>>>>>> 0dc1a976d65ec07d26878e56df7d6a40df29cfe7
         "Decision_year": "2021",
         "Orphan_drug_status": "yes",
         "Indication_extended": "yes",
         "Indication_requested": "Crow-Fukase (POEMS) syndrome",
         "Indication_approved": "Relapsed or refractory multiple myeloma; Erythema nodosum leprosum; Crow-Fukase (POEMS) syndrome",
+<<<<<<< HEAD
+        "Disease_class(es)": "Neoplasms; Diseases of the blood and blood-forming organs; Endocrine, nutritional, and metabolic diseases; Diseases of the skin",
+        "Application_date": "26.03.2020",
+        "Application_year": "2020",
+        "Nonclinical_abridged": "yes",
+        "Referral_body": "Not reported"
+=======
         "Disease_class(es)": "Neoplasms; Diseases of the blood and blood-forming organs",
         "Application_date": "26.03.2020",
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
         "Document_name": "000252521.pdf"
+>>>>>>> 0dc1a976d65ec07d26878e56df7d6a40df29cfe7
     }
 }
