@@ -1,12 +1,14 @@
 import argparse
 import pandas as pd
 import json
+import matplotlib.pyplot as plt
 
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Compute agreement metrics per evaluation column.")
     parser.add_argument("--input_file", required=True, help="CSV file with evaluator verdicts.")
     parser.add_argument("--output_file", required=True, help="JSON file to save column-level metrics.")
+    parser.add_argument("--output_dir")
     return parser.parse_args()
 
 
@@ -44,6 +46,31 @@ def summarize_column(series):
         "mean_score": round(valid.mean(), 4) if not valid.empty else None
     }
 
+def plot_results(results, output_dir, output_name):
+
+    plt.figure(figsize=(8, 5))
+
+    labels = list(results.keys())
+    match_counts = [res['num_match'] for res in results.values()]
+    no_match_counts = [res['num_no_match'] for res in results.values()]
+    partial_counts = [res['num_partial'] for res in results.values()]
+
+    x = range(len(labels))
+
+    bar1 = plt.bar(x, match_counts, label='Match', color='seagreen')
+    bar2 = plt.bar(x, no_match_counts, bottom=match_counts, label='No Match', color='violet')
+    bar3 = plt.bar(x, partial_counts, bottom=[m + n for m, n in zip(match_counts, no_match_counts)], label='Partial', color='dodgerblue')
+
+
+    plt.xlabel('Columns')
+    plt.ylabel('Counts')
+    plt.xticks([i + 0.2 for i in x], labels, rotation=90)
+    plt.legend()
+    plt.tight_layout()
+    plt.grid(axis='y')
+    plt.savefig(f'{output_dir}/{output_name}.png')
+    plt.show()
+
 
 def main():
     args = parse_args()
@@ -65,6 +92,9 @@ def main():
         json.dump(results, f, indent=4)
 
     print(f"Results saved to {args.output_file}")
+
+    # Plot results
+    plot_results(results, args.output_dir, args.input_file.split('/')[-1].replace('.csv', ''))
 
 
 if __name__ == "__main__":
