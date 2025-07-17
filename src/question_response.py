@@ -326,7 +326,7 @@ Australia_pairs = {
         "response": "`Disease_class(es)` (string)"
     },
     "Application_date": {
-        "question": "What is the date when the formal application for drug approval was submitted and accepted by the authority? If the document contains a **timeline table**, extract the date corresponding to `Submission dossier accepted` or similar phrasing. If no table is available, extract the earliest date mentioned in the text where the dossier submission or formal acceptance of the application is described. Ignore any other dates such as `Orphan designation`, `evaluation rounds`, or `committee meetings`. Return the date in the format `dd.mm.yyyy`.",
+        "question": "What is the date when the formal application for drug approval was submitted to the authority? If the document contains a **timeline table**, extract the date corresponding to `Submission dossier accepted` or similar phrasing. If no table is available, extract the earliest date mentioned in the text where the dossier submission or formal acceptance of the application is described. Ignore any other dates such as `Orphan designation`, `evaluation rounds`, or `committee meetings`. Return the date in the format `dd.mm.yyyy`.",
         "response": "`Application_date` (string)"
     },
     "Application_year": {
