@@ -1,8 +1,8 @@
 #!/bin/bash
 # ==========================================================
 # TODO change the below arguments as needed
-FILE_LIST="data\randomized_data\Japan_5.txt"
-DATASET="Japan" # EMA, SwissMedic, Japan, Australia"
+FILE_LIST="data\randomized_data\EMA_5.txt"
+DATASET="EMA" # EMA, SwissMedic, Japan, Australia"
 # ==========================================================
 
 
