@@ -258,11 +258,11 @@ Japan_pairs = {
 }
 Australia_pairs = {
     "Marketing_authorisation_number": {
-        "question": "What is the marketing authorisation number? If not specified, write `Not reported`.",
+        "question": "What is the ARTG number (marketing authorisation number)? If not specified, write `Not reported`.",
         "response": "`Marketing_authorisation_number` (string)"
     },
     "Procedure_number": {
-        "question": "What is the procedure number? If not specified, write `Not reported`.",
+        "question": "What is the procedure number? It is stated at the end of each page. If not specified, write `Not reported`.",
         "response": "`Procedure_number` (string)."
     },
     "Drug_name": {
