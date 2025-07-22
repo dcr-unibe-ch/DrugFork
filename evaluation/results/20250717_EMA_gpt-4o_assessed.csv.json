@@ -75,7 +75,7 @@
         "num_total": 154,
         "num_valid": 154,
         "num_match": 143,
-        "num_no_match": 10,
+        "num_no_match": 11,
         "num_partial": 0,
         "mean_score": 0.9286
     },
@@ -89,11 +89,11 @@
     },
     "Indication_approved": {
         "num_total": 154,
-        "num_valid": 153,
-        "num_match": 131,
+        "num_valid": 154,
+        "num_match": 132,
         "num_no_match": 7,
         "num_partial": 15,
-        "mean_score": 0.8941
+        "mean_score": 0.8948
     },
     "Indication_extended": {
         "num_total": 154,
@@ -106,10 +106,10 @@
     "Indication_requested": {
         "num_total": 154,
         "num_valid": 154,
-        "num_match": 118,
-        "num_no_match": 20,
+        "num_match": 119,
+        "num_no_match": 23,
         "num_partial": 12,
-        "mean_score": 0.8052
+        "mean_score": 0.8117
     },
     "Marketing_authorisation_holder": {
         "num_total": 154,
@@ -137,11 +137,11 @@
     },
     "Nonclinical_abridged": {
         "num_total": 154,
-        "num_valid": 152,
+        "num_valid": 153,
         "num_match": 128,
-        "num_no_match": 24,
+        "num_no_match": 25,
         "num_partial": 0,
-        "mean_score": 0.8421
+        "mean_score": 0.8366
     },
     "Orphan_drug_status": {
         "num_total": 154,
@@ -154,10 +154,10 @@
     "Pharmaceutical_form": {
         "num_total": 154,
         "num_valid": 154,
-        "num_match": 136,
+        "num_match": 137,
         "num_no_match": 4,
         "num_partial": 13,
-        "mean_score": 0.9227
+        "mean_score": 0.9292
     },
     "Referral_body": {
         "num_total": 154,
