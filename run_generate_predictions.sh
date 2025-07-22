@@ -27,5 +27,5 @@ python ./src/generate_predictions.py\
     --model "gpt-4o" \
     --save_dir "./output" \
     --temperature "0.1" \
-    --max_tokens "1000" \
+    --max_tokens "1200" \
     --dataset "$DATASET" 
