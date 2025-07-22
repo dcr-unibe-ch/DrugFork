@@ -127,28 +127,34 @@ def process_files(args, file_list, client, model_name, save_dir, data_dir):
             file_path = os.path.join(data_dir, file_name)
             
             if os.path.exists(file_path):
-                text = handle_file(file_path, args.dataset)
-                if text:
-                    response = generate_response(text, 
-                                                 client, 
-                                                 model_name=model_name, 
-                                                 file_name=file_name, 
-                                                 question_response_pairs=dataset_pairs
-                                                )
-                    print(f"--- Response:\n{response}")
-                    existing_data[file_name] = response.get(file_name, "Error processing the file.")
-                else:
-                    existing_data[file_name] = "Error: No text extracted from the file."
+                try:
+                    print(f"--- File found: {file_path}")
+                    text = handle_file(file_path, args.dataset)
+                    if text:
+                        response = generate_response(text, 
+                                                    client, 
+                                                    model_name=model_name, 
+                                                    file_name=file_name, 
+                                                    question_response_pairs=dataset_pairs
+                                                    )
+                        print(f"--- Response:\n{response}")
+                        existing_data[file_name] = response.get(file_name, "Error processing the file.")
+                    else:
+                        existing_data[file_name] = "Error: No text extracted from the file."
+                except Exception as e:
+                    print(f"--- Error processing file {file_name}: {str(e)}")
+                    existing_data[file_name] = f"Error: {str(e)}"
             else:
                 existing_data[file_name] = "Error: File not found."
-    
-    with open(output_file, 'w') as f:
-        json.dump(existing_data, f, indent=4)
+
+            with open(output_file, 'w') as f:
+                json.dump(existing_data, f, indent=4)
+
+    # with open(output_file, 'w') as f:
+    #     json.dump(existing_data, f, indent=4)
     print(f"All responses saved to {output_file}")
 
-    save_to_csv(existing_data, 
-                output_file_csv, 
-                question_response_pairs=dataset_pairs)
+    save_to_csv(existing_data, output_file_csv, question_response_pairs=dataset_pairs)
     print(f"All responses saved to {output_file_csv}")
 
 def main():
