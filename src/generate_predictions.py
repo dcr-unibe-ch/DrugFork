@@ -31,11 +31,18 @@ def parse_arguments():
     parser.add_argument("--dataset", type=str, required=True, help="Dataset name")
     return parser.parse_args()
 
-def handle_file(file_path):
+def handle_file(file_path, dataset_name):
     """Extract text from the PDF file."""
     if file_path.endswith('.pdf'):
         reader = PdfReader(file_path)
-        max_pages = 80
+        if dataset_name == "Australia":
+            max_pages = 40
+        elif dataset_name == "Japan":
+            max_pages = 60
+        elif dataset_name == "SwissMedic" or dataset_name == "EMA":
+            max_pages = 70
+        else:
+            max_pages = 80
         text = "".join([page.extract_text() or '' for page in reader.pages[:max_pages]])
     else:
         return None
@@ -120,7 +127,7 @@ def process_files(args, file_list, client, model_name, save_dir, data_dir):
             file_path = os.path.join(data_dir, file_name)
             
             if os.path.exists(file_path):
-                text = handle_file(file_path)
+                text = handle_file(file_path, args.dataset)
                 if text:
                     response = generate_response(text, 
                                                  client, 
