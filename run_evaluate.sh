@@ -3,7 +3,7 @@
 # ==========================================================
 # TODO change the below argument as needed
 
-INPUT_FILE="20250717_Japan_gpt-4o_assessed.csv"
+INPUT_FILE="20250717_EMA_gpt-4o_assessed.csv"
 
 # ==========================================================
 

@@ -1,0 +1,170 @@
+{
+    "Administration_route": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 149,
+        "num_no_match": 2,
+        "num_partial": 3,
+        "mean_score": 0.9773
+    },
+    "Application_date": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 152,
+        "num_no_match": 2,
+        "num_partial": 0,
+        "mean_score": 0.987
+    },
+    "Application_year": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 148,
+        "num_no_match": 6,
+        "num_partial": 0,
+        "mean_score": 0.961
+    },
+    "Current_status": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 150,
+        "num_no_match": 4,
+        "num_partial": 0,
+        "mean_score": 0.974
+    },
+    "Decision_date": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 145,
+        "num_no_match": 7,
+        "num_partial": 2,
+        "mean_score": 0.9455
+    },
+    "Decision": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 143,
+        "num_no_match": 6,
+        "num_partial": 5,
+        "mean_score": 0.9448
+    },
+    "Decision_year": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 142,
+        "num_no_match": 12,
+        "num_partial": 0,
+        "mean_score": 0.9221
+    },
+    "Disease_class(es)": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 91,
+        "num_no_match": 9,
+        "num_partial": 54,
+        "mean_score": 0.7753
+    },
+    "Document_name": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 154,
+        "num_no_match": 0,
+        "num_partial": 0,
+        "mean_score": 1.0
+    },
+    "Drug_class": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 143,
+        "num_no_match": 10,
+        "num_partial": 0,
+        "mean_score": 0.9286
+    },
+    "Drug_name": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 151,
+        "num_no_match": 3,
+        "num_partial": 0,
+        "mean_score": 0.9805
+    },
+    "Indication_approved": {
+        "num_total": 154,
+        "num_valid": 153,
+        "num_match": 131,
+        "num_no_match": 7,
+        "num_partial": 15,
+        "mean_score": 0.8941
+    },
+    "Indication_extended": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 136,
+        "num_no_match": 18,
+        "num_partial": 0,
+        "mean_score": 0.8831
+    },
+    "Indication_requested": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 118,
+        "num_no_match": 20,
+        "num_partial": 12,
+        "mean_score": 0.8052
+    },
+    "Marketing_authorisation_holder": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 146,
+        "num_no_match": 8,
+        "num_partial": 0,
+        "mean_score": 0.9481
+    },
+    "Marketing_authorisation_number": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 123,
+        "num_no_match": 20,
+        "num_partial": 11,
+        "mean_score": 0.8532
+    },
+    "Non_proprietary_name": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 152,
+        "num_no_match": 2,
+        "num_partial": 0,
+        "mean_score": 0.987
+    },
+    "Nonclinical_abridged": {
+        "num_total": 154,
+        "num_valid": 152,
+        "num_match": 128,
+        "num_no_match": 24,
+        "num_partial": 0,
+        "mean_score": 0.8421
+    },
+    "Orphan_drug_status": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 149,
+        "num_no_match": 5,
+        "num_partial": 0,
+        "mean_score": 0.9675
+    },
+    "Pharmaceutical_form": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 136,
+        "num_no_match": 4,
+        "num_partial": 13,
+        "mean_score": 0.9227
+    },
+    "Referral_body": {
+        "num_total": 154,
+        "num_valid": 154,
+        "num_match": 0,
+        "num_no_match": 0,
+        "num_partial": 0,
+        "mean_score": 0.0
+    }
+}
