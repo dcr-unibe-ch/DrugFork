@@ -141,14 +141,15 @@ def process_files(args, file_list, client, model_name, save_dir, data_dir):
                     existing_data[file_name] = "Error: No text extracted from the file."
             else:
                 existing_data[file_name] = "Error: File not found."
-    
-    with open(output_file, 'w') as f:
-        json.dump(existing_data, f, indent=4)
+
+            with open(output_file, 'w') as f:
+                json.dump(existing_data, f, indent=4)
+
+    # with open(output_file, 'w') as f:
+    #     json.dump(existing_data, f, indent=4)
     print(f"All responses saved to {output_file}")
 
-    save_to_csv(existing_data, 
-                output_file_csv, 
-                question_response_pairs=dataset_pairs)
+    save_to_csv(existing_data, output_file_csv, question_response_pairs=dataset_pairs)
     print(f"All responses saved to {output_file_csv}")
 
 def main():
