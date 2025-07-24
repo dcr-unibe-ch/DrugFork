@@ -2,9 +2,9 @@
 
 # =================================================
 # TODO
-DATASET="SWISSMEDIC" # EMA, JAPAN, AUSTRALIA, SWISSMEDIC
-EVAL="evaluation\output\20250717_SwissMedic_gpt-4o.json"
-INFERENCE="output\20250722_SwissMedic_gpt-4o.json"
+DATASET="EMA" # EMA, JAPAN, AUSTRALIA, SWISSMEDIC
+EVAL="evaluation\output\20250717_EMA_gpt-4o.json"
+INFERENCE="output\20250722_EMA_gpt-4o.json"
 # ==================================================
 
 
