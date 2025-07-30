@@ -1,8 +1,8 @@
 #!/bin/bash
 # ==========================================================
 # TODO change the below arguments as needed
-FILE_LIST="data/inference_data/SwissPAR_clean.txt"
-DATASET="SwissMedic" # EMA, SwissMedic, Japan, Australia"
+FILE_LIST="data/inference_data/Australia_clean.txt"
+DATASET="Australia" # EMA, SwissMedic, Japan, Australia"
 # ==========================================================
 
 
