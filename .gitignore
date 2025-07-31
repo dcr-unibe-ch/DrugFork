@@ -14,7 +14,6 @@ __pycache__/
 /data/Japan/Japan_PAR_download
 data/Australia/AusPAR_download
 data/AusPAR/AusPAR_merged.csv
-data/HealthCanada/allfiles
 data/HealthCanada/ProductMonographs
 
 # C extensions
