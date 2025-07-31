@@ -6,9 +6,10 @@ from openai import OpenAI
 import openai
 
 
-system_prompt_holder = "Extract the core parent company (corporation) name from each of the following full legal company names. Remove any legal suffixes (e.g., Ltd, Limited, S.L., S.A., S.R.L.), country identifiers, or ownership types. Return only the base company name that is shared across all legal variations. If there are words like 'Group' or 'Company' or 'Pharma', etc., please drop them. We only need the unique core names of the corporation. For example, 'Takeda Pharmaceutical Company' should be returned as 'Takeda'; instead of 'Kowa Company', return 'Kowa'. If no holder name provided, return 'Not Reported'"
-system_prompt_disease_approved = "You are a medical expert. Your role is to extract disease names from approved indications for drug use. Return only the disease names in a comma-separated format. You should return MeSH terms on the level of concepts. For example: write 'Influenza' instead of 'Influenza A'; write 'Ovarian Neoplasms' instead of 'Overian Cancer, Recurrent Ovarian Cancer'. Return only disease names and not the type of medication the patient receives (e.g. 'Chemotherapy' or 'Dialysis' are not relevant). Avoid any presumptions and stick to the text provided. If no disease name provided, return 'Not Reported'"
-system_prompt_disease_requested = "You are a medical expert. Your role is to extract disease names from requested indications for drug use. Return only the disease names in a comma-separated format. You should return MeSH terms on the level of concepts. For example: write 'Influenza' instead of 'Influenza A'; write 'Ovarian Neoplasms' instead of 'Overian Cancer, Recurrent Ovarian Cancer'. Return only disease names and not the type of medication the patient receives (e.g. 'Chemotherapy' or 'Dialysis' are not relevant). Avoid any presumptions and stick to the text provided. If no disease name provided, return 'Not Reported'"
+system_prompt_holder = "Extract the core parent company (corporation) name from each of the following full legal company names. If no holder name provided, return 'Not Reported'. Remove any legal suffixes (e.g., Ltd, Limited, S.L., S.A., S.R.L.), country identifiers, or ownership types. Return only the base company name that is shared across all legal variations. If there are words like 'Group' or 'Company' or 'Pharma', etc., please drop them. We only need the unique core names of the corporation. For example, 'Takeda Pharmaceutical Company' should be returned as 'Takeda'; instead of 'Kowa Company', return 'Kowa'. No other comments or explanations are allowed."
+system_prompt_disease_approved = "You are a medical expert. Your role is to extract disease names from approved indications for drug use. If no disease name provided, return 'Not Reported'. Return only the disease names, enclosing them into angle brackets and separating them with a semicolon if there are multiple disease names. You should return MeSH terms on the level of concepts. For example: write <Influenza> instead of <Influenza A>; write <Ovarian Neoplasms> instead of <Overian Cancer>; <Recurrent Ovarian Cancer>. Return only disease names and not the type of medication the patient receives (e.g. 'Chemotherapy' or 'Dialysis' are not relevant). Avoid any presumptions and stick to the text provided. Use proper MeSH-standard casing and phrasing where applicable. No other comments or explanations are allowed."
+system_prompt_disease_requested = "You are a medical expert. Your role is to extract disease names from requested indications for drug use. If no disease name provided, return 'Not Reported'. Return only the disease names, enclosing them into angle brackets and separating them with a semicolon if there are multiple disease names. You should return MeSH terms on the level of concepts. For example: write <Influenza> instead of <Influenza A>; write <Ovarian Neoplasms> instead of <Overian Cancer>; <Recurrent Ovarian Cancer>. Return only disease names and not the type of medication the patient receives (e.g. 'Chemotherapy' or 'Dialysis' are not relevant). Avoid any presumptions and stick to the text provided. Use proper MeSH-standard casing and phrasing where applicable. No other comments or explanations are allowed."
+
 
 def load_env_variables():
     """Load environment variables from .env file."""
@@ -68,26 +69,32 @@ def main():
     if args.slice != -1:
         input_file = {k: v for k, v in list(input_file.items())[:args.slice]}
 
+    if args.save_file:
+        os.makedirs(os.path.dirname(args.save_file), exist_ok=True)
+
     for column_of_interest in args.columns_of_interest:
         system_prompt, output_field = get_prompt_for_column(column_of_interest)
 
         for key, value in input_file.items():
-            input = value.get(column_of_interest, "").strip()
-            if input:
-                target = extract_data(system_prompt, input, args.model, args.temperature, args.max_tokens)
-                print(f"Source:\t{input}\n--Target:\t{target}")
-                print()
-                input_file[key][output_field] = target
+            if not isinstance(value, dict):
+                print(f"[WARN] Skipped key '{key}' – expected dict, got {type(value).__name__}")
+                continue
             else:
-                print(f"Source:\t{input}\n--Target:\tNo data found")
-                print()
-                input_file[key][output_field] = None
+                input = value.get(column_of_interest, "").strip()
+                
+                if input:
+                    target = extract_data(system_prompt, input, args.model, args.temperature, args.max_tokens)
+                    print(f"Source:\t{input}\n--Target:\t{target}")
+                    print()
+                    input_file[key][output_field] = target
+                else:
+                    print(f"Source:\t{input}\n--Target:\tNo data found")
+                    print()
+                    input_file[key][output_field] = None
 
-    if args.save_file:
-        os.makedirs(os.path.dirname(args.save_file), exist_ok=True)
-        with open(args.save_file, 'w') as output_file:
-            json.dump(input_file, output_file, indent=4)
-        print(f"Data saved to {args.save_file}")
+
+            with open(args.save_file, 'w') as output_file:
+                json.dump(input_file, output_file, indent=4)
 
 
 if __name__ == "__main__":

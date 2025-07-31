@@ -1,34 +1,46 @@
 #!/bin/bash
 # ==========================================================
 # TODO change the below arguments as needed
-DATASET="JAPAN" # EMA, SWISSMEDIC, JAPAN, AUSTRALIA"
-INPUT_FILE="inference/combined/$DATASET.json"
+DATASETS=(
+    # "JAPAN" 
+    "AUSTRALIA" 
+    "EMA" 
+    # "SWISSMEDIC"
+)
 
-# iterate over the columns of interest
+for DATASET in "${DATASETS[@]}"; do
+    echo "Processing dataset: $DATASET"
 
-COLUMNS_OF_INTEREST=("Indication_approved" "Marketing_authorisation_holder" "Indication_requested")
+    INPUT_FILE="inference/combined/$DATASET.json"
 
-# ==========================================================
+    # iterate over the columns of interest
 
-SAVE_DIR="./inference/combined/with_extracted_data"
-mkdir -p "$SAVE_DIR"
+    COLUMNS_OF_INTEREST=("Indication_approved" "Marketing_authorisation_holder" "Indication_requested")
 
-python ./src/extract_from_columns.py\
-    --input_file "$INPUT_FILE" \
-    --columns_of_interest "${COLUMNS_OF_INTEREST[@]}" \
-    --slice 2 \
-    --model "gpt-4o" \
-    --save_file "$SAVE_DIR/$DATASET.json" \
-    --temperature "0.1" \
-    --max_tokens "1000" \
-    --dataset "$DATASET" 
+    # ==========================================================
+
+    SAVE_DIR="./inference/combined/with_extracted_data"
+    mkdir -p "$SAVE_DIR"
+
+    python ./src/extract_from_columns.py\
+        --input_file "$INPUT_FILE" \
+        --columns_of_interest "${COLUMNS_OF_INTEREST[@]}" \
+        --slice -1 \
+        --model "gpt-4o" \
+        --save_file "$SAVE_DIR/$DATASET.json" \
+        --temperature "0.1" \
+        --max_tokens "1000" \
+        --dataset "$DATASET" 
 
 
-echo "Extraction completed. Output saved to $SAVE_DIR/$DATASET.json"
-echo "Converting JSON to CSV..."
+    echo "Extraction completed. Output saved to $SAVE_DIR/$DATASET.json"
+    echo "Converting JSON to CSV..."
 
-python ./src/json_to_csv.py\
-    --input_file "$SAVE_DIR/$DATASET.json" \
-    --output_file "$SAVE_DIR/$DATASET.csv" \
+    python ./src/json_to_csv.py\
+        --input_file "$SAVE_DIR/$DATASET.json" \
+        --output_file "$SAVE_DIR/$DATASET.csv" \
 
-echo "Conversion completed. Output saved to $SAVE_DIR/$DATASET.csv"
+    echo "Conversion completed. Output saved to $SAVE_DIR/$DATASET.csv"
+    
+
+done
