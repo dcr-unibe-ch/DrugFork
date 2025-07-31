@@ -34,13 +34,13 @@ for DATASET in "${DATASETS[@]}"; do
 
 
     echo "Extraction completed. Output saved to $SAVE_DIR/$DATASET.json"
-    echo "Converting JSON to CSV..."
+    # echo "Converting JSON to CSV..."
 
-    python ./src/json_to_csv.py\
-        --input_file "$SAVE_DIR/$DATASET.json" \
-        --output_file "$SAVE_DIR/$DATASET.csv" \
+    # python ./src/json_to_csv.py\
+    #     --input_file "$SAVE_DIR/$DATASET.json" \
+    #     --output_file "$SAVE_DIR/$DATASET.csv" \
 
-    echo "Conversion completed. Output saved to $SAVE_DIR/$DATASET.csv"
+    # echo "Conversion completed. Output saved to $SAVE_DIR/$DATASET.csv"
     
 
 done
