@@ -1,8 +1,8 @@
 #!/bin/bash
 # ==========================================================
 # TODO change the below arguments as needed
-INPUT_FILE="inference/combined/with_extracted_data/JAPAN.json"
-DATASET="SWISSMEDIC" # EMA, SWISSMEDIC, JAPAN, AUSTRALIA"
+DATASET="JAPAN" # EMA, SWISSMEDIC, JAPAN, AUSTRALIA"
+INPUT_FILE="inference/combined/$DATASET.json"
 
 # iterate over the columns of interest
 
