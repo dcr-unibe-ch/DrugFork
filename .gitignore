@@ -15,6 +15,7 @@ __pycache__/
 data/Australia/AusPAR_download
 data/AusPAR/AusPAR_merged.csv
 data/HealthCanada/ProductMonographs
+data/FDA/drug-event-0034-of-0034.json
 
 # C extensions
 *.sos
