@@ -17076,6 +17076,7 @@
     "Administration route": "Injection",
     "Decision": "Approved",
     "Decision date": "09.03.1994",
+    "Orphan_drug_status": "yes",
     "Current status": "authorised",
     "Non-clinical abridge": "no",
     "Referral": "No"
@@ -30238,6 +30239,7 @@
     "Administration route": "INTRAVENOUS",
     "Decision": "Approved",
     "Decision date": "01.05.2012",
+    "Orphan_drug_status": "yes",
     "Current status": "authorised",
     "Non-clinical abridge": "no",
     "Referral": "No"
@@ -38358,6 +38360,7 @@
     "Administration route": "INJECTION, ORAL",
     "Decision": "Approved",
     "Decision date": "10.06.1974",
+    "Orphan_drug_status": "yes",
     "Current status": "Discontinued",
     "Non-clinical abridge": "no",
     "Referral": "No"
@@ -71682,6 +71685,7 @@
     "Administration route": "INJECTION",
     "Decision": "Approved",
     "Decision date": "25.05.1989",
+    "Orphan_drug_status": "yes",
     "Current status": "authorised",
     "Non-clinical abridge": "no",
     "Referral": "Yes"
@@ -99236,6 +99240,7 @@
     "Administration route": "ORAL",
     "Decision": "Approved",
     "Decision date": "30.01.1991",
+    "Orphan_drug_status": "yes",
     "Current status": "authorised",
     "Non-clinical abridge": "no",
     "Referral": "Yes"
@@ -107539,6 +107544,7 @@
     "Administration route": "INTRAVENOUS, SUBCUTANEOUS",
     "Decision": "Approved",
     "Decision date": "21.05.2002",
+    "Orphan_drug_status": "yes",
     "Current status": "authorised",
     "Non-clinical abridge": "no",
     "Referral": "Yes"
@@ -108575,6 +108581,7 @@
     "Administration route": "ORAL",
     "Decision": "Approved",
     "Decision date": "06.04.2011",
+    "Orphan_drug_status": "yes",
     "Current status": "authorised",
     "Non-clinical abridge": "no",
     "Referral": "Yes"
@@ -136409,6 +136416,7 @@
     "Administration route": "INTRAVENOUS, SUBCUTANEOUS",
     "Decision": "Approved",
     "Decision date": "30.07.2018",
+    "Orphan_drug_status": "yes",
     "Current status": "Discontinued",
     "Non-clinical abridge": "no",
     "Referral": "No"
@@ -182582,6 +182590,7 @@
     "Administration route": "INTRAPLEURAL",
     "Decision": "Approved",
     "Decision date": "24.12.1997",
+    "Orphan_drug_status": "yes",
     "Current status": "authorised",
     "Non-clinical abridge": "no",
     "Referral": "Yes"
@@ -185410,6 +185419,7 @@
     "Administration route": "SUBCUTANEOUS",
     "Decision": "Approved",
     "Decision date": "22.06.2017",
+    "Orphan_drug_status": "yes",
     "Current status": "authorised",
     "Non-clinical abridge": "no",
     "Referral": "No"
@@ -186236,6 +186246,7 @@
     "Administration route": "IV (INFUSION)",
     "Decision": "Approved",
     "Decision date": "22.02.2002",
+    "Orphan_drug_status": "yes",s
     "Current status": "authorised",
     "Non-clinical abridge": "no",
     "Referral": "No"
@@ -291280,6 +291291,7 @@
     "Administration route": "SUBCUTANEOUS",
     "Decision": "Approved",
     "Decision date": "21.12.2012",
+    "Orphan_drug_status": "yes",
     "Current status": "authorised",
     "Non-clinical abridge": "no",
     "Referral": "Yes"
@@ -298575,6 +298587,7 @@
     "Administration route": "INJECTION",
     "Decision": "Approved",
     "Decision date": "14.07.1992",
+    "Orphan_drug_status": "yes",
     "Current status": "Discontinued",
     "Non-clinical abridge": "no",
     "Referral": "Yes"
@@ -306611,6 +306624,7 @@
     "Administration route": "INTRAVENOUS",
     "Decision": "Approved",
     "Decision date": "20.08.2001",
+    "Orphan_drug_status": "yes",
     "Current status": "Discontinued",
     "Non-clinical abridge": "no",
     "Referral": "Yes"
@@ -337693,6 +337707,7 @@
     "Administration route": "ORAL",
     "Decision": "Approved",
     "Decision date": "07.06.2017",
+    "Orphan_drug_status": "yes",
     "Current status": "authorised",
     "Non-clinical abridge": "no",
     "Referral": "Yes"
@@ -368789,6 +368804,7 @@
     "Administration route": "INTRAVENOUS",
     "Decision": "Approved",
     "Decision date": "26.11.1997",
+    "Orphan_drug_status": "yes",
     "Current status": "authorised",
     "Non-clinical abridge": "no",
     "Referral": "No"
@@ -379458,6 +379474,7 @@
     "Administration route": "ORAL",
     "Decision": "Approved",
     "Decision date": "03.05.2019",
+    "Orphan_drug_status": "yes",
     "Current status": "authorised",
     "Non-clinical abridge": "no",
     "Referral": "Yes"
