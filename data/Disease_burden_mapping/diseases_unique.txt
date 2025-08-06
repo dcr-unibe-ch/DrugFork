@@ -1,0 +1,219 @@
+Breast cancer
+Cervical cancer
+Uterine cancer
+Prostate cancer
+Colon and rectum cancer
+Lip and oral cavity cancer
+Nasopharynx cancer
+Other pharynx cancer
+Gallbladder and biliary tract cancer
+Pancreatic cancer
+Malignant skin melanoma
+Non-melanoma skin cancer
+Ovarian cancer
+Testicular cancer
+Kidney cancer
+Bladder cancer
+Brain and central nervous system cancer
+Thyroid cancer
+Mesothelioma
+Hodgkin lymphoma
+Non-Hodgkin lymphoma
+Multiple myeloma
+Leukemia
+Other malignant neoplasms
+Other neoplasms
+Rheumatic heart disease
+Thalassemias
+Sickle cell disorders
+G6PD deficiency
+Other hemoglobinopathies and hemolytic anemias
+Rheumatoid arthritis
+Other musculoskeletal disorders
+Neural tube defects
+Congenital heart anomalies
+Orofacial clefts
+Down syndrome
+Other chromosomal abnormalities
+Congenital musculoskeletal and limb anomalies
+Urogenital congenital anomalies
+Digestive congenital anomalies
+Other congenital birth defects
+Typhoid and paratyphoid
+Invasive Non-typhoidal Salmonella (iNTS)
+Bacterial skin diseases
+Maternal abortion and miscarriage
+Pulmonary Arterial Hypertension
+Other nutritional deficiencies
+Syphilis
+Chlamydial infection
+Gonococcal infection
+Other sexually transmitted infections
+Acute hepatitis
+Other unspecified infectious diseases
+Esophageal cancer
+Stomach cancer
+Liver cancer
+Larynx cancer
+Tracheal, bronchus, and lung cancer
+Alcohol use disorders
+Drug use disorders
+Eating disorders
+Diabetes mellitus
+Acute glomerulonephritis
+Chronic kidney disease
+Urinary tract infections and interstitial nephritis
+Urolithiasis
+Other urinary diseases
+Uterine fibroids
+Endometriosis
+Genital prolapse
+Other gynecological diseases
+Police conflict and executions
+Zika virus
+Conflict and terrorism
+Malaria
+Chagas disease
+Leishmaniasis
+African trypanosomiasis
+Schistosomiasis
+Cysticercosis
+Cystic echinococcosis
+Dengue
+Yellow fever
+Rabies
+Intestinal nematode infections
+Other neglected tropical diseases
+Maternal hemorrhage
+Maternal sepsis and other maternal infections
+Maternal hypertensive disorders
+Maternal obstructed labor and uterine rupture
+Ectopic pregnancy
+Indirect maternal deaths
+Late maternal deaths
+Other direct maternal disorders
+Neonatal preterm birth
+Neonatal encephalopathy due to birth asphyxia and trauma
+Neonatal sepsis and other neonatal infections
+Hemolytic disease and other neonatal jaundice
+Other neonatal disorders
+Protein-energy malnutrition
+Peptic ulcer disease
+Gastritis and duodenitis
+Appendicitis
+Paralytic ileus and intestinal obstruction
+Inguinal, femoral, and abdominal hernia
+Inflammatory bowel disease
+Vascular intestinal disorders
+Gallbladder and biliary diseases
+Pancreatitis
+Other digestive diseases
+Alzheimer's disease and other dementias
+Parkinson's disease
+Idiopathic epilepsy
+Multiple sclerosis
+Motor neuron disease
+Other neurological disorders
+Adverse effects of medical treatment
+Animal contact
+Foreign body
+Self-harm
+Interpersonal violence
+Exposure to forces of nature
+Maternal deaths aggravated by HIV/AIDS
+Environmental heat and cold exposure
+Ebola
+All causes
+Tuberculosis
+HIV/AIDS
+Diarrheal diseases
+Other intestinal infectious diseases
+Lower respiratory infections
+Upper respiratory infections
+Otitis media
+Meningitis
+Encephalitis
+Diphtheria
+Pertussis
+Tetanus
+Measles
+Varicella and herpes zoster
+Ischemic heart disease
+Stroke
+Hypertensive heart disease
+Cardiomyopathy and myocarditis
+Atrial fibrillation and flutter
+Aortic aneurysm
+Lower extremity peripheral arterial disease
+Endocarditis
+Non-rheumatic valvular heart disease
+Other cardiovascular and circulatory diseases
+Chronic obstructive pulmonary disease
+Pneumoconiosis
+Asthma
+Interstitial lung disease and pulmonary sarcoidosis
+Other chronic respiratory diseases
+Cirrhosis and other chronic liver diseases
+Decubitus ulcer
+Other skin and subcutaneous diseases
+Sudden infant death syndrome
+Road injuries
+Other transport injuries
+Falls
+Drowning
+Fire, heat, and hot substances
+Poisonings
+Exposure to mechanical forces
+Eye cancer
+Soft tissue and other extraosseous sarcomas
+Malignant neoplasm of bone and articular cartilage
+Neuroblastoma and other peripheral nervous cell tumors
+COVID-19
+Other unintentional injuries
+Bipolar disorder
+Anxiety disorders
+Autism spectrum disorders
+Attention-deficit/hyperactivity disorder
+Conduct disorder
+Idiopathic developmental intellectual disability
+Lymphatic filariasis
+Onchocerciasis
+Trachoma
+Other mental disorders
+Benign prostatic hyperplasia
+Blindness and vision loss
+Food-borne trematodiases
+Male infertility
+Polycystic ovarian syndrome
+Female infertility
+Premenstrual syndrome
+Osteoarthritis
+Low back pain
+Neck pain
+Gout
+Iodine deficiency
+Vitamin A deficiency
+Dietary iron deficiency
+Gastroesophageal reflux disease
+Turner syndrome
+Klinefelter syndrome
+Dermatitis
+Psoriasis
+Scabies
+Fungal skin diseases
+Viral skin diseases
+Trichomoniasis
+Genital herpes
+Leprosy
+Guinea worm disease
+Migraine
+Tension-type headache
+Schizophrenia
+Depressive disorders
+Acne vulgaris
+Alopecia areata
+Pruritus
+Urticaria
+Age-related and other hearing loss
+Other sense organ diseases
+Oral disorders
