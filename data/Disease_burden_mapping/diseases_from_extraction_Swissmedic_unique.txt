@@ -6,7 +6,6 @@ Acute Bacterial Skin and Skin Structure Infections
 Alagille Syndrome
 Alpha-Mannosidosis
 Amyloidosis
-Anaemia
 Anemia
 Anemia, Sickle Cell
 Angioedema, Hereditary
@@ -25,7 +24,6 @@ Bacteremia
 Blastic Plasmacytoid Dendritic Cell Neoplasm
 Brain Neoplasms
 Breast Neoplasms
-COVID-19
 Cardia Stenosis
 Cardiovascular Diseases
 Central Nervous System Hemangioblastoma
@@ -38,7 +36,6 @@ Cholestasis
 Chronic Cough
 Chronic Hepatitis Delta
 Chronic Kidney Disease
-Chronic Kidney Diseases
 Chronic Liver Disease
 Colitis
 Colitis, Ulcerative
@@ -54,7 +51,6 @@ Dengue
 Depressive Disorder, Treatment-Resistant
 Dermatitis, Atopic
 Diabetes Mellitus
-Diabetes Mellitus, Type 2
 Diabetic Macular Edema
 Diabetic Retinopathy
 Diffuse Large B-Cell Lymphoma
@@ -129,7 +125,6 @@ Malignant Hypertension
 Mantle Cell Lymphoma
 Mastocytosis, Systemic
 Medullary Carcinoma, Thyroid
-Medullary Thyroid Cancer
 Melanoma
 Methylmalonic Acidemia
 Migraine Disorders
@@ -148,10 +143,7 @@ Nephrolithiasis
 Neuroblastoma
 Neurofibromatosis 1
 Neuromyelitis Optica
-Neuromyelitis Optica Spectrum Disorder
-Non-Small Cell Lung Cancer
 Non-Small Cell Lung Carcinoma
-Non-Small-Cell Lung Carcinoma
 Nonproductive Cough
 Not Reported
 Obesity

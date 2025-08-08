@@ -6,7 +6,6 @@ Acne Vulgaris
 Acquired Immunodeficiency Syndrome
 Actinic Keratosis
 Acute Coronary Syndrome
-Acute Coronary Syndromes
 Acute Graft vs Host Disease
 Acute Myeloid Leukemia
 Acute Pain
@@ -27,11 +26,9 @@ Angina, Stable
 Angina, Unstable
 Angioedema
 Angioedema, Hereditary
-Angioedemas, Hereditary
 Ankylosing Spondylitis
 Anovulation
 Anxiety Disorders
-Aplastic Anemia
 Apnea of Prematurity
 Arthritis
 Arthritis, Juvenile
@@ -43,11 +40,9 @@ Aspergillosis
 Asthma
 Astrocytoma
 Atherosclerosis
-Atherosclerotic Cardiovascular Disease
 Atrial Fibrillation
 Atrial Flutter
-Atrophy
-Attention Deficit Disorder with Hyperactivity
+Vaginal Atrophy
 Attention Deficit Hyperactivity Disorder
 Autism Spectrum Disorder
 Axial Spondyloarthritis
@@ -57,7 +52,6 @@ Bacterial Conjunctivitis
 Bacterial Skin Diseases
 Basal Cell Carcinoma
 Beta Thalassemia
-Beta-Thalassemia
 Binge-Eating Disorder
 Bipolar Disorder
 Bladder Neoplasms
@@ -70,7 +64,6 @@ Bronchitis, Chronic
 Burns
 CMV Infections
 COPD
-COVID-19
 Cancer
 Cancer Pain
 Candida Infections
@@ -129,7 +122,6 @@ Connective Tissue Diseases
 Constipation
 Contraception
 Coronary Artery Disease
-Coronary Disease
 Coronavirus Disease 2019
 Coronavirus Infections
 Crohn Disease
@@ -145,7 +137,6 @@ Depressive Disorder, Major
 Depressive Disorder, Treatment-Resistant
 Dermatitis, Atopic
 Diabetes Mellitus
-Diabetes Mellitus, Type 2
 Diabetic Macular Edema
 Diabetic Retinopathy
 Diarrhea
@@ -172,7 +163,6 @@ Epilepsy, Lennox-Gastaut Syndrome
 Epilepsy, Myoclonic
 Epilepsy, Partial
 Erectile Dysfunction
-Error: PyCryptodome is required for AES algorithm
 Erythropoietic Protoporphyria
 Esophageal Candidiasis
 Esophageal and Gastric Varices
@@ -202,7 +192,6 @@ Genital Warts
 Giant Cell Arteritis
 Giant Cell Tumor of Bone
 Glabellar Frown Lines
-Glabellar Lines
 Glaucoma, Open-Angle
 Glioblastoma
 Glioma
@@ -211,7 +200,6 @@ Gout
 Graft vs Host Disease
 Granulomatosis with Polyangiitis
 Growth Hormone Deficiency
-Guillain-Barre Syndrome
 Guillain-Barré Syndrome
 HIV Infections
 Haemophilus Infections
@@ -369,9 +357,7 @@ Neutropenia
 Niemann-Pick Disease, Type C
 Nocturia
 Non-Hodgkin Lymphoma
-Non-Small Cell Lung Cancer
 Non-Small Cell Lung Carcinoma
-Non-Small-Cell Lung Carcinoma
 Not Reported
 Obesity
 Obstetric Labor Complications
@@ -393,7 +379,6 @@ Ovarian Neoplasms
 Overactive Bladder
 Overweight
 Paget's Disease
-Paget's Disease, Bone
 Pain
 Pancreatic Exocrine Insufficiency
 Pancreatic Neoplasms
@@ -405,12 +390,10 @@ Partial Seizures
 Patent Ductus Arteriosus
 Pathologic Myopia
 Peripheral Arterial Disease
-Peripheral Artery Disease
 Peripheral T-Cell Lymphoma
 Peritoneal Neoplasms
 Pertussis
 Peyronie Disease
-Peyronie's Disease
 Phenylketonurias
 Plaque Psoriasis
 Pneumococcal Infections
@@ -440,7 +423,6 @@ Premature Ejaculation
 Premenstrual Dysphoric Disorder
 Preterm Birth
 Primary Hyperoxaluria
-Primary Hyperoxaluria Type 1
 Primary Immunodeficiency Diseases
 Primary Insomnia
 Primary Myelofibrosis
@@ -478,7 +460,6 @@ Rhinitis, Allergic, Seasonal
 Rhinoconjunctivitis
 Rhinosinusitis
 Rosacea
-SARS-CoV-2 Infections
 Sarcoma
 Scabies
 Schizoaffective Disorder
@@ -580,4 +561,3 @@ Waldenstrom Macroglobulinemia
 Wilson Disease
 X-linked Hypophosphatemia
 von Willebrand Disease
-von Willebrand Diseases
