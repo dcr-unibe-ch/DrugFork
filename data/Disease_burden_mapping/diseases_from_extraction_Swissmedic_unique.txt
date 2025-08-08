@@ -1,0 +1,248 @@
+Acid Sphingomyelinase Deficiency
+Acne Vulgaris
+Acquired Immunodeficiency Syndrome
+Actinic Keratosis
+Acute Bacterial Skin and Skin Structure Infections
+Alagille Syndrome
+Alpha-Mannosidosis
+Amyloidosis
+Anaemia
+Anemia
+Anemia, Sickle Cell
+Angioedema, Hereditary
+Ankylosing Spondylitis
+Aortic Dissection
+Arbovirus Infections
+Arthritis, Psoriatic
+Asthma
+Atherosclerosis
+Atrial Fibrillation
+Atrial Flutter
+Atypical Hemolytic Uremic Syndrome
+Axial Spondyloarthritis
+B-Cell Precursor Acute Lymphoblastic Leukemia
+Bacteremia
+Blastic Plasmacytoid Dendritic Cell Neoplasm
+Brain Neoplasms
+Breast Neoplasms
+COVID-19
+Cardia Stenosis
+Cardiovascular Diseases
+Central Nervous System Hemangioblastoma
+Cholangiocarcinoma
+Cholangiolithiasis
+Cholangitis
+Cholecystitis
+Cholecystolithiasis
+Cholestasis
+Chronic Cough
+Chronic Hepatitis Delta
+Chronic Kidney Disease
+Chronic Kidney Diseases
+Chronic Liver Disease
+Colitis
+Colitis, Ulcerative
+Colorectal Neoplasms
+Contraception
+Coronavirus Disease 2019
+Coronavirus Infections
+Crohn Disease
+Cystic Fibrosis
+Cystitis
+Cytomegalovirus Infections
+Dengue
+Depressive Disorder, Treatment-Resistant
+Dermatitis, Atopic
+Diabetes Mellitus
+Diabetes Mellitus, Type 2
+Diabetic Macular Edema
+Diabetic Retinopathy
+Diffuse Large B-Cell Lymphoma
+Dravet Syndrome
+Dyslipidemias
+Dysmenorrhea
+Ebola Virus Disease
+End Stage Kidney Disease
+End Stage Renal Disease
+Endometrial Neoplasms
+Enteritis
+Epilepsy
+Epstein-Barr Virus-Associated Post-Transplant Lymphoproliferative Disorder
+Eschar
+Fabry Disease
+Facial Wrinkles
+Fallopian Tube Neoplasms
+Follicular Lymphoma
+Friedreich Ataxia
+Functional Gastrointestinal Disorders
+Gastric Adenocarcinoma
+Gastritis
+Gastroesophageal Junction Adenocarcinoma
+Gastrointestinal Stromal Tumors
+Glaucoma, Open-Angle
+Growth Disorders
+HIV Infections
+Heart Diseases
+Heart Failure
+Hemophilia A
+Hemophilia B
+Hepatic Veno-Occlusive Disease
+Hepatocellular Carcinoma
+Hereditary Tyrosinemia Type 1
+Hereditary Tyrosinemias
+Herpes Zoster
+High-Grade B-Cell Lymphoma
+Human Immunodeficiency Virus
+Hyperammonemia
+Hypercholesterolemia
+Hyperkalemia
+Hypertension
+Hypertensive Encephalopathy
+Hypertrophic Cardiomyopathy
+Hypofollicolinic Leucorrhoea
+Immune Thrombocytopenia
+Immunoglobulin A Nephropathy
+Influenza
+Insomnia
+Intraabdominal Infections
+Invasive Meningococcal Disease
+Invasive Pneumococcal Disease
+Irritable Bowel Syndrome
+Isovaleric Acidemia
+Large B-Cell Lymphoma
+Leber Hereditary Optic Neuropathy
+Leiomyoma
+Lennox-Gastaut Syndrome
+Leukemia, Lymphocytic, Chronic, B-Cell
+Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+Leukemia, Myeloid, Acute
+Leukodystrophy, Metachromatic
+Life-Threatening Hemorrhage
+Liver Diseases
+Lung Neoplasms
+Lupus Nephritis
+Lymphoma, Small Lymphocytic
+Macular Degeneration
+Macular Edema
+Major Depressive Disorder
+Malignant Hypertension
+Mantle Cell Lymphoma
+Mastocytosis, Systemic
+Medullary Carcinoma, Thyroid
+Medullary Thyroid Cancer
+Melanoma
+Methylmalonic Acidemia
+Migraine Disorders
+Monkeypox
+Multiple Myeloma
+Multiple Sclerosis
+Multiple Sclerosis, Relapsing-Remitting
+Myasthenia Gravis
+Mycoses
+Mycosis Fungoides
+Myelofibrosis
+Myocardial Infarction
+Narcolepsy
+Neoplasms
+Nephrolithiasis
+Neuroblastoma
+Neurofibromatosis 1
+Neuromyelitis Optica
+Neuromyelitis Optica Spectrum Disorder
+Non-Small Cell Lung Cancer
+Non-Small Cell Lung Carcinoma
+Non-Small-Cell Lung Carcinoma
+Nonproductive Cough
+Not Reported
+Obesity
+Obstructive Sleep Apnea
+Ocular Hypertension
+Oesophageal Squamous Cell Carcinoma
+Osteoarthritis, Knee
+Osteoporosis
+Otitis Media
+Ovarian Deficiency
+Ovarian Neoplasms
+Overactive Bladder
+Overactive Urinary Bladder
+Overweight
+Pancreatic Neuroendocrine Tumors
+Papillitis
+Paroxysmal Nocturnal Hemoglobinuria
+Peanut Hypersensitivity
+Peptic Ulcer
+Pericholecystitis
+Peritoneal Neoplasms
+Plaque Psoriasis
+Pneumonia
+Pneumonia, Hospital-Acquired
+Pneumonia, Ventilator-Associated
+Polycythemia Vera
+Polyneuropathies
+Pompe Disease
+Porphyrias
+Pre-Eclampsia
+Precursor Cell Lymphoblastic Leukemia-Lymphoma
+Prediabetic State
+Primary Hyperoxaluria Type 1
+Primary Mediastinal B-Cell Lymphoma
+Primary Mediastinal Large B-Cell Lymphoma
+Propionic Acidemia
+Prostatic Neoplasms
+Pruritus
+Psoriasis, Pustular
+Pulmonary Hypertension
+Pyelitis
+Pyelonephritis
+Pyloric Stenosis
+Renal Cell Carcinoma
+Respiratory Tract Diseases
+Respiratory Tract Infections
+Retinal Dystrophies
+Retinal Vein Occlusion
+Rheumatoid Arthritis
+Seizures
+Senile Vaginitis
+Sinus Tachycardia
+Sleep Apnea, Obstructive
+Small Cell Lung Carcinoma
+Smallpox
+Solid Tumors
+Spinal Muscular Atrophies of Childhood
+Spinal Muscular Atrophy
+Streptococcal Infections
+Stromal Tumor
+Stromal Tumors
+Supraventricular Tachycardia
+Systemic Lupus Erythematosus
+Sézary Syndrome
+Tenesmus
+Tension-Type Headache
+Thalassemia
+Thermal Burns
+Thrombocytopenia
+Thromboembolism
+Thrombotic Thrombocytopenic Purpura
+Thyroid Cancer
+Thyroid Neoplasms
+Transthyretin Amyloidosis
+Tuberous Sclerosis
+Type 2 Diabetes Mellitus
+Ulcerative Colitis
+Urea Cycle Disorders
+Ureterolithiasis
+Urinary Incontinence
+Urinary Tract Infections
+Urothelial Cancer
+Urothelial Carcinoma
+Uterine Fibroids
+Uveal Melanoma
+Vaginal Dystrophy
+Vaginitis
+Vasculitis
+Von Hippel-Lindau Disease
+Vulvar Pruritus
+Vulvovaginitis
+Waldenstrom Macroglobulinemia
+Wilson Disease
+von Hippel-Lindau Disease
