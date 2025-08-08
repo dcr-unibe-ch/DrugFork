@@ -1,0 +1,563 @@
+Abdominal Hernia
+Abortion, Threatened
+Achondroplasia
+Acid Sphingomyelinase Deficiency
+Acne Vulgaris
+Acquired Immunodeficiency Syndrome
+Actinic Keratosis
+Acute Coronary Syndrome
+Acute Graft vs Host Disease
+Acute Myeloid Leukemia
+Acute Pain
+Adenocarcinoma
+Alcohol-Related Disorders
+Allergic Rhinitis
+Allograft Rejection
+Alopecia Areata
+Alzheimer Disease
+Amyotrophic Lateral Sclerosis
+Anal Fissure
+Anal Neoplasms
+Anaplastic Large Cell Lymphoma
+Anemia
+Anemia, Aplastic
+Angina Pectoris
+Angina, Stable
+Angina, Unstable
+Angioedema
+Angioedema, Hereditary
+Ankylosing Spondylitis
+Anovulation
+Anxiety Disorders
+Apnea of Prematurity
+Arthritis
+Arthritis, Juvenile
+Arthritis, Psoriatic
+Arthritis, Rheumatoid
+Arthritis, Spondylarthritis
+Articular Cartilage Defects
+Aspergillosis
+Asthma
+Astrocytoma
+Atherosclerosis
+Atrial Fibrillation
+Atrial Flutter
+Vaginal Atrophy
+Attention Deficit Hyperactivity Disorder
+Autism Spectrum Disorder
+Axial Spondyloarthritis
+B-Cell Chronic Lymphocytic Leukemia
+B-Cell Precursor Acute Lymphoblastic Leukemia
+Bacterial Conjunctivitis
+Bacterial Skin Diseases
+Basal Cell Carcinoma
+Beta Thalassemia
+Binge-Eating Disorder
+Bipolar Disorder
+Bladder Neoplasms
+Blepharospasm
+Bone Neoplasms
+Brain Neoplasms
+Breast Neoplasms
+Bronchial Spasm
+Bronchitis, Chronic
+Burns
+CMV Infections
+COPD
+Cancer
+Cancer Pain
+Candida Infections
+Candidemia
+Candidiasis
+Carcinoma
+Carcinoma of the Cervix
+Carcinoma, Cervical
+Carcinoma, Non-Small-Cell Lung
+Carcinoma, Oesophageal
+Carcinoma, Renal Cell
+Cardiovascular Diseases
+Cataract
+Central Nervous System Neoplasms
+Central Precocious Puberty
+Cervical Dystonia
+Cervical Intraepithelial Neoplasia
+Cervical Neoplasms
+Cholangiocarcinoma
+Cholera
+Cholestasis
+Cholestasis of Pregnancy
+Cholestasis, Intrahepatic
+Chorea
+Choroidal Neovascularization
+Chronic Graft vs Host Disease
+Chronic Hepatitis B
+Chronic Hepatitis C
+Chronic Idiopathic Urticaria
+Chronic Inflammatory Demyelinating Polyneuropathy
+Chronic Kidney Disease
+Chronic Kidney Failure
+Chronic Liver Disease
+Chronic Lymphocytic Leukemia
+Chronic Migraine
+Chronic Obstructive Pulmonary Disease
+Chronic Pain
+Chronic Rhinosinusitis
+Chronic Sialorrhea
+Cirrhosis
+Classical Hodgkin Lymphoma
+Clinically Isolated Syndrome
+Clostridium Infections
+Coagulation Protein Disorders
+Colitis, Ulcerative
+Collagen Diseases
+Collagenous Colitis
+Colonic Neoplasms
+Colorectal Neoplasms
+Condylomata Acuminata
+Conjunctivitis
+Conjunctivitis, Allergic
+Conjunctivitis, Bacterial
+Conjunctivitis, Giant Papillary
+Connective Tissue Diseases
+Constipation
+Contraception
+Coronary Artery Disease
+Coronavirus Disease 2019
+Coronavirus Infections
+Crohn Disease
+Cushing Syndrome
+Cutaneous Squamous Cell Carcinoma
+Cystic Fibrosis
+Cystitis
+Cytomegalovirus Infections
+Deep Vein Thrombosis
+Dementia
+Dengue
+Depressive Disorder, Major
+Depressive Disorder, Treatment-Resistant
+Dermatitis, Atopic
+Diabetes Mellitus
+Diabetic Macular Edema
+Diabetic Retinopathy
+Diarrhea
+Differentiated Thyroid Carcinoma
+Diffuse Large B-Cell Lymphoma
+Digoxin Toxicity
+Diphtheria
+Dravet Syndrome
+Dry Eye Syndromes
+Duchenne Muscular Dystrophy
+Dupuytren Contracture
+Dyslipidemias
+Dysmenorrhea
+Embolism
+Emphysema
+End Stage Kidney Disease
+End Stage Renal Disease
+Endometrial Neoplasms
+Endometriosis
+Eosinophilic Asthma
+Eosinophilic Granulomatosis with Polyangiitis
+Epilepsy
+Epilepsy, Lennox-Gastaut Syndrome
+Epilepsy, Myoclonic
+Epilepsy, Partial
+Erectile Dysfunction
+Erythropoietic Protoporphyria
+Esophageal Candidiasis
+Esophageal and Gastric Varices
+Esophagogastric Junction
+Essential Thrombocythemia
+Estrogen Deficiency
+Eye Diseases
+Fabry Disease
+Facial Dermatoses
+Factor XIII Deficiency
+Failure to Thrive
+Fallopian Tube Neoplasms
+Febrile Neutropenia
+Fever
+Fibrodysplasia Ossificans Progressiva
+Fibromyalgia
+Follicular Lymphoma
+Fractures, Bone
+Fungal Infections
+Gastric Neoplasms
+Gastroesophageal Junction Adenocarcinoma
+Gastroesophageal Junction Neoplasms
+Gastrointestinal Stromal Tumors
+Gaucher Disease
+Generalized Tonic-Clonic Seizures
+Genital Warts
+Giant Cell Arteritis
+Giant Cell Tumor of Bone
+Glabellar Frown Lines
+Glaucoma, Open-Angle
+Glioblastoma
+Glioma
+Gonadotropin Deficiency
+Gout
+Graft vs Host Disease
+Granulomatosis with Polyangiitis
+Growth Hormone Deficiency
+Guillain-Barré Syndrome
+HIV Infections
+Haemophilus Infections
+Hashimoto Disease
+Head and Neck Neoplasms
+Heart Defects, Congenital
+Heart Diseases
+Heart Failure
+Hemifacial Spasm
+Hemolytic-Uremic Syndrome
+Hemophilia A
+Hemophilia B
+Hemorrhage
+Hepatic Encephalopathy
+Hepatitis B
+Hepatitis B, Chronic
+Hepatitis C
+Hepatitis C, Chronic
+Hepatocellular Carcinoma
+Hepatorenal Syndrome
+Hereditary Angioedema
+Hereditary Tyrosinemia Type 1
+Herpes Zoster
+Heterozygous Familial Hypercholesterolemia
+Hidradenitis Suppurativa
+Hodgkin Disease
+Hodgkin Lymphoma
+Hot Flashes
+Human Immunodeficiency Virus
+Human Papillomavirus Infections
+Huntington Disease
+Hyperammonemia
+Hypercalcemia
+Hypercholesterolemia
+Hypercortisolism
+Hyperkalemia
+Hyperphenylalaninemia
+Hyperphosphatemia
+Hypertension
+Hypertension, Pregnancy-Induced
+Hypertension, Pulmonary
+Hypertriglyceridemia
+Hypertrophic Cardiomyopathy
+Hyperuricemia
+Hypogammaglobulinemia
+Hypogonadism
+Hypogonadotropic Hypogonadism
+Hypophosphatasia
+Hypotension
+Hypotrichosis
+Idiopathic Generalized Epilepsy
+Idiopathic Pulmonary Fibrosis
+Idiopathic Thrombocytopenic Purpura
+Immune Thrombocytopenia
+Immunoglobulin Light-chain Amyloidosis
+Immunologic Deficiency Syndromes
+Impetigo
+Impotence
+Infantile Hemangioma
+Infection
+Infertility
+Infertility, Female
+Inflammation
+Influenza
+Insomnia
+Insulin-Like Growth Factor I Deficiency
+Interstitial Lung Diseases
+Intraabdominal Infections
+Intraoperative and Postoperative Complications
+Intrauterine Pregnancy
+Invasive Candidiasis
+Invasive Fungal Infections
+Invasive Meningococcal Disease
+Iron Deficiencies
+Iron Deficiency
+Irritable Bowel Syndrome
+Ischemic Stroke
+Japanese Encephalitis
+Jet Lag Syndrome
+Juvenile Idiopathic Arthritis
+Kawasaki Disease
+Keratitis
+Keratoconjunctivitis Sicca
+Lambert-Eaton Myasthenic Syndrome
+Leiomyosarcoma
+Lennox-Gastaut Syndrome
+Leukemia, Lymphocytic, Chronic, B-Cell
+Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+Leukemia, Myeloid, Acute
+Leukemia, Myeloid, Chronic-Phase
+Leukemia, Myelomonocytic, Chronic
+Leukemia, Promyelocytic, Acute
+Liposarcoma
+Liver Cirrhosis
+Liver Diseases
+Lower Urinary Tract Symptoms
+Lung Diseases
+Lung Neoplasms
+Lung Neoplasms, Non-Small Cell
+Lupus Nephritis
+Lymphoma
+Lymphoma, Mantle-Cell
+Lymphoma, Non-Hodgkin
+Lymphoma, Small Lymphocytic
+Lysosomal Acid Lipase Deficiency
+Macular Degeneration
+Macular Edema
+Macular Hole
+Major Depressive Disorder
+Malaria
+Malaria, Falciparum
+Malaria, Vivax
+Malignancy
+Malignant Glioma
+Malignant Neoplasms
+Mantle Cell Lymphoma
+Mast-Cell Leukemia
+Melanoma
+Meningococcal Infections
+Menorrhagia
+Menstruation Disturbances
+Merkel Cell Carcinoma
+Microscopic Polyangiitis
+Migraine Disorders
+Mild Cognitive Impairment
+Moderate Pain
+Mucocutaneous Lymph Node Syndrome
+Mucopolysaccharidoses
+Mucormycosis
+Multifocal Motor Neuropathy
+Multiple Myeloma
+Multiple Sclerosis
+Multiple Sclerosis, Chronic Progressive
+Multiple Sclerosis, Relapsing-Remitting
+Multiple Sclerosis, Secondary Progressive
+Myasthenia Gravis
+Mycosis Fungoides
+Myelodysplastic Syndromes
+Myocardial Infarction
+Myopia, Degenerative
+Narcolepsy
+Nasal Polyps
+Neisseria meningitidis Infections
+Neisseria meningitidis, Serogroup B
+Neoplasm Metastasis
+Neoplasms
+Neuroblastoma
+Neuroendocrine Tumors
+Neurofibromatosis 1
+Neurogenic Detrusor Overactivity
+Neurologic Manifestations
+Neuromyelitis Optica Spectrum Disorder
+Neurotrophic Keratitis
+Neutropenia
+Niemann-Pick Disease, Type C
+Nocturia
+Non-Hodgkin Lymphoma
+Non-Small Cell Lung Carcinoma
+Not Reported
+Obesity
+Obstetric Labor Complications
+Obstructive Sleep Apnea Hypopnea Syndrome
+Ocular Hypertension
+Oesophageal Neoplasms
+Oligodendroglioma
+Onchocerciasis
+Opiate Dependence
+Opioid-Related Disorders
+Organ Transplantation
+Organic Acidurias
+Oropharyngeal Neoplasms
+Orthostatic Hypotension
+Osteoarthritis
+Osteoporosis
+Otitis Media
+Ovarian Neoplasms
+Overactive Bladder
+Overweight
+Paget's Disease
+Pain
+Pancreatic Exocrine Insufficiency
+Pancreatic Neoplasms
+Pancreatic Neuroendocrine Tumors
+Papillomavirus Infections
+Parkinson Disease
+Paroxysmal Nocturnal Hemoglobinuria
+Partial Seizures
+Patent Ductus Arteriosus
+Pathologic Myopia
+Peripheral Arterial Disease
+Peripheral T-Cell Lymphoma
+Peritoneal Neoplasms
+Pertussis
+Peyronie Disease
+Phenylketonurias
+Plaque Psoriasis
+Pneumococcal Infections
+Pneumonia
+Pneumonia, Community-Acquired
+Pneumonia, Hospital-Acquired
+Pneumonia, Ventilator-Associated
+Poisoning
+Poliomyelitis
+Polycystic Kidney Diseases
+Polycystic Ovary Syndrome
+Polycythemia Vera
+Polyradiculoneuropathy
+Polyradiculoneuropathy, Chronic Inflammatory Demyelinating
+Pompe Disease
+Porphyrias
+Postherpetic Neuralgia
+Postoperative Pain
+Prader-Willi Syndrome
+Precocious Puberty
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
+Precursor Cell Lymphoblastic Leukemia-Lymphoma
+Prediabetic State
+Pregnancy, Unplanned
+Pregnancy, Unwanted
+Premature Ejaculation
+Premenstrual Dysphoric Disorder
+Preterm Birth
+Primary Hyperoxaluria
+Primary Immunodeficiency Diseases
+Primary Insomnia
+Primary Myelofibrosis
+Primary Peritoneal Carcinoma
+Primary Pulmonary Hypertension
+Prostatic Hyperplasia
+Prostatic Neoplasms
+Pruritus
+Pseudomonas Infections
+Psoriasis
+Psoriasis, Pustular
+Psoriatic Arthritis
+Psychotic Disorders
+Pulmonary Arterial Hypertension
+Pulmonary Disease, Chronic Obstructive
+Pulmonary Embolism
+Pulmonary Hypertension
+Purpura, Thrombocytopenic, Idiopathic
+Pyelonephritis
+Rabies
+Rejection (Psychology)
+Renal Cell Carcinoma
+Respiratory Insufficiency
+Respiratory Syncytial Virus Infections
+Respiratory Tract Diseases
+Respiratory Tract Infections
+Restless Legs Syndrome
+Retinal Dystrophies
+Retinal Vein Occlusion
+Retinopathy of Prematurity
+Rheumatoid Arthritis
+Rhinitis
+Rhinitis, Allergic, Perennial
+Rhinitis, Allergic, Seasonal
+Rhinoconjunctivitis
+Rhinosinusitis
+Rosacea
+Sarcoma
+Scabies
+Schizoaffective Disorder
+Schizophrenia
+Seizures
+Shift Work Sleep Disorder
+Shock
+Short Bowel Syndrome
+Short Stature
+Sickle Cell Disease
+Skin Diseases
+Skin Diseases, Infectious
+Sleep Apnea, Obstructive
+Sleep Disorders
+Small Cell Lung Carcinoma
+Small Lymphocytic Lymphoma
+Smith-Magenis Syndrome
+Soft Tissue Infections
+Soft Tissue Neoplasms
+Soft Tissue Sarcomas
+Spasticity
+Spinal Cord Injuries
+Spinal Muscular Atrophies of Childhood
+Spinal Muscular Atrophy
+Spondylarthritis
+Spondylarthropathies
+Spondylitis, Ankylosing
+Spondyloarthritis
+Spondyloarthritis, Axial
+Squamous Cell Carcinoma of Head and Neck
+Staphylococcal Infections
+Status Epilepticus
+Stiff-Person Syndrome
+Stomach Neoplasms
+Streptococcal Infections
+Stroke
+Stroke, Ischemic
+Stromal Tumors
+Strongyloidiasis
+Subcutaneous Fat
+Surgical Bleeding
+Syndrome of Inappropriate Antidiuretic Hormone Secretion
+Systemic Juvenile Idiopathic Arthritis
+Systemic Lupus Erythematosus
+Systemic Mastocytosis
+Systemic Sclerosis
+Sézary Syndrome
+T-Cell Acute Lymphoblastic Leukemia
+T-Cell Lymphoblastic Lymphoma
+Tardive Dyskinesia
+Tetanus
+Tetrahydrobiopterin Deficiency
+Thalassemia
+Thalassemia Major
+Thrombocythemia, Essential
+Thrombocytopenia
+Thrombocytopenic Purpura, Idiopathic
+Thromboembolism
+Thrombophlebitis
+Thrombosis
+Thrombotic Thrombocytopenic Purpura
+Thyroid Hormone Deficiency
+Thyroid Neoplasms
+Thyroiditis
+Transfusional Hemosiderosis
+Transient Ischemic Attack
+Transthyretin Amyloid Cardiomyopathy
+Transthyretin Amyloidosis
+Tuberous Sclerosis Complex
+Turner Syndrome
+Type 1 Diabetes Mellitus
+Type 2 Diabetes Mellitus
+Ulcerative Colitis
+Urea Cycle Disorders
+Urinary Bladder Neoplasms
+Urinary Incontinence
+Urinary Tract Infections
+Urothelial Carcinoma
+Urticaria
+Uterine Cervical Dysplasia
+Uterine Cervical Neoplasms
+Uterine Fibroids
+Uterine Neoplasms
+Uveal Melanoma
+Uveal Neoplasms
+Uveitis
+Vaginal Neoplasms
+Vascular Diseases
+Vasculitis
+Venous Thromboembolism
+Venous Thrombosis
+Vertigo
+Visual Impairment
+Vitreomacular Adhesion
+Vitreomacular Traction Syndrome
+Von Hippel-Lindau Disease
+Vulvar Neoplasms
+Waldenstrom Macroglobulinemia
+Wilson Disease
+X-linked Hypophosphatemia
+von Willebrand Disease

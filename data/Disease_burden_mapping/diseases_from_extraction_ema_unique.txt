@@ -1,0 +1,850 @@
+AIDS
+AIDS, Congenital
+AIDS-Related Kaposi Sarcoma
+ALL
+Acanthamoeba Keratitis
+Achondroplasia
+Acid Sphingomyelinase Deficiency
+Acne Rosacea
+Acquired Hemophilia
+Acquired Immunodeficiency Syndrome
+Acromegaly
+Actinic Keratosis
+Acute Bacterial Skin and Skin Structure Infections
+Acute Coronary Syndrome
+Acute Coronary Syndromes
+Acute Graft vs Host Disease
+Acute Kidney Injury
+Acute Myeloid Leukemia
+Acute Pain
+Acute Promyelocytic Leukemia
+Acute Radiation Syndrome
+Adenocarcinoma
+Adenomatous Polyposis Coli
+Adrenal Cortex Neoplasms
+Adrenal Insufficiency
+Adrenoleukodystrophy
+Adult Growth Hormone Deficiency
+Agammaglobulinemia
+Airway Obstruction
+Alagille Syndrome
+Alcohol Dependence
+Alcohol-Related Disorders
+Allan-Herndon-Dudley Syndrome
+Allergic Rhinitis
+Allergy
+Alopecia Areata
+Alpha-Mannosidosis
+Alport Syndrome
+Alzheimer Disease
+Amyloidosis
+Amyotrophic Lateral Sclerosis
+Anaemia
+Anal Neoplasms
+Anaphylaxis
+Anaplastic Astrocytoma
+Anaplastic Large-Cell Lymphoma
+Anemia
+Anemia, Hemolytic
+Anemia, Sickle Cell
+Angina Pectoris
+Angina Pectoris, Stable
+Angina, Unstable
+Angioedema
+Angioedema, Hereditary
+Angioedemas, Hereditary
+Angiofibroma
+Ankylosing Spondylitis
+Anorexia
+Anovulation
+Anthrax
+Anxiety Disorders
+Apnea of Prematurity
+Arginase Deficiency
+Aromatic L-Amino Acid Decarboxylase Deficiency
+Arteriosclerosis
+Arthritis
+Arthritis, Gouty
+Arthritis, Juvenile
+Arthritis, Psoriatic
+Arthritis, Rheumatoid
+Articular Cartilage Defects
+Ascites
+Aspergillosis
+Asthma
+Asthma, Allergic
+Astrocytoma
+Astrocytoma, Anaplastic
+Atherosclerosis
+Atherothrombotic Events
+Atrial Fibrillation
+Atrial Flutter
+Atrophy
+Attention Deficit Disorder with Hyperactivity
+Autism Spectrum Disorder
+B-Cell Acute Lymphoblastic Leukemia
+Bacteremia
+Barrett Esophagus
+Basal Cell Carcinoma
+Behcet Syndrome
+Beta-Thalassemia
+Bipolar Disorder
+Bladder Pain Syndrome
+Blastic Plasmacytoid Dendritic Cell Neoplasm
+Bone Metastases
+Bone Neoplasms
+Brain Neoplasms
+Brain Neoplasms, Metastatic
+Brain Stem Neoplasms
+Breast Diseases
+Breast Neoplasms
+Bronchiectasis
+Bronchitis, Chronic
+Bronchopulmonary Dysplasia
+CEL
+CLN2 Disease
+CML
+CMV Infections
+COVID-19
+Cachexia
+Cancer
+Cancer Pain
+Candidemia
+Candidiasis
+Candidiasis, Oral
+Carcinoid Syndrome
+Carcinoma
+Carcinoma of the Cervix
+Carcinoma, Hepatocellular
+Carcinoma, Non-Small-Cell Lung
+Carcinoma, Renal Cell
+Carcinoma, Squamous Cell
+Cardiomyopathies
+Cardiomyopathy
+Cardiovascular Diseases
+Castleman Disease
+Cataplexy
+Central Nervous System Diseases
+Cerebrotendinous Xanthomatosis
+Cervical Cancer
+Cervical Carcinoma
+Cervical Dystonia
+Cervical Intraepithelial Neoplasia
+Cervical Neoplasms
+Chikungunya Fever
+Cholangiocarcinoma
+Cholangitis, Primary Biliary
+Cholera
+Cholestasis
+Cholestasis, Chronic
+Cholestasis, Intrahepatic
+Chondral Defects
+Choroidal Neovascularization
+Chromoblastomycosis
+Chronic Bronchitis
+Chronic Cough
+Chronic Hepatitis B
+Chronic Hepatitis C
+Chronic Hepatitis D
+Chronic Inflammatory Demyelinating Polyradiculoneuropathy
+Chronic Kidney Disease
+Chronic Kidney Failure
+Chronic Kidney Insufficiency
+Chronic Lymphocytic Leukemia
+Chronic Myeloid Leukemia
+Chronic Myelomonocytic Leukemia
+Chronic Obstructive Pulmonary Disease
+Chronic Pain
+Chronic Pancreatitis
+Chronic Pulmonary Infection
+Chronic Renal Insufficiency
+Cirrhosis
+Clostridium Infections
+Coccidioidomycosis
+Cognitive Dysfunction
+Cold Agglutinin Disease
+Colitis, Ulcerative
+Colon Cancer
+Colonic Neoplasms
+Colorectal Lesions
+Colorectal Neoplasms
+Common Variable Immunodeficiency
+Community-Acquired Infections
+Condylomata Acuminata
+Congenital Adrenal Hyperplasia
+Congenital Alpha-1 Antitrypsin Deficiency
+Congenital Factor XIII Deficiency
+Congenital Heart Defects
+Congenital Heart Disease
+Congenital Hemophilia
+Congenital Hemophilia A
+Congenital Hemophilia B
+Congenital Thrombotic Thrombocytopenic Purpura
+Congestive Heart Failure
+Conjunctivitis, Allergic
+Connective Tissue Diseases
+Constipation
+Contraception
+Corneal Diseases
+Coronary Artery Disease
+Coronary Disease
+Coronavirus Disease 2019
+Coronavirus Infections
+Crohn Disease
+Cryopyrin-Associated Periodic Syndromes
+Cushing Syndrome
+Cutaneous Squamous Cell Carcinoma
+Cutaneous T-Cell Lymphoma
+Cyclic Neutropenia
+Cyclin-Dependent Kinase-Like 5 Deficiency Disorder
+Cystic Fibrosis
+Cystinosis
+Cytokine Release Syndrome
+Cytomegalovirus Infections
+DFSP
+Deep Partial Thickness Burn
+Deep Partial-Thickness Burns
+Deep Vein Thrombosis
+Deficiency Diseases
+Dementia with Lewy Bodies
+Dengue
+Depressive Disorder, Major
+Dermatitis, Atopic
+Dermatofibrosarcoma
+Dermatofibrosarcoma Protuberans
+Diabetes Mellitus
+Diabetes Mellitus in Pregnancy
+Diabetes Mellitus, Neonatal
+Diabetes Mellitus, Type 1
+Diabetes Mellitus, Type 2
+Diabetes, Gestational
+Diabetic Foot
+Diabetic Macular Edema
+Diabetic Neuropathies
+Diabetic Retinopathy
+Diabetic Ulcer
+Diffuse Large B-Cell Lymphoma
+Diphtheria
+Dravet Syndrome
+Dry Eye Syndromes
+Duchenne Muscular Dystrophy
+Dupuytren Contracture
+Dyslipidemias
+Dystrophic Epidermolysis Bullosa
+Early Cerebral Adrenoleukodystrophy
+Ebola Virus Disease
+Eczema
+Embolism
+Emesis
+Emphysema
+End Stage Renal Disease
+End-Stage Renal Disease
+Endocarditis
+Endogenous Cushing Syndrome
+Endometrial Neoplasms
+Eosinophilic Esophagitis
+Ependymoma
+Epidermolysis Bullosa
+Epilepsy
+Epilepsy, Myoclonic
+Epilepsy, Partial
+Epileptic Seizures
+Epstein-Barr Virus Infections
+Erectile Dysfunction
+Error: The response is not valid JSON: ```json { "Marketing_authorisation_number": "EMA/112177/2021", "Procedure_number": "EMEA/H/C/005286/0000", "Drug_name": "Alymsys", "Non_proprietary_name": "bevacizumab", "Marketing_authorisation_holder": "Mabxience Research SL", "Drug_class": "Biologics", "Pharmaceutical_form": "concentrate for solution for infusion", "Administration_route": "intravenous", "Decision": "approved", "Current_status": "authorised", "Decision_date": "28.01.2021", "Decision_year": "2021", "Orphan_drug_status": "no", "Indication_extended": "no", "Indication_requested": "Alymsys in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of adult patients with metastatic carcinoma of the colon or rectum. Alymsys in combination with paclitaxel is indicated for first-line treatment of adult patients with metastatic breast cancer. Alymsys in combination with capecitabine is indicated for first-line treatment of adult patients with metastatic breast cancer in whom treatment with other chemotherapy options including taxanes or anthracyclines is not considered appropriate. Alymsys, in addition to platinum-based chemotherapy, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-small cell lung cancer other than predominantly squamous cell histology. Alymsys, in combination with erlotinib, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-squamous non-small cell lung cancer with Epidermal Growth Factor Receptor (EGFR) activating mutations. Alymsys in combination with interferon alfa-2a is indicated for first line treatment of adult patients with advanced and/or metastatic renal cell cancer. Alymsys, in combination with carboplatin and paclitaxel is indicated for the front-line treatment of adult patients with advanced (International Federation of Gynecology and Obstetrics (FIGO) stages III B, III C and IV) epithelial ovarian, fallopian tube, or primary peritoneal cancer. Alymsys, in combination with carboplatin and gemcitabine or in combination with carboplatin and paclitaxel, is indicated for treatment of adult patients with first recurrence of platinum-sensitive epithelial ovarian, fallopian tube or primary peritoneal cancer who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents. Alymsys, in combination with topotecan, or pegylated liposomal doxorubicin is indicated for the treatment of adult patients with platinum-resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who received no more than two prior chemotherapy regimens and who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor-targeted agents. Alymsys, in combination with paclitaxel and cisplatin or, alternatively, paclitaxel and topotecan in patients who cannot receive platinum therapy, is indicated for the treatment of adult patients with persistent, recurrent, or metastatic carcinoma of the cervix.", "Indication_approved": "Alymsys in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of adult patients with metastatic carcinoma of the colon or rectum. Alymsys in combination with paclitaxel is indicated for first-line treatment of adult patients with metastatic breast cancer. Alymsys in combination with capecitabine is indicated for first-line treatment of adult patients with metastatic breast cancer in whom treatment with other chemotherapy options including taxanes or anthracyclines is not considered appropriate. Alymsys, in addition to platinum-based chemotherapy, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-small cell lung cancer other than predominantly squamous cell histology. Alymsys, in combination with erlotinib, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-squamous non-small cell lung cancer with Epidermal Growth Factor Receptor (EGFR) activating mutations. Alymsys in combination with interferon alfa-2a is indicated for first line treatment of adult patients with advanced and/or metastatic renal cell cancer. Alymsys, in combination with carboplatin and paclitaxel is indicated for the front-line treatment of adult patients with advanced (International Federation of Gynecology and Obstetrics (FIGO) stages III B, III C and IV) epithelial ovarian, fallopian tube, or primary peritoneal cancer. Alymsys, in combination with carboplatin and gemcitabine or in combination with carboplatin
+Error: The response is not valid JSON: ```json { "Marketing_authorisation_number": "EMA/117409/2021", "Procedure_number": "EMEA/H/C/005640/0000", "Drug_name": "Onbevzi", "Non_proprietary_name": "bevacizumab", "Marketing_authorisation_holder": "Samsung Bioepis NL B.V.", "Drug_class": "Biologics", "Pharmaceutical_form": "concentrate for solution for infusion", "Administration_route": "intravenous", "Decision": "approved", "Current_status": "withdrawn", "Decision_date": "12.11.2020", "Decision_year": "2020", "Orphan_drug_status": "no", "Indication_extended": "no", "Indication_requested": "Onbevzi in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of adult patients with metastatic carcinoma of the colon or rectum. Onbevzi in combination with paclitaxel is indicated for first-line treatment of adult patients with metastatic breast cancer. Onbevzi in combination with capecitabine is indicated for first-line treatment of adult patients with metastatic breast cancer in whom treatment with other chemotherapy options including taxanes or anthracyclines is not considered appropriate. Onbevzi, in addition to platinum-based chemotherapy, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-small cell lung cancer other than predominantly squamous cell histology. Onbevzi, in combination with erlotinib, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-squamous non-small cell lung cancer with Epidermal Growth Factor Receptor (EGFR) activating mutations. Onbevzi in combination with interferon alfa-2a is indicated for first line treatment of adult patients with advanced and/or metastatic renal cell cancer. Onbevzi, in combination with carboplatin and paclitaxel is indicated for the front-line treatment of adult patients with advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer. Onbevzi, in combination with carboplatin and gemcitabine or in combination with carboplatin and paclitaxel, is indicated for treatment of adult patients with first recurrence of platinum-sensitive epithelial ovarian, fallopian tube or primary peritoneal cancer who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor targeted agents. Onbevzi, in combination with topotecan, or pegylated liposomal doxorubicin is indicated for the treatment of adult patients with platinum-resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who received no more than two prior chemotherapy regimens and who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor targeted agents. Onbevzi, in combination with paclitaxel and cisplatin or, alternatively, paclitaxel and topotecan in patients who cannot receive platinum therapy, is indicated for the treatment of adult patients with persistent, recurrent, or metastatic carcinoma of the cervix.", "Indication_approved": "Onbevzi in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of adult patients with metastatic carcinoma of the colon or rectum. Onbevzi in combination with paclitaxel is indicated for first-line treatment of adult patients with metastatic breast cancer. Onbevzi in combination with capecitabine is indicated for first-line treatment of adult patients with metastatic breast cancer in whom treatment with other chemotherapy options including taxanes or anthracyclines is not considered appropriate. Onbevzi, in addition to platinum-based chemotherapy, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-small cell lung cancer other than predominantly squamous cell histology. Onbevzi, in combination with erlotinib, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-squamous non-small cell lung cancer with Epidermal Growth Factor Receptor (EGFR) activating mutations. Onbevzi in combination with interferon alfa-2a is indicated for first line treatment of adult patients with advanced and/or metastatic renal cell cancer. Onbevzi, in combination with carboplatin and paclitaxel is indicated for the front-line treatment of adult patients with advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer. Onbevzi, in combination with carboplatin and gemcitabine or in combination with carboplatin and paclitaxel, is indicated for treatment of adult patients with first recurrence of platinum-sensitive epithelial ovarian, fallopian tube or primary peritoneal cancer who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor targeted
+Error: The response is not valid JSON: ```json { "Marketing_authorisation_number": "EMA/176217/2021", "Procedure_number": "EMEA/H/C/005327/0000", "Drug_name": "Abevmy", "Non_proprietary_name": "bevacizumab", "Marketing_authorisation_holder": "Mylan IRE Healthcare Limited", "Drug_class": "Biologics", "Pharmaceutical_form": "concentrate for solution for infusion", "Administration_route": "intravenous", "Decision": "approved", "Current_status": "authorised", "Decision_date": "25.02.2021", "Decision_year": "2021", "Orphan_drug_status": "no", "Indication_extended": "no", "Indication_requested": "Abevmy in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of adult patients with metastatic carcinoma of the colon or rectum. Abevmy in combination with paclitaxel is indicated for first-line treatment of adult patients with metastatic breast cancer. Abevmy in combination with capecitabine is indicated for first-line treatment of adult patients with metastatic breast cancer in whom treatment with other chemotherapy options including taxanes or anthracyclines is not considered appropriate. Abevmy, in addition to platinum-based chemotherapy, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-small cell lung cancer other than predominantly squamous cell histology. Abevmy, in combination with erlotinib, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-squamous non-small cell lung cancer with Epidermal Growth Factor Receptor (EGFR) activating mutations. Abevmy in combination with interferon alfa-2a is indicated for first line treatment of adult patients with advanced and/or metastatic renal cell cancer. Abevmy, in combination with carboplatin and paclitaxel is indicated for the front-line treatment of adult patients with advanced (International Federation of Gynecology and Obstetrics [FIGO] stages III B, III C and IV) epithelial ovarian, fallopian tube, or primary peritoneal cancer. Abevmy, in combination with carboplatin and gemcitabine or in combination with carboplatin and paclitaxel, is indicated for treatment of adult patients with first recurrence of platinum-sensitive epithelial ovarian, fallopian tube or primary peritoneal cancer who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents. Abevmy in combination with paclitaxel, topotecan, or pegylated liposomal doxorubicin is indicated for the treatment of adult patients with platinum-resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who received no more than two prior chemotherapy regimens and who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents. Abevmy, in combination with paclitaxel and cisplatin or, alternatively, paclitaxel and topotecan in patients who cannot receive platinum therapy, is indicated for the treatment of adult patients with persistent, recurrent, or metastatic carcinoma of the cervix.", "Indication_approved": "Abevmy in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of adult patients with metastatic carcinoma of the colon or rectum. Abevmy in combination with paclitaxel is indicated for first-line treatment of adult patients with metastatic breast cancer. Abevmy in combination with capecitabine is indicated for first-line treatment of adult patients with metastatic breast cancer in whom treatment with other chemotherapy options including taxanes or anthracyclines is not considered appropriate. Abevmy, in addition to platinum-based chemotherapy, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-small cell lung cancer other than predominantly squamous cell histology. Abevmy, in combination with erlotinib, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-squamous non-small cell lung cancer with Epidermal Growth Factor Receptor (EGFR) activating mutations. Abevmy in combination with interferon alfa-2a is indicated for first line treatment of adult patients with advanced and/or metastatic renal cell cancer. Abevmy, in combination with carboplatin and paclitaxel is indicated for the front-line treatment of adult patients with advanced (International Federation of Gynecology and Obstetrics [FIGO] stages III B, III C and IV) epithelial ovarian, fallopian tube, or primary peritoneal cancer. Abevmy, in combination with carboplatin and gemcitabine or in combination with carb
+Error: The response is not valid JSON: ```json { "Marketing_authorisation_number": "EMA/285021/2024", "Procedure_number": "EMEA/H/C/005574/0000", "Drug_name": "Avzivi", "Non_proprietary_name": "bevacizumab", "Marketing_authorisation_holder": "FGK Representative Service GmbH", "Drug_class": "Biologics", "Pharmaceutical_form": "concentrate for solution for infusion", "Administration_route": "intravenous", "Decision": "approved", "Current_status": "authorised", "Decision_date": "30.05.2024", "Decision_year": "2024", "Orphan_drug_status": "no", "Indication_extended": "no", "Indication_requested": "Avzivi in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of adult patients with metastatic carcinoma of the colon or rectum. Avzivi in combination with paclitaxel is indicated for first-line treatment of adult patients with metastatic breast cancer. Avzivi in combination with capecitabine is indicated for first-line treatment of adult patients with metastatic breast cancer in whom treatment with other chemotherapy options including taxanes or anthracyclines is not considered appropriate. Avzivi, in addition to platinum-based chemotherapy, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-small cell lung cancer other than predominantly squamous cell histology. Avzivi, in combination with erlotinib, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-squamous non-small cell lung cancer with Epidermal Growth Factor Receptor (EGFR) activating mutations. Avzivi in combination with interferon alfa-2a is indicated for first line treatment of adult patients with advanced and/or metastatic renal cell cancer. Avzivi, in combination with carboplatin and paclitaxel is indicated for the front-line treatment of adult patients with advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer. Avzivi, in combination with carboplatin and gemcitabine or in combination with carboplatin and paclitaxel, is indicated for treatment of adult patients with first recurrence of platinum-sensitive epithelial ovarian, fallopian tube or primary peritoneal cancer who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents. Avzivi in combination with paclitaxel, topotecan, or pegylated liposomal doxorubicin is indicated for the treatment of adult patients with platinum-resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who received no more than two prior chemotherapy regimens and who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents. Avzivi, in combination with paclitaxel and cisplatin or, alternatively, paclitaxel and topotecan in patients who cannot receive platinum therapy, is indicated for the treatment of adult patients with persistent, recurrent, or metastatic carcinoma of the cervix.", "Indication_approved": "Avzivi in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of adult patients with metastatic carcinoma of the colon or rectum. Avzivi in combination with paclitaxel is indicated for first-line treatment of adult patients with metastatic breast cancer. Avzivi in combination with capecitabine is indicated for first-line treatment of adult patients with metastatic breast cancer in whom treatment with other chemotherapy options including taxanes or anthracyclines is not considered appropriate. Avzivi, in addition to platinum-based chemotherapy, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-small cell lung cancer other than predominantly squamous cell histology. Avzivi, in combination with erlotinib, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-squamous non-small cell lung cancer with Epidermal Growth Factor Receptor (EGFR) activating mutations. Avzivi in combination with interferon alfa-2a is indicated for first line treatment of adult patients with advanced and/or metastatic renal cell cancer. Avzivi, in combination with carboplatin and paclitaxel is indicated for the front-line treatment of adult patients with advanced epithelial ovarian, fallopian tube, or primary peritoneal cancer. Avzivi, in combination with carboplatin and gemcitabine or in combination with carboplatin and paclitaxel, is indicated for treatment of adult patients with first recurrence of platinum-sensitive epithelial ovarian, fallopian tube or primary peritoneal cancer who have not received prior therapy with bevacizumab or other
+Error: The response is not valid JSON: ```json { "Marketing_authorisation_number": "EMA/636045/2022", "Procedure_number": "EMEA/H/C/005534/0000", "Drug_name": "Vegzelma", "Non_proprietary_name": "bevacizumab", "Marketing_authorisation_holder": "Celltrion Healthcare Hungary Kft.", "Drug_class": "Biologics", "Pharmaceutical_form": "Concentrate for solution for infusion", "Administration_route": "Intravenous", "Decision": "approved", "Current_status": "authorised", "Decision_date": "23.06.2022", "Decision_year": "2022", "Orphan_drug_status": "no", "Indication_extended": "no", "Indication_requested": "Vegzelma in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of adult patients with metastatic carcinoma of the colon or rectum. Vegzelma in combination with paclitaxel is indicated for first-line treatment of adult patients with metastatic breast cancer. Vegzelma in combination with capecitabine is indicated for first-line treatment of adult patients with metastatic breast cancer in whom treatment with other chemotherapy options including taxanes or anthracyclines is not considered appropriate. Vegzelma, in addition to platinum-based chemotherapy, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-small cell lung cancer (NSCLC) other than predominantly squamous cell histology. Vegzelma, in combination with erlotinib, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent NSCLC with Epidermal Growth Factor Receptor (EGFR) activating mutations. Vegzelma, in combination with interferon alfa-2a is indicated for first line treatment of adult patients with advanced and/or metastatic renal cell cancer. Vegzelma, in combination with carboplatin and paclitaxel is indicated for the front-line treatment of adult patients with advanced (International Federation of Gynecology and Obstetrics (FIGO) stages III B, III C and IV) epithelial ovarian, fallopian tube, or primary peritoneal cancer. Vegzelma, in combination with carboplatin and gemcitabine or in combination with carboplatin and paclitaxel, is indicated for treatment of adult patients with first recurrence of platinum-sensitive epithelial ovarian, fallopian tube or primary peritoneal cancer who have not received prior therapy with bevacizumab or other vascular endothelial growth factor (VEGF) inhibitors or VEGF receptor–targeted agents. Vegzelma in combination with paclitaxel, topotecan, or pegylated liposomal doxorubicin is indicated for the treatment of adult patients with platinum-resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who received no more than two prior chemotherapy regimens and who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents. Vegzelma, in combination with paclitaxel and cisplatin or, alternatively, paclitaxel and topotecan in patients who cannot receive platinum therapy, is indicated for the treatment of adult patients with persistent, recurrent, or metastatic carcinoma of the cervix.", "Indication_approved": "Vegzelma in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of adult patients with metastatic carcinoma of the colon or rectum. Vegzelma in combination with paclitaxel is indicated for first-line treatment of adult patients with metastatic breast cancer. Vegzelma in combination with capecitabine is indicated for first-line treatment of adult patients with metastatic breast cancer in whom treatment with other chemotherapy options including taxanes or anthracyclines is not considered appropriate. Vegzelma, in addition to platinum-based chemotherapy, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-small cell lung cancer (NSCLC) other than predominantly squamous cell histology. Vegzelma, in combination with erlotinib, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent NSCLC with Epidermal Growth Factor Receptor (EGFR) activating mutations. Vegzelma, in combination with interferon alfa-2a is indicated for first line treatment of adult patients with advanced and/or metastatic renal cell cancer. Vegzelma, in combination with carboplatin and paclitaxel is indicated for the front-line treatment of adult patients with advanced (International Federation of Gynecology and Obstetrics (FIGO) stages III B, III C and IV) epithelial ovarian, fallopian tube, or primary peritoneal cancer. Vegzelma, in combination with carboplatin and gemcitabine or in
+Error: The response is not valid JSON: ```json { "Marketing_authorisation_number": "EMA/798844/2017", "Procedure_number": "EMEA/H/C/004728/0000", "Drug_name": "MVASI", "Non_proprietary_name": "bevacizumab", "Marketing_authorisation_holder": "Amgen Europe B.V.", "Drug_class": "Biologics", "Pharmaceutical_form": "concentrate for solution for infusion", "Administration_route": "intravenous", "Decision": "approved", "Current_status": "authorised", "Decision_date": "09.11.2017", "Decision_year": "2017", "Orphan_drug_status": "no", "Indication_extended": "no", "Indication_requested": "MVASI in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of adult patients with metastatic carcinoma of the colon or rectum
+Erythropoietic Protoporphyria
+Esophageal Candidiasis
+Esophageal Neoplasms
+Esophageal Squamous Cell Carcinoma
+Essential Thrombocythemia
+Essential Tremor
+Estrogen Deficiency
+Excessive Daytime Sleepiness
+Exocrine Pancreatic Insufficiency
+Extravasation of Diagnostic and Therapeutic Materials
+Fabry Disease
+Factor IX Deficiency
+Factor VII Deficiency
+Factor VIII Deficiency
+Factor X Deficiency
+Fallopian Tube Neoplasms
+Familial Adenomatous Polyposis
+Familial Amyloid Polyneuropathy
+Familial Chylomicronemia Syndrome
+Familial Cold Autoinflammatory Syndrome
+Febrile Neutropenia
+Female Infertility
+Fibrodysplasia Ossificans Progressiva
+Fibromyalgia
+Fibrosis
+Follicular Lymphoma
+Fractures, Bone
+Fractures, Ununited
+Friedreich Ataxia
+Full Thickness Burn
+Full-Thickness Burns
+Fungal Infections
+Fusariosis
+GIST
+Gastric Adenocarcinoma
+Gastric Cancer
+Gastric Neoplasms
+Gastroenteropancreatic Neuroendocrine Tumors
+Gastroesophageal Junction Adenocarcinoma
+Gastrointestinal Stromal Tumors
+Gaucher Disease
+Generalized Anxiety Disorder
+Genital Diseases, Female
+Genital Warts
+Geographic Atrophy
+Giant Cell Arteritis
+Giant Cell Tumor of Bone
+Glabellar Lines
+Glanzmann's Thrombasthenia
+Glaucoma, Open-Angle
+Glaucoma, Pediatric
+Glioblastoma
+Glioma
+Glomerulonephritis, IGA
+Gout
+Gouty Arthritis
+Graft vs Host Disease
+Gram-Negative Bacterial Infections
+Granulomatosis with Polyangiitis
+Growth Disorders
+Growth Failure
+Growth Hormone Deficiency
+Growth Retardation
+Guillain-Barre Syndrome
+Guillain-Barré Syndrome
+Gynecologic Infections
+HES
+HIV Infections
+Haemophilus Infections
+Hairy Cell Leukemia
+Hand Dermatoses
+Head and Neck Neoplasms
+Heart Failure
+Heartburn
+Helicobacter Infections
+Hematologic Neoplasms
+Hemophagocytic Lymphohistiocytosis
+Hemophilia
+Hemophilia A
+Hemophilia B
+Hemorrhage
+Hepatic Veno-Occlusive Disease
+Hepatitis A
+Hepatitis B
+Hepatitis B, Chronic
+Hepatitis C
+Hepatitis C, Chronic
+Hepatocellular Carcinoma
+Hepatorenal Tyrosinemia
+Hereditary Angioedema
+Hereditary Tyrosinemia Type 1
+Hereditary Tyrosinemias
+Herpes Zoster
+Heterotopic Ossification
+Hidradenitis Suppurativa
+High-Grade B-Cell Lymphoma
+Hodgkin Disease
+Hodgkin Lymphoma
+Homocystinuria
+Homozygous Familial Hypercholesterolemia
+Hot Flashes
+Human Immunodeficiency Virus
+Human Immunodeficiency Virus 1
+Hunter Syndrome
+Huntington Disease
+Hutchinson-Gilford Progeria Syndrome
+Hyperammonemia
+Hypercalcemia
+Hypercholesterolemia
+Hypercortisolism
+Hypereosinophilic Syndrome
+Hyperglycemic Coma
+Hyperkalemia
+Hyperlipidemias
+Hyperlipoproteinemia Type II
+Hyperparathyroidism, Primary
+Hyperparathyroidism, Secondary
+Hyperphenylalaninemia
+Hyperphosphatemia
+Hypertension
+Hypertension, Pulmonary
+Hypertrichosis
+Hypertriglyceridemia
+Hypertrophic Cardiomyopathy
+Hyperuricemia
+Hypoactive Sexual Desire Disorder
+Hypogammaglobulinemia
+Hypogonadism
+Hypogonadotropic Hypogonadism
+Hyponatremia
+Hypoparathyroidism
+Hypophosphatasia
+Hypotension
+Idiopathic Generalised Epilepsy
+Idiopathic Generalized Epilepsy
+Idiopathic Neutropenia
+Idiopathic Pulmonary Fibrosis
+Immunoglobulin A Nephropathy
+Immunoglobulin G Deficiency
+Immunologic Deficiency Syndromes
+Impotence
+Inborn Errors of Bile Acid Metabolism
+Inborn Errors of Metabolism
+Inborn Errors of Urea Synthesis
+Infantile Hemangioma
+Infantile Spasms
+Infection
+Infertility
+Infertility, Female
+Inflammation
+Inflammatory Bowel Diseases
+Influenza
+Insomnia
+Interstitial Cystitis
+Interstitial Lung Diseases
+Intraabdominal Infections
+Intraoperative Miosis
+Intraoperative and Postoperative Complications
+Invasive Aspergillosis
+Invasive Candidiasis
+Invasive Meningococcal Disease
+Invasive Pneumococcal Disease
+Iron Deficiencies
+Iron Deficiency Anemia
+Iron-Deficiency Anemia
+Irritable Bowel Syndrome
+Ischemic Stroke
+Japanese Encephalitis
+Joint Diseases
+Juvenile Idiopathic Arthritis
+Juvenile Myoclonic Epilepsy
+Kaposi Sarcoma
+Kaposi's Sarcoma
+Kawasaki Disease
+Keratitis
+Ketoacidosis
+Kidney Diseases
+Kidney Failure, Chronic
+Lambert-Eaton Myasthenic Syndrome
+Large B-Cell Lymphoma
+Leber Congenital Amaurosis
+Leber Hereditary Optic Neuropathy
+Lennox-Gastaut Syndrome
+Leptin Deficiency
+Lesions
+Leukemia, Eosinophilic, Chronic
+Leukemia, Lymphoblastic, Acute
+Leukemia, Lymphocytic, Chronic, B-Cell
+Leukemia, Lymphoid
+Leukemia, Mast-Cell
+Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+Leukemia, Myeloid, Accelerated Phase
+Leukemia, Myeloid, Acute
+Leukemia, Myeloid, Blast Phase
+Leukemia, Myeloid, Chronic-Phase
+Leukemia, Myelomonocytic, Chronic
+Leukemia, Promyelocytic, Acute
+Leukodystrophy, Metachromatic
+Li-Fraumeni Syndrome
+Lipodystrophy
+Lipoprotein Lipase Deficiency
+Liposarcoma
+Liver Carcinoma
+Liver Cirrhosis
+Liver Diseases
+Liver Fibrosis
+Low-Grade Glioma
+Lung Diseases
+Lung Neoplasms
+Lung Neoplasms, Non-Small Cell
+Lung Neoplasms, Non-Small-Cell Lung
+Lupus Nephritis
+Lymphoma
+Lymphoma, Follicular
+Lymphoma, Large B-Cell, Diffuse
+Lymphoma, Malignant
+Lymphoma, Mantle-Cell
+Lymphoma, Non-Hodgkin
+Lymphoma, Small Lymphocytic
+Lysosomal Storage Diseases
+MDS/MPD
+MVASI in combination with interferon alfa-2a is indicated for first-line treatment of adult patients with advanced and/or metastatic renal cell cancer
+MVASI in combination with paclitaxel is indicated for first-line treatment of adult patients with metastatic breast cancer
+MVASI in combination with paclitaxel, topotecan, or pegylated liposomal doxorubicin is indicated for the treatment of adult patients with platinum-resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who received no more than two prior chemotherapy regimens and who have not received prior therapy with bevacizumab or
+MVASI in combination with paclitaxel, topotecan, or pegylated liposomal doxorubicin is indicated for the treatment of adult patients with platinum-resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who received no more than two prior chemotherapy regimens and who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents
+MVASI, in addition to platinum-based chemotherapy, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-small cell lung cancer other than predominantly squamous cell histology
+MVASI, in combination with carboplatin and gemcitabine, is indicated for treatment of adult patients with first recurrence of platinum-sensitive epithelial ovarian, fallopian tube or primary peritoneal cancer who have not received prior therapy with bevacizumab or other VEGF inhibitors or VEGF receptor–targeted agents
+MVASI, in combination with carboplatin and paclitaxel is indicated for the front-line treatment of adult patients with advanced (International Federation of Gynecology and Obstetrics (FIGO) stages IIIB, IIIC and IV) epithelial ovarian, fallopian tube, or primary peritoneal cancer
+MVASI, in combination with erlotinib, is indicated for first-line treatment of adult patients with unresectable advanced, metastatic or recurrent non-squamous non-small cell lung cancer with Epidermal Growth Factor Receptor (EGFR) activating mutations
+MVASI, in combination with paclitaxel and cisplatin or, alternatively, paclitaxel and topotecan in patients who cannot receive platinum therapy, is indicated for the treatment of adult patients with persistent, recurrent, or metastatic carcinoma of the cervix.", "Indication_approved": "MVASI in combination with fluoropyrimidine-based chemotherapy is indicated for treatment of adult patients with metastatic carcinoma of the colon or rectum
+Macular Degeneration
+Macular Edema
+Macular Hole
+Macular Holes
+Major Depressive Disorder
+Malaria
+Malaria, Falciparum
+Malignancy
+Malignant Ascites
+Malignant Glioma
+Malignant Hematologic Disease
+Malignant Hyperthermia
+Malignant Neoplasms
+Mantle Cell Lymphoma
+Marginal Zone Lymphoma
+Mastocytosis with Associated Hematologic Neoplasm
+Mastocytosis, Systemic
+Mastocytosis, Systemic, Aggressive
+Measles
+Medullary Carcinoma, Thyroid
+Medullary Thyroid Cancer
+Medulloblastoma
+Melanoma
+Meningitis
+Meningococcal Infections
+Menopause
+Merkel Cell Carcinoma
+Mesothelioma
+Metastatic Cancer
+Methaemoglobinaemia
+Methemoglobinemia
+Microscopic Polyangiitis
+Migraine Disorders
+Mild Cognitive Impairment
+Moebius Syndrome
+Monocarboxylate Transporter 8 Deficiency
+Mouth Neoplasms
+Muckle-Wells Syndrome
+Mucocutaneous Lymph Node Syndrome
+Mucopolysaccharidoses
+Mucopolysaccharidosis VII
+Mucormycosis
+Multifocal Motor Neuropathy
+Multiple Myeloma
+Multiple Sclerosis
+Multiple Sclerosis, Chronic Progressive
+Multiple Sclerosis, Primary Progressive
+Multiple Sclerosis, Relapsing-Remitting
+Multiple Sclerosis, Secondary Progressive
+Multiple System Atrophy
+Mumps
+Musculoskeletal Diseases
+Myasthenia Gravis
+Mycetoma
+Mycobacterium Infections
+Mycobacterium Infections, Nontuberculous
+Mycobacterium avium-intracellulare Infection
+Mycoses
+Mycosis Fungoides
+Myelodysplastic Syndromes
+Myelodysplastic-Myeloproliferative Diseases
+Myelofibrosis
+Myeloproliferative Disorders
+Myocardial Infarction
+Myopia
+Myopia, Degenerative
+Myopic Choroidal Neovascularization
+Myotonic Disorders
+Narcolepsy
+Nasal Polyps
+Nasopharyngeal Carcinoma
+Neisseria meningitidis Infections
+Neonatal-Onset Multisystem Inflammatory Disease
+Neoplasm Metastasis
+Neoplasms
+Neoplasms, GIST
+Nephropathic Cystinosis
+Nephrotic Syndrome
+Neuralgia
+Neuralgia; Epilepsy; Anxiety Disorders
+Neuroblastoma
+Neurodegeneration with Brain Iron Accumulation
+Neuroendocrine Tumors
+Neurofibromatosis 1
+Neurogenetic Diseases
+Neurologic Disorders
+Neurologic Manifestations
+Neuromuscular Blockade
+Neuromyelitis Optica
+Neuromyelitis Optica Spectrum Disorder
+Neuropathic Pain
+Neurotrophic Keratitis
+Neutropenia
+Niemann-Pick Disease, Type C
+Non-24-Hour Sleep-Wake Disorder
+Non-Hodgkin Lymphoma
+Non-Small Cell Lung Cancer
+Non-Small Cell Lung Carcinoma
+Non-Small-Cell Lung Carcinoma
+Non-alcoholic Fatty Liver Disease
+Non-tuberculous Mycobacterial Infections
+Nonketotic Hyperglycinemia
+Nosocomial Infections
+Not Reported
+Obesity
+Ocular Hypertension
+Ocular Surface Disease
+Oesophageal Squamous Cell Carcinoma
+Open-Angle Glaucoma
+Opioid-Related Disorders
+Oral Mucositis
+Orthopoxvirus Infections
+Osteoarthritis
+Osteochondral Defects
+Osteochondritis Dissecans
+Osteomyelitis
+Osteoporosis
+Osteoporosis, Postmenopausal
+Osteosarcoma
+Otitis Media
+Ovarian Neoplasms
+Overactive Bladder
+Overactive Urinary Bladder
+Overweight
+PIK3CA-Related Overgrowth Spectrum
+Paget's Disease, Bone
+Pancreatic Diseases
+Pancreatic Neoplasms
+Pancreatitis
+Pancreatitis, Chronic
+Parathyroid Neoplasms
+Parkinson Disease
+Parkinsonian Disorders
+Paroxysmal Nocturnal Hemoglobinuria
+Partial Seizures
+Partial Thickness Wounds
+Patent Ductus Arteriosus
+Peanut Hypersensitivity
+Pelvic Inflammatory Disease
+Pelvic Neoplasms
+Pemphigus Vulgaris
+Periodic Paralysis
+Periodontal Diseases
+Peripheral Arterial Disease
+Peripheral Nervous System Diseases
+Peripheral T-Cell Lymphoma
+Peritoneal Neoplasms
+Pertussis
+Pharyngitis
+Phenylketonurias
+Plaque Psoriasis
+Pneumonia
+Pneumonia, Bacterial
+Pneumonia, Hospital-Acquired
+Pneumonia, Ventilator-Associated
+Poisoning
+Poliomyelitis
+Polycystic Kidney Diseases
+Polycystic Ovary Syndrome
+Polycythemia Vera
+Polyneuropathies
+Polyradiculoneuropathy, Chronic Inflammatory Demyelinating
+Pompe Disease
+Porphyrias
+Positive Crossmatch
+Post-Transplant Lymphoproliferative Disorder
+Postherpetic Neuralgia
+Prader-Willi Syndrome
+Pre-Exposure Prophylaxis
+Precancerous Conditions
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
+Precursor Cell Lymphoblastic Leukemia-Lymphoma
+Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+Prediabetic State
+Premature Birth
+Premature Ejaculation
+Premature Ovulation
+Primary Aldosteronism
+Primary Biliary Cholangitis
+Primary Growth Hormone Insensitivity
+Primary Hyperoxaluria Type 1
+Primary Hyperparathyroidism
+Primary IGF-1 Deficiency
+Primary Insomnia
+Primary Mediastinal B-Cell Lymphoma
+Primary Mediastinal Large B-Cell Lymphoma
+Primary Myelofibrosis
+Primary Peritoneal Carcinoma
+Primary Pulmonary Hypertension
+Procedural Sedation
+Progeroid Laminopathies
+Progeroid Laminopathy
+Progressive Supranuclear Palsy
+Prostatic Diseases
+Prostatic Hyperplasia
+Prostatic Neoplasms
+Protein C Deficiency
+Prurigo
+Pruritus
+Pseudomonas Infections
+Psoriasis
+Psoriasis, Pustular
+Psoriatic Arthritis
+Pulmonary Arterial Hypertension
+Pulmonary Disease, Chronic Obstructive
+Pulmonary Embolism
+Pulmonary Hypertension
+Pulmonary Tuberculosis
+Purpura, Thrombocytopenic, Idiopathic
+Pyelonephritis
+Pyruvate Kinase Deficiency
+Rectal Neoplasms
+Reflux
+Rejection (Psychology)
+Renal Cell Carcinoma
+Renal Disease
+Renal Diseases
+Renal Insufficiency
+Renal Tubular Acidosis
+Respiratory Distress Syndrome, Adult
+Respiratory Distress Syndrome, Newborn
+Respiratory Insufficiency
+Respiratory Syncytial Virus Infections
+Respiratory Tract Diseases
+Respiratory Tract Infections
+Restless Legs Syndrome
+Retinal Diseases
+Retinal Vein Occlusion
+Retinitis
+Retinitis Pigmentosa
+Rheumatoid Arthritis
+Rhinitis, Allergic
+Rhinitis, Allergic, Seasonal
+Rhinosinusitis
+Rosacea
+Rotavirus Infections
+Rubella
+SARS-CoV-2
+Schizophrenia
+Scleroderma, Systemic
+Seasonal Allergic Rhinitis
+Secondary Hyperparathyroidism
+Seizures
+Sepsis
+Septic Shock
+Severe Combined Immunodeficiency
+Severe Congenital Neutropenia
+Shock
+Short Bowel Syndrome
+Short Stature
+Sickle Cell Disease
+Sickle Cell Syndrome
+Sickle Cell Trait
+Sinusitis
+Sjögren's Syndrome
+Skin Diseases
+Skin Diseases, Bacterial
+Skin Diseases; Intraabdominal Infections
+Sleep Apnea Syndromes
+Sleep Apnea, Obstructive
+Small Cell Lung Carcinoma
+Small Lymphocytic Lymphoma
+Smallpox
+Smoking Cessation
+Soft Tissue Infections
+Soft Tissue Neoplasms
+Soft Tissue Sarcoma
+Soft Tissue Sarcomas
+Solid Malignant Neoplasm
+Solid Tumors
+Spermatogenesis
+Spinal Fusion
+Spinal Muscular Atrophy
+Splenomegaly
+Spondylarthritis
+Spondylarthritis, Ankylosing
+Spondylarthropathies
+Spondylitis, Ankylosing
+Spondyloarthritis
+Spondylolisthesis
+Squamous Cell Carcinoma of Head and Neck
+Squamous Cell Lung Carcinoma
+Staphylococcal Infections
+Steatohepatitis
+Steroid-Sensitive Nephrotic Syndrome
+Stomach Neoplasms
+Streptococcal Infections
+Stroke
+Stromal Tumor
+Subependymal Giant Cell Astrocytoma
+Surgical Bleeding
+Surgical Wound Infection
+Syndrome of Inappropriate Antidiuretic Hormone Secretion
+Systemic Embolism
+Systemic Lupus Erythematosus
+Systemic Mastocytosis
+Systemic Sclerosis
+Sézary Syndrome
+Tenosynovial Giant Cell Tumor
+Tetanus
+Tetrahydrobiopterin Deficiency
+Thalassemia
+Thalassemia Major
+Thalassemia, Beta
+Thrombocythemia, Essential
+Thrombocytopenia
+Thrombocytopenia, Immune
+Thrombocytopenic Purpura, Idiopathic
+Thromboembolism
+Thrombosis
+Thrombotic Thrombocytopenic Purpura
+Thyroid Cancer
+Thyroid Neoplasms
+Thyrotoxicosis
+Tonic-Clonic Epilepsy
+Tonsillitis
+Transfusional Hemosiderosis
+Transient Ischemic Attack
+Transplant Rejection
+Transplantation, Homologous
+Transthyretin Amyloidosis
+Tuberculosis
+Tuberculosis, Multidrug-Resistant
+Tuberous Sclerosis
+Tularemia
+Tumor Lysis Syndrome
+Turner Syndrome
+Type 1 Diabetes Mellitus
+Type 2 Diabetes Mellitus
+Ulcerative Colitis
+Urea Cycle Disorders
+Urinary Bladder Neoplasms
+Urinary Incontinence, Stress
+Urinary Tract Infections
+Urothelial Cancer
+Urothelial Carcinoma
+Urticaria
+Uterine Cervical Neoplasms
+Uterine Fibroids
+Uveal Melanoma
+Uveal Neoplasms
+Uveitis
+Vaginal Atrophy
+Varicella
+Vascular Dementia
+Venous Thromboembolism
+Venous Thrombosis
+Vernal Keratoconjunctivitis
+Vitiligo
+Vitreomacular Adhesion
+Vitreomacular Traction Syndrome
+Von Hippel-Lindau Disease
+Von Willebrand Disease
+Vulvar Atrophy
+Vulvar Intraepithelial Neoplasia
+Vulvovaginal Candidiasis
+Waldenstrom Macroglobulinemia
+Wilson Disease
+X-linked Hypophosphatemia
+Zaire Ebolavirus
+von Willebrand Disease
