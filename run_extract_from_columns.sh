@@ -3,29 +3,36 @@
 # TODO change the below arguments as needed
 DATASETS=(
     # "JAPAN" 
-    "AUSTRALIA" 
-    "EMA" 
+    # "AUSTRALIA" 
+    # "EMA" 
     # "SWISSMEDIC"
+    "FDA"
 )
 
 for DATASET in "${DATASETS[@]}"; do
     echo "Processing dataset: $DATASET"
 
-    INPUT_FILE="inference/combined/$DATASET.json"
+    # INPUT_FILE="inference/combined/$DATASET.json"
+    INPUT_FILE="data/FDA/$DATASET.json"
 
     # iterate over the columns of interest
 
-    COLUMNS_OF_INTEREST=("Indication_approved" "Marketing_authorisation_holder" "Indication_requested")
+    COLUMNS_OF_INTEREST=(
+        "Marketing_authorisation_holder"
+        "Non_proprietary_name"
+        "Indications_and_usage"
+    )
 
     # ==========================================================
 
-    SAVE_DIR="./inference/combined/with_extracted_data"
+    # SAVE_DIR="./inference/combined/with_extracted_data"
+    SAVE_DIR="data/FDA/with_extracted_data"
     mkdir -p "$SAVE_DIR"
 
     python ./src/extract_from_columns.py\
         --input_file "$INPUT_FILE" \
         --columns_of_interest "${COLUMNS_OF_INTEREST[@]}" \
-        --slice -1 \
+        --slice 10 \
         --model "gpt-4o" \
         --save_file "$SAVE_DIR/$DATASET.json" \
         --temperature "0.1" \
