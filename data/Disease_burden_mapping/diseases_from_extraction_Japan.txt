@@ -1,0 +1,816 @@
+<Ovarian Neoplasms>; <Recurrent Ovarian Cancer>
+<Multiple Myeloma>
+<Influenza>
+<Hypercholesterolemia>; <Familial Hypercholesterolemia>
+<Diabetes Mellitus>
+<Generalized Myasthenia Gravis>; <Thrombocytopenic Purpura, Chronic>
+<Hyperparathyroidism, Secondary>
+<Seizures>
+<Anemia>
+<Influenza>
+<Influenza>
+<Psoriasis>; <Psoriatic Arthritis>
+<Type 2 Diabetes Mellitus>
+<Transthyretin Familial Amyloid Polyneuropathy>; <Transthyretin Amyloid Cardiomyopathy>
+<Allergic Rhinitis>; <Urticaria>; <Pruritus>; <Eczema>; <Dermatitis>; <Prurigo>; <Cutaneous Pruritus>
+<Blood Coagulation Disorders>
+<Systemic Lupus Erythematosus>
+<Gastric Cancer>
+<Rheumatoid Arthritis>
+<Constipation>
+<Insomnia>
+<Psoriasis>; <Psoriatic Arthritis>
+<Androgenetic Alopecia>
+<Head and Neck Neoplasms>
+<Pneumonia>
+<Breast Neoplasms>; <Stomach Neoplasms>; <Salivary Gland Neoplasms>; <Colorectal Neoplasms>
+<Hypercholesterolemia>; <Sitosterolemia>
+<Parkinson Disease>
+<Type 2 Diabetes Mellitus>
+<Chronic Hepatitis C>
+<Soft Tissue Neoplasms>
+<Chronic Obstructive Pulmonary Disease>
+<Ischemic Stroke>; <Embolism>; <Atrial Fibrillation>
+<Central Nervous System Neoplasms>
+<Chronic Hepatitis C>; <Liver Cirrhosis>
+<Chronic Hepatitis C>; <Liver Cirrhosis>
+<Esophageal Squamous Cell Carcinoma>
+<Pruritus>; <Dermatitis, Atopic>
+<Parkinsonism>; <Dementia with Lewy Bodies>
+<Tinea Unguium>
+<Breast Neoplasms>
+<Classical Hodgkin Lymphoma>
+<Uveitis>
+<Schizophrenia>; <Autism Spectrum Disorder>
+<Influenza>
+<COVID-19>
+<Dry Eye Syndromes>
+<COVID-19>
+<Systemic Lupus Erythematosus>
+<Peripheral T-Cell Lymphoma>
+<Psoriasis>; <Psoriatic Arthritis>
+<Chronic Hepatitis C>; <Cirrhosis>
+<Overactive Bladder>
+<Colorectal Neoplasms>
+<Colorectal Neoplasms>
+<Coronavirus Infections>
+<Cervical Cancer>
+<Type 2 Diabetes Mellitus>
+<Colorectal Neoplasms>
+<Allergic Rhinitis>
+<Psoriasis>; <Arthritis, Psoriatic>
+<Coronavirus Infections>
+<Influenza>
+<Thrombocytopenic Purpura, Idiopathic>; <Anemia, Aplastic>
+<Multiple Myeloma>
+<Congenital Hemophilia>
+<Breast Neoplasms>
+<Breast Neoplasms>
+<Pruritus>
+<Mucopolysaccharidoses>
+<Multiple Myeloma>
+<Non-Small-Cell Lung Carcinoma>
+<Hodgkin Disease>
+<Mantle Cell Lymphoma>
+<Constipation>
+<Generalized Myasthenia Gravis>
+<Migraine Disorders>
+<Schizophrenia>
+<Venous Thromboembolism>
+<Psoriasis>; <Psoriatic Arthritis>
+<Coronavirus Infections>
+<Paroxysmal Nocturnal Hemoglobinuria>
+<Neuromyelitis Optica Spectrum Disorder>
+<Melanoma>; <Lung Neoplasms>
+<Colorectal Neoplasms>
+<Acid Sphingomyelinase Deficiency>
+<Alzheimer Disease>
+<Influenza>
+<Influenza>
+<Gastric Ulcer>; <Duodenal Ulcer>; <Reflux Esophagitis>; <Gastric Mucosa-Associated Lymphoid Tissue Lymphoma>; <Idiopathic Thrombocytopenic Purpura>; <Gastric Cancer>; <Helicobacter pylori Gastritis>
+<Acne Vulgaris>
+<Breast Neoplasms>; <Sarcoma>
+<Familial Hypercholesterolemia>; <Hypercholesterolemia>
+<Osteoarthritis>
+<Adult T-Cell Leukemia-Lymphoma>
+<Precursor Cell Lymphoblastic Leukemia-Lymphoma>
+<Chronic Hepatitis C>; <Liver Cirrhosis>
+<Bronchial Asthma>
+<Neuromyelitis Optica Spectrum Disorder>
+<Chronic Hepatitis C>; <Cirrhosis>
+<Chronic Hepatitis C>; <Cirrhosis>
+<Obesity>
+<Stroke; Amyotrophic Lateral Sclerosis>
+<Macular Degeneration>
+<Not Reported>
+<Thrombosis>; <Embolism>; <Gastric Ulcer>; <Duodenal Ulcer>; <Angina Pectoris>; <Myocardial Infarction>; <Ischemic Cerebrovascular Disorders>
+<SARS-CoV-2 Infections>
+<Dermatitis, Atopic>
+<HIV Infections>
+<Hypophosphatemic Rickets>; <Osteomalacia>
+<Microscopic Polyangiitis>; <Granulomatosis with Polyangiitis>
+<COVID-19>
+<Psoriasis>; <Arthritis, Psoriatic>
+<Lung Neoplasms>
+Not Reported
+<Influenza>
+<Chronic Hepatitis C>; <Cirrhosis>
+<Chronic Hepatitis C>; <Cirrhosis>
+<Spinal Muscular Atrophy>
+<Chronic Urticaria>
+<Alopecia Areata>
+<Acquired Immunodeficiency Syndrome>
+<Peripheral T-Cell Lymphoma>
+<Diabetes Mellitus>
+<Solid Tumors>
+<Non-Small Cell Lung Cancer>
+<Diabetes Mellitus>
+<COVID-19>
+<Type 2 Diabetes Mellitus>
+<Colorectal Neoplasms>
+<Dupuytren Contracture>
+<Gastric Cancer>; <Esophageal Neoplasms>
+<Melanoma>; <Lung Neoplasms>; <Hodgkin Disease>; <Urothelial Carcinoma>; <Microsatellite Instability>
+<Osteoporosis>; <Arthritis, Rheumatoid>
+<Colorectal Neoplasms>
+<Glaucoma>; <Ocular Hypertension>
+<Hyperlipidemias>
+<Blood Coagulation Disorders>
+<Hyperparathyroidism, Secondary>
+<Chronic Hepatitis C>; <Cirrhosis>
+<Cervical Cancer>
+<Leukemia, Myeloid, Acute>
+<Autoimmune Diseases>
+<Rheumatoid Arthritis>
+<Bronchial Asthma>
+<Mantle Cell Lymphoma>
+<Chronic Hepatitis C>
+<Blepharospasm>; <Hemifacial Spasm>; <Cervical Dystonia>; <Spasticity>; <Talipes Equinovarus>; <Cerebral Palsy>; <Hyperhidrosis>; <Strabismus>
+<Cutaneous T-Cell Lymphoma>
+<Lung Neoplasms>
+<Hodgkin Disease>; <Peripheral T-Cell Lymphoma>
+<Chronic Kidney Disease>; <Diabetes Mellitus, Type 2>
+<Dermatitis, Atopic>
+<Coronary Artery Disease>; <Acute Coronary Syndrome>; <Unstable Angina>; <Myocardial Infarction>; <Angina Pectoris>
+<Pertussis>; <Diphtheria>; <Tetanus>; <Poliomyelitis>
+<Subarachnoid Hemorrhage>; <Cerebral Aneurysm>; <Cerebral Infarction>; <Cerebral Ischemia>
+<Chronic Cough>
+<Functional Dyspepsia>
+<Chronic Hepatitis C>; <Cirrhosis>
+<Pulmonary Hypertension>
+<Prostatic Neoplasms>
+<Breast Neoplasms>
+<Peripheral T-Cell Lymphoma>
+<Coronavirus Infections>
+<Coronavirus Infections>
+<Paroxysmal Nocturnal Hemoglobinuria>
+<Head and Neck Neoplasms>
+<SARS-CoV-2 Infection>
+<Osteoporosis>
+<Chronic Obstructive Pulmonary Disease>
+<Rheumatoid Arthritis>; <Uveitis>; <Behcet Syndrome>; <Psoriasis>; <Psoriatic Arthritis>; <Ankylosing Spondylitis>; <Crohn Disease>; <Ulcerative Colitis>
+<Blood Coagulation Disorders>
+<Pulmonary Hypertension>
+<Hypophosphatasia>
+<Osteoporosis>
+<Non-Small Cell Lung Carcinoma>
+<COVID-19>
+<Head and Neck Neoplasms>
+Not Reported
+<Heart Failure>
+<Pulmonary Hypertension>
+<Cryopyrin-Associated Periodic Syndromes>; <Familial Mediterranean Fever>; <Tumor Necrosis Factor Receptor-Associated Periodic Syndrome>; <Hyperimmunoglobulin D Syndrome>
+<Gastric Cancer>
+<Blood Coagulation Disorders>
+<Hypertension, Pulmonary>
+<Ulcerative Colitis>
+<Adenosine Deaminase Deficiency>
+<Macular Degeneration>; <Macular Edema>; <Retinal Vein Occlusion>; <Choroidal Neovascularization>; <Myopia>; <Diabetic Macular Edema>
+<Thyroid Neoplasms>; <Carcinoma, Hepatocellular>; <Thymus Neoplasms>
+<Chronic Obstructive Pulmonary Disease>
+<Periodontitis>
+<Type 2 Diabetes Mellitus>
+<Melanoma>
+<Glioma>
+<Prostatic Neoplasms>
+<Lung Neoplasms>
+<Bronchial Asthma>
+<Adult T-Cell Leukemia-Lymphoma>
+<Parkinson Disease>
+<Thyroid Neoplasms>
+<Lysosomal Storage Diseases>
+<Melanoma>; <Lung Neoplasms>; <Carcinoma, Renal Cell>; <Hodgkin Disease>; <Head and Neck Neoplasms>; <Stomach Neoplasms>
+<Pertussis>; <Diphtheria>; <Tetanus>; <Poliomyelitis>
+<Tuberous Sclerosis>
+Not Reported
+<Hodgkin Disease>; <Lymphoma, Large-Cell, Anaplastic>
+<Gastric Neoplasms>; <Colorectal Neoplasms>
+<Melanoma>; <Lung Neoplasms>
+<Dermatitis, Atopic>
+<Non-Small Cell Lung Cancer>
+<Adult T-Cell Leukemia-Lymphoma>
+<COVID-19>
+<Blood Coagulation Disorders>
+<COVID-19>
+<Chronic Obstructive Pulmonary Disease>
+<Chronic Obstructive Pulmonary Disease>
+<Angioedema, Hereditary>
+<Biliary Tract Neoplasms>
+<Cushing Syndrome>
+<Influenza>
+<Psoriasis>; <Psoriatic Arthritis>
+<Diabetes Mellitus>
+<Fabry Disease>
+<Adult T-Cell Leukemia-Lymphoma>
+<Dermatitis, Atopic>
+<Glycogen Storage Disease Type II>
+<Multiple Myeloma>
+<Influenza>
+<Pneumonia>; <COVID-19>
+<Rheumatoid Arthritis>; <Arthritis, Juvenile>; <Castleman Disease>
+<Thrombotic Thrombocytopenic Purpura>
+<Multiple Sclerosis, Relapsing-Remitting>
+<Multiple Myeloma>
+<Insomnia>
+<Hyperlipidemias>
+<Idiopathic Pulmonary Fibrosis>; <Systemic Sclerosis>; <Interstitial Lung Diseases>
+<Pulmonary Hypertension>
+<Multiple Myeloma>
+<Breast Neoplasms>
+<COVID-19>
+<Influenza>
+<Idiopathic Pulmonary Fibrosis>
+<Schizophrenia>
+<Type 1 Diabetes Mellitus>
+<Cachexia>
+<Uterine Fibroids>
+<Gastric Cancer>
+<Adiposity>
+<Acquired Immunodeficiency Syndrome>
+<Refractory Vascular Tumors>; <Refractory Vascular Malformations>
+<Colorectal Neoplasms>; <Esophageal Neoplasms>
+<Anemia>
+<Hepatocellular Carcinoma>
+<Multiple Myeloma>; <Lymphoma, Mantle-Cell>; <Waldenstrom Macroglobulinemia>; <Lymphoma, Lymphoplasmacytic>
+<Prostatic Neoplasms>
+<Non-Small Cell Lung Carcinoma>; <Small Cell Lung Carcinoma>
+<Diabetes Mellitus>
+<Thrombocytopenia>; <Liver Diseases>
+<Non-Small Cell Lung Carcinoma>
+<Melanoma>
+<Thrombocytopenic Purpura, Idiopathic>
+<Coronavirus Infections>
+<Multiple Myeloma>
+<Central Nervous System Neoplasms>; <Waldenstrom Macroglobulinemia>; <Lymphoma>
+<Paroxysmal Nocturnal Hemoglobinuria>
+<Rheumatoid Arthritis>
+<Macular Degeneration>; <Macular Edema>; <Retinal Vein Occlusion>; <Myopia, Degenerative>; <Diabetic Macular Edema>; <Glaucoma, Neovascular>; <Retinopathy of Prematurity>
+<Aplastic Anemia>
+<Acquired Immunodeficiency Syndrome>
+<Leukemia, Myeloid, Acute>
+<Gastrointestinal Stromal Tumors>
+<Laryngopharyngitis>; <Tonsillitis>; <Bronchitis>; <Pneumonia>; <Respiratory Tract Infections>; <Otitis Media>; <Sinusitis>
+<Non-Small-Cell Lung Carcinoma>
+<Alzheimer Disease>
+<Tyrosinemias>
+<Lung Neoplasms>; <Brain Neoplasms>; <Esophageal Neoplasms>
+<Irritable Bowel Syndrome>
+<Bronchial Asthma>
+<Myasthenia Gravis>
+<Heart Failure>
+<Non-Small Cell Lung Carcinoma>
+<Hypercalcemia>; <Parathyroid Neoplasms>; <Hyperparathyroidism, Primary>
+<Merkel Cell Carcinoma>
+<Acquired Immunodeficiency Syndrome>
+<COVID-19>
+<Pruritus>
+<Coronavirus Infections>
+<Hyperphosphatemia>; <Chronic Kidney Disease>
+<Non-Small-Cell Lung Carcinoma>
+<Rheumatoid Arthritis>
+<Melanoma>; <Lung Neoplasms>
+<Factor IX Deficiency>
+<Tardive Dyskinesia>
+<Non-Hodgkin Lymphoma>; <Lymphoproliferative Disorders>; <Granulomatosis with Polyangiitis>; <Microscopic Polyangiitis>; <Nephrotic Syndrome>
+<Multiple Myeloma>
+<Melanoma>
+Not Reported
+<Hypertension>
+<Still's Disease, Adult-Onset>
+<Infantile Hemangioma>
+<Rheumatoid Arthritis>
+<Melanoma>
+<Pulmonary Tuberculosis>
+<Ulcerative Colitis>
+<Colorectal Neoplasms>
+<Cytomegalovirus Infections>
+<Schizophrenia>; <Bipolar Disorder>
+<Non-Small Cell Lung Carcinoma>
+<Melanoma>
+<Infections; Pneumonia>
+<Type 2 Diabetes Mellitus>
+<Heart Failure>
+<SARS-CoV-2 Infections>
+<Dermatitis, Atopic>
+<Melanoma>
+<Cytomegalovirus Infections>
+<Ischemic Stroke>; <Embolism>
+<Depressive Disorder>
+<Hypercholesterolemia>; <Familial Hypercholesterolemia>
+<Non-Small Cell Lung Carcinoma>
+<Coronavirus Infections>
+<Crohn Disease>
+<Pompe Disease>
+<Thrombotic Thrombocytopenic Purpura>
+<Coronavirus Infections>
+<Gout>; <Hyperuricemia>
+<Coronavirus Infections>
+<Lung Neoplasms>
+<Breast Neoplasms>
+<Gout>; <Hyperuricemia>
+<Distal Myopathy>
+<Follicular Lymphoma>
+<Thyroid Neoplasms>; <Carcinoma, Hepatocellular>
+<Anemia>
+<Melanoma>
+<Smallpox>; <Monkeypox>
+<Chronic Hepatitis C>
+<Rheumatoid Arthritis>
+<Non-Small Cell Lung Carcinoma>
+<Non-Small-Cell Lung Carcinoma>
+<Non-Hodgkin Lymphoma>; <Mantle Cell Lymphoma>; <Leukemia, Lymphocytic, Chronic, B-Cell>
+<Peripheral T-Cell Lymphoma>
+<Chronic Hepatitis C>; <Cirrhosis>
+<Venous Thromboembolism>
+<Hypertension>
+<Parkinson Disease>
+<Myasthenia Gravis>
+<Cervical Cancer>; <Cervical Intraepithelial Neoplasia>
+<COVID-19>
+<Pertussis>; <Diphtheria>; <Tetanus>; <Poliomyelitis>
+<Attention Deficit Disorder with Hyperactivity>
+<Thrombocytopenic Purpura, Idiopathic>
+<Blood Coagulation Disorders>
+<Herpes Zoster>
+<Psoriasis>; <Arthritis, Psoriatic>
+<Hepatitis C, Chronic>
+<Paroxysmal Nocturnal Hemoglobinuria>
+<Lung Neoplasms>
+<Alzheimer Disease>
+<Melanoma>
+<Dermatitis, Atopic>
+<Soft Tissue Neoplasms>
+<Gastric Cancer>
+<Guillain-Barre Syndrome>
+<Rheumatoid Arthritis>
+<Influenza>
+<Type 2 Diabetes Mellitus>
+<COVID-19>
+<Bullous Pemphigoid>
+<Type 2 Diabetes Mellitus>
+<Chronic Hepatitis C>; <Cirrhosis>
+<Allergic Reaction>
+<Polycystic Kidney Diseases>
+<Multiple Myeloma>
+<Breast Neoplasms>; <Stomach Neoplasms>; <Lung Neoplasms, Non-Small Cell>; <Pancreatic Neoplasms>
+<Hyperuricemia>
+<Polyneuropathies>
+<Blood Coagulation Disorders>
+<Thrombophilia>; <Disseminated Intravascular Coagulation>
+<SARS-CoV-2 Infections>
+<Osteoporosis>
+<Chronic Hepatitis B>
+<Multiple Myeloma>; <Erythema Nodosum Leprosum>; <POEMS Syndrome>
+<Renal Cell Carcinoma>
+<Herpes Zoster>
+<Arrhythmias, Cardiac>
+<Rhinitis, Allergic, Perennial>
+<Rhinitis, Allergic>
+<Gout>; <Hyperuricemia>
+<Melanoma>; <Carcinoma, Renal Cell>
+<Melanoma>; <Lung Neoplasms>; <Carcinoma, Renal Cell>; <Hodgkin Disease>; <Head and Neck Neoplasms>; <Stomach Neoplasms>; <Mesothelioma>
+<Osteoarthritis>
+<Gastric Cancer>
+<Breast Neoplasms>
+<COVID-19>
+<Duchenne Muscular Dystrophy>
+<Non-Small-Cell Lung Carcinoma>
+<Hypercholesterolemia>
+<Idiopathic Pulmonary Fibrosis>
+<Colorectal Neoplasms>
+<Spinal Muscular Atrophy>
+<Type 2 Diabetes Mellitus>
+<SARS-CoV-2 Infections>
+<COVID-19>
+<Lymphangioleiomyomatosis>
+<Rheumatoid Arthritis>; <Dermatitis, Atopic>
+<Rheumatoid Arthritis>; <Takayasu Arteritis>; <Giant Cell Arteritis>
+<Gaucher Disease>
+<Ovarian Neoplasms>
+<Multiple Myeloma>
+<Influenza>
+<Familial Hypercholesterolemia>
+<Diabetes Mellitus>
+<Generalized Myasthenia Gravis>; <Primary Immune Thrombocytopenia>
+<Hyperparathyroidism, Secondary>
+<Seizures>
+<Anemia>
+<Influenza>
+<Influenza>
+<Psoriasis>; <Arthritis, Psoriatic>
+<Type 2 Diabetes Mellitus>
+<Transthyretin Familial Amyloid Polyneuropathy>; <Transthyretin Amyloid Cardiomyopathy>
+<Allergic Rhinitis>; <Urticaria>; <Eczema>; <Dermatitis>; <Prurigo>; <Pruritus>
+<Congenital Blood Coagulation Factor VIII Deficiency>
+<Systemic Lupus Erythematosus>
+<Gastric Cancer>
+<Rheumatoid Arthritis>
+<Constipation>
+<Insomnia>
+<Psoriasis>; <Psoriatic Arthritis>
+<Androgenetic Alopecia>
+<Head and Neck Neoplasms>
+<Pneumonia>; <COVID-19>
+<Breast Neoplasms>; <Stomach Neoplasms>; <Colorectal Neoplasms>
+<Hypercholesterolemia>; <Sitosterolemia>
+<Parkinson Disease>
+<Type 2 Diabetes Mellitus>
+<Chronic Hepatitis C>
+<Soft Tissue Sarcomas>
+<Chronic Obstructive Pulmonary Disease>
+<Stroke>; <Embolism>; <Atrial Fibrillation>
+<Central Nervous System Neoplasms>
+<Chronic Hepatitis C>; <Liver Cirrhosis>
+<Chronic Hepatitis C>; <Liver Cirrhosis>
+<Esophageal Neoplasms>
+<Pruritus>; <Dermatitis, Atopic>
+<Parkinsonism>; <Dementia with Lewy Bodies>
+<Onychomycosis>
+<Breast Neoplasms>
+<Classical Hodgkin Lymphoma>
+<Uveitis>
+<Schizophrenia>; <Autistic Disorder>
+<Influenza>
+<SARS-CoV-2>
+<Corneal Diseases>; <Conjunctival Diseases>; <Dry Eye Syndromes>; <Sjögren's Syndrome>; <Stevens-Johnson Syndrome>
+<COVID-19>
+<Systemic Lupus Erythematosus>
+<Peripheral T-Cell Lymphoma>
+<Psoriasis>; <Arthritis, Psoriatic>
+<Chronic Hepatitis C>; <Liver Cirrhosis>
+<Overactive Urinary Bladder>
+<Colorectal Neoplasms>
+<Colorectal Neoplasms>
+<SARS-CoV-2 Infections>
+<Cervical Cancer>
+<Type 2 Diabetes Mellitus>
+<Colorectal Neoplasms>
+<Allergic Rhinitis>
+<Psoriasis>; <Arthritis, Psoriatic>
+<Coronavirus Infections>
+<Influenza>
+<Thrombocytopenic Purpura, Idiopathic>; <Anemia, Aplastic>
+<Multiple Myeloma>
+<Congenital Hemophilia>
+<Breast Neoplasms>
+<Breast Neoplasms>
+<Pruritus>; <Liver Diseases>
+<Mucopolysaccharidoses>
+<Multiple Myeloma>
+<Non-Small-Cell Lung Carcinoma>
+<Hodgkin Disease>
+<Mantle Cell Lymphoma>
+<Constipation>
+<Myasthenia Gravis>
+<Migraine Disorders>
+<Schizophrenia>
+<Venous Thromboembolism>
+<Psoriasis>; <Psoriatic Arthritis>
+<COVID-19>
+<Paroxysmal Nocturnal Hemoglobinuria>
+<Neuromyelitis Optica Spectrum Disorder>
+<Melanoma>; <Lung Neoplasms>
+<Colorectal Neoplasms>
+<Acid Sphingomyelinase Deficiency>
+<Alzheimer Disease>
+<Influenza>
+<Influenza>
+<Gastric Ulcer>; <Duodenal Ulcer>; <Reflux Esophagitis>; <Gastric Mucosa-Associated Lymphoid Tissue Lymphoma>; <Idiopathic Thrombocytopenic Purpura>; <Gastric Cancer>; <Helicobacter Pylori Gastritis>
+<Acne Vulgaris>
+<Breast Neoplasms>; <Sarcoma>
+<Hypercholesterolemia>
+<Osteoarthritis>
+<Adult T-Cell Leukemia-Lymphoma>
+<Precursor Cell Lymphoblastic Leukemia-Lymphoma>
+<Chronic Hepatitis C>
+<Bronchial Asthma>
+<Neuromyelitis Optica Spectrum Disorder>
+<Chronic Hepatitis C>; <Liver Cirrhosis>
+<Chronic Hepatitis C>; <Liver Cirrhosis>
+<Obesity>
+<Stroke, Ischemic>; <Amyotrophic Lateral Sclerosis>
+<Choroidal Neovascularization>; <Macular Degeneration>
+<Not Reported>
+<Thrombosis>; <Embolism>; <Gastric Ulcer>; <Duodenal Ulcer>; <Angina Pectoris>; <Myocardial Infarction>; <Ischemic Cerebrovascular Disorders>
+<COVID-19>
+Not Reported
+<Human Immunodeficiency Virus>
+<Hypophosphatemic Rickets>; <Osteomalacia>
+<Microscopic Polyangiitis>; <Granulomatosis with Polyangiitis>
+<SARS-CoV-2>
+<Psoriasis>; <Arthritis, Psoriatic>
+<Lung Neoplasms>
+Not Reported
+<Influenza>
+<Chronic Hepatitis C>; <Liver Cirrhosis>
+<Chronic Hepatitis C>; <Liver Cirrhosis>
+<Spinal Muscular Atrophy>
+<Chronic Urticaria>
+<Alopecia Areata>
+<HIV Infections>
+<Peripheral T-Cell Lymphoma>
+<Diabetes Mellitus>
+<Neoplasms>
+<Non-Small Cell Lung Carcinoma>
+<Diabetes Mellitus>
+<SARS-CoV-2>
+<Type 2 Diabetes Mellitus>
+<Colorectal Neoplasms>
+<Dupuytren Contracture>
+<Gastric Neoplasms>; <Esophageal Neoplasms>
+Not Reported
+<Osteoporosis>; <Arthritis, Rheumatoid>
+<Colorectal Neoplasms>
+<Glaucoma>; <Hypertension, Ocular>
+<Hyperlipidemias>
+<Hemophilia A>
+<Hyperparathyroidism, Secondary>
+<Chronic Hepatitis C>; <Liver Cirrhosis>
+<Cervical Cancer>
+<Leukemia, Myeloid, Acute>
+<Autoimmune Diseases>
+<Rheumatoid Arthritis>
+<Bronchial Asthma>
+<Mantle Cell Lymphoma>
+<Chronic Hepatitis C>
+<Blepharospasm>; <Hemifacial Spasm>; <Cervical Dystonia>; <Upper Limb Spasticity>; <Lower Limb Spasticity>; <Talipes Equinus>; <Cerebral Palsy>; <Hyperhidrosis>; <Strabismus>
+<Cutaneous T-Cell Lymphoma>
+<Non-Small Cell Lung Carcinoma>
+<Hodgkin Disease>; <Peripheral T-Cell Lymphoma>; <Anaplastic Large-Cell Lymphoma>
+<Chronic Kidney Disease>; <Diabetes Mellitus, Type 2>
+<Dermatitis, Atopic>
+<Ischemic Heart Disease>
+<Pertussis>; <Diphtheria>; <Tetanus>; <Poliomyelitis>
+<Subarachnoid Hemorrhage>; <Cerebral Aneurysm>; <Cerebral Infarction>; <Ischemic Attack, Transient>
+<Chronic Cough>
+<Functional Dyspepsia>
+<Chronic Hepatitis C>; <Cirrhosis>
+<Pulmonary Hypertension>
+<Prostatic Neoplasms>
+<Prostatic Neoplasms, Castration-Resistant>; <Breast Neoplasms>
+<Peripheral T-Cell Lymphoma>
+<SARS-CoV-2>
+<COVID-19>
+<Paroxysmal Nocturnal Hemoglobinuria>
+<Head and Neck Neoplasms>
+<SARS-CoV-2>
+<Osteoporosis>
+<Chronic Obstructive Pulmonary Disease>
+<Rheumatoid Arthritis>; <Uveitis>; <Behcet Syndrome>; <Psoriasis>; <Psoriatic Arthritis>; <Ankylosing Spondylitis>; <Crohn Disease>; <Ulcerative Colitis>
+<Blood Coagulation Disorders>
+<Pulmonary Hypertension>
+<Hypophosphatasia>
+<Osteoporosis>
+<Non-Small Cell Lung Carcinoma>
+<SARS-CoV-2>
+<Head and Neck Neoplasms>
+<Neuromuscular Blockade>
+<Heart Failure>
+<Pulmonary Hypertension>
+Not Reported
+<Gastric Neoplasms>
+<Blood Coagulation Disorders>
+<Hypertension, Pulmonary>
+<Rheumatoid Arthritis>; <Ulcerative Colitis>
+<Adenosine Deaminase Deficiency>
+<Macular Degeneration>; <Macular Edema>; <Retinal Vein Occlusion>
+<Thymic Carcinoma>
+<Chronic Obstructive Pulmonary Disease>
+<Periodontitis>
+<Type 2 Diabetes Mellitus>
+<Melanoma>
+<Glioma>
+<Prostatic Neoplasms>
+<Non-Small Cell Lung Carcinoma>
+<Bronchial Asthma>
+<Adult T-Cell Leukemia-Lymphoma>
+<Parkinson Disease>
+<Thyroid Neoplasms>
+<Lysosomal Storage Diseases>
+<Melanoma>
+<Pertussis>; <Diphtheria>; <Tetanus>; <Poliomyelitis>
+<Tuberous Sclerosis>
+<Not Reported>
+<Hodgkin Disease>; <Lymphoma, Large-Cell, Anaplastic>
+<Gastric Neoplasms>; <Colorectal Neoplasms>
+<Melanoma>
+<Dermatitis, Atopic>
+<Non-Small Cell Lung Carcinoma>
+<Adult T-Cell Leukemia-Lymphoma>
+<COVID-19>
+<Blood Coagulation Disorders>
+<SARS-CoV-2 Infections>
+<Chronic Obstructive Pulmonary Disease>
+<Chronic Obstructive Pulmonary Disease>
+<Angioedema, Hereditary>
+<Biliary Tract Neoplasms>
+<Cushing Syndrome>
+<Influenza>
+<Psoriasis>; <Arthritis, Psoriatic>
+<Diabetes Mellitus>
+<Fabry Disease>
+<Adult T-Cell Leukemia-Lymphoma>
+<Dermatitis, Atopic>
+<Glycogen Storage Disease Type II>
+<Multiple Myeloma>
+<Influenza>
+<COVID-19>
+<Rheumatoid Arthritis>; <Arthritis, Juvenile>
+<Thrombotic Thrombocytopenic Purpura>
+<Multiple Sclerosis, Relapsing-Remitting>
+<Multiple Myeloma>
+<Insomnia>
+<Hyperlipidemias>
+<Interstitial Lung Diseases>
+<Pulmonary Hypertension>
+<Multiple Myeloma>
+<Breast Neoplasms>
+<SARS-CoV-2>
+<Influenza>
+<Idiopathic Pulmonary Fibrosis>
+<Schizophrenia>
+<Type 1 Diabetes Mellitus>
+<Cachexia>
+<Uterine Fibroids>
+<Stomach Neoplasms>
+<Hyperglycemia>; <Hypertriglyceridemia>; <Lipodystrophy>
+<Acquired Immunodeficiency Syndrome>
+<Neoplasms>; <Vascular Malformations>
+<Colorectal Neoplasms>; <Esophageal Neoplasms>
+<Anemia>
+<Hepatocellular Carcinoma>
+<Multiple Myeloma>; <Lymphoma, Mantle-Cell>; <Waldenstrom Macroglobulinemia>; <Lymphoma, Lymphoplasmacytic>
+<Prostatic Neoplasms>
+<Lung Neoplasms>
+<Diabetes Mellitus>
+<Chronic Liver Disease>
+<Non-Small Cell Lung Carcinoma>
+<Melanoma>
+<Thrombocytopenia>; <Purpura, Thrombocytopenic, Idiopathic>
+<SARS-CoV-2 Infections>
+<Multiple Myeloma>
+<Central Nervous System Neoplasms>; <Waldenstrom Macroglobulinemia>; <Lymphoma, Lymphoplasmacytic>
+<Paroxysmal Nocturnal Hemoglobinuria>
+<Rheumatoid Arthritis>
+<Macular Degeneration>; <Macular Edema>; <Retinal Vein Occlusion>; <Myopia, Degenerative>; <Diabetic Macular Edema>; <Glaucoma, Neovascular>; <Retinopathy of Prematurity>
+<Aplastic Anemia>
+<Acquired Immunodeficiency Syndrome>
+<Leukemia, Myeloid, Acute>
+<Gastrointestinal Stromal Tumors>
+<Laryngopharyngitis>; <Tonsillitis>; <Bronchitis>; <Pneumonia>; <Respiratory Tract Infections>; <Otitis Media>; <Sinusitis>
+<Non-Small-Cell Lung Carcinoma>
+<Alzheimer Disease>
+<Tyrosinemia, Type I>
+<Oesophageal Neoplasms>
+<Diarrhea-predominant irritable bowel syndrome>
+<Bronchial Asthma>
+<Myasthenia Gravis>
+<Heart Failure>
+<Non-Small Cell Lung Carcinoma>
+<Parathyroid Neoplasms>; <Hyperparathyroidism, Primary>
+<Merkel Cell Carcinoma>
+<HIV Infections>
+<COVID-19>
+<Pruritus>
+<COVID-19>
+<Hyperphosphatemia>; <Chronic Kidney Disease>
+<Non-Small Cell Lung Carcinoma>
+<Rheumatoid Arthritis>
+<Melanoma>
+<Factor IX Deficiency>
+<Tardive Dyskinesia>
+<Nephrotic Syndrome>
+<Multiple Myeloma>
+<Melanoma>
+Not Reported
+<Hypertension>
+<Still's Disease, Adult-Onset>
+<Infantile Hemangioma>
+<Rheumatoid Arthritis>
+<Melanoma>
+<Pulmonary Tuberculosis>
+<Ulcerative Colitis>
+<Colorectal Neoplasms>
+<Cytomegalovirus Infections>
+<Not Reported>
+<Lung Neoplasms>
+<Melanoma>
+<Invasive Pneumococcal Disease>; <Otitis Media>; <Pneumonia>
+<Type 2 Diabetes Mellitus>
+<Heart Failure>
+<COVID-19>
+<Dermatitis, Atopic>
+<Melanoma>
+<Cytomegalovirus Infections>
+<Stroke>; <Embolism>; <Atrial Fibrillation>
+<Depressive Disorder>
+<Hypercholesterolemia>
+<Non-Small Cell Lung Carcinoma>
+<SARS-CoV-2>
+<Crohn Disease>
+<Pompe Disease>
+<Thrombotic Thrombocytopenic Purpura>
+<Coronavirus Infections>
+<Hyperuricemia>; <Gout>
+<COVID-19>
+<Non-Small-Cell Lung Carcinoma>
+<Breast Neoplasms>
+<Gout>; <Hyperuricemia>
+<GNE Myopathy>
+<Follicular Lymphoma>
+<Hepatocellular Carcinoma>
+<Anemia>
+<Melanoma>
+<Smallpox>; <Monkeypox>
+<Chronic Hepatitis C>
+<Rheumatoid Arthritis>
+<Non-Small-Cell Lung Carcinoma>
+<Lung Neoplasms>
+<Non-Hodgkin Lymphoma>; <Mantle Cell Lymphoma>; <Leukemia, Lymphocytic, Chronic, B-Cell>
+<Peripheral T-Cell Lymphoma>
+<Chronic Hepatitis C>; <Liver Cirrhosis>
+<Venous Thromboembolism>
+<Hypertension>
+<Parkinson Disease>
+<Myasthenia Gravis>
+<Cervical Cancer>; <Cervical Intraepithelial Neoplasia>
+<COVID-19>
+<Pertussis>; <Diphtheria>; <Tetanus>; <Poliomyelitis>
+<Attention Deficit Disorder with Hyperactivity>
+<Thrombocytopenic Purpura, Idiopathic>
+<Blood Coagulation Disorders>
+<Herpes Zoster>; <Postherpetic Neuralgia>
+<Psoriasis>; <Arthritis, Psoriatic>
+<Chronic Hepatitis C>
+<Paroxysmal Nocturnal Hemoglobinuria>
+<Small Cell Lung Carcinoma>
+<Alzheimer Disease>
+<Melanoma>
+<Dermatitis, Atopic>
+<Soft Tissue Neoplasms>
+<Gastric Cancer>
+<Guillain-Barré Syndrome>
+<Rheumatoid Arthritis>
+<Influenza>
+<Type 2 Diabetes Mellitus>
+<SARS-CoV-2>
+<Bullous Pemphigoid>
+<Type 2 Diabetes Mellitus>
+<Chronic Hepatitis C>; <Cirrhosis>
+<Allergy>
+<Polycystic Kidney Diseases>
+<Multiple Myeloma>
+<Breast Neoplasms>; <Stomach Neoplasms>; <Lung Neoplasms, Non-Small Cell>; <Pancreatic Neoplasms>
+<Hyperuricemia>; <Hematologic Neoplasms>
+<Polyneuropathies>
+<Blood Coagulation Disorders>
+<Thrombophilia>; <Disseminated Intravascular Coagulation>
+<SARS-CoV-2>
+<Osteoporosis>
+<Chronic Hepatitis B>
+<POEMS Syndrome>
+<Renal Cell Carcinoma>
+<Herpes Zoster>
+<Arrhythmias, Cardiac>
+<Allergic Rhinitis>
+<Rhinitis, Allergic>
+<Gout>; <Hyperuricemia>
+<Melanoma>; <Carcinoma, Renal Cell>
+Not Reported
+<Osteoarthritis>
+<Gastric Neoplasms>
+<Breast Neoplasms>
+<COVID-19>
+<Duchenne Muscular Dystrophy>
+<Non-Small Cell Lung Carcinoma>
+<Hypercholesterolemia>
+<Idiopathic Pulmonary Fibrosis>
+<Breast Neoplasms>; <Colorectal Neoplasms>
+<Spinal Muscular Atrophies of Childhood>
+<Type 2 Diabetes Mellitus>
+<SARS-CoV-2 Infections>
+<COVID-19>
+<Lymphangioleiomyomatosis>
+<Dermatitis, Atopic>
+<Rheumatoid Arthritis>; <Vasculitis, Large-Cell>
+<Gaucher Disease>

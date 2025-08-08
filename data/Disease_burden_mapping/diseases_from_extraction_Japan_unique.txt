@@ -1,0 +1,315 @@
+Acid Sphingomyelinase Deficiency
+Acne Vulgaris
+Acquired Immunodeficiency Syndrome
+Acute Coronary Syndrome
+Adenosine Deaminase Deficiency
+Adiposity
+Adult T-Cell Leukemia-Lymphoma
+Allergic Reaction
+Allergic Rhinitis
+Allergy
+Alopecia Areata
+Alzheimer Disease
+Amyotrophic Lateral Sclerosis
+Anaplastic Large-Cell Lymphoma
+Androgenetic Alopecia
+Anemia
+Anemia, Aplastic
+Angina Pectoris
+Angioedema, Hereditary
+Ankylosing Spondylitis
+Aplastic Anemia
+Arrhythmias, Cardiac
+Arthritis, Juvenile
+Arthritis, Psoriatic
+Arthritis, Rheumatoid
+Atrial Fibrillation
+Attention Deficit Disorder with Hyperactivity
+Autism Spectrum Disorder
+Autistic Disorder
+Autoimmune Diseases
+Behcet Syndrome
+Biliary Tract Neoplasms
+Bipolar Disorder
+Blepharospasm
+Blood Coagulation Disorders
+Brain Neoplasms
+Breast Neoplasms
+Bronchial Asthma
+Bronchitis
+Bullous Pemphigoid
+COVID-19
+Cachexia
+Carcinoma, Hepatocellular
+Carcinoma, Renal Cell
+Castleman Disease
+Central Nervous System Neoplasms
+Cerebral Aneurysm
+Cerebral Infarction
+Cerebral Ischemia
+Cerebral Palsy
+Cervical Cancer
+Cervical Dystonia
+Cervical Intraepithelial Neoplasia
+Choroidal Neovascularization
+Chronic Cough
+Chronic Hepatitis B
+Chronic Hepatitis C
+Chronic Kidney Disease
+Chronic Liver Disease
+Chronic Obstructive Pulmonary Disease
+Chronic Urticaria
+Cirrhosis
+Classical Hodgkin Lymphoma
+Colorectal Neoplasms
+Congenital Blood Coagulation Factor VIII Deficiency
+Congenital Hemophilia
+Conjunctival Diseases
+Constipation
+Corneal Diseases
+Coronary Artery Disease
+Coronavirus Infections
+Crohn Disease
+Cryopyrin-Associated Periodic Syndromes
+Cushing Syndrome
+Cutaneous Pruritus
+Cutaneous T-Cell Lymphoma
+Cytomegalovirus Infections
+Dementia with Lewy Bodies
+Depressive Disorder
+Dermatitis
+Dermatitis, Atopic
+Diabetes Mellitus
+Diabetes Mellitus, Type 2
+Diabetic Macular Edema
+Diarrhea-predominant irritable bowel syndrome
+Diphtheria
+Disseminated Intravascular Coagulation
+Distal Myopathy
+Dry Eye Syndromes
+Duchenne Muscular Dystrophy
+Duodenal Ulcer
+Dupuytren Contracture
+Eczema
+Embolism
+Erythema Nodosum Leprosum
+Esophageal Neoplasms
+Esophageal Squamous Cell Carcinoma
+Fabry Disease
+Factor IX Deficiency
+Familial Hypercholesterolemia
+Familial Mediterranean Fever
+Follicular Lymphoma
+Functional Dyspepsia
+GNE Myopathy
+Gastric Cancer
+Gastric Mucosa-Associated Lymphoid Tissue Lymphoma
+Gastric Neoplasms
+Gastric Ulcer
+Gastrointestinal Stromal Tumors
+Gaucher Disease
+Generalized Myasthenia Gravis
+Giant Cell Arteritis
+Glaucoma
+Glaucoma, Neovascular
+Glioma
+Glycogen Storage Disease Type II
+Gout
+Granulomatosis with Polyangiitis
+Guillain-Barre Syndrome
+Guillain-Barré Syndrome
+HIV Infections
+Head and Neck Neoplasms
+Heart Failure
+Helicobacter Pylori Gastritis
+Helicobacter pylori Gastritis
+Hematologic Neoplasms
+Hemifacial Spasm
+Hemophilia A
+Hepatitis C, Chronic
+Hepatocellular Carcinoma
+Herpes Zoster
+Hodgkin Disease
+Human Immunodeficiency Virus
+Hypercalcemia
+Hypercholesterolemia
+Hyperglycemia
+Hyperhidrosis
+Hyperimmunoglobulin D Syndrome
+Hyperlipidemias
+Hyperparathyroidism, Primary
+Hyperparathyroidism, Secondary
+Hyperphosphatemia
+Hypertension
+Hypertension, Ocular
+Hypertension, Pulmonary
+Hypertriglyceridemia
+Hyperuricemia
+Hypophosphatasia
+Hypophosphatemic Rickets
+Idiopathic Pulmonary Fibrosis
+Idiopathic Thrombocytopenic Purpura
+Infantile Hemangioma
+Infections; Pneumonia
+Influenza
+Insomnia
+Interstitial Lung Diseases
+Invasive Pneumococcal Disease
+Irritable Bowel Syndrome
+Ischemic Attack, Transient
+Ischemic Cerebrovascular Disorders
+Ischemic Heart Disease
+Ischemic Stroke
+Laryngopharyngitis
+Leukemia, Lymphocytic, Chronic, B-Cell
+Leukemia, Myeloid, Acute
+Lipodystrophy
+Liver Cirrhosis
+Liver Diseases
+Lower Limb Spasticity
+Lung Neoplasms
+Lung Neoplasms, Non-Small Cell
+Lymphangioleiomyomatosis
+Lymphoma
+Lymphoma, Large-Cell, Anaplastic
+Lymphoma, Lymphoplasmacytic
+Lymphoma, Mantle-Cell
+Lymphoproliferative Disorders
+Lysosomal Storage Diseases
+Macular Degeneration
+Macular Edema
+Mantle Cell Lymphoma
+Melanoma
+Merkel Cell Carcinoma
+Mesothelioma
+Microsatellite Instability
+Microscopic Polyangiitis
+Migraine Disorders
+Monkeypox
+Mucopolysaccharidoses
+Multiple Myeloma
+Multiple Sclerosis, Relapsing-Remitting
+Myasthenia Gravis
+Myocardial Infarction
+Myopia
+Myopia, Degenerative
+Neoplasms
+Nephrotic Syndrome
+Neuromuscular Blockade
+Neuromyelitis Optica Spectrum Disorder
+Non-Hodgkin Lymphoma
+Non-Small Cell Lung Cancer
+Non-Small Cell Lung Carcinoma
+Non-Small-Cell Lung Carcinoma
+Not Reported
+Obesity
+Ocular Hypertension
+Oesophageal Neoplasms
+Onychomycosis
+Osteoarthritis
+Osteomalacia
+Osteoporosis
+Otitis Media
+Ovarian Neoplasms
+Overactive Bladder
+Overactive Urinary Bladder
+POEMS Syndrome
+Pancreatic Neoplasms
+Parathyroid Neoplasms
+Parkinson Disease
+Parkinsonism
+Paroxysmal Nocturnal Hemoglobinuria
+Periodontitis
+Peripheral T-Cell Lymphoma
+Pertussis
+Pneumonia
+Poliomyelitis
+Polycystic Kidney Diseases
+Polyneuropathies
+Pompe Disease
+Postherpetic Neuralgia
+Precursor Cell Lymphoblastic Leukemia-Lymphoma
+Primary Immune Thrombocytopenia
+Prostatic Neoplasms
+Prostatic Neoplasms, Castration-Resistant
+Prurigo
+Pruritus
+Psoriasis
+Psoriatic Arthritis
+Pulmonary Hypertension
+Pulmonary Tuberculosis
+Purpura, Thrombocytopenic, Idiopathic
+Recurrent Ovarian Cancer
+Reflux Esophagitis
+Refractory Vascular Malformations
+Refractory Vascular Tumors
+Renal Cell Carcinoma
+Respiratory Tract Infections
+Retinal Vein Occlusion
+Retinopathy of Prematurity
+Rheumatoid Arthritis
+Rhinitis, Allergic
+Rhinitis, Allergic, Perennial
+SARS-CoV-2
+SARS-CoV-2 Infection
+SARS-CoV-2 Infections
+Salivary Gland Neoplasms
+Sarcoma
+Schizophrenia
+Seizures
+Sinusitis
+Sitosterolemia
+Sjögren's Syndrome
+Small Cell Lung Carcinoma
+Smallpox
+Soft Tissue Neoplasms
+Soft Tissue Sarcomas
+Solid Tumors
+Spasticity
+Spinal Muscular Atrophies of Childhood
+Spinal Muscular Atrophy
+Stevens-Johnson Syndrome
+Still's Disease, Adult-Onset
+Stomach Neoplasms
+Strabismus
+Stroke
+Stroke, Ischemic
+Stroke; Amyotrophic Lateral Sclerosis
+Subarachnoid Hemorrhage
+Systemic Lupus Erythematosus
+Systemic Sclerosis
+Takayasu Arteritis
+Talipes Equinovarus
+Talipes Equinus
+Tardive Dyskinesia
+Tetanus
+Thrombocytopenia
+Thrombocytopenic Purpura, Chronic
+Thrombocytopenic Purpura, Idiopathic
+Thrombophilia
+Thrombosis
+Thrombotic Thrombocytopenic Purpura
+Thymic Carcinoma
+Thymus Neoplasms
+Thyroid Neoplasms
+Tinea Unguium
+Tonsillitis
+Transthyretin Amyloid Cardiomyopathy
+Transthyretin Familial Amyloid Polyneuropathy
+Tuberous Sclerosis
+Tumor Necrosis Factor Receptor-Associated Periodic Syndrome
+Type 1 Diabetes Mellitus
+Type 2 Diabetes Mellitus
+Tyrosinemia, Type I
+Tyrosinemias
+Ulcerative Colitis
+Unstable Angina
+Upper Limb Spasticity
+Urothelial Carcinoma
+Urticaria
+Uterine Fibroids
+Uveitis
+Vascular Malformations
+Vasculitis, Large-Cell
+Venous Thromboembolism
+Waldenstrom Macroglobulinemia

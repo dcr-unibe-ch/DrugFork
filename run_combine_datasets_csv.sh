@@ -4,7 +4,7 @@ echo "Combining datasets into a single CSV file..."
 
 INPUT_FILES=(
     "inference/combined/with_extracted_data/JAPAN.csv"
-    # "inference/combined/with_extracted_data/AUSTRALIA.csv"
+    "inference/combined/with_extracted_data/AUSTRALIA.csv"
     "inference/combined/with_extracted_data/EMA.csv"
     "inference/combined/with_extracted_data/SWISSMEDIC.csv"
 )
