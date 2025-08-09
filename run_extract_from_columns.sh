@@ -32,7 +32,7 @@ for DATASET in "${DATASETS[@]}"; do
     python ./src/extract_from_columns.py\
         --input_file "$INPUT_FILE" \
         --columns_of_interest "${COLUMNS_OF_INTEREST[@]}" \
-        --slice 10 \
+        --slice -1 \
         --model "gpt-4o" \
         --save_file "$SAVE_DIR/$DATASET.json" \
         --temperature "0.1" \
