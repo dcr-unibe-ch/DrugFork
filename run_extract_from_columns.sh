@@ -18,8 +18,8 @@ for DATASET in "${DATASETS[@]}"; do
     # iterate over the columns of interest
 
     COLUMNS_OF_INTEREST=(
-        "Marketing_authorisation_holder"
-        "Non_proprietary_name"
+        # "Marketing_authorisation_holder"
+        # "Non_proprietary_name"
         "Indications_and_usage"
     )
 
