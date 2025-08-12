@@ -1,0 +1,34 @@
+[
+    {
+        "DIN": "02023709",
+        "PDF_URL": null,
+        "Status": "Dormant",
+        "idx": 1,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "02008580",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 2,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "01996878",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 3,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "00438014",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00034399.PDF",
+        "Status": "Marketed",
+        "idx": 4,
+        "PDF_Counter": 1,
+        "PDF_Counter_Unique": 1
+    }
+]
