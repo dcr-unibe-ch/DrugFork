@@ -26,9 +26,408 @@
     {
         "DIN": "00438014",
         "PDF_URL": "https://pdf.hres.ca/dpd_pm/00034399.PDF",
+        "PDF_NAME": "00034399.PDF",
         "Status": "Marketed",
         "idx": 4,
         "PDF_Counter": 1,
         "PDF_Counter_Unique": 1
+    },
+    {
+        "DIN": "00786292",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00034399.PDF",
+        "PDF_NAME": "00034399.PDF",
+        "Status": "Marketed",
+        "idx": 5,
+        "PDF_Counter": 2,
+        "PDF_Counter_Unique": 1
+    },
+    {
+        "DIN": "00438049",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00061808.PDF",
+        "PDF_NAME": "00061808.PDF",
+        "Status": "Marketed",
+        "idx": 6,
+        "PDF_Counter": 3,
+        "PDF_Counter_Unique": 2
+    },
+    {
+        "DIN": "00786209",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00049126.PDF",
+        "PDF_NAME": "00049126.PDF",
+        "Status": "Marketed",
+        "idx": 7,
+        "PDF_Counter": 4,
+        "PDF_Counter_Unique": 3
+    },
+    {
+        "DIN": "00503142",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00034399.PDF",
+        "PDF_NAME": "00034399.PDF",
+        "Status": "Cancelled Post Market",
+        "idx": 8,
+        "PDF_Counter": 5,
+        "PDF_Counter_Unique": 3
+    },
+    {
+        "DIN": "00437999",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00034399.PDF",
+        "PDF_NAME": "00034399.PDF",
+        "Status": "Marketed",
+        "idx": 9,
+        "PDF_Counter": 6,
+        "PDF_Counter_Unique": 3
+    },
+    {
+        "DIN": "00786217",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00049126.PDF",
+        "PDF_NAME": "00049126.PDF",
+        "Status": "Marketed",
+        "idx": 10,
+        "PDF_Counter": 7,
+        "PDF_Counter_Unique": 3
+    },
+    {
+        "DIN": "00438030",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00061808.PDF",
+        "PDF_NAME": "00061808.PDF",
+        "Status": "Marketed",
+        "idx": 11,
+        "PDF_Counter": 8,
+        "PDF_Counter_Unique": 3
+    },
+    {
+        "DIN": "02246134",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 12,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "00438022",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00034399.PDF",
+        "PDF_NAME": "00034399.PDF",
+        "Status": "Marketed",
+        "idx": 13,
+        "PDF_Counter": 9,
+        "PDF_Counter_Unique": 3
+    },
+    {
+        "DIN": "00438006",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00034399.PDF",
+        "PDF_NAME": "00034399.PDF",
+        "Status": "Marketed",
+        "idx": 14,
+        "PDF_Counter": 10,
+        "PDF_Counter_Unique": 3
+    },
+    {
+        "DIN": "02236871",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 15,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "01931741",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 16,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "01931598",
+        "PDF_URL": null,
+        "Status": "Marketed",
+        "idx": 17,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "01931601",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 18,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "01931547",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 19,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "01931644",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 20,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "01931539",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 21,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "02117428",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 22,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "01967770",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 23,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "01931571",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 24,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "00828602",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00081137.PDF",
+        "PDF_NAME": "00081137.PDF",
+        "Status": "Marketed",
+        "idx": 25,
+        "PDF_Counter": 11,
+        "PDF_Counter_Unique": 4
+    },
+    {
+        "DIN": "02023709",
+        "PDF_URL": null,
+        "Status": "Dormant",
+        "idx": 26,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "02117371",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 27,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "01927949",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00058826.PDF",
+        "PDF_NAME": "00058826.PDF",
+        "Status": "Marketed",
+        "idx": 28,
+        "PDF_Counter": 12,
+        "PDF_Counter_Unique": 5
+    },
+    {
+        "DIN": "02117347",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 29,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "02395150",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00063841.PDF",
+        "PDF_NAME": "00063841.PDF",
+        "Status": "Marketed",
+        "idx": 30,
+        "PDF_Counter": 13,
+        "PDF_Counter_Unique": 6
+    },
+    {
+        "DIN": "01924303",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00058824.PDF",
+        "PDF_NAME": "00058824.PDF",
+        "Status": "Marketed",
+        "idx": 31,
+        "PDF_Counter": 14,
+        "PDF_Counter_Unique": 7
+    },
+    {
+        "DIN": "02150204",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00057018.PDF",
+        "PDF_NAME": "00057018.PDF",
+        "Status": "Marketed",
+        "idx": 32,
+        "PDF_Counter": 15,
+        "PDF_Counter_Unique": 8
+    },
+    {
+        "DIN": "02304341",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00066008.PDF",
+        "PDF_NAME": "00066008.PDF",
+        "Status": "Marketed",
+        "idx": 33,
+        "PDF_Counter": 16,
+        "PDF_Counter_Unique": 9
+    },
+    {
+        "DIN": "00060208",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00073153.PDF",
+        "PDF_NAME": "00073153.PDF",
+        "Status": "Marketed",
+        "idx": 34,
+        "PDF_Counter": 17,
+        "PDF_Counter_Unique": 10
+    },
+    {
+        "DIN": "02533537",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00068852.PDF",
+        "PDF_NAME": "00068852.PDF",
+        "Status": "Approved",
+        "idx": 35,
+        "PDF_Counter": 18,
+        "PDF_Counter_Unique": 11
+    },
+    {
+        "DIN": "02538903",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00071257.PDF",
+        "PDF_NAME": "00071257.PDF",
+        "Status": "Approved",
+        "idx": 36,
+        "PDF_Counter": 19,
+        "PDF_Counter_Unique": 12
+    },
+    {
+        "DIN": "01963937",
+        "PDF_URL": null,
+        "Status": "Dormant",
+        "idx": 37,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "02530600",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00068512.PDF",
+        "PDF_NAME": "00068512.PDF",
+        "Status": "Approved",
+        "idx": 38,
+        "PDF_Counter": 20,
+        "PDF_Counter_Unique": 13
+    },
+    {
+        "DIN": "00786160",
+        "PDF_URL": null,
+        "Status": "Marketed",
+        "idx": 39,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "02280604",
+        "PDF_URL": null,
+        "Status": "Cancelled Pre Market",
+        "idx": 40,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "02280590",
+        "PDF_URL": null,
+        "Status": "Cancelled Pre Market",
+        "idx": 41,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "02117398",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 42,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "00783633",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 43,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "02117401",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 44,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "02220385",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 45,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "01924206",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 46,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "01924249",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 47,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "01927922",
+        "PDF_URL": null,
+        "Status": "Cancelled Post Market",
+        "idx": 48,
+        "PDF_Counter": null,
+        "PDF_Counter_Unique": null
+    },
+    {
+        "DIN": "01924427",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00058005.PDF",
+        "PDF_NAME": "00058005.PDF",
+        "Status": "Marketed",
+        "idx": 49,
+        "PDF_Counter": 21,
+        "PDF_Counter_Unique": 14
+    },
+    {
+        "DIN": "00060364",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00056462.PDF",
+        "PDF_NAME": "00056462.PDF",
+        "Status": "Marketed",
+        "idx": 50,
+        "PDF_Counter": 22,
+        "PDF_Counter_Unique": 15
+    },
+    {
+        "DIN": "00478288",
+        "PDF_URL": "https://pdf.hres.ca/dpd_pm/00032463.PDF",
+        "PDF_NAME": "00032463.PDF",
+        "Status": "Cancelled Post Market",
+        "idx": 51,
+        "PDF_Counter": 23,
+        "PDF_Counter_Unique": 16
     }
 ]
