@@ -15,14 +15,15 @@ for DATASET in "${DATASETS[@]}"; do
 
     # INPUT_FILE="inference/combined/$DATASET.json"
     # INPUT_FILE="data/FDA/$DATASET.json"
-    INPUT_FILE="data/HealthCanada/$DATASET.json"
+    # INPUT_FILE="data/HealthCanada/$DATASET.json"
+    INPUT_FILE="data/HealthCanada/downloads_parsed/parsed.json"
 
     # iterate over the columns of interest
 
     COLUMNS_OF_INTEREST=(
-        "Marketing_authorisation_holder"
-        "Non_proprietary_name"
-        # "Indications_and_usage"
+        # "Marketing_authorisation_holder"
+        # "Non_proprietary_name"
+        "Indications_and_usage"
     )
 
     # ==========================================================
