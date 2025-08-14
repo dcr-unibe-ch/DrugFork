@@ -1,0 +1,276 @@
+[
+  {
+    "idx": 0,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=9",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00078801.PDF",
+    "PDF_name": "DIN-00015741_DRUG-9_monograph.pdf",
+    "DIN": "00015741",
+    "Drug_number": "9",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 1,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=15",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00071859.PDF",
+    "PDF_name": "DIN-00015229_DRUG-15_monograph.pdf",
+    "DIN": "00015229",
+    "Drug_number": "15",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 2,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=16",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00071859.PDF",
+    "PDF_name": "DIN-00015237_DRUG-16_monograph.pdf",
+    "DIN": "00015237",
+    "Drug_number": "16",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 3,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=57",
+    "PDF_URL": null,
+    "status": "no_pdf_found"
+  },
+  {
+    "idx": 4,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=68",
+    "PDF_URL": null,
+    "status": "no_pdf_found"
+  },
+  {
+    "idx": 5,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=69",
+    "PDF_URL": null,
+    "status": "no_pdf_found"
+  },
+  {
+    "idx": 6,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=115",
+    "PDF_URL": null,
+    "status": "no_pdf_found"
+  },
+  {
+    "idx": 7,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=117",
+    "PDF_URL": null,
+    "status": "no_pdf_found"
+  },
+  {
+    "idx": 8,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=160",
+    "PDF_URL": null,
+    "status": "no_pdf_found"
+  },
+  {
+    "idx": 9,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=193",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00033512.PDF",
+    "PDF_name": "DIN-00013609_DRUG-193_monograph.pdf",
+    "DIN": "00013609",
+    "Drug_number": "193",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 10,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=197",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00033512.PDF",
+    "PDF_name": "DIN-00013579_DRUG-197_monograph.pdf",
+    "DIN": "00013579",
+    "Drug_number": "197",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 11,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=198",
+    "PDF_URL": null,
+    "status": "no_pdf_found"
+  },
+  {
+    "idx": 12,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=211",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00068263.PDF",
+    "PDF_name": "DIN-00001961_DRUG-211_monograph.pdf",
+    "DIN": "00001961",
+    "Drug_number": "211",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 13,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=212",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00058090.PDF",
+    "PDF_name": "DIN-00001694_DRUG-212_monograph.pdf",
+    "DIN": "00001694",
+    "Drug_number": "212",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 14,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=227",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00074795.PDF",
+    "PDF_name": "DIN-00038172_DRUG-227_monograph.pdf",
+    "DIN": "00038172",
+    "Drug_number": "227",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 15,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=228",
+    "PDF_URL": null,
+    "status": "no_pdf_found"
+  },
+  {
+    "idx": 16,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=229",
+    "PDF_URL": null,
+    "status": "no_pdf_found"
+  },
+  {
+    "idx": 17,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=250",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00047156.PDF",
+    "PDF_name": "DIN-00213071_DRUG-250_monograph.pdf",
+    "DIN": "00213071",
+    "Drug_number": "250",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 18,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=254",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00065579.PDF",
+    "PDF_name": "DIN-00035017_DRUG-254_monograph.pdf",
+    "DIN": "00035017",
+    "Drug_number": "254",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 19,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=259",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00046795.PDF",
+    "PDF_name": "DIN-00042676_DRUG-259_monograph.pdf",
+    "DIN": "00042676",
+    "Drug_number": "259",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 20,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=260",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00059672.PDF",
+    "PDF_name": "DIN-00000981_DRUG-260_monograph.pdf",
+    "DIN": "00000981",
+    "Drug_number": "260",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 21,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=287",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00054287.PDF",
+    "PDF_name": "DIN-00016055_DRUG-287_monograph.pdf",
+    "DIN": "00016055",
+    "Drug_number": "287",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 22,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=290",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00038686.PDF",
+    "PDF_name": "DIN-00021016_DRUG-290_monograph.pdf",
+    "DIN": "00021016",
+    "Drug_number": "290",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 23,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=316",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00067726.PDF",
+    "PDF_name": "DIN-00024694_DRUG-316_monograph.pdf",
+    "DIN": "00024694",
+    "Drug_number": "316",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 24,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=354",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00065996.PDF",
+    "PDF_name": "DIN-00028096_DRUG-354_monograph.pdf",
+    "DIN": "00028096",
+    "Drug_number": "354",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 25,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=405",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00058156.PDF",
+    "PDF_name": "DIN-00178799_DRUG-405_monograph.pdf",
+    "DIN": "00178799",
+    "Drug_number": "405",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 26,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=406",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00058156.PDF",
+    "PDF_name": "DIN-00178802_DRUG-406_monograph.pdf",
+    "DIN": "00178802",
+    "Drug_number": "406",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 27,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=407",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00058156.PDF",
+    "PDF_name": "DIN-00178810_DRUG-407_monograph.pdf",
+    "DIN": "00178810",
+    "Drug_number": "407",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 28,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=408",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00058156.PDF",
+    "PDF_name": "DIN-00178829_DRUG-408_monograph.pdf",
+    "DIN": "00178829",
+    "Drug_number": "408",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 29,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=415",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00059070.PDF",
+    "PDF_name": "DIN-00027243_DRUG-415_monograph.pdf",
+    "DIN": "00027243",
+    "Drug_number": "415",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  },
+  {
+    "idx": 30,
+    "dpd_info_url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=430",
+    "PDF_URL": "https://pdf.hres.ca/dpd_pm/00078624.PDF",
+    "PDF_name": "DIN-00030937_DRUG-430_monograph.pdf",
+    "DIN": "00030937",
+    "Drug_number": "430",
+    "status": "downloaded",
+    "link_text": "Product monograph/Veterinary Labelling (PDF version ~ 175K)"
+  }
+]
