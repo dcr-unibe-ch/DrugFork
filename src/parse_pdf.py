@@ -19,26 +19,29 @@ def extract_indications(pdf_path):
     text = re.sub(r'\s+', ' ', text)
 
     section_titles = [
-        r"Indications(?:\s+and\s+Usage)?",
-        r"Indications\s+and\s+Clinical\s+Use",
-        r"Therapeutic\s+Indications",
-        r"Clinical\s+Indications"
+        r"\bIndications(?:\s+and\s+Usage)?\b",
+        r"\bIndications\s+and\s+Clinical\s+Use\b",
+        r"\bIndications\s+and\s+Clinical\s+Usage\b",
+        r"\bTherapeutic\s+Indications\b",
+        r"\bClinical\s+Indications\b"
     ]
     stop_titles = [
-        r"Contraindications",
-        r"Special\s+Warnings",
-        r"Warnings",
-        r"Precautions"
+        r"\bContraindications\b",
+        r"\bSpecial\s+Warnings\b",
+        r"\bWarning(?:\s+and\s+Precautions)?\b",
+        r"\bWarnings\b",
+        r"\bPrecautions\b",
+        r"\bcontraindicated\b",
     ]
 
     section_pattern = "|".join(section_titles)
     stop_pattern = "|".join(stop_titles)
     pattern = re.compile(
-        rf"(?:{section_pattern})"
+        rf"((?:{section_pattern})"                   # Capture the section title too
         rf"(?!\s*[.\s]*\d+\s*(?:\n|$))"             # NOT followed by dots and page numbers
         rf"(?!\s*[.\-_\s]+(?:\d+\s*)?(?:\n|$))"     # NOT followed by mostly dots/dashes/spaces
         rf"\s+"                                      # Some whitespace
-        rf"(.*?)"                                    # Capture the content (non-greedy)
+        rf".*?)"                                     # Capture everything including title (non-greedy)
         rf"(?=\s+(?:{stop_pattern}))",               # Until next section
         re.IGNORECASE | re.DOTALL
     )
