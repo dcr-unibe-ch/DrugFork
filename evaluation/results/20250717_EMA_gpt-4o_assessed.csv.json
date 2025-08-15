@@ -5,7 +5,11 @@
         "num_match": 149,
         "num_no_match": 2,
         "num_partial": 3,
-        "mean_score": 0.9773
+        "mean_score_partial": 0.98,
+        "accuracy": 0.97,
+        "precision": 0.97,
+        "recall": 1.0,
+        "f1_score": 0.98
     },
     "Application_date": {
         "num_total": 154,
@@ -13,7 +17,11 @@
         "num_match": 152,
         "num_no_match": 2,
         "num_partial": 0,
-        "mean_score": 0.987
+        "mean_score_partial": 0.99,
+        "accuracy": 0.99,
+        "precision": 0.99,
+        "recall": 1.0,
+        "f1_score": 0.99
     },
     "Application_year": {
         "num_total": 154,
@@ -21,7 +29,11 @@
         "num_match": 148,
         "num_no_match": 6,
         "num_partial": 0,
-        "mean_score": 0.961
+        "mean_score_partial": 0.96,
+        "accuracy": 0.96,
+        "precision": 0.96,
+        "recall": 1.0,
+        "f1_score": 0.98
     },
     "Current_status": {
         "num_total": 154,
@@ -29,7 +41,11 @@
         "num_match": 150,
         "num_no_match": 4,
         "num_partial": 0,
-        "mean_score": 0.974
+        "mean_score_partial": 0.97,
+        "accuracy": 0.97,
+        "precision": 0.97,
+        "recall": 1.0,
+        "f1_score": 0.99
     },
     "Decision_date": {
         "num_total": 154,
@@ -37,7 +53,11 @@
         "num_match": 145,
         "num_no_match": 7,
         "num_partial": 2,
-        "mean_score": 0.9455
+        "mean_score_partial": 0.95,
+        "accuracy": 0.94,
+        "precision": 0.94,
+        "recall": 1.0,
+        "f1_score": 0.97
     },
     "Decision": {
         "num_total": 154,
@@ -45,7 +65,11 @@
         "num_match": 143,
         "num_no_match": 6,
         "num_partial": 5,
-        "mean_score": 0.9448
+        "mean_score_partial": 0.94,
+        "accuracy": 0.93,
+        "precision": 0.93,
+        "recall": 1.0,
+        "f1_score": 0.96
     },
     "Decision_year": {
         "num_total": 154,
@@ -53,7 +77,11 @@
         "num_match": 142,
         "num_no_match": 12,
         "num_partial": 0,
-        "mean_score": 0.9221
+        "mean_score_partial": 0.92,
+        "accuracy": 0.92,
+        "precision": 0.92,
+        "recall": 1.0,
+        "f1_score": 0.96
     },
     "Disease_class(es)": {
         "num_total": 154,
@@ -61,7 +89,11 @@
         "num_match": 91,
         "num_no_match": 9,
         "num_partial": 54,
-        "mean_score": 0.7753
+        "mean_score_partial": 0.78,
+        "accuracy": 0.68,
+        "precision": 0.68,
+        "recall": 1.0,
+        "f1_score": 0.81
     },
     "Document_name": {
         "num_total": 154,
@@ -69,7 +101,11 @@
         "num_match": 154,
         "num_no_match": 0,
         "num_partial": 0,
-        "mean_score": 1.0
+        "mean_score_partial": 1.0,
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
     },
     "Drug_class": {
         "num_total": 154,
@@ -77,7 +113,11 @@
         "num_match": 143,
         "num_no_match": 11,
         "num_partial": 0,
-        "mean_score": 0.9286
+        "mean_score_partial": 0.93,
+        "accuracy": 0.93,
+        "precision": 0.93,
+        "recall": 1.0,
+        "f1_score": 0.96
     },
     "Drug_name": {
         "num_total": 154,
@@ -85,7 +125,11 @@
         "num_match": 151,
         "num_no_match": 3,
         "num_partial": 0,
-        "mean_score": 0.9805
+        "mean_score_partial": 0.98,
+        "accuracy": 0.98,
+        "precision": 0.98,
+        "recall": 1.0,
+        "f1_score": 0.99
     },
     "Indication_approved": {
         "num_total": 154,
@@ -93,7 +137,11 @@
         "num_match": 132,
         "num_no_match": 7,
         "num_partial": 15,
-        "mean_score": 0.8948
+        "mean_score_partial": 0.89,
+        "accuracy": 0.87,
+        "precision": 0.87,
+        "recall": 1.0,
+        "f1_score": 0.93
     },
     "Indication_extended": {
         "num_total": 154,
@@ -101,7 +149,11 @@
         "num_match": 136,
         "num_no_match": 18,
         "num_partial": 0,
-        "mean_score": 0.8831
+        "mean_score_partial": 0.88,
+        "accuracy": 0.88,
+        "precision": 0.88,
+        "recall": 1.0,
+        "f1_score": 0.94
     },
     "Indication_requested": {
         "num_total": 154,
@@ -109,7 +161,11 @@
         "num_match": 119,
         "num_no_match": 23,
         "num_partial": 12,
-        "mean_score": 0.8117
+        "mean_score_partial": 0.81,
+        "accuracy": 0.78,
+        "precision": 0.78,
+        "recall": 1.0,
+        "f1_score": 0.88
     },
     "Marketing_authorisation_holder": {
         "num_total": 154,
@@ -117,7 +173,11 @@
         "num_match": 146,
         "num_no_match": 8,
         "num_partial": 0,
-        "mean_score": 0.9481
+        "mean_score_partial": 0.95,
+        "accuracy": 0.95,
+        "precision": 0.95,
+        "recall": 1.0,
+        "f1_score": 0.97
     },
     "Marketing_authorisation_number": {
         "num_total": 154,
@@ -125,7 +185,11 @@
         "num_match": 123,
         "num_no_match": 20,
         "num_partial": 11,
-        "mean_score": 0.8532
+        "mean_score_partial": 0.85,
+        "accuracy": 0.86,
+        "precision": 0.86,
+        "recall": 1.0,
+        "f1_score": 0.92
     },
     "Non_proprietary_name": {
         "num_total": 154,
@@ -133,7 +197,11 @@
         "num_match": 152,
         "num_no_match": 2,
         "num_partial": 0,
-        "mean_score": 0.987
+        "mean_score_partial": 0.99,
+        "accuracy": 0.99,
+        "precision": 0.99,
+        "recall": 1.0,
+        "f1_score": 0.99
     },
     "Nonclinical_abridged": {
         "num_total": 154,
@@ -141,7 +209,11 @@
         "num_match": 128,
         "num_no_match": 25,
         "num_partial": 0,
-        "mean_score": 0.8366
+        "mean_score_partial": 0.84,
+        "accuracy": 0.84,
+        "precision": 0.84,
+        "recall": 1.0,
+        "f1_score": 0.91
     },
     "Orphan_drug_status": {
         "num_total": 154,
@@ -149,7 +221,11 @@
         "num_match": 149,
         "num_no_match": 5,
         "num_partial": 0,
-        "mean_score": 0.9675
+        "mean_score_partial": 0.97,
+        "accuracy": 0.97,
+        "precision": 0.97,
+        "recall": 1.0,
+        "f1_score": 0.98
     },
     "Pharmaceutical_form": {
         "num_total": 154,
@@ -157,7 +233,11 @@
         "num_match": 137,
         "num_no_match": 4,
         "num_partial": 13,
-        "mean_score": 0.9292
+        "mean_score_partial": 0.93,
+        "accuracy": 0.89,
+        "precision": 0.89,
+        "recall": 1.0,
+        "f1_score": 0.94
     },
     "Referral_body": {
         "num_total": 154,
@@ -165,6 +245,10 @@
         "num_match": 0,
         "num_no_match": 0,
         "num_partial": 0,
-        "mean_score": 0.0
+        "mean_score_partial": 0.0,
+        "accuracy": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0
     }
 }

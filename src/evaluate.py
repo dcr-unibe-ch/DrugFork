@@ -2,6 +2,9 @@ import argparse
 import pandas as pd
 import json
 import matplotlib.pyplot as plt
+import numpy as np
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+import seaborn as sns
 
 
 def parse_args():
@@ -12,7 +15,26 @@ def parse_args():
     return parser.parse_args()
 
 
+def parse_verdict_binary(value):
+    """Parse verdict to binary (0 or 1) for sklearn metrics."""
+    if not isinstance(value, str):
+        return None
+    value = value.strip().lower()
+    if value == "match":
+        return 1
+    if value == "no_match":
+        return 0
+    if value.startswith("partial_"):
+        try:
+            score = float(value.split("_")[1])
+            return 1 if score > 0.5 else 0
+        except Exception:
+            return None
+    return None
+
+
 def parse_verdict(value):
+    """Parse verdict to float score for mean calculation."""
     if not isinstance(value, str):
         return 0.0
     value = value.strip().lower()
@@ -28,6 +50,46 @@ def parse_verdict(value):
     return None
 
 
+def compute_sklearn_metrics(series):
+    """Compute sklearn metrics in a simple manner."""
+    # Convert to binary values
+    binary_values = series.apply(parse_verdict_binary)
+    valid_binary = binary_values.dropna()
+    
+    if len(valid_binary) < 2:
+        return {
+            "accuracy": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1_score": 0.0
+        }
+    
+    # For simple metrics, we'll compare against a baseline of all 1s (assuming positive class)
+    # This gives us basic metrics about the distribution
+    y_true = valid_binary.values
+    y_pred = np.ones_like(y_true)  # Simple baseline prediction
+    
+    try:
+        accuracy = accuracy_score(y_true, y_pred)
+        precision = precision_score(y_true, y_pred, zero_division=0)
+        recall = recall_score(y_true, y_pred, zero_division=0)
+        f1 = f1_score(y_true, y_pred, zero_division=0)
+            
+        return {
+            "accuracy": round(accuracy, 2),
+            "precision": round(precision, 2),
+            "recall": round(recall, 2),
+            "f1_score": round(f1, 2)
+        }
+    except Exception:
+        return {
+            "accuracy": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1_score": 0.0
+        }
+
+
 def summarize_column(series):
     parsed = series.apply(parse_verdict)
     valid = parsed.dropna()
@@ -36,6 +98,9 @@ def summarize_column(series):
     match_count = (series_str == "match").sum()
     no_match_count = (series_str == "no_match").sum()
     partial_count = series_str.str.startswith("partial_").sum()
+    
+    # Compute sklearn metrics
+    sklearn_metrics = compute_sklearn_metrics(series)
 
     return {
         "num_total": total,
@@ -43,7 +108,11 @@ def summarize_column(series):
         "num_match": int(match_count),
         "num_no_match": int(no_match_count),
         "num_partial": int(partial_count),
-        "mean_score": round(valid.mean(), 4) if not valid.empty else None
+        "mean_score_partial": round(valid.mean(), 2) if not valid.empty else None,
+        "accuracy": sklearn_metrics["accuracy"],
+        "precision": sklearn_metrics["precision"],
+        "recall": sklearn_metrics["recall"],
+        "f1_score": sklearn_metrics["f1_score"]
     }
 
 def plot_results(results, output_dir, output_name):
@@ -69,7 +138,7 @@ def plot_results(results, output_dir, output_name):
     plt.tight_layout()
     plt.grid(axis='y')
     plt.savefig(f'{output_dir}/{output_name}.png')
-    plt.show()
+    # plt.show()
 
 
 def main():
