@@ -27,11 +27,11 @@ def extract_indications(pdf_path):
     ]
     stop_titles = [
         # r"\bContraindications\b",
-        r"\b(\d+)?Contraindications\b",
+        r"\b\d?Contraindications\b",
         r"\bContra\w+indications\b",
         r"\bContrai\w+ndications\b",
-        r"\bContrain(\w+)?d(\w+)?i(\w+)?c(\w+)?a(\w+)?t(\w+)?i(\w+)?o(\w+)?n(\w+)?s?\b",
-        r"\b(\d+)?contraindicated\b",
+        r"\bContrain\w?d\w?i\w?c\w?a\w?t\w?i\w?o\w?n\w?s?\b",
+        r"\b\d?contraindicated\b",
     ]
 
     section_pattern = "|".join(section_titles)
