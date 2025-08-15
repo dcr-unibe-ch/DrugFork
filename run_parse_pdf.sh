@@ -1,7 +1,7 @@
 #!/bin/bash
 
-INPUT_DIR="data/HealthCanada/downloads"
-OUTPUT_DIR="data/HealthCanada/downloads_parsed"
+INPUT_DIR="data/HealthCanada/Jacqueline/downloads"
+OUTPUT_DIR="data/HealthCanada/downloads_parsed_v2"
 TO_EXTRACT=("indications")
 
 # Create output directory if it doesn't exist

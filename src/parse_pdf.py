@@ -27,10 +27,10 @@ def extract_indications(pdf_path):
     ]
     stop_titles = [
         r"\bContraindications\b",
-        r"\bSpecial\s+Warnings\b",
-        r"\bWarning(?:\s+and\s+Precautions)?\b",
-        r"\bWarnings\b",
-        r"\bPrecautions\b",
+        # r"\bSpecial\s+Warnings\b",
+        # r"\bWarning(?:\s+and\s+Precautions)?\b",
+        # r"\bWarnings\b",
+        # r"\bPrecautions\b",
         r"\bcontraindicated\b",
     ]
 
