@@ -12863,7 +12863,6 @@
         "Referral_body": "Not reported",
         "Document_name": "auspar-calcipotriol-betamethasone-130809.pdf"
     },
-    "auspar-riastap.pdf": "Error: PyCryptodome is required for AES algorithm",
     "auspar-winlevi-240816.pdf": {
         "Marketing_authorisation_number": "403948",
         "Procedure_number": "PM-2023-00180-1-1",
