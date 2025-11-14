@@ -1,7 +1,6 @@
 3m health care ltd
 a. menarini industrie farmaceutiche riunite s.r.l.
 ab science
-abbott bioresearch center
 abbott healthcare products ltd.
 abbvie deutschland gmbh & co.
 abbvie deutschland gmbh & co. kg
@@ -18,7 +17,6 @@ acorda therapeutics ireland limited
 actavis group hf
 actavis group ptc ehf
 actavis group ptc ehf.
-actelion ltd
 actelion registration ltd.
 adc therapeutics (nl) b.v.
 adienne s.a.
@@ -37,8 +35,6 @@ aimmune therapeutics ireland limited
 akcea therapeutics ireland ltd.
 akebia europe limited
 albireo
-alcon
-alcon laboratories (u.k.) limited
 alcon laboratories (uk) ltd
 alcon laboratories (uk) ltd.
 alexion europe
@@ -58,7 +54,6 @@ amarin neuroscience limited
 amarin pharmaceuticals ireland limited
 amgen europe b.v
 amgen europe b.v.
-amgen inc.
 amgen technology (ireland) unlimited company
 amgen technology ireland unlimited company
 amicus therapeutics europe limited
@@ -67,19 +62,16 @@ amivas ireland ltd
 ammtek
 amryt pharmaceuticals dac
 amylyx pharmaceuticals emea b.v.
-anika therapeutics
 anpharm przedsiębiorstwo farmaceutyczne s.a.
 antigenics therapeutics ltd.
 aop orphan pharmaceuticals ag
 aop orphan pharmaceuticals gmbh
 apeiron biologics ag
-apopharma
 apotex
 apotex europe b.v.
 aptalis pharma sas
 arcturus therapeutics europe b.v.
 arena pharmaceuticals
-ares-serono (europe) ltd
 ares-serono (europe) ltd.
 argenx
 ariad pharma ltd
@@ -93,19 +85,15 @@ astellas pharma gmbh
 astrazeneca
 astrazeneca ab
 atara biotherapeutics ireland limited
-aventis pasteur msd
 aventis pharma deutschland gmbh
 aventis pharma s.a.
-aventis/ pfizer ee ig
 avexis eu limited
 axxonis pharma ag
 b and o pharm
 basilea medical ltd
 bavarian nordic a/s
 baxalta innovations gmbh
-baxter
 baxter ag
-baxter ag, austria
 baxter holding b.v.
 baxter innovations gmbh
 bayer ag
@@ -120,7 +108,6 @@ bial - portela & cª, s.a.
 bial – portela & cª, s.a.
 billev pharma aps
 bio products laboratory limited
-biocodex
 biocryst ireland limited
 biocryst uk limited
 biofrontera bioscience gmbh
@@ -147,12 +134,9 @@ blueprint medicines (netherlands) b.v.
 boehringer ingelheim
 boehringer ingelheim gmbh
 boehringer ingelheim international gmbh
-boehringer-ingelheim international
 bracco imaging s.p.a.
 brepco biopharma limited
 bridgebio europe b.v.
-bristol myers squibb
-bristol-myers squibb
 bristol-myers squibb / astrazeneca eeig
 bristol-myers squibb / pfizer eeig
 bristol-myers squibb pharma belgium sprl
@@ -167,7 +151,6 @@ celgene europe bv
 celgene europe limited
 celgene europe ltd
 celgene europe ltd.
-cellseed
 celltrion healthcare hungary kft.
 centocor b.v.
 centus biotherapeutics europe limited
@@ -189,7 +172,6 @@ croma-pharma gmbh
 csl behring gmbh
 ct arzneimittel gmbh
 cti life sciences ltd.
-cti life sciences, ltd
 cubist (uk) ltd
 cubist pharmaceuticals
 curateq biologics s.r.o.
@@ -221,12 +203,8 @@ eisai company, limited
 eisai europe ltd
 eisai europe ltd.
 eisai gmbh
-elan
 elan pharma international ltd.
-eli lilly
-eli lilly and company
 eli lilly nederland b.v.
-eli lilly netherlands b.v.
 eli lilly regional operations gmbh
 emergent netherlands b.v.
 emmaus medical europe ltd
@@ -247,7 +225,6 @@ evolus pharma limited
 extrovis eu ltd.
 fennec pharmaceuticals (eu) limited
 ferrer international s.a.
-ferring ab
 ferring pharmaceuticals a/s
 fgk representative service gmbh
 finox biotech ag
@@ -262,7 +239,6 @@ ge healthcare limited
 gedeon richter plc
 gedeon richter plc.
 gen.orph
-gendux molecular ltd
 generics (uk) limited
 generics [uk] ltd.
 generics uk limited
@@ -285,13 +261,10 @@ glaxo group limited
 glaxo group ltd
 glaxo group ltd.
 glaxo smith kline trading services
-glaxo wellcome
 glaxosmithkline
 glaxosmithkline (gsk)
 glaxosmithkline (gsk) biologicals s.a.
 glaxosmithkline (ireland) limited
-glaxosmithkline biologicals
-glaxosmithkline biologicals (gsk bio)
 glaxosmithkline biologicals s.a.
 glaxosmithkline trading services
 glaxosmithkline trading services limited
@@ -320,18 +293,15 @@ heron therapeutics b.v.
 hexal
 hexal ag
 hipra human health slu
-hoechst marion roussel deutschland gmbh
 hoffmann-la roche ltd
 horizon therapeutics limited
 hospira u k limited
 hospira uk limited
 hospira uk ltd.
 howmedica international s. de r. l.
-howmedica international s.de.r.l
 hutchmed europe b.v.
 i.d.b. radiopharmacy b.v.
 idea ag
-idec pharmaceuticals corp.
 idm pharma, s.a.
 idorsia pharmaceuticals deutschland gmbh
 immedica pharma ab
@@ -389,9 +359,7 @@ laboratorios lesvi s.l.
 leo pharma a/s
 les laboratoires servier
 les laboratoires servier, france
-ligand pharmaceuticals uk limited
 lindis biotech gmbh
-lipomed
 lipomed gmbh
 lucane pharma
 lupin europe gmbh
@@ -411,11 +379,8 @@ medimmune, llc
 menarini international operations luxembourg
 menarini international operations luxembourg s.a.
 mendelikabs europe ltd
-merck & co., inc
-merck & co., inc.
 merck europe b.v.
 merck kgaa
-merck kgaa and imclone systems incorporated/bristol-myers squibb
 merck serono europe limited
 merck serono europe ltd.
 merck sharp & dohme b.v.
@@ -454,7 +419,6 @@ neuraxpharm pharmaceuticals s.l.
 neurochem luco ii sarl
 neurogesx uk ltd.
 neutec pharma plc
-nicox s.a
 norbitec gmbh
 nordic group b.v.
 norgine b.v.
@@ -469,14 +433,11 @@ novartis europharm limited
 novartis europharm ltd
 novartis europharm ltd.
 novartis ireland limited
-novartis ophtalmicis ag
-novartis pharma ag
 novartis vaccines and diagnostics s. r.l.
 novartis vaccines and diagnostics s.r.l.
 novavax cz, a.s.
 novo nordisk a/s
 nps pharmaceuticals, inc.
-nycomed austria gmbh
 nycomed danmark aps
 nycomed gmbh
 oasmia pharmaceutical ab
@@ -492,7 +453,6 @@ orexigen therapeutics ireland limited
 orion corporation
 orphan europe
 orphan europe s.a.r.l.
-orphan europe sarl
 orphazyme a/s
 orphelia pharma
 orphelia pharma sas
@@ -511,8 +471,6 @@ pfizer europe ma eeig
 pfizer limited
 pfizer ltd.
 pfizer specialty uk limited
-pharmacia europe eeig
-pharmamar
 pharmathen s.a.
 pharmaxis pharmaceuticals ltd.
 pharming group n.v.
@@ -560,7 +518,6 @@ rhythm pharmaceuticals limited
 riemser pharma gmbh
 rigel pharmaceuticals b.v.
 roche
-roche pharmaceuticals
 roche registration gmbh
 roche registration limited
 roche registration ltd
@@ -582,20 +539,16 @@ sanofi-aventis
 sanofi-aventis deutschland gmbh
 sanofi-aventis groupe
 sanofi-aventis recherche et développement
-sanofi-synthelabo
 santen oy
 santen sas
 santhera pharmaceuticals (deutschland) gmbh
 savient pharma ireland ltd.
-sb biologicals
-sbl vaccin ab
 schering ag
 schering-plough
 schering-plough europe
 schwarz pharma ltd
 scipharm sarl
 seagen b.v.
-sepracor pharmaceuticals, ltd.
 seqirus netherlands b.v.
 seqirus s.r.l.
 serb sa
@@ -623,13 +576,11 @@ strides pharma cyprus ltd.
 sun pharmaceutical industries (europe) b.v.
 sun pharmaceutical industries europe b.v
 sun pharmaceutical industries europe b.v.
-swedish orphan ab
 swedish orphan biovitrum ab (publ)
 synageva biopharma ltd
 tad pharma gmbh
 taiho pharma europe ltd
 taiho pharma netherlands b.v.
-takeda
 takeda global research and development centre (europe) ltd
 takeda global research and development centre (europe) ltd.
 takeda gmbh
@@ -641,7 +592,6 @@ techdow europe ab
 tercica europe ltd.
 tesaro uk limited
 tetraphase pharmaceuticals ireland limited
-teva
 teva b.v.
 teva generics b.v
 teva generics gmbh
@@ -693,16 +643,12 @@ viiv healthcare b.v.
 viiv healthcare uk limited
 viropharma sprl
 vivus bv
-voisin consulting s.a.r.l.
 whiteoak pharmaceutical b.v.
 wyeth
 wyeth consumer healthcare
 wyeth europa limited
 wyeth europa ltd
-wyeth europa ltd.
-wyeth laboratories uk or wyeth medica, ireland
 wyeth lederle vaccines s.a.
-wyeth pharmaceuticals company
 xbiotech germany gmbh
 xeris pharmaceuticals ireland limited
 y-mabs therapeutics a/s
