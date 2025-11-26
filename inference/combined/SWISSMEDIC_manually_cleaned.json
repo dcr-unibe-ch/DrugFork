@@ -21,7 +21,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "European Medicines Agency (EMA)",
-        "Document_name": "swisspar_orladeyo.pdf"
+        "Document_name": "swisspar_orladeyo.pdf",
+        "Marketing_authorisation_holder_extracted": "BioCryst"
     },
     "swisspar_rozlytrek_final.pdf": {
         "Marketing_authorisation_number": "67280",
@@ -45,7 +46,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_rozlytrek_final.pdf"
+        "Document_name": "swisspar_rozlytrek_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Roche"
     },
     "swisspar_tymlos.pdf": {
         "Marketing_authorisation_number": "69246",
@@ -69,7 +71,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_tymlos.pdf"
+        "Document_name": "swisspar_tymlos.pdf",
+        "Marketing_authorisation_holder_extracted": "Labatec"
     },
     "swisspar_bimzelx_ie_axial_spondyloarthritis.pdf": {
         "Marketing_authorisation_number": "68548",
@@ -93,7 +96,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_bimzelx_ie_axial_spondyloarthritis.pdf"
+        "Document_name": "swisspar_bimzelx_ie_axial_spondyloarthritis.pdf",
+        "Marketing_authorisation_holder_extracted": "UCB"
     },
     "swisspar_ronapreve_final.pdf": {
         "Marketing_authorisation_number": "68329",
@@ -117,7 +121,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_ronapreve_final.pdf"
+        "Document_name": "swisspar_ronapreve_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Roche"
     },
     "swisspar_trikafta_ie.pd.pdf": {
         "Marketing_authorisation_number": "69212",
@@ -141,7 +146,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_trikafta_ie.pd.pdf"
+        "Document_name": "swisspar_trikafta_ie.pd.pdf",
+        "Marketing_authorisation_holder_extracted": "Vertex"
     },
     "swisspar_jynneos_final.pdf": {
         "Marketing_authorisation_number": "69173",
@@ -165,7 +171,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_jynneos_final.pdf"
+        "Document_name": "swisspar_jynneos_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Bavarian Nordic"
     },
     "swisspar_xofluza_final.pdf": {
         "Marketing_authorisation_number": "67426",
@@ -189,7 +196,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_xofluza_final.pdf"
+        "Document_name": "swisspar_xofluza_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Roche"
     },
     "swisspar_koselugo.pdf": {
         "Marketing_authorisation_number": "67410",
@@ -213,7 +221,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_koselugo.pdf"
+        "Document_name": "swisspar_koselugo.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "swisspar_vaxneuvance_ie.pdf": {
         "Marketing_authorisation_number": "68752",
@@ -237,7 +246,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_vaxneuvance_ie.pdf"
+        "Document_name": "swisspar_vaxneuvance_ie.pdf",
+        "Marketing_authorisation_holder_extracted": "Merck Sharp & Dohme"
     },
     "swisspar_xofluza.pdf": {
         "Marketing_authorisation_number": "67426",
@@ -261,7 +271,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_xofluza.pdf"
+        "Document_name": "swisspar_xofluza.pdf",
+        "Marketing_authorisation_holder_extracted": "Roche"
     },
     "swisspar_tabrecta.pdf": {
         "Marketing_authorisation_number": "67648",
@@ -285,7 +296,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_tabrecta.pdf"
+        "Document_name": "swisspar_tabrecta.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "swisspar_inrebic-1.pdf": {
         "Marketing_authorisation_number": "67792",
@@ -309,7 +321,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_inrebic-1.pdf"
+        "Document_name": "swisspar_inrebic-1.pdf",
+        "Marketing_authorisation_holder_extracted": "Celgene"
     },
     "swisspar_fluenz_tetra_final.pdf": {
         "Marketing_authorisation_number": "68462",
@@ -333,7 +346,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_fluenz_tetra_final.pdf"
+        "Document_name": "swisspar_fluenz_tetra_final.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "swisspar_lamzede.pdf": {
         "Marketing_authorisation_number": "68591",
@@ -357,7 +371,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_lamzede.pdf"
+        "Document_name": "swisspar_lamzede.pdf",
+        "Marketing_authorisation_holder_extracted": "Chiesi"
     },
     "swisspar_zeposia.pdf": {
         "Marketing_authorisation_number": "67046",
@@ -381,7 +396,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_zeposia.pdf"
+        "Document_name": "swisspar_zeposia.pdf",
+        "Marketing_authorisation_holder_extracted": "Celgene"
     },
     "swisspar_roclanda.pdf": {
         "Marketing_authorisation_number": "69043",
@@ -405,7 +421,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "CHMP",
-        "Document_name": "swisspar_roclanda.pdf"
+        "Document_name": "swisspar_roclanda.pdf",
+        "Marketing_authorisation_holder_extracted": "Santen"
     },
     "swisspar_heparin_sintetica.pdf": {
         "Marketing_authorisation_number": "67780",
@@ -429,7 +446,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_heparin_sintetica.pdf"
+        "Document_name": "swisspar_heparin_sintetica.pdf",
+        "Marketing_authorisation_holder_extracted": "Sintetica"
     },
     "swisspar_locametz.pdf": {
         "Marketing_authorisation_number": "68685",
@@ -453,7 +471,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_locametz.pdf"
+        "Document_name": "swisspar_locametz.pdf",
+        "Marketing_authorisation_holder_extracted": "Advanced Accelerator"
     },
     "swisspar_evusheld-1.pdf": {
         "Marketing_authorisation_number": "68704",
@@ -477,7 +496,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_evusheld-1.pdf"
+        "Document_name": "swisspar_evusheld-1.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "swisspar_gavreto-1.pdf": {
         "Marketing_authorisation_number": "68182",
@@ -501,7 +521,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "US-FDA",
-        "Document_name": "swisspar_gavreto-1.pdf"
+        "Document_name": "swisspar_gavreto-1.pdf",
+        "Marketing_authorisation_holder_extracted": "Roche"
     },
     "swisspar_rinvoq_final.pdf": {
         "Marketing_authorisation_number": "67257",
@@ -525,7 +546,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_rinvoq_final.pdf"
+        "Document_name": "swisspar_rinvoq_final.pdf",
+        "Marketing_authorisation_holder_extracted": "AbbVie"
     },
     "swisspar_rybelsus_final.pdf": {
         "Marketing_authorisation_number": "67446",
@@ -549,7 +571,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_rybelsus_final.pdf"
+        "Document_name": "swisspar_rybelsus_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Novo Nordisk"
     },
     "swisspar_imjudo_na_nas.pdf": {
         "Marketing_authorisation_number": "68706",
@@ -573,7 +596,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_imjudo_na_nas.pdf"
+        "Document_name": "swisspar_imjudo_na_nas.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "swisspar_uplizna_na_nas.pdf": {
         "Marketing_authorisation_number": "69322",
@@ -597,7 +621,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_uplizna_na_nas.pdf"
+        "Document_name": "swisspar_uplizna_na_nas.pdf",
+        "Marketing_authorisation_holder_extracted": "Horizon"
     },
     "swisspar_livmarli.pdf": {
         "Marketing_authorisation_number": "69201",
@@ -621,7 +646,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_livmarli.pdf"
+        "Document_name": "swisspar_livmarli.pdf",
+        "Marketing_authorisation_holder_extracted": "Mirum"
     },
     "swisspar_tepkinly_na_nas.pdf": {
         "Marketing_authorisation_number": "69161",
@@ -645,7 +671,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "CHMP",
-        "Document_name": "swisspar_tepkinly_na_nas.pdf"
+        "Document_name": "swisspar_tepkinly_na_nas.pdf",
+        "Marketing_authorisation_holder_extracted": "AbbVie"
     },
     "swisspar_ultomiris_final.pdf": {
         "Marketing_authorisation_number": "67278",
@@ -669,7 +696,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_ultomiris_final.pdf"
+        "Document_name": "swisspar_ultomiris_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Alexion"
     },
     "swisspar_spaverin.pdf": {
         "Marketing_authorisation_number": "68410",
@@ -693,7 +721,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Hungary",
-        "Document_name": "swisspar_spaverin.pdf"
+        "Document_name": "swisspar_spaverin.pdf",
+        "Marketing_authorisation_holder_extracted": "Target BioScience"
     },
     "swisspar_lumykras_final_mit_fi.pdf": {
         "Marketing_authorisation_number": "67693",
@@ -717,7 +746,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_lumykras_final_mit_fi.pdf"
+        "Document_name": "swisspar_lumykras_final_mit_fi.pdf",
+        "Marketing_authorisation_holder_extracted": "Amgen"
     },
     "swisspar_vafseo_final.pdf": {
         "Marketing_authorisation_number": "68862",
@@ -741,7 +771,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_vafseo_final.pdf"
+        "Document_name": "swisspar_vafseo_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Voisin"
     },
     "swisspar_vabysmo_final.pdf": {
         "Marketing_authorisation_number": "68395",
@@ -765,7 +796,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "swisspar_vabysmo_final.pdf"
+        "Document_name": "swisspar_vabysmo_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Roche"
     },
     "swisspar_tezspire_final.pdf": {
         "Marketing_authorisation_number": "68454",
@@ -789,7 +821,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_tezspire_final.pdf"
+        "Document_name": "swisspar_tezspire_final.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "swisspar_epidyolex_ie-1.pdf": {
         "Marketing_authorisation_number": "67590",
@@ -813,7 +846,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_epidyolex_ie-1.pdf"
+        "Document_name": "swisspar_epidyolex_ie-1.pdf",
+        "Marketing_authorisation_holder_extracted": "DRAC"
     },
     "swisspar_qarziba.pdf": {
         "Marketing_authorisation_number": "67463",
@@ -837,7 +871,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_qarziba.pdf"
+        "Document_name": "swisspar_qarziba.pdf",
+        "Marketing_authorisation_holder_extracted": "Medius"
     },
     "swisspar_nubeqa_final.pdf": {
         "Marketing_authorisation_number": "67521",
@@ -861,7 +896,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_nubeqa_final.pdf"
+        "Document_name": "swisspar_nubeqa_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Bayer"
     },
     "swisspar_alhemol.pdf": {
         "Marketing_authorisation_number": "68844",
@@ -885,7 +921,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_alhemol.pdf"
+        "Document_name": "swisspar_alhemol.pdf",
+        "Marketing_authorisation_holder_extracted": "Novo Nordisk"
     },
     "swisspar_cibinqo_final.pdf": {
         "Marketing_authorisation_number": "68174",
@@ -909,7 +946,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "swisspar_cibinqo_final.pdf"
+        "Document_name": "swisspar_cibinqo_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "swisspar_sunosi.pdf": {
         "Marketing_authorisation_number": "68177",
@@ -933,7 +971,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "European Medicines Agency",
-        "Document_name": "swisspar_sunosi.pdf"
+        "Document_name": "swisspar_sunosi.pdf",
+        "Marketing_authorisation_holder_extracted": "Clinipace"
     },
     "swisspar_rinvoq_morbus_crohn.pdf": {
         "Marketing_authorisation_number": "67257",
@@ -957,7 +996,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_rinvoq_morbus_crohn.pdf"
+        "Document_name": "swisspar_rinvoq_morbus_crohn.pdf",
+        "Marketing_authorisation_holder_extracted": "AbbVie"
     },
     "swisspar_ngenla.pdf": {
         "Marketing_authorisation_number": "68265",
@@ -981,7 +1021,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_ngenla.pdf"
+        "Document_name": "swisspar_ngenla.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "swisspar_welireg.pdf": {
         "Marketing_authorisation_number": "68531",
@@ -1005,7 +1046,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "MHRA",
-        "Document_name": "swisspar_welireg.pdf"
+        "Document_name": "swisspar_welireg.pdf",
+        "Marketing_authorisation_holder_extracted": "Merck Sharp & Dohme"
     },
     "swisspar_trikafta_ie.pdf": {
         "Marketing_authorisation_number": "67773",
@@ -1029,7 +1071,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_trikafta_ie.pdf"
+        "Document_name": "swisspar_trikafta_ie.pdf",
+        "Marketing_authorisation_holder_extracted": "Vertex"
     },
     "swisspar_bimzelx_final.pdf": {
         "Marketing_authorisation_number": "68548",
@@ -1053,7 +1096,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_bimzelx_final.pdf"
+        "Document_name": "swisspar_bimzelx_final.pdf",
+        "Marketing_authorisation_holder_extracted": "UCB"
     },
     "swisspar_jemperli.pdf": {
         "Marketing_authorisation_number": "68023",
@@ -1077,7 +1121,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_jemperli.pdf"
+        "Document_name": "swisspar_jemperli.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "swisspar_ultomiris_ie.pdf": {
         "Marketing_authorisation_number": "67278",
@@ -1101,7 +1146,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "European Medicines Agency EMA",
-        "Document_name": "swisspar_ultomiris_ie.pdf"
+        "Document_name": "swisspar_ultomiris_ie.pdf",
+        "Marketing_authorisation_holder_extracted": "Alexion"
     },
     "swisspar_vazkepa_final.pdf": {
         "Marketing_authorisation_number": "68354",
@@ -1125,7 +1171,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA CHMP",
-        "Document_name": "swisspar_vazkepa_final.pdf"
+        "Document_name": "swisspar_vazkepa_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Amarin"
     },
     "swisspar_vabysmo_g102701735.pdf": {
         "Marketing_authorisation_number": "68395",
@@ -1149,7 +1196,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_vabysmo_g102701735.pdf"
+        "Document_name": "swisspar_vabysmo_g102701735.pdf",
+        "Marketing_authorisation_holder_extracted": "Roche"
     },
     "swisspar_enhertu_g102637736.pdf": {
         "Marketing_authorisation_number": "67967",
@@ -1173,7 +1221,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_enhertu_g102637736.pdf"
+        "Document_name": "swisspar_enhertu_g102637736.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "swisspar_padcev.pdf": {
         "Marketing_authorisation_number": "68291",
@@ -1197,7 +1246,8 @@
         "Application_year": "2024",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_padcev.pdf"
+        "Document_name": "swisspar_padcev.pdf",
+        "Marketing_authorisation_holder_extracted": "Astellas"
     },
     "swisspar_lytgobi.pdf": {
         "Marketing_authorisation_number": "69714",
@@ -1221,7 +1271,8 @@
         "Application_year": "2024",
         "Nonclinical_abridged": "yes",
         "Referral_body": "European Medicines Agency (EMA)",
-        "Document_name": "swisspar_lytgobi.pdf"
+        "Document_name": "swisspar_lytgobi.pdf",
+        "Marketing_authorisation_holder_extracted": "Taiho"
     },
     "swisspar_lunsumio.pdf": {
         "Marketing_authorisation_number": "68314",
@@ -1245,7 +1296,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_lunsumio.pdf"
+        "Document_name": "swisspar_lunsumio.pdf",
+        "Marketing_authorisation_holder_extracted": "Roche"
     },
     "xenpozyme_assessment_report_swisspar_nach_uebersetzung.pdf": {
         "Marketing_authorisation_number": "67287",
@@ -1269,7 +1321,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "xenpozyme_assessment_report_swisspar_nach_uebersetzung.pdf"
+        "Document_name": "xenpozyme_assessment_report_swisspar_nach_uebersetzung.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi-Aventis"
     },
     "assessment_report_swisspar_trodelvy_g102639433.pdf": {
         "Marketing_authorisation_number": "68179",
@@ -1293,7 +1346,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "assessment_report_swisspar_trodelvy_g102639433.pdf"
+        "Document_name": "assessment_report_swisspar_trodelvy_g102639433.pdf",
+        "Marketing_authorisation_holder_extracted": "Gilead"
     },
     "swisspar_kimmtrak_final.pdf": {
         "Marketing_authorisation_number": "68846",
@@ -1317,7 +1371,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_kimmtrak_final.pdf"
+        "Document_name": "swisspar_kimmtrak_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Immunocore"
     },
     "swisspar_shingrix.pdf": {
         "Marketing_authorisation_number": "67987",
@@ -1341,7 +1396,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_shingrix.pdf"
+        "Document_name": "swisspar_shingrix.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "swisspar_enrylaze.pdf": {
         "Marketing_authorisation_number": "69073",
@@ -1365,7 +1421,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_enrylaze.pdf"
+        "Document_name": "swisspar_enrylaze.pdf",
+        "Marketing_authorisation_holder_extracted": "Jazz"
     },
     "swisspar_jemperli_final.pdf": {
         "Marketing_authorisation_number": "68023",
@@ -1389,7 +1446,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA CHMP",
-        "Document_name": "swisspar_jemperli_final.pdf"
+        "Document_name": "swisspar_jemperli_final.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "swisspar_nityr_final.pdf": {
         "Marketing_authorisation_number": "67970",
@@ -1413,7 +1471,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_nityr_final.pdf"
+        "Document_name": "swisspar_nityr_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Curatis"
     },
     "swisspar_aspaveli.pdf": {
         "Marketing_authorisation_number": "68674",
@@ -1437,7 +1496,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_aspaveli.pdf"
+        "Document_name": "swisspar_aspaveli.pdf",
+        "Marketing_authorisation_holder_extracted": "Swedish Orphan Biovitrum"
     },
     "swisspar_nuceiva.pdf": {
         "Marketing_authorisation_number": "69120",
@@ -1461,7 +1521,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_nuceiva.pdf"
+        "Document_name": "swisspar_nuceiva.pdf",
+        "Marketing_authorisation_holder_extracted": "PharmaCons"
     },
     "swisspar_enhertu_ie-1.pdf": {
         "Marketing_authorisation_number": "67967",
@@ -1485,7 +1546,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_enhertu_ie-1.pdf"
+        "Document_name": "swisspar_enhertu_ie-1.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "swisspar_klisyri.pdf": {
         "Marketing_authorisation_number": "68322",
@@ -1509,7 +1571,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_klisyri.pdf"
+        "Document_name": "swisspar_klisyri.pdf",
+        "Marketing_authorisation_holder_extracted": "Almirall"
     },
     "swisspar_sunlenca.pdf": {
         "Marketing_authorisation_number": "68385",
@@ -1533,7 +1596,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_sunlenca.pdf"
+        "Document_name": "swisspar_sunlenca.pdf",
+        "Marketing_authorisation_holder_extracted": "Gilead"
     },
     "swisspar_raxone.pdf": {
         "Marketing_authorisation_number": "68063",
@@ -1557,7 +1621,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_raxone.pdf"
+        "Document_name": "swisspar_raxone.pdf",
+        "Marketing_authorisation_holder_extracted": "Chiesi"
     },
     "swisspar_brukinsa-1.pdf": {
         "Marketing_authorisation_number": "67998",
@@ -1581,7 +1646,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "swisspar_brukinsa-1.pdf"
+        "Document_name": "swisspar_brukinsa-1.pdf",
+        "Marketing_authorisation_holder_extracted": "BeiGene"
     },
     "swisspar_xofluza_new_indication_final.pdf": {
         "Marketing_authorisation_number": "67426",
@@ -1605,7 +1671,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_xofluza_new_indication_final.pdf"
+        "Document_name": "swisspar_xofluza_new_indication_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Roche"
     },
     "2024-10-09_swisspar_zolgensma_final_fi_engl.pdf": {
         "Marketing_authorisation_number": "67529",
@@ -1629,7 +1696,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "2024-10-09_swisspar_zolgensma_final_fi_engl.pdf"
+        "Document_name": "2024-10-09_swisspar_zolgensma_final_fi_engl.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "swisspar_nexobrid.pdf": {
         "Marketing_authorisation_number": "68012",
@@ -1653,7 +1721,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA CHMP",
-        "Document_name": "swisspar_nexobrid.pdf"
+        "Document_name": "swisspar_nexobrid.pdf",
+        "Marketing_authorisation_holder_extracted": "Triskel"
     },
     "swisspar_velsipity.pdf": {
         "Marketing_authorisation_number": "69377",
@@ -1677,7 +1746,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_velsipity.pdf"
+        "Document_name": "swisspar_velsipity.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "swisspar_covid-19_vaccine_janssen_.pdf": {
         "Marketing_authorisation_number": "68235",
@@ -1701,7 +1771,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_covid-19_vaccine_janssen_.pdf"
+        "Document_name": "swisspar_covid-19_vaccine_janssen_.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen-Cilag"
     },
     "swisspar_verdye.pdf": {
         "Marketing_authorisation_number": "68489",
@@ -1725,7 +1796,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_verdye.pdf"
+        "Document_name": "swisspar_verdye.pdf",
+        "Marketing_authorisation_holder_extracted": "Mediconsult"
     },
     "swisspar_lyfnua.pdf": {
         "Marketing_authorisation_number": "68065",
@@ -1749,7 +1821,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_lyfnua.pdf"
+        "Document_name": "swisspar_lyfnua.pdf",
+        "Marketing_authorisation_holder_extracted": "Merck Sharp & Dohme"
     },
     "swisspar_quviviq.pdf": {
         "Marketing_authorisation_number": "68481",
@@ -1773,7 +1846,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_quviviq.pdf"
+        "Document_name": "swisspar_quviviq.pdf",
+        "Marketing_authorisation_holder_extracted": "Idorsia"
     },
     "swisspar_rinvoq_as_final.pdf": {
         "Marketing_authorisation_number": "67257",
@@ -1797,7 +1871,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_rinvoq_as_final.pdf"
+        "Document_name": "swisspar_rinvoq_as_final.pdf",
+        "Marketing_authorisation_holder_extracted": "AbbVie"
     },
     "swisspar_tenkasi.pdf": {
         "Marketing_authorisation_number": "68135",
@@ -1821,7 +1896,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_tenkasi.pdf"
+        "Document_name": "swisspar_tenkasi.pdf",
+        "Marketing_authorisation_holder_extracted": "Menarini"
     },
     "swisspar_drovelis.pdf": {
         "Marketing_authorisation_number": "68228",
@@ -1845,7 +1921,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_drovelis.pdf"
+        "Document_name": "swisspar_drovelis.pdf",
+        "Marketing_authorisation_holder_extracted": "Gedeon Richter"
     },
     "swisspar_elfabrio_final.pdf": {
         "Marketing_authorisation_number": "69257",
@@ -1869,7 +1946,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_elfabrio_final.pdf"
+        "Document_name": "swisspar_elfabrio_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Chiesi"
     },
     "swisspar_nuvaxovid_final.pdf": {
         "Marketing_authorisation_number": "68473",
@@ -1893,7 +1971,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_nuvaxovid_final.pdf"
+        "Document_name": "swisspar_nuvaxovid_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Future Health"
     },
     "swisspar_trecondi_finale_version.pdf": {
         "Marketing_authorisation_number": "67775",
@@ -1917,7 +1996,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_trecondi_finale_version.pdf"
+        "Document_name": "swisspar_trecondi_finale_version.pdf",
+        "Marketing_authorisation_holder_extracted": "Opopharma"
     },
     "swisspar_retsevmo_final_zur_publikation.pdf": {
         "Marketing_authorisation_number": "67862",
@@ -1941,7 +2021,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_retsevmo_final_zur_publikation.pdf"
+        "Document_name": "swisspar_retsevmo_final_zur_publikation.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "swisspar_\u2013_beovu.pdf": {
         "Marketing_authorisation_number": "67244",
@@ -1965,7 +2046,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_\u2013_beovu.pdf"
+        "Document_name": "swisspar_\u2013_beovu.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "swisspar_sarclisa_final.pdf": {
         "Marketing_authorisation_number": "67525",
@@ -1989,7 +2071,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_sarclisa_final.pdf"
+        "Document_name": "swisspar_sarclisa_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi-Aventis"
     },
     "swisspar_veklury.pdf": {
         "Marketing_authorisation_number": "68026",
@@ -2013,7 +2096,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_veklury.pdf"
+        "Document_name": "swisspar_veklury.pdf",
+        "Marketing_authorisation_holder_extracted": "Gilead"
     },
     "swisspar_ontozry_final.pdf": {
         "Marketing_authorisation_number": "68051",
@@ -2037,7 +2121,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA/CHMP; US FDA",
-        "Document_name": "swisspar_ontozry_final.pdf"
+        "Document_name": "swisspar_ontozry_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Arvelle"
     },
     "swisspar_nubeqa.pdf": {
         "Marketing_authorisation_number": "67521",
@@ -2061,7 +2146,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_nubeqa.pdf"
+        "Document_name": "swisspar_nubeqa.pdf",
+        "Marketing_authorisation_holder_extracted": "Bayer"
     },
     "swisspar_efluelda_final.pdf": {
         "Marketing_authorisation_number": "67704",
@@ -2085,7 +2171,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_efluelda_final.pdf"
+        "Document_name": "swisspar_efluelda_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi-Aventis"
     },
     "swisspar_pombiliti.pdf": {
         "Marketing_authorisation_number": "67804",
@@ -2109,7 +2196,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_pombiliti.pdf"
+        "Document_name": "swisspar_pombiliti.pdf",
+        "Marketing_authorisation_holder_extracted": "Amicus"
     },
     "swisspar_defitelio-1.pdf": {
         "Marketing_authorisation_number": "67667",
@@ -2133,7 +2221,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Health Canada, FDA and EMA",
-        "Document_name": "swisspar_defitelio-1.pdf"
+        "Document_name": "swisspar_defitelio-1.pdf",
+        "Marketing_authorisation_holder_extracted": "Clinipace"
     },
     "swisspar_voydeya.pdf": {
         "Marketing_authorisation_number": "69301",
@@ -2157,7 +2246,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_voydeya.pdf"
+        "Document_name": "swisspar_voydeya.pdf",
+        "Marketing_authorisation_holder_extracted": "Alexion"
     },
     "swisspar_vyepti.pdf": {
         "Marketing_authorisation_number": "67995",
@@ -2181,7 +2271,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_vyepti.pdf"
+        "Document_name": "swisspar_vyepti.pdf",
+        "Marketing_authorisation_holder_extracted": "Lundbeck"
     },
     "swisspar_zeposia_g102645659.pdf": {
         "Marketing_authorisation_number": "67046",
@@ -2205,7 +2296,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_zeposia_g102645659.pdf"
+        "Document_name": "swisspar_zeposia_g102645659.pdf",
+        "Marketing_authorisation_holder_extracted": "Bristol-Myers Squibb"
     },
     "swisspar-carbaglu-final.pdf": {
         "Marketing_authorisation_number": "67376",
@@ -2229,7 +2321,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA, FDA, and TGA",
-        "Document_name": "swisspar-carbaglu-final.pdf"
+        "Document_name": "swisspar-carbaglu-final.pdf",
+        "Marketing_authorisation_holder_extracted": "Recordati"
     },
     "swisspar-qinlock.pdf": {
         "Marketing_authorisation_number": "68199",
@@ -2253,7 +2346,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar-qinlock.pdf"
+        "Document_name": "swisspar-qinlock.pdf",
+        "Marketing_authorisation_holder_extracted": "Deciphera"
     },
     "swisspar_evrysdi.pdf": {
         "Marketing_authorisation_number": "67251",
@@ -2277,7 +2371,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_evrysdi.pdf"
+        "Document_name": "swisspar_evrysdi.pdf",
+        "Marketing_authorisation_holder_extracted": "Roche"
     },
     "swisspar_tibsovo.pdf": {
         "Marketing_authorisation_number": "69077",
@@ -2301,7 +2396,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "CHMP",
-        "Document_name": "swisspar_tibsovo.pdf"
+        "Document_name": "swisspar_tibsovo.pdf",
+        "Marketing_authorisation_holder_extracted": "Servier"
     },
     "swisspar_xevudy_final.pdf": {
         "Marketing_authorisation_number": "68471",
@@ -2325,7 +2421,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Therapeutic Goods Administration of Australia (TGA)",
-        "Document_name": "swisspar_xevudy_final.pdf"
+        "Document_name": "swisspar_xevudy_final.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "swisspar_jaypirca.pdf": {
         "Marketing_authorisation_number": "68733",
@@ -2349,7 +2446,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "U.S. Food and Drug Administration (FDA)",
-        "Document_name": "swisspar_jaypirca.pdf"
+        "Document_name": "swisspar_jaypirca.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "swisspar_skyclarys.pdf": {
         "Marketing_authorisation_number": "69610",
@@ -2373,7 +2471,8 @@
         "Application_year": "2024",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_skyclarys.pdf"
+        "Document_name": "swisspar_skyclarys.pdf",
+        "Marketing_authorisation_holder_extracted": "Biogen"
     },
     "swisspar_truqap.pdf": {
         "Marketing_authorisation_number": "69300",
@@ -2397,7 +2496,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_truqap.pdf"
+        "Document_name": "swisspar_truqap.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "swisspar_elrexfio_final-1.pdf": {
         "Marketing_authorisation_number": "68646",
@@ -2421,7 +2521,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_elrexfio_final-1.pdf"
+        "Document_name": "swisspar_elrexfio_final-1.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "swisspar_hepcludex.pdf": {
         "Marketing_authorisation_number": "68338",
@@ -2445,7 +2546,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_hepcludex.pdf"
+        "Document_name": "swisspar_hepcludex.pdf",
+        "Marketing_authorisation_holder_extracted": "Gilead"
     },
     "swisspar_evrysdi_final.pdf": {
         "Marketing_authorisation_number": "67251",
@@ -2469,7 +2571,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_evrysdi_final.pdf"
+        "Document_name": "swisspar_evrysdi_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Roche"
     },
     "swisspar_daurismo-1.pdf": {
         "Marketing_authorisation_number": "67473",
@@ -2493,7 +2596,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_daurismo-1.pdf"
+        "Document_name": "swisspar_daurismo-1.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "swisspar_palforzia_final.pdf": {
         "Marketing_authorisation_number": "67733",
@@ -2517,7 +2621,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "European Medicines Agency (EMA)",
-        "Document_name": "swisspar_palforzia_final.pdf"
+        "Document_name": "swisspar_palforzia_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Medius"
     },
     "swisspar_triogen-final.pdf": {
         "Marketing_authorisation_number": "67431",
@@ -2541,7 +2646,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_triogen-final.pdf"
+        "Document_name": "swisspar_triogen-final.pdf",
+        "Marketing_authorisation_holder_extracted": "IDEOGEN"
     },
     "swisspar_pemazyre.pdf": {
         "Marketing_authorisation_number": "68143",
@@ -2565,7 +2671,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "CHMP and US FDA",
-        "Document_name": "swisspar_pemazyre.pdf"
+        "Document_name": "swisspar_pemazyre.pdf",
+        "Marketing_authorisation_holder_extracted": "Incyte"
     },
     "swisspar_cablivi_indikationserweiterung.pdf": {
         "Marketing_authorisation_number": "66792",
@@ -2589,7 +2696,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_cablivi_indikationserweiterung.pdf"
+        "Document_name": "swisspar_cablivi_indikationserweiterung.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi-Aventis"
     },
     "swisspar_ultomiris__.pdf": {
         "Marketing_authorisation_number": "67278",
@@ -2613,7 +2721,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "European Medicines Agency EMA",
-        "Document_name": "swisspar_ultomiris__.pdf"
+        "Document_name": "swisspar_ultomiris__.pdf",
+        "Marketing_authorisation_holder_extracted": "Alexion"
     },
     "swisspar_ryeqo_final.pdf": {
         "Marketing_authorisation_number": "68495",
@@ -2637,7 +2746,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_ryeqo_final.pdf"
+        "Document_name": "swisspar_ryeqo_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Gedeon Richter"
     },
     "swisspar_filspari.pdf": {
         "Marketing_authorisation_number": "69241",
@@ -2661,7 +2771,8 @@
         "Application_year": "2024",
         "Nonclinical_abridged": "yes",
         "Referral_body": "European Medicines Agency (EMA)",
-        "Document_name": "swisspar_filspari.pdf"
+        "Document_name": "swisspar_filspari.pdf",
+        "Marketing_authorisation_holder_extracted": "Vifor"
     },
     "swisspar_saphnelo.pdf": {
         "Marketing_authorisation_number": "68512",
@@ -2685,7 +2796,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_saphnelo.pdf"
+        "Document_name": "swisspar_saphnelo.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "swisspar_arexvy_final.pdf": {
         "Marketing_authorisation_number": "69310",
@@ -2709,7 +2821,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_arexvy_final.pdf"
+        "Document_name": "swisspar_arexvy_final.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "swisspar_rapibloc.pdf": {
         "Marketing_authorisation_number": "68611",
@@ -2733,7 +2846,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Decentralised Procedure Final Assessment report",
-        "Document_name": "swisspar_rapibloc.pdf"
+        "Document_name": "swisspar_rapibloc.pdf",
+        "Marketing_authorisation_holder_extracted": "OrPha"
     },
     "swisspar_rubraca.pdf": {
         "Marketing_authorisation_number": "67402",
@@ -2757,7 +2871,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_rubraca.pdf"
+        "Document_name": "swisspar_rubraca.pdf",
+        "Marketing_authorisation_holder_extracted": "Clovis"
     },
     "swisspar_livtencity_final.pdf": {
         "Marketing_authorisation_number": "68492",
@@ -2781,7 +2896,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_livtencity_final.pdf"
+        "Document_name": "swisspar_livtencity_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "swisspar_nicardipin_labatec_final.pdf": {
         "Marketing_authorisation_number": "67680",
@@ -2805,7 +2921,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "France",
-        "Document_name": "swisspar_nicardipin_labatec_final.pdf"
+        "Document_name": "swisspar_nicardipin_labatec_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Labatec"
     },
     "swisspar_trikafta_ie_p\u00e4diatrie_final.pdf": {
         "Marketing_authorisation_number": "67773",
@@ -2829,7 +2946,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_trikafta_ie_p\u00e4diatrie_final.pdf"
+        "Document_name": "swisspar_trikafta_ie_p\u00e4diatrie_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Vertex"
     },
     "swisspar_vocabria.pdf": {
         "Marketing_authorisation_number": "67740",
@@ -2853,7 +2971,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_vocabria.pdf"
+        "Document_name": "swisspar_vocabria.pdf",
+        "Marketing_authorisation_holder_extracted": "ViiV"
     },
     "swisspar_spravato.pdf": {
         "Marketing_authorisation_number": "67103",
@@ -2877,7 +2996,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_spravato.pdf"
+        "Document_name": "swisspar_spravato.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen-Cilag"
     },
     "swisspar_brukinsa.pdf": {
         "Marketing_authorisation_number": "67998",
@@ -2901,7 +3021,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Health Canada",
-        "Document_name": "swisspar_brukinsa.pdf"
+        "Document_name": "swisspar_brukinsa.pdf",
+        "Marketing_authorisation_holder_extracted": "BeiGene"
     },
     "swisspar_spevigo_final.pdf": {
         "Marketing_authorisation_number": "68625",
@@ -2925,7 +3046,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_spevigo_final.pdf"
+        "Document_name": "swisspar_spevigo_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Boehringer Ingelheim"
     },
     "swisspar_tecvayli.pdf": {
         "Marketing_authorisation_number": "68747",
@@ -2949,7 +3071,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "swisspar_tecvayli.pdf"
+        "Document_name": "swisspar_tecvayli.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen-Cilag"
     },
     "swisspar_lokelma.pdf": {
         "Marketing_authorisation_number": "67851",
@@ -2973,7 +3096,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "CHMP",
-        "Document_name": "swisspar_lokelma.pdf"
+        "Document_name": "swisspar_lokelma.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "swisspar_polivy.pdf": {
         "Marketing_authorisation_number": "67165",
@@ -2997,7 +3121,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_polivy.pdf"
+        "Document_name": "swisspar_polivy.pdf",
+        "Marketing_authorisation_holder_extracted": "Roche"
     },
     "swisspar_ultomiris_ie_final.pdf": {
         "Marketing_authorisation_number": "67278",
@@ -3021,7 +3146,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_ultomiris_ie_final.pdf"
+        "Document_name": "swisspar_ultomiris_ie_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Alexion"
     },
     "swisspar-vyvgart.pdf": {
         "Marketing_authorisation_number": "69286",
@@ -3045,7 +3171,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "European Medicines Agency (EMA)",
-        "Document_name": "swisspar-vyvgart.pdf"
+        "Document_name": "swisspar-vyvgart.pdf",
+        "Marketing_authorisation_holder_extracted": "argenx"
     },
     "swisspar_lupkynis_final.pdf": {
         "Marketing_authorisation_number": "68697",
@@ -3069,7 +3196,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_lupkynis_final.pdf"
+        "Document_name": "swisspar_lupkynis_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Otsuka"
     },
     "swisspar_rinvoq_ie_colitis_ulerosa.pdf": {
         "Marketing_authorisation_number": "67257",
@@ -3093,7 +3221,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_rinvoq_ie_colitis_ulerosa.pdf"
+        "Document_name": "swisspar_rinvoq_ie_colitis_ulerosa.pdf",
+        "Marketing_authorisation_holder_extracted": "AbbVie"
     },
     "swisspar_supemtek.pdf": {
         "Marketing_authorisation_number": "68003",
@@ -3117,7 +3246,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_supemtek.pdf"
+        "Document_name": "swisspar_supemtek.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi-Aventis"
     },
     "swisspar_elucirem-1.pdf": {
         "Marketing_authorisation_number": "68791",
@@ -3141,7 +3271,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_elucirem-1.pdf"
+        "Document_name": "swisspar_elucirem-1.pdf",
+        "Marketing_authorisation_holder_extracted": "Guerbet"
     },
     "2024-10-08_swisspar_tecartus_initiale_maa_nas_final_fi_engl.pdf": {
         "Marketing_authorisation_number": "67884",
@@ -3165,7 +3296,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "2024-10-08_swisspar_tecartus_initiale_maa_nas_final_fi_engl.pdf"
+        "Document_name": "2024-10-08_swisspar_tecartus_initiale_maa_nas_final_fi_engl.pdf",
+        "Marketing_authorisation_holder_extracted": "Gilead"
     },
     "swisspar_colibiogen_oral_final.pdf": {
         "Marketing_authorisation_number": "68052",
@@ -3189,7 +3321,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "authority of canton Appenzell Ausserrhoden",
-        "Document_name": "swisspar_colibiogen_oral_final.pdf"
+        "Document_name": "swisspar_colibiogen_oral_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Laves"
     },
     "swisspar_regkirona_final.pdf": {
         "Marketing_authorisation_number": "68356",
@@ -3213,7 +3346,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_regkirona_final.pdf"
+        "Document_name": "swisspar_regkirona_final.pdf",
+        "Marketing_authorisation_holder_extracted": "IQONE"
     },
     "2024-11-22_final_swisspar_carvykti_nas_fi_engl.pdf": {
         "Marketing_authorisation_number": "67956",
@@ -3237,7 +3371,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "2024-11-22_final_swisspar_carvykti_nas_fi_engl.pdf"
+        "Document_name": "2024-11-22_final_swisspar_carvykti_nas_fi_engl.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen-Cilag"
     },
     "swisspar_letybo.pdf": {
         "Marketing_authorisation_number": "68864",
@@ -3261,7 +3396,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EU-Assessment Report (decentralised procedure, DE/H/6379/001/DC)",
-        "Document_name": "swisspar_letybo.pdf"
+        "Document_name": "swisspar_letybo.pdf",
+        "Marketing_authorisation_holder_extracted": "Medius"
     },
     "swisspar_softigyn_final.pdf": {
         "Marketing_authorisation_number": "68467",
@@ -3285,7 +3421,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "swisspar_softigyn_final.pdf"
+        "Document_name": "swisspar_softigyn_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Labatec"
     },
     "swisspar_nexviadyme.pdf": {
         "Marketing_authorisation_number": "67871",
@@ -3309,7 +3446,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_nexviadyme.pdf"
+        "Document_name": "swisspar_nexviadyme.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi-Aventis"
     },
     "swisspar_trikafta.pdf": {
         "Marketing_authorisation_number": "67773",
@@ -3333,7 +3471,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_trikafta.pdf"
+        "Document_name": "swisspar_trikafta.pdf",
+        "Marketing_authorisation_holder_extracted": "Vertex"
     },
     "swisspar_adtralza_final.pdf": {
         "Marketing_authorisation_number": "68229",
@@ -3357,7 +3496,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_adtralza_final.pdf"
+        "Document_name": "swisspar_adtralza_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Leo"
     },
     "swisspar_clofara-final.pdf": {
         "Marketing_authorisation_number": "68107",
@@ -3381,7 +3521,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_clofara-final.pdf"
+        "Document_name": "swisspar_clofara-final.pdf",
+        "Marketing_authorisation_holder_extracted": "IDEOGEN"
     },
     "swisspar_exkivity.pdf": {
         "Marketing_authorisation_number": "68147",
@@ -3405,7 +3546,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_exkivity.pdf"
+        "Document_name": "swisspar_exkivity.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "swisspar_bimzelx_ie_psoriatic_arthritis.pdf": {
         "Marketing_authorisation_number": "68548",
@@ -3429,7 +3571,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_bimzelx_ie_psoriatic_arthritis.pdf"
+        "Document_name": "swisspar_bimzelx_ie_psoriatic_arthritis.pdf",
+        "Marketing_authorisation_holder_extracted": "UCB"
     },
     "swisspar_poteligeo.pdf": {
         "Marketing_authorisation_number": "67444",
@@ -3453,7 +3596,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_poteligeo.pdf"
+        "Document_name": "swisspar_poteligeo.pdf",
+        "Marketing_authorisation_holder_extracted": "Kyowa Kirin"
     },
     "swisspar_tavneos.pdf": {
         "Marketing_authorisation_number": "66772",
@@ -3477,7 +3621,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_tavneos.pdf"
+        "Document_name": "swisspar_tavneos.pdf",
+        "Marketing_authorisation_holder_extracted": "Vifor Fresenius"
     },
     "swisspar_rybrevant_na_nas.pdf": {
         "Marketing_authorisation_number": "68380",
@@ -3501,7 +3646,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_rybrevant_na_nas.pdf"
+        "Document_name": "swisspar_rybrevant_na_nas.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen-Cilag"
     },
     "swisspar_levocalm.pdf": {
         "Marketing_authorisation_number": "69413",
@@ -3525,7 +3671,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_levocalm.pdf"
+        "Document_name": "swisspar_levocalm.pdf",
+        "Marketing_authorisation_holder_extracted": "Gebro"
     },
     "swisspar_orserdu.pdf": {
         "Marketing_authorisation_number": "69417",
@@ -3549,7 +3696,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_orserdu.pdf"
+        "Document_name": "swisspar_orserdu.pdf",
+        "Marketing_authorisation_holder_extracted": "Stemline"
     },
     "swisspar_kapruvia.pdf": {
         "Marketing_authorisation_number": "68653",
@@ -3573,7 +3721,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_kapruvia.pdf"
+        "Document_name": "swisspar_kapruvia.pdf",
+        "Marketing_authorisation_holder_extracted": "Vifor Fresenius"
     },
     "swisspar_rinvoq_psor_arthr_final.pdf": {
         "Marketing_authorisation_number": "67257",
@@ -3597,7 +3746,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_rinvoq_psor_arthr_final.pdf"
+        "Document_name": "swisspar_rinvoq_psor_arthr_final.pdf",
+        "Marketing_authorisation_holder_extracted": "AbbVie"
     },
     "swisspar_rinvoq_ie.pdf": {
         "Marketing_authorisation_number": "67257",
@@ -3621,7 +3771,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_rinvoq_ie.pdf"
+        "Document_name": "swisspar_rinvoq_ie.pdf",
+        "Marketing_authorisation_holder_extracted": "AbbVie"
     },
     "swisspar_vydura.pdf": {
         "Marketing_authorisation_number": "69035",
@@ -3645,7 +3796,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "European Medicines Agency",
-        "Document_name": "swisspar_vydura.pdf"
+        "Document_name": "swisspar_vydura.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "swisspar_mounjaro_ie.pdf": {
         "Marketing_authorisation_number": "68726",
@@ -3669,7 +3821,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_mounjaro_ie.pdf"
+        "Document_name": "swisspar_mounjaro_ie.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "swisspar_enhertu_g102673750.pdf": {
         "Marketing_authorisation_number": "67967",
@@ -3693,7 +3846,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "swisspar_enhertu_g102673750.pdf"
+        "Document_name": "swisspar_enhertu_g102673750.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "swisspar_calquence_final.pdf": {
         "Marketing_authorisation_number": "67790",
@@ -3717,7 +3871,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA and CHMP",
-        "Document_name": "swisspar_calquence_final.pdf"
+        "Document_name": "swisspar_calquence_final.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "swisspar_fruzaqla.pdf": {
         "Marketing_authorisation_number": "69524",
@@ -3741,7 +3896,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "swisspar_fruzaqla.pdf"
+        "Document_name": "swisspar_fruzaqla.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "swisspar_verquvo.pdf": {
         "Marketing_authorisation_number": "68001",
@@ -3765,7 +3921,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "swisspar_verquvo.pdf"
+        "Document_name": "swisspar_verquvo.pdf",
+        "Marketing_authorisation_holder_extracted": "Bayer"
     },
     "swisspar_condrosulf_plus.pdf": {
         "Marketing_authorisation_number": "68626",
@@ -3789,7 +3946,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_condrosulf_plus.pdf"
+        "Document_name": "swisspar_condrosulf_plus.pdf",
+        "Marketing_authorisation_holder_extracted": "IBSA"
     },
     "swisspar_pheburane-final.pdf": {
         "Marketing_authorisation_number": "67263",
@@ -3813,7 +3971,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_pheburane-final.pdf"
+        "Document_name": "swisspar_pheburane-final.pdf",
+        "Marketing_authorisation_holder_extracted": "NordMedica"
     },
     "swisspar_enhertu_ie_mbc_2l_g102661094.pdf": {
         "Marketing_authorisation_number": "67967",
@@ -3837,7 +3996,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_enhertu_ie_mbc_2l_g102661094.pdf"
+        "Document_name": "swisspar_enhertu_ie_mbc_2l_g102661094.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "swisspar_minjuvi_na_nas_mit_fi.pdf": {
         "Marketing_authorisation_number": "68083",
@@ -3861,7 +4021,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA and EMA/CHMP",
-        "Document_name": "swisspar_minjuvi_na_nas_mit_fi.pdf"
+        "Document_name": "swisspar_minjuvi_na_nas_mit_fi.pdf",
+        "Marketing_authorisation_holder_extracted": "Incyte"
     },
     "swisspar_tenkasi_ie.pdf": {
         "Marketing_authorisation_number": "68135",
@@ -3885,7 +4046,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_tenkasi_ie.pdf"
+        "Document_name": "swisspar_tenkasi_ie.pdf",
+        "Marketing_authorisation_holder_extracted": "Menarini"
     },
     "swisspar_epidyolex_final_zur_publikation.pdf": {
         "Marketing_authorisation_number": "67590",
@@ -3909,7 +4071,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA; EMA",
-        "Document_name": "swisspar_epidyolex_final_zur_publikation.pdf"
+        "Document_name": "swisspar_epidyolex_final_zur_publikation.pdf",
+        "Marketing_authorisation_holder_extracted": "DRAC"
     },
     "swisspar_doptelet.pdf": {
         "Marketing_authorisation_number": "67893",
@@ -3933,7 +4096,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "European Medicines Agency (EMA)",
-        "Document_name": "swisspar_doptelet.pdf"
+        "Document_name": "swisspar_doptelet.pdf",
+        "Marketing_authorisation_holder_extracted": "Swedish Orphan Biovitrum"
     },
     "swisspar_vaxneuvance_final.pdf": {
         "Marketing_authorisation_number": "68752",
@@ -3957,7 +4121,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_vaxneuvance_final.pdf"
+        "Document_name": "swisspar_vaxneuvance_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Merck Sharp & Dohme"
     },
     "swisspar_winrevair.pdf": {
         "Marketing_authorisation_number": "69129",
@@ -3981,7 +4146,8 @@
         "Application_year": "2024",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_winrevair.pdf"
+        "Document_name": "swisspar_winrevair.pdf",
+        "Marketing_authorisation_holder_extracted": "Merck Sharp & Dohme"
     },
     "swisspar_beyfortus.pdf": {
         "Marketing_authorisation_number": "69039",
@@ -4005,7 +4171,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "European Medicines Agency (EMA)",
-        "Document_name": "swisspar_beyfortus.pdf"
+        "Document_name": "swisspar_beyfortus.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi-Aventis"
     },
     "swisspar_solmucol_bronchoprotect_final.pdf": {
         "Marketing_authorisation_number": "67822",
@@ -4029,7 +4196,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_solmucol_bronchoprotect_final.pdf"
+        "Document_name": "swisspar_solmucol_bronchoprotect_final.pdf",
+        "Marketing_authorisation_holder_extracted": "IBSA"
     },
     "swisspar_kerendia-1.pdf": {
         "Marketing_authorisation_number": "68130",
@@ -4053,7 +4221,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "swisspar_kerendia-1.pdf"
+        "Document_name": "swisspar_kerendia-1.pdf",
+        "Marketing_authorisation_holder_extracted": "Bayer"
     },
     "swisspar_tepmetko.pdf": {
         "Marketing_authorisation_number": "68113",
@@ -4077,7 +4246,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_tepmetko.pdf"
+        "Document_name": "swisspar_tepmetko.pdf",
+        "Marketing_authorisation_holder_extracted": "Merck"
     },
     "2024-09-13_swisspar_leqvio_fi_engl.pdf": {
         "Marketing_authorisation_number": "67836",
@@ -4101,7 +4271,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "2024-09-13_swisspar_leqvio_fi_engl.pdf"
+        "Document_name": "2024-09-13_swisspar_leqvio_fi_engl.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "2020-04-15_swisspar_luxturna-final.pdf": {
         "Marketing_authorisation_number": "67371",
@@ -4125,7 +4296,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "2020-04-15_swisspar_luxturna-final.pdf"
+        "Document_name": "2020-04-15_swisspar_luxturna-final.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "2024-04-23_final_assessment_report_swisspar_amvuttra_mit_fi_engl.pdf": {
         "Marketing_authorisation_number": "69074",
@@ -4149,7 +4321,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "2024-04-23_final_assessment_report_swisspar_amvuttra_mit_fi_engl.pdf"
+        "Document_name": "2024-04-23_final_assessment_report_swisspar_amvuttra_mit_fi_engl.pdf",
+        "Marketing_authorisation_holder_extracted": "Alnylam"
     },
     "2024-07-22_final_swisspar_breyanzi_mit_fi.pdf": {
         "Marketing_authorisation_number": "67469",
@@ -4173,7 +4346,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "2024-07-22_final_swisspar_breyanzi_mit_fi.pdf"
+        "Document_name": "2024-07-22_final_swisspar_breyanzi_mit_fi.pdf",
+        "Marketing_authorisation_holder_extracted": "Bristol-Myers Squibb"
     },
     "2024-07-30_swisspar_und_fi_engl.pdf": {
         "Marketing_authorisation_number": "69052",
@@ -4197,7 +4371,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "2024-07-30_swisspar_und_fi_engl.pdf"
+        "Document_name": "2024-07-30_swisspar_und_fi_engl.pdf",
+        "Marketing_authorisation_holder_extracted": "Pierre Fabre"
     },
     "2024-08-07_final_swisspar_libmeldy_fi_engl.pdf": {
         "Marketing_authorisation_number": "68236",
@@ -4221,7 +4396,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "2024-08-07_final_swisspar_libmeldy_fi_engl.pdf"
+        "Document_name": "2024-08-07_final_swisspar_libmeldy_fi_engl.pdf",
+        "Marketing_authorisation_holder_extracted": "SFL"
     },
     "2024-08-07_final_swisspar_oxlumo_fi_engl.pdf": {
         "Marketing_authorisation_number": "68239",
@@ -4245,7 +4421,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "2024-08-07_final_swisspar_oxlumo_fi_engl.pdf"
+        "Document_name": "2024-08-07_final_swisspar_oxlumo_fi_engl.pdf",
+        "Marketing_authorisation_holder_extracted": "Alnylam"
     },
     "2024-09-13_swisspar_givlaari_fi_engl-1.pdf": {
         "Marketing_authorisation_number": "67895",
@@ -4269,7 +4446,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "2024-09-13_swisspar_givlaari_fi_engl-1.pdf"
+        "Document_name": "2024-09-13_swisspar_givlaari_fi_engl-1.pdf",
+        "Marketing_authorisation_holder_extracted": "Alnylam"
     },
     "2024-09-16_swisspar_ervebo_fi_engl.pdf": {
         "Marketing_authorisation_number": "68358",
@@ -4293,7 +4471,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "2024-09-16_swisspar_ervebo_fi_engl.pdf"
+        "Document_name": "2024-09-16_swisspar_ervebo_fi_engl.pdf",
+        "Marketing_authorisation_holder_extracted": "Merck Sharp & Dohme"
     },
     "2024-09-26_final_swisspar_tecartus_rrall_fi_engl.pdf": {
         "Marketing_authorisation_number": "67884",
@@ -4317,7 +4496,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "2024-09-26_final_swisspar_tecartus_rrall_fi_engl.pdf"
+        "Document_name": "2024-09-26_final_swisspar_tecartus_rrall_fi_engl.pdf",
+        "Marketing_authorisation_holder_extracted": "Gilead"
     },
     "2024-10-08_swisspar_qdenga_art_13_final_fi_engl.pdf": {
         "Marketing_authorisation_number": "69403",
@@ -4341,7 +4521,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "2024-10-08_swisspar_qdenga_art_13_final_fi_engl.pdf"
+        "Document_name": "2024-10-08_swisspar_qdenga_art_13_final_fi_engl.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "2024-11-22_final_swisspar_casgevy_art_13_fi_engl_corr.pdf": {
         "Marketing_authorisation_number": "68978",
@@ -4365,7 +4546,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "2024-11-22_final_swisspar_casgevy_art_13_fi_engl_corr.pdf"
+        "Document_name": "2024-11-22_final_swisspar_casgevy_art_13_fi_engl_corr.pdf",
+        "Marketing_authorisation_holder_extracted": "Vertex"
     },
     "2024-12-10_final_swisspar_ervebo_ie_kinder_ab_1j_fi_engl.pdf": {
         "Marketing_authorisation_number": "68358",
@@ -4389,7 +4571,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "2024-12-10_final_swisspar_ervebo_ie_kinder_ab_1j_fi_engl.pdf"
+        "Document_name": "2024-12-10_final_swisspar_ervebo_ie_kinder_ab_1j_fi_engl.pdf",
+        "Marketing_authorisation_holder_extracted": "Merck Sharp & Dohme"
     },
     "2024-12-13_hemgenix_swisspar_final_fi_engl.pdf": {
         "Marketing_authorisation_number": "68780",
@@ -4413,7 +4596,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "2024-12-13_hemgenix_swisspar_final_fi_engl.pdf"
+        "Document_name": "2024-12-13_hemgenix_swisspar_final_fi_engl.pdf",
+        "Marketing_authorisation_holder_extracted": "CSL Behring"
     },
     "66792-cablivi-01-swisspar-20191108.pdf": {
         "Marketing_authorisation_number": "66792",
@@ -4437,7 +4621,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "European Medicines Agency EMA",
-        "Document_name": "66792-cablivi-01-swisspar-20191108.pdf"
+        "Document_name": "66792-cablivi-01-swisspar-20191108.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi-Aventis"
     },
     "67304-onpattro-01-swisspar-20191113.pdf": {
         "Marketing_authorisation_number": "67304",
@@ -4461,7 +4646,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "European Medicines Agency (EMA)",
-        "Document_name": "67304-onpattro-01-swisspar-20191113.pdf"
+        "Document_name": "67304-onpattro-01-swisspar-20191113.pdf",
+        "Marketing_authorisation_holder_extracted": "Alnylam"
     },
     "20200602_swisspar_tukysa.pdf": {
         "Marketing_authorisation_number": "67798",
@@ -4485,7 +4671,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "20200602_swisspar_tukysa.pdf"
+        "Document_name": "20200602_swisspar_tukysa.pdf",
+        "Marketing_authorisation_holder_extracted": "SFL"
     },
     "20200827_swisspar_enspryng_final.pdf": {
         "Marketing_authorisation_number": "67617",
@@ -4509,7 +4696,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "20200827_swisspar_enspryng_final.pdf"
+        "Document_name": "20200827_swisspar_enspryng_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Roche"
     },
     "20210430_swisspar_comirnaty.pdf": {
         "Marketing_authorisation_number": "68225",
@@ -4533,7 +4721,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "20210430_swisspar_comirnaty.pdf"
+        "Document_name": "20210430_swisspar_comirnaty.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "20211203_swisspar-spikevax.pdf": {
         "Marketing_authorisation_number": "68267",
@@ -4557,7 +4746,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "20211203_swisspar-spikevax.pdf"
+        "Document_name": "20211203_swisspar-spikevax.pdf",
+        "Marketing_authorisation_holder_extracted": "Moderna"
     },
     "assessment_report_swisspar_nuvaxovid_g102682544.pdf": {
         "Marketing_authorisation_number": "68473",
@@ -4581,7 +4771,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "assessment_report_swisspar_nuvaxovid_g102682544.pdf"
+        "Document_name": "assessment_report_swisspar_nuvaxovid_g102682544.pdf",
+        "Marketing_authorisation_holder_extracted": "Future Health"
     },
     "swisspar_trodelvy_hr_her2-_brustkrebs.pdf": {
         "Marketing_authorisation_number": "68179",
@@ -4605,7 +4796,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_trodelvy_hr_her2-_brustkrebs.pdf"
+        "Document_name": "swisspar_trodelvy_hr_her2-_brustkrebs.pdf",
+        "Marketing_authorisation_holder_extracted": "Gilead"
     },
     "assessment_report_swisspar_mictonorm_final.pdf": {
         "Marketing_authorisation_number": "67514",
@@ -4629,7 +4821,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "assessment_report_swisspar_mictonorm_final.pdf"
+        "Document_name": "assessment_report_swisspar_mictonorm_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Labatec"
     },
     "assessment_report_swisspar_spravato_g102620850.pdf": {
         "Marketing_authorisation_number": "67103",
@@ -4653,7 +4846,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "assessment_report_swisspar_spravato_g102620850.pdf"
+        "Document_name": "assessment_report_swisspar_spravato_g102620850.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen-Cilag"
     },
     "assessment_report_swisspar_vaborem_final.pdf": {
         "Marketing_authorisation_number": "67797",
@@ -4677,7 +4871,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "European Medicines Agency (EMA)",
-        "Document_name": "assessment_report_swisspar_vaborem_final.pdf"
+        "Document_name": "assessment_report_swisspar_vaborem_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Menarini"
     },
     "swiss_public_assessment_report__milgamma.pdf": {
         "Marketing_authorisation_number": "68695",
@@ -4701,7 +4896,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swiss_public_assessment_report__milgamma.pdf"
+        "Document_name": "swiss_public_assessment_report__milgamma.pdf",
+        "Marketing_authorisation_holder_extracted": "Maras"
     },
     "swisspar_-vyndaqel_-final.pdf": {
         "Marketing_authorisation_number": "67083",
@@ -4725,7 +4921,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_-vyndaqel_-final.pdf"
+        "Document_name": "swisspar_-vyndaqel_-final.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "swisspar_final.pdf": {
         "Marketing_authorisation_number": "67244",
@@ -4749,7 +4946,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_final.pdf"
+        "Document_name": "swisspar_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "swisspar_\u2013_opdualag.pdf": {
         "Marketing_authorisation_number": "68609",
@@ -4773,7 +4971,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_\u2013_opdualag.pdf"
+        "Document_name": "swisspar_\u2013_opdualag.pdf",
+        "Marketing_authorisation_holder_extracted": "Bristol-Myers Squibb"
     },
     "swisspar_aklief.pdf": {
         "Marketing_authorisation_number": "67632",
@@ -4797,7 +4996,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_aklief.pdf"
+        "Document_name": "swisspar_aklief.pdf",
+        "Marketing_authorisation_holder_extracted": "Galderma"
     },
     "swisspar_altuvoct.pdf": {
         "Marketing_authorisation_number": "69436",
@@ -4821,7 +5021,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_altuvoct.pdf"
+        "Document_name": "swisspar_altuvoct.pdf",
+        "Marketing_authorisation_holder_extracted": "Swedish Orphan Biovitrum"
     },
     "swisspar_aquipta.pdf": {
         "Marketing_authorisation_number": "69128",
@@ -4845,7 +5046,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA; EMA",
-        "Document_name": "swisspar_aquipta.pdf"
+        "Document_name": "swisspar_aquipta.pdf",
+        "Marketing_authorisation_holder_extracted": "AbbVie"
     },
     "swisspar_awiqli.pdf": {
         "Marketing_authorisation_number": "69389",
@@ -4869,7 +5071,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_awiqli.pdf"
+        "Document_name": "swisspar_awiqli.pdf",
+        "Marketing_authorisation_holder_extracted": "Novo Nordisk"
     },
     "swisspar_ayvakyt.pdf": {
         "Marketing_authorisation_number": "68294",
@@ -4893,7 +5096,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_ayvakyt.pdf"
+        "Document_name": "swisspar_ayvakyt.pdf",
+        "Marketing_authorisation_holder_extracted": "Blueprint"
     },
     "swisspar_besremi.pdf": {
         "Marketing_authorisation_number": "67488",
@@ -4917,7 +5121,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "European Medicines Agency",
-        "Document_name": "swisspar_besremi.pdf"
+        "Document_name": "swisspar_besremi.pdf",
+        "Marketing_authorisation_holder_extracted": "OrPha"
     },
     "swisspar_camzyos_mit_fi.pdf": {
         "Marketing_authorisation_number": "68477",
@@ -4941,7 +5146,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_camzyos_mit_fi.pdf"
+        "Document_name": "swisspar_camzyos_mit_fi.pdf",
+        "Marketing_authorisation_holder_extracted": "Bristol-Myers Squibb"
     },
     "swisspar_columvi_mit_fi.pdf": {
         "Marketing_authorisation_number": "68297",
@@ -4965,7 +5171,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_columvi_mit_fi.pdf"
+        "Document_name": "swisspar_columvi_mit_fi.pdf",
+        "Marketing_authorisation_holder_extracted": "Roche"
     },
     "2024-10-08_swisspar_tegsedi_art13_final_fi_engl.pdf": {
         "Marketing_authorisation_number": "67451",
@@ -4989,7 +5196,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "2024-10-08_swisspar_tegsedi_art13_final_fi_engl.pdf"
+        "Document_name": "2024-10-08_swisspar_tegsedi_art13_final_fi_engl.pdf",
+        "Marketing_authorisation_holder_extracted": "Swedish Orphan Biovitrum"
     },
     "assessment_report_swisspar_blenrep_final_mit_fi.pdf": {
         "Marketing_authorisation_number": "67741",
@@ -5013,7 +5221,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "assessment_report_swisspar_blenrep_final_mit_fi.pdf"
+        "Document_name": "assessment_report_swisspar_blenrep_final_mit_fi.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "swisspar_veklury_final.pdf": {
         "Marketing_authorisation_number": "68026",
@@ -5037,7 +5246,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_veklury_final.pdf"
+        "Document_name": "swisspar_veklury_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Gilead"
     },
     "swisspar_evusheld-2.pdf": {
         "Marketing_authorisation_number": "68704",
@@ -5061,7 +5271,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_evusheld-2.pdf"
+        "Document_name": "swisspar_evusheld-2.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "swisspar_brukinsa_g102680156.pdf": {
         "Marketing_authorisation_number": "67998",
@@ -5085,7 +5296,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_brukinsa_g102680156.pdf"
+        "Document_name": "swisspar_brukinsa_g102680156.pdf",
+        "Marketing_authorisation_holder_extracted": "BeiGene"
     },
     "swisspar_alunbrig-1.pdf": {
         "Marketing_authorisation_number": "66738",
@@ -5109,7 +5321,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_alunbrig-1.pdf"
+        "Document_name": "swisspar_alunbrig-1.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "swisspar_tevimbra.pdf": {
         "Marketing_authorisation_number": "68960",
@@ -5133,7 +5346,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_tevimbra.pdf"
+        "Document_name": "swisspar_tevimbra.pdf",
+        "Marketing_authorisation_holder_extracted": "BeiGene"
     },
     "swisspar_zepzelca.pdf": {
         "Marketing_authorisation_number": "67729",
@@ -5157,7 +5371,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "US FDA",
-        "Document_name": "swisspar_zepzelca.pdf"
+        "Document_name": "swisspar_zepzelca.pdf",
+        "Marketing_authorisation_holder_extracted": "PharmaMar"
     },
     "swisspar_menquadfi.pdf": {
         "Marketing_authorisation_number": "68221",
@@ -5181,7 +5396,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_menquadfi.pdf"
+        "Document_name": "swisspar_menquadfi.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi-Aventis"
     },
     "swisspar_talvey_g102689436.pdf": {
         "Marketing_authorisation_number": "69049",
@@ -5205,7 +5421,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_talvey_g102689436.pdf"
+        "Document_name": "swisspar_talvey_g102689436.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen-Cilag"
     },
     "swisspar_idefirix_final.pdf": {
         "Marketing_authorisation_number": "68373",
@@ -5229,7 +5446,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_idefirix_final.pdf"
+        "Document_name": "swisspar_idefirix_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Voisin"
     },
     "swisspar_fabhalta.pdf": {
         "Marketing_authorisation_number": "68603",
@@ -5253,7 +5471,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_fabhalta.pdf"
+        "Document_name": "swisspar_fabhalta.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "swisspar_mounjaro_final.pdf": {
         "Marketing_authorisation_number": "68726",
@@ -5277,7 +5496,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_mounjaro_final.pdf"
+        "Document_name": "swisspar_mounjaro_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "swisspar_nilemdo_final.pdf": {
         "Marketing_authorisation_number": "67583",
@@ -5301,7 +5521,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_nilemdo_final.pdf"
+        "Document_name": "swisspar_nilemdo_final.pdf",
+        "Marketing_authorisation_holder_extracted": "PharmaContext"
     },
     "swisspar_piqray_final.pdf": {
         "Marketing_authorisation_number": "67359",
@@ -5325,7 +5546,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_piqray_final.pdf"
+        "Document_name": "swisspar_piqray_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "swisspar_sarclisa_ie_2l_mm.pdf": {
         "Marketing_authorisation_number": "67525",
@@ -5349,7 +5571,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_sarclisa_ie_2l_mm.pdf"
+        "Document_name": "swisspar_sarclisa_ie_2l_mm.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi-Aventis"
     },
     "swisspar_ponvory.pdf": {
         "Marketing_authorisation_number": "68114",
@@ -5373,7 +5596,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_ponvory.pdf"
+        "Document_name": "swisspar_ponvory.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen-Cilag"
     },
     "swisspar_elzonris_final.pdf": {
         "Marketing_authorisation_number": "68797",
@@ -5397,7 +5621,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_elzonris_final.pdf"
+        "Document_name": "swisspar_elzonris_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Stemline"
     },
     "swisspar_scemblix_final.pdf": {
         "Marketing_authorisation_number": "68441",
@@ -5421,7 +5646,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "swisspar_scemblix_final.pdf"
+        "Document_name": "swisspar_scemblix_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "swisspar_paxlovid_final.pdf": {
         "Marketing_authorisation_number": "68793",
@@ -5445,7 +5671,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_paxlovid_final.pdf"
+        "Document_name": "swisspar_paxlovid_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "swisspar_bcg_apogepha_final.pdf": {
         "Marketing_authorisation_number": "68286",
@@ -5469,7 +5696,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "NA",
-        "Document_name": "swisspar_bcg_apogepha_final.pdf"
+        "Document_name": "swisspar_bcg_apogepha_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Regulix"
     },
     "swisspar_ondexxya.pdf": {
         "Marketing_authorisation_number": "67759",
@@ -5493,7 +5721,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA; FDA",
-        "Document_name": "swisspar_ondexxya.pdf"
+        "Document_name": "swisspar_ondexxya.pdf",
+        "Marketing_authorisation_holder_extracted": "Alexion"
     },
     "swisspar_rukobia.pdf": {
         "Marketing_authorisation_number": "67854",
@@ -5517,7 +5746,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "swisspar_rukobia.pdf"
+        "Document_name": "swisspar_rukobia.pdf",
+        "Marketing_authorisation_holder_extracted": "ViiV"
     },
     "swisspar_prevenar_20.pdf": {
         "Marketing_authorisation_number": "69222",
@@ -5541,7 +5771,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "EMA",
-        "Document_name": "swisspar_prevenar_20.pdf"
+        "Document_name": "swisspar_prevenar_20.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "swisspar_omvoh_final.pdf": {
         "Marketing_authorisation_number": "68950",
@@ -5565,7 +5796,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "swisspar_omvoh_final.pdf"
+        "Document_name": "swisspar_omvoh_final.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "swisspar_xospata_finale_version.pdf": {
         "Marketing_authorisation_number": "67211",
@@ -5589,7 +5821,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "FDA",
-        "Document_name": "swisspar_xospata_finale_version.pdf"
+        "Document_name": "swisspar_xospata_finale_version.pdf",
+        "Marketing_authorisation_holder_extracted": "Astellas"
     },
     "swisspar_abrysvo-1.pdf": {
         "Marketing_authorisation_number": "69691",
@@ -5613,6 +5846,7 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "European Medicines Agency (EMA)",
-        "Document_name": "swisspar_abrysvo-1.pdf"
+        "Document_name": "swisspar_abrysvo-1.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     }
 }

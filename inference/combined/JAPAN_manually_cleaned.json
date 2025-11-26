@@ -21,7 +21,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000245811.pdf"
+        "Document_name": "000245811.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "000212785.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -45,7 +46,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000212785.pdf"
+        "Document_name": "000212785.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000239716.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -69,7 +71,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000239716.pdf"
+        "Document_name": "000239716.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "000221617.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -93,7 +96,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000221617.pdf"
+        "Document_name": "000221617.pdf",
+        "Marketing_authorisation_holder_extracted": "Kowa"
     },
     "000274762.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -117,7 +121,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000274762.pdf"
+        "Document_name": "000274762.pdf",
+        "Marketing_authorisation_holder_extracted": "Novo Nordisk"
     },
     "000273743.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -141,7 +146,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000273743.pdf"
+        "Document_name": "000273743.pdf",
+        "Marketing_authorisation_holder_extracted": "Argenx"
     },
     "000227138.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -165,7 +171,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000227138.pdf"
+        "Document_name": "000227138.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000153173.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -189,7 +196,8 @@
         "Application_year": "2004",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153173.pdf"
+        "Document_name": "000153173.pdf",
+        "Marketing_authorisation_holder_extracted": "Kyowa Hakko Kogyo"
     },
     "000234811.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -213,7 +221,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000234811.pdf"
+        "Document_name": "000234811.pdf",
+        "Marketing_authorisation_holder_extracted": "Astellas"
     },
     "000213511.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -237,7 +246,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000213511.pdf"
+        "Document_name": "000213511.pdf",
+        "Marketing_authorisation_holder_extracted": "Kaketsuken"
     },
     "000153628.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -261,7 +271,8 @@
         "Application_year": "2009",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153628.pdf"
+        "Document_name": "000153628.pdf",
+        "Marketing_authorisation_holder_extracted": "Shionogi"
     },
     "000239461.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -285,7 +296,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000239461.pdf"
+        "Document_name": "000239461.pdf",
+        "Marketing_authorisation_holder_extracted": "AbbVie"
     },
     "000218646.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -309,7 +321,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000218646.pdf"
+        "Document_name": "000218646.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanwa Kagaku Kenkyusho"
     },
     "000237869.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -333,7 +346,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000237869.pdf"
+        "Document_name": "000237869.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000216694.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -357,7 +371,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000216694.pdf"
+        "Document_name": "000216694.pdf",
+        "Marketing_authorisation_holder_extracted": "Mitsubishi Tanabe"
     },
     "000236236.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -381,7 +396,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000236236.pdf"
+        "Document_name": "000236236.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000235893.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -405,7 +421,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000235893.pdf"
+        "Document_name": "000235893.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "000223203.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -429,7 +446,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000223203.pdf"
+        "Document_name": "000223203.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000242825.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -453,7 +471,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000242825.pdf"
+        "Document_name": "000242825.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "000222647.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -477,7 +496,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000222647.pdf"
+        "Document_name": "000222647.pdf",
+        "Marketing_authorisation_holder_extracted": "Shionogi"
     },
     "000153012.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -501,7 +521,8 @@
         "Application_year": "2008",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153012.pdf"
+        "Document_name": "000153012.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "000234741.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -525,7 +546,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000234741.pdf"
+        "Document_name": "000234741.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen"
     },
     "000245812.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -549,7 +571,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000245812.pdf"
+        "Document_name": "000245812.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "000223201.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -573,7 +596,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000223201.pdf"
+        "Document_name": "000223201.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000246328.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -597,7 +621,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000246328.pdf"
+        "Document_name": "000246328.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000263433.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -621,7 +646,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000263433.pdf"
+        "Document_name": "000263433.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000153400.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -645,7 +671,8 @@
         "Application_year": "2003",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153400.pdf"
+        "Document_name": "000153400.pdf",
+        "Marketing_authorisation_holder_extracted": "Schering-Plough"
     },
     "000235932.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -669,7 +696,8 @@
         "Application_year": "2005",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000235932.pdf"
+        "Document_name": "000235932.pdf",
+        "Marketing_authorisation_holder_extracted": "Dainippon Sumitomo"
     },
     "000210230.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -693,7 +721,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000210230.pdf"
+        "Document_name": "000210230.pdf",
+        "Marketing_authorisation_holder_extracted": "Bristol-Myers"
     },
     "000226231.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -717,7 +746,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000226231.pdf"
+        "Document_name": "000226231.pdf",
+        "Marketing_authorisation_holder_extracted": "Bristol-Myers Squibb"
     },
     "000216480.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -741,7 +771,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000216480.pdf"
+        "Document_name": "000216480.pdf",
+        "Marketing_authorisation_holder_extracted": "Taiho"
     },
     "000208866.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -765,7 +796,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000208866.pdf"
+        "Document_name": "000208866.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "000208682.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -789,7 +821,8 @@
         "Application_year": "2011",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000208682.pdf"
+        "Document_name": "000208682.pdf",
+        "Marketing_authorisation_holder_extracted": "Bristol-Myers"
     },
     "000237315.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -813,7 +846,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000237315.pdf"
+        "Document_name": "000237315.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000230308.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -837,7 +871,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000230308.pdf"
+        "Document_name": "000230308.pdf",
+        "Marketing_authorisation_holder_extracted": "AbbVie"
     },
     "000210796.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -861,7 +896,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000210796.pdf"
+        "Document_name": "000210796.pdf",
+        "Marketing_authorisation_holder_extracted": "Gilead"
     },
     "000245967.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -885,7 +921,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000245967.pdf"
+        "Document_name": "000245967.pdf",
+        "Marketing_authorisation_holder_extracted": "MSD"
     },
     "000252994.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -909,7 +946,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000252994.pdf"
+        "Document_name": "000252994.pdf",
+        "Marketing_authorisation_holder_extracted": "Maruho"
     },
     "000235933.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -933,7 +971,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000235933.pdf"
+        "Document_name": "000235933.pdf",
+        "Marketing_authorisation_holder_extracted": "Sumitomo Dainippon"
     },
     "000211073.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -957,7 +996,8 @@
         "Application_year": "2012",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000211073.pdf"
+        "Document_name": "000211073.pdf",
+        "Marketing_authorisation_holder_extracted": "Kaken"
     },
     "000267330.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -981,7 +1021,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000267330.pdf"
+        "Document_name": "000267330.pdf",
+        "Marketing_authorisation_holder_extracted": "Taiho"
     },
     "000223200.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1005,7 +1046,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000223200.pdf"
+        "Document_name": "000223200.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000224547.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1029,7 +1071,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000224547.pdf"
+        "Document_name": "000224547.pdf",
+        "Marketing_authorisation_holder_extracted": "AbbVie"
     },
     "000220043.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1053,7 +1096,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000220043.pdf"
+        "Document_name": "000220043.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen"
     },
     "000153773.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1077,7 +1121,8 @@
         "Application_year": "2007",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000153773.pdf"
+        "Document_name": "000153773.pdf",
+        "Marketing_authorisation_holder_extracted": "Kitasato"
     },
     "000253046.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1101,7 +1146,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000253046.pdf"
+        "Document_name": "000253046.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000153954.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1125,7 +1171,8 @@
         "Application_year": "2008",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153954.pdf"
+        "Document_name": "000153954.pdf",
+        "Marketing_authorisation_holder_extracted": "Santen"
     },
     "000246305.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1149,7 +1196,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000246305.pdf"
+        "Document_name": "000246305.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000235894.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1173,7 +1221,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000235894.pdf"
+        "Document_name": "000235894.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "000226817.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1197,7 +1246,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000226817.pdf"
+        "Document_name": "000226817.pdf",
+        "Marketing_authorisation_holder_extracted": "Mundipharma"
     },
     "000216877.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1221,7 +1271,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000216877.pdf"
+        "Document_name": "000216877.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000216650.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1245,7 +1296,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000216650.pdf"
+        "Document_name": "000216650.pdf",
+        "Marketing_authorisation_holder_extracted": "AbbVie"
     },
     "000204240.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1269,7 +1321,8 @@
         "Application_year": "2010",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000204240.pdf"
+        "Document_name": "000204240.pdf",
+        "Marketing_authorisation_holder_extracted": "Astellas"
     },
     "000244664.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1293,7 +1346,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000244664.pdf"
+        "Document_name": "000244664.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000224437.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1317,7 +1371,8 @@
         "Application_year": "2006",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000224437.pdf"
+        "Document_name": "000224437.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000269293.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1341,7 +1396,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000269293.pdf"
+        "Document_name": "000269293.pdf",
+        "Marketing_authorisation_holder_extracted": "Moderna"
     },
     "000224436.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1365,7 +1421,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000224436.pdf"
+        "Document_name": "000224436.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000153174.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1389,7 +1446,8 @@
         "Application_year": "2007",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153174.pdf"
+        "Document_name": "000153174.pdf",
+        "Marketing_authorisation_holder_extracted": "Banyu; Ono"
     },
     "000244665.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1413,7 +1471,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000244665.pdf"
+        "Document_name": "000244665.pdf",
+        "Marketing_authorisation_holder_extracted": "Bristol-Myers Squibb"
     },
     "000204241.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1437,7 +1496,8 @@
         "Application_year": "2012",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000204241.pdf"
+        "Document_name": "000204241.pdf",
+        "Marketing_authorisation_holder_extracted": "Torii"
     },
     "000216876.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1461,7 +1521,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000216876.pdf"
+        "Document_name": "000216876.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000273156.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1485,7 +1546,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000273156.pdf"
+        "Document_name": "000273156.pdf",
+        "Marketing_authorisation_holder_extracted": "Shionogi"
     },
     "000211260.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1509,7 +1571,8 @@
         "Application_year": "2010",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000211260.pdf"
+        "Document_name": "000211260.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "000233994.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1533,7 +1596,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000233994.pdf"
+        "Document_name": "000233994.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000242148.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1557,7 +1621,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000242148.pdf"
+        "Document_name": "000242148.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi"
     },
     "000268789.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1581,7 +1646,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000268789.pdf"
+        "Document_name": "000268789.pdf",
+        "Marketing_authorisation_holder_extracted": "Novo Nordisk"
     },
     "000219170.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1605,7 +1671,8 @@
         "Application_year": "2010",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000219170.pdf"
+        "Document_name": "000219170.pdf",
+        "Marketing_authorisation_holder_extracted": "Eisai"
     },
     "000263435.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1629,7 +1696,8 @@
         "Application_year": "2012",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000263435.pdf"
+        "Document_name": "000263435.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000211074.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1653,7 +1721,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000211074.pdf"
+        "Document_name": "000211074.pdf",
+        "Marketing_authorisation_holder_extracted": "Toray"
     },
     "000242410.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1677,7 +1746,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000242410.pdf"
+        "Document_name": "000242410.pdf",
+        "Marketing_authorisation_holder_extracted": "JCR"
     },
     "000153348.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1701,7 +1771,8 @@
         "Application_year": "2006",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000153348.pdf"
+        "Document_name": "000153348.pdf",
+        "Marketing_authorisation_holder_extracted": "Fujimoto"
     },
     "000238551.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1725,7 +1796,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000238551.pdf"
+        "Document_name": "000238551.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "000230125.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1749,7 +1821,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000230125.pdf"
+        "Document_name": "000230125.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "000266405.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1773,7 +1846,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000266405.pdf"
+        "Document_name": "000266405.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen"
     },
     "000232054.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1797,7 +1871,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000232054.pdf"
+        "Document_name": "000232054.pdf",
+        "Marketing_authorisation_holder_extracted": "EA"
     },
     "000270515.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1821,7 +1896,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000270515.pdf"
+        "Document_name": "000270515.pdf",
+        "Marketing_authorisation_holder_extracted": "UCB"
     },
     "000247408.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1845,7 +1921,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000247408.pdf"
+        "Document_name": "000247408.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "000153638.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1869,7 +1946,8 @@
         "Application_year": "2007",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000153638.pdf"
+        "Document_name": "000153638.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000247811.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1893,7 +1971,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000247811.pdf"
+        "Document_name": "000247811.pdf",
+        "Marketing_authorisation_holder_extracted": "Bayer"
     },
     "000224346.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1917,7 +1996,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000224346.pdf"
+        "Document_name": "000224346.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "000249828.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1941,7 +2021,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000249828.pdf"
+        "Document_name": "000249828.pdf",
+        "Marketing_authorisation_holder_extracted": "Shionogi"
     },
     "000275874.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1965,7 +2046,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000275874.pdf"
+        "Document_name": "000275874.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000244464.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -1989,7 +2071,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000244464.pdf"
+        "Document_name": "000244464.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000216478.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2013,7 +2096,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000216478.pdf"
+        "Document_name": "000216478.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000207987.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2037,7 +2121,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000207987.pdf"
+        "Document_name": "000207987.pdf",
+        "Marketing_authorisation_holder_extracted": "Taiho"
     },
     "000247409.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2061,7 +2146,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000247409.pdf"
+        "Document_name": "000247409.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi"
     },
     "000267068.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2085,7 +2171,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000267068.pdf"
+        "Document_name": "000267068.pdf",
+        "Marketing_authorisation_holder_extracted": "Eisai"
     },
     "000246924.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2109,7 +2196,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000246924.pdf"
+        "Document_name": "000246924.pdf",
+        "Marketing_authorisation_holder_extracted": "Shionogi"
     },
     "000216875.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2133,7 +2221,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000216875.pdf"
+        "Document_name": "000216875.pdf",
+        "Marketing_authorisation_holder_extracted": "Kitasato Daiichi Sankyo"
     },
     "000211075.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2157,7 +2246,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000211075.pdf"
+        "Document_name": "000211075.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "000218938.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2181,7 +2271,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000218938.pdf"
+        "Document_name": "000218938.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "000219171.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2205,7 +2296,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000219171.pdf"
+        "Document_name": "000219171.pdf",
+        "Marketing_authorisation_holder_extracted": "Eisai"
     },
     "000224582.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2229,7 +2321,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000224582.pdf"
+        "Document_name": "000224582.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi"
     },
     "000229930.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2253,7 +2346,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000229930.pdf"
+        "Document_name": "000229930.pdf",
+        "Marketing_authorisation_holder_extracted": "Shionogi"
     },
     "000228384.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2277,7 +2371,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000228384.pdf"
+        "Document_name": "000228384.pdf",
+        "Marketing_authorisation_holder_extracted": "Celgene"
     },
     "000271597.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2301,7 +2396,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000271597.pdf"
+        "Document_name": "000271597.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000210800.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2325,7 +2421,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000210800.pdf"
+        "Document_name": "000210800.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000153931.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2349,7 +2446,8 @@
         "Application_year": "2006",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153931.pdf"
+        "Document_name": "000153931.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000265591.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2373,7 +2471,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000265591.pdf"
+        "Document_name": "000265591.pdf",
+        "Marketing_authorisation_holder_extracted": "Zenyaku Kogyo"
     },
     "000227563.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2397,7 +2496,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000227563.pdf"
+        "Document_name": "000227563.pdf",
+        "Marketing_authorisation_holder_extracted": "Gilead"
     },
     "000224903.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2421,7 +2521,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000224903.pdf"
+        "Document_name": "000224903.pdf",
+        "Marketing_authorisation_holder_extracted": "MSD"
     },
     "000265142.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2445,7 +2546,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000265142.pdf"
+        "Document_name": "000265142.pdf",
+        "Marketing_authorisation_holder_extracted": "Novo Nordisk"
     },
     "000212453.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2469,7 +2571,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000212453.pdf"
+        "Document_name": "000212453.pdf",
+        "Marketing_authorisation_holder_extracted": "Mitsubishi Tanabe"
     },
     "000153104.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2493,7 +2596,8 @@
         "Application_year": "2007",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153104.pdf"
+        "Document_name": "000153104.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000217926.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2517,7 +2621,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000217926.pdf"
+        "Document_name": "000217926.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000208812.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2541,7 +2646,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000208812.pdf"
+        "Document_name": "000208812.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "000249127.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2565,7 +2671,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000249127.pdf"
+        "Document_name": "000249127.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000250304.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2589,7 +2696,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000250304.pdf"
+        "Document_name": "000250304.pdf",
+        "Marketing_authorisation_holder_extracted": "AbbVie"
     },
     "000153689.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2613,7 +2721,8 @@
         "Application_year": "2008",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153689.pdf"
+        "Document_name": "000153689.pdf",
+        "Marketing_authorisation_holder_extracted": "Banyu"
     },
     "000235589.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2637,7 +2746,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000235589.pdf"
+        "Document_name": "000235589.pdf",
+        "Marketing_authorisation_holder_extracted": "Kyowa Kirin"
     },
     "000250305.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2661,7 +2771,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000250305.pdf"
+        "Document_name": "000250305.pdf",
+        "Marketing_authorisation_holder_extracted": "Kissei"
     },
     "000249126.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2685,7 +2796,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000249126.pdf"
+        "Document_name": "000249126.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000230195.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2709,7 +2821,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000230195.pdf"
+        "Document_name": "000230195.pdf",
+        "Marketing_authorisation_holder_extracted": "Celgene"
     },
     "000237163.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2733,7 +2846,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000237163.pdf"
+        "Document_name": "000237163.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000265792.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2757,7 +2871,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000265792.pdf"
+        "Document_name": "000265792.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000210319.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2781,7 +2896,8 @@
         "Application_year": "2011",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000210319.pdf"
+        "Document_name": "000210319.pdf",
+        "Marketing_authorisation_holder_extracted": "Toyama"
     },
     "000224902.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2805,7 +2921,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000224902.pdf"
+        "Document_name": "000224902.pdf",
+        "Marketing_authorisation_holder_extracted": "MSD"
     },
     "000227562.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2829,7 +2946,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000227562.pdf"
+        "Document_name": "000227562.pdf",
+        "Marketing_authorisation_holder_extracted": "Gilead"
     },
     "000228335.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2853,7 +2971,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000228335.pdf"
+        "Document_name": "000228335.pdf",
+        "Marketing_authorisation_holder_extracted": "Biogen"
     },
     "000274306.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2877,7 +2996,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000274306.pdf"
+        "Document_name": "000274306.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi"
     },
     "000266925.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2901,7 +3021,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000266925.pdf"
+        "Document_name": "000266925.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000222430.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2925,7 +3046,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000222430.pdf"
+        "Document_name": "000222430.pdf",
+        "Marketing_authorisation_holder_extracted": "Japan Tobacco"
     },
     "000233298.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2949,7 +3071,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000233298.pdf"
+        "Document_name": "000233298.pdf",
+        "Marketing_authorisation_holder_extracted": "Celgene"
     },
     "000269814.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2973,7 +3096,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000269814.pdf"
+        "Document_name": "000269814.pdf",
+        "Marketing_authorisation_holder_extracted": "Novo Nordisk"
     },
     "000232794.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -2997,7 +3121,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000232794.pdf"
+        "Document_name": "000232794.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000208811.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3021,7 +3146,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000208811.pdf"
+        "Document_name": "000208811.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000210092.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3045,7 +3171,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000210092.pdf"
+        "Document_name": "000210092.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "000266892.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3069,7 +3196,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000266892.pdf"
+        "Document_name": "000266892.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "000153885.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3093,7 +3221,8 @@
         "Application_year": "2012",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153885.pdf"
+        "Document_name": "000153885.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi"
     },
     "000240841.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3117,7 +3246,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000240841.pdf"
+        "Document_name": "000240841.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000215883.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3141,7 +3271,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000215883.pdf"
+        "Document_name": "000215883.pdf",
+        "Marketing_authorisation_holder_extracted": "Asahi Kasei"
     },
     "000246571.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3165,7 +3296,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000246571.pdf"
+        "Document_name": "000246571.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000231921.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3189,7 +3321,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000231921.pdf"
+        "Document_name": "000231921.pdf",
+        "Marketing_authorisation_holder_extracted": "MSD"
     },
     "000228530.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3213,7 +3346,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000228530.pdf"
+        "Document_name": "000228530.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "000240840.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3237,7 +3371,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000240840.pdf"
+        "Document_name": "000240840.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000223317.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3261,7 +3396,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000223317.pdf"
+        "Document_name": "000223317.pdf",
+        "Marketing_authorisation_holder_extracted": "Otsuka"
     },
     "000266893.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3285,7 +3421,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000266893.pdf"
+        "Document_name": "000266893.pdf",
+        "Marketing_authorisation_holder_extracted": "Kowa"
     },
     "000203945.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3309,7 +3446,8 @@
         "Application_year": "2012",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000203945.pdf"
+        "Document_name": "000203945.pdf",
+        "Marketing_authorisation_holder_extracted": "Novo Nordisk"
     },
     "000235777.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3333,7 +3471,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000235777.pdf"
+        "Document_name": "000235777.pdf",
+        "Marketing_authorisation_holder_extracted": "Kyowa Hakko Kirin"
     },
     "000215262.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3357,7 +3496,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000215262.pdf"
+        "Document_name": "000215262.pdf",
+        "Marketing_authorisation_holder_extracted": "Gilead"
     },
     "000265791.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3381,7 +3521,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000265791.pdf"
+        "Document_name": "000265791.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi"
     },
     "000240288.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3405,7 +3546,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000240288.pdf"
+        "Document_name": "000240288.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "000272776.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3429,7 +3571,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000272776.pdf"
+        "Document_name": "000272776.pdf",
+        "Marketing_authorisation_holder_extracted": "Nobel"
     },
     "000233074.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3453,7 +3596,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000233074.pdf"
+        "Document_name": "000233074.pdf",
+        "Marketing_authorisation_holder_extracted": "Astellas"
     },
     "000236124.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3477,7 +3621,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000236124.pdf"
+        "Document_name": "000236124.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "000275223.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3501,7 +3646,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000275223.pdf"
+        "Document_name": "000275223.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "000227565.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3525,7 +3671,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000227565.pdf"
+        "Document_name": "000227565.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen"
     },
     "000216948.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3549,7 +3696,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000216948.pdf"
+        "Document_name": "000216948.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "000235773.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3573,7 +3721,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000235773.pdf"
+        "Document_name": "000235773.pdf",
+        "Marketing_authorisation_holder_extracted": "Kyowa Hakko Kirin"
     },
     "000237164.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3597,7 +3746,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000237164.pdf"
+        "Document_name": "000237164.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000243154.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3621,7 +3771,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000243154.pdf"
+        "Document_name": "000243154.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "000264058.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3645,7 +3796,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000264058.pdf"
+        "Document_name": "000264058.pdf",
+        "Marketing_authorisation_holder_extracted": "Bayer"
     },
     "000251034.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3669,7 +3821,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000251034.pdf"
+        "Document_name": "000251034.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000213561.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3693,7 +3846,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000213561.pdf"
+        "Document_name": "000213561.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "000210040.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3717,7 +3871,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000210040.pdf"
+        "Document_name": "000210040.pdf",
+        "Marketing_authorisation_holder_extracted": "Kitasato Daiichi Sankyo"
     },
     "000264059.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3741,7 +3896,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000264059.pdf"
+        "Document_name": "000264059.pdf",
+        "Marketing_authorisation_holder_extracted": "Idorsia"
     },
     "000263285.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3765,7 +3921,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000263285.pdf"
+        "Document_name": "000263285.pdf",
+        "Marketing_authorisation_holder_extracted": "MSD"
     },
     "000153467.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3789,7 +3946,8 @@
         "Application_year": "2010",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153467.pdf"
+        "Document_name": "000153467.pdf",
+        "Marketing_authorisation_holder_extracted": "Zeria"
     },
     "000227564.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3813,7 +3971,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000227564.pdf"
+        "Document_name": "000227564.pdf",
+        "Marketing_authorisation_holder_extracted": "Gilead"
     },
     "000227028.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3837,7 +3996,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000227028.pdf"
+        "Document_name": "000227028.pdf",
+        "Marketing_authorisation_holder_extracted": "Actelion"
     },
     "000236125.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3861,7 +4021,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000236125.pdf"
+        "Document_name": "000236125.pdf",
+        "Marketing_authorisation_holder_extracted": "Bayer"
     },
     "000270833.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3885,7 +4046,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000270833.pdf"
+        "Document_name": "000270833.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000263873.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3909,7 +4071,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000263873.pdf"
+        "Document_name": "000263873.pdf",
+        "Marketing_authorisation_holder_extracted": "Solasia"
     },
     "000249724.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3933,7 +4096,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000249724.pdf"
+        "Document_name": "000249724.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000243209.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3957,7 +4121,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000243209.pdf"
+        "Document_name": "000243209.pdf",
+        "Marketing_authorisation_holder_extracted": "Gilead"
     },
     "000273123.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -3981,7 +4146,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000273123.pdf"
+        "Document_name": "000273123.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000239770.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4005,7 +4171,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000239770.pdf"
+        "Document_name": "000239770.pdf",
+        "Marketing_authorisation_holder_extracted": "Rakuten"
     },
     "000266328.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4029,7 +4196,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000266328.pdf"
+        "Document_name": "000266328.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000207926.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4053,7 +4221,8 @@
         "Application_year": "2009",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000207926.pdf"
+        "Document_name": "000207926.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "000153897.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4077,7 +4246,8 @@
         "Application_year": "2011",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153897.pdf"
+        "Document_name": "000153897.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000213562.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4101,7 +4271,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000213562.pdf"
+        "Document_name": "000213562.pdf",
+        "Marketing_authorisation_holder_extracted": "Mitsubishi Tanabe"
     },
     "000213204.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4125,7 +4296,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000213204.pdf"
+        "Document_name": "000213204.pdf",
+        "Marketing_authorisation_holder_extracted": "Novo Nordisk"
     },
     "000218422.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4149,7 +4321,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000218422.pdf"
+        "Document_name": "000218422.pdf",
+        "Marketing_authorisation_holder_extracted": "Actelion"
     },
     "000213563.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4173,7 +4346,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000213563.pdf"
+        "Document_name": "000213563.pdf",
+        "Marketing_authorisation_holder_extracted": "Alexion"
     },
     "000251036.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4197,7 +4371,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000251036.pdf"
+        "Document_name": "000251036.pdf",
+        "Marketing_authorisation_holder_extracted": "Teijin"
     },
     "000210320.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4221,7 +4396,8 @@
         "Application_year": "2012",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000210320.pdf"
+        "Document_name": "000210320.pdf",
+        "Marketing_authorisation_holder_extracted": "Boehringer Ingelheim"
     },
     "000269813.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4245,7 +4421,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000269813.pdf"
+        "Document_name": "000269813.pdf",
+        "Marketing_authorisation_holder_extracted": "Meiji"
     },
     "000237990.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4269,7 +4446,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000237990.pdf"
+        "Document_name": "000237990.pdf",
+        "Marketing_authorisation_holder_extracted": "Stella"
     },
     "000153538.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4293,7 +4471,8 @@
         "Application_year": "2007",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153538.pdf"
+        "Document_name": "000153538.pdf",
+        "Marketing_authorisation_holder_extracted": "Schering-Plough"
     },
     "000250274.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4317,7 +4496,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000250274.pdf"
+        "Document_name": "000250274.pdf",
+        "Marketing_authorisation_holder_extracted": "Bayer"
     },
     "000222147.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4341,7 +4521,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000222147.pdf"
+        "Document_name": "000222147.pdf",
+        "Marketing_authorisation_holder_extracted": "Nippon Shinyaku"
     },
     "000227995.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4365,7 +4546,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000227995.pdf"
+        "Document_name": "000227995.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000219876.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4389,7 +4571,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000219876.pdf"
+        "Document_name": "000219876.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "000229786.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4413,7 +4596,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000229786.pdf"
+        "Document_name": "000229786.pdf",
+        "Marketing_authorisation_holder_extracted": "Bayer"
     },
     "000207309.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4437,7 +4621,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000207309.pdf"
+        "Document_name": "000207309.pdf",
+        "Marketing_authorisation_holder_extracted": "Bayer"
     },
     "000237584.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4461,7 +4646,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000237584.pdf"
+        "Document_name": "000237584.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000235387.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4485,7 +4671,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000235387.pdf"
+        "Document_name": "000235387.pdf",
+        "Marketing_authorisation_holder_extracted": "Teijin"
     },
     "000216947.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4509,7 +4696,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000216947.pdf"
+        "Document_name": "000216947.pdf",
+        "Marketing_authorisation_holder_extracted": "Bayer"
     },
     "000246143.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4533,7 +4721,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000246143.pdf"
+        "Document_name": "000246143.pdf",
+        "Marketing_authorisation_holder_extracted": "Eisai"
     },
     "000240532.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4557,7 +4746,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000240532.pdf"
+        "Document_name": "000240532.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "000223081.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4581,7 +4771,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000223081.pdf"
+        "Document_name": "000223081.pdf",
+        "Marketing_authorisation_holder_extracted": "Kaken"
     },
     "000213963.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4605,7 +4796,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000213963.pdf"
+        "Document_name": "000213963.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "000232985.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4629,7 +4821,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000232985.pdf"
+        "Document_name": "000232985.pdf",
+        "Marketing_authorisation_holder_extracted": "Bristol-Meyers Squibb"
     },
     "000153482.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4653,7 +4846,8 @@
         "Application_year": "2012",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000153482.pdf"
+        "Document_name": "000153482.pdf",
+        "Marketing_authorisation_holder_extracted": "Nobel  \nSBI"
     },
     "000269956.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4677,7 +4871,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000269956.pdf"
+        "Document_name": "000269956.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "000220615.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4701,7 +4896,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000220615.pdf"
+        "Document_name": "000220615.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "000221523.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4725,7 +4921,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000221523.pdf"
+        "Document_name": "000221523.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "000250457.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4749,7 +4946,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000250457.pdf"
+        "Document_name": "000250457.pdf",
+        "Marketing_authorisation_holder_extracted": "Huya"
     },
     "000153870.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4773,7 +4971,8 @@
         "Application_year": "2012",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153870.pdf"
+        "Document_name": "000153870.pdf",
+        "Marketing_authorisation_holder_extracted": "Kyowa Hakko Kirin"
     },
     "000210264.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4797,7 +4996,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000210264.pdf"
+        "Document_name": "000210264.pdf",
+        "Marketing_authorisation_holder_extracted": "Eisai"
     },
     "000219254.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4821,7 +5021,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000219254.pdf"
+        "Document_name": "000219254.pdf",
+        "Marketing_authorisation_holder_extracted": "Synageva"
     },
     "000232984.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4845,7 +5046,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000232984.pdf"
+        "Document_name": "000232984.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000153291.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4869,7 +5071,8 @@
         "Application_year": "2012",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000153291.pdf"
+        "Document_name": "000153291.pdf",
+        "Marketing_authorisation_holder_extracted": "Kaketsuken"
     },
     "000225368.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4893,7 +5096,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000225368.pdf"
+        "Document_name": "000225368.pdf",
+        "Marketing_authorisation_holder_extracted": "Nobel"
     },
     "000222407.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4917,7 +5121,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000222407.pdf"
+        "Document_name": "000222407.pdf",
+        "Marketing_authorisation_holder_extracted": "Boehringer Ingelheim"
     },
     "000229787.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4941,7 +5146,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000229787.pdf"
+        "Document_name": "000229787.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "000219877.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4965,7 +5171,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000219877.pdf"
+        "Document_name": "000219877.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "000237220.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -4989,7 +5196,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000237220.pdf"
+        "Document_name": "000237220.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000235351.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5013,7 +5221,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000235351.pdf"
+        "Document_name": "000235351.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi"
     },
     "000238885.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5037,7 +5246,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000238885.pdf"
+        "Document_name": "000238885.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000153052.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5061,7 +5271,8 @@
         "Application_year": "2011",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153052.pdf"
+        "Document_name": "000153052.pdf",
+        "Marketing_authorisation_holder_extracted": "Kyowa Hakko Kirin"
     },
     "000243206.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5085,7 +5296,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000243206.pdf"
+        "Document_name": "000243206.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000221483.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5109,7 +5321,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000221483.pdf"
+        "Document_name": "000221483.pdf",
+        "Marketing_authorisation_holder_extracted": "CSL Behring"
     },
     "000250093.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5133,7 +5346,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000250093.pdf"
+        "Document_name": "000250093.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "000216005.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5157,7 +5371,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000216005.pdf"
+        "Document_name": "000216005.pdf",
+        "Marketing_authorisation_holder_extracted": "Boehringer Ingelheim"
     },
     "000240531.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5181,7 +5396,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000240531.pdf"
+        "Document_name": "000240531.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "000242285.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5205,7 +5421,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000242285.pdf"
+        "Document_name": "000242285.pdf",
+        "Marketing_authorisation_holder_extracted": "OrphanPacific"
     },
     "000267944.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5229,7 +5446,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000267944.pdf"
+        "Document_name": "000267944.pdf",
+        "Marketing_authorisation_holder_extracted": "Taiho"
     },
     "000234111.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5253,7 +5471,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000234111.pdf"
+        "Document_name": "000234111.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000153640.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5277,7 +5496,8 @@
         "Application_year": "2007",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000153640.pdf"
+        "Document_name": "000153640.pdf",
+        "Marketing_authorisation_holder_extracted": "Osaka University"
     },
     "000219040.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5301,7 +5521,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000219040.pdf"
+        "Document_name": "000219040.pdf",
+        "Marketing_authorisation_holder_extracted": "Kyowa Hakko Kirin"
     },
     "000153683.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5325,7 +5546,8 @@
         "Application_year": "2011",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153683.pdf"
+        "Document_name": "000153683.pdf",
+        "Marketing_authorisation_holder_extracted": "Novo Nordisk"
     },
     "000233695.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5349,7 +5571,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000233695.pdf"
+        "Document_name": "000233695.pdf",
+        "Marketing_authorisation_holder_extracted": "Amicus"
     },
     "000269997.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5373,7 +5596,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000269997.pdf"
+        "Document_name": "000269997.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "000270578.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5397,7 +5621,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000270578.pdf"
+        "Document_name": "000270578.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "000153325.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5421,7 +5646,8 @@
         "Application_year": "2006",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153325.pdf"
+        "Document_name": "000153325.pdf",
+        "Marketing_authorisation_holder_extracted": "Genzyme"
     },
     "000224115.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5445,7 +5671,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000224115.pdf"
+        "Document_name": "000224115.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000225380.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5469,7 +5696,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000225380.pdf"
+        "Document_name": "000225380.pdf",
+        "Marketing_authorisation_holder_extracted": "Shionogi"
     },
     "000243207.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5493,7 +5721,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000243207.pdf"
+        "Document_name": "000243207.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "000153709.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5517,7 +5746,8 @@
         "Application_year": "2006",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153709.pdf"
+        "Document_name": "000153709.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000272019.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5541,7 +5771,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000272019.pdf"
+        "Document_name": "000272019.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "000241414.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5565,7 +5796,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000241414.pdf"
+        "Document_name": "000241414.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000240736.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5589,7 +5821,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000240736.pdf"
+        "Document_name": "000240736.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen"
     },
     "000236878.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5613,7 +5846,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000236878.pdf"
+        "Document_name": "000236878.pdf",
+        "Marketing_authorisation_holder_extracted": "Eisai"
     },
     "000226672.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5637,7 +5871,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000226672.pdf"
+        "Document_name": "000226672.pdf",
+        "Marketing_authorisation_holder_extracted": "Kowa"
     },
     "000243773.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5661,7 +5896,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000243773.pdf"
+        "Document_name": "000243773.pdf",
+        "Marketing_authorisation_holder_extracted": "Boehringer Ingelheim"
     },
     "000248791.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5685,7 +5921,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000248791.pdf"
+        "Document_name": "000248791.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "000225743.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5709,7 +5946,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000225743.pdf"
+        "Document_name": "000225743.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "000238706.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5733,7 +5971,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000238706.pdf"
+        "Document_name": "000238706.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "000249128.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5757,7 +5996,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000249128.pdf"
+        "Document_name": "000249128.pdf",
+        "Marketing_authorisation_holder_extracted": "Moderna"
     },
     "000211431.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5781,7 +6021,8 @@
         "Application_year": "2012",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000211431.pdf"
+        "Document_name": "000211431.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "000153687.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5805,7 +6046,8 @@
         "Application_year": "2007",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153687.pdf"
+        "Document_name": "000153687.pdf",
+        "Marketing_authorisation_holder_extracted": "Shionogi"
     },
     "000248223.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5829,7 +6071,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000248223.pdf"
+        "Document_name": "000248223.pdf",
+        "Marketing_authorisation_holder_extracted": "Sumitomo Dainippon"
     },
     "000230401.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5853,7 +6096,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000230401.pdf"
+        "Document_name": "000230401.pdf",
+        "Marketing_authorisation_holder_extracted": "Astellas"
     },
     "000242929.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5877,7 +6121,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000242929.pdf"
+        "Document_name": "000242929.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000236064.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5901,7 +6146,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000236064.pdf"
+        "Document_name": "000236064.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "000238707.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5925,7 +6171,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000238707.pdf"
+        "Document_name": "000238707.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "000153334.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5949,7 +6196,8 @@
         "Application_year": "2012",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000153334.pdf"
+        "Document_name": "000153334.pdf",
+        "Marketing_authorisation_holder_extracted": "Shionogi"
     },
     "000209096.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5973,7 +6221,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000209096.pdf"
+        "Document_name": "000209096.pdf",
+        "Marketing_authorisation_holder_extracted": "ViiV"
     },
     "000271105.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -5997,7 +6246,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000271105.pdf"
+        "Document_name": "000271105.pdf",
+        "Marketing_authorisation_holder_extracted": "Nobel"
     },
     "000241165.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6021,7 +6271,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000241165.pdf"
+        "Document_name": "000241165.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000243772.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6045,7 +6296,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000243772.pdf"
+        "Document_name": "000243772.pdf",
+        "Marketing_authorisation_holder_extracted": "Japan Tobacco"
     },
     "000227545.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6069,7 +6321,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000227545.pdf"
+        "Document_name": "000227545.pdf",
+        "Marketing_authorisation_holder_extracted": "Bayer"
     },
     "000240737.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6093,7 +6346,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000240737.pdf"
+        "Document_name": "000240737.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen"
     },
     "000239551.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6117,7 +6371,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000239551.pdf"
+        "Document_name": "000239551.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen"
     },
     "000243599.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6141,7 +6396,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000243599.pdf"
+        "Document_name": "000243599.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "000153726.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6165,7 +6421,8 @@
         "Application_year": "2012",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153726.pdf"
+        "Document_name": "000153726.pdf",
+        "Marketing_authorisation_holder_extracted": "Novo Nordisk"
     },
     "000215708.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6189,7 +6446,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000215708.pdf"
+        "Document_name": "000215708.pdf",
+        "Marketing_authorisation_holder_extracted": "Shionogi"
     },
     "000236338.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6213,7 +6471,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000236338.pdf"
+        "Document_name": "000236338.pdf",
+        "Marketing_authorisation_holder_extracted": "Merck"
     },
     "000226881.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6237,7 +6496,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000226881.pdf"
+        "Document_name": "000226881.pdf",
+        "Marketing_authorisation_holder_extracted": "MSD"
     },
     "000236304.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6261,7 +6521,8 @@
         "Application_year": "2010",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000236304.pdf"
+        "Document_name": "000236304.pdf",
+        "Marketing_authorisation_holder_extracted": "Kyowa Hakko Kirin"
     },
     "000244786.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6285,7 +6546,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000244786.pdf"
+        "Document_name": "000244786.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000233297.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6309,7 +6571,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000233297.pdf"
+        "Document_name": "000233297.pdf",
+        "Marketing_authorisation_holder_extracted": "Bristol-Myers Squibb"
     },
     "000241167.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6333,7 +6596,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000241167.pdf"
+        "Document_name": "000241167.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000271107.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6357,7 +6621,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000271107.pdf"
+        "Document_name": "000271107.pdf",
+        "Marketing_authorisation_holder_extracted": "Alexion"
     },
     "000153322.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6381,7 +6646,8 @@
         "Application_year": "2008",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153322.pdf"
+        "Document_name": "000153322.pdf",
+        "Marketing_authorisation_holder_extracted": "Bristol-Myers"
     },
     "000264250.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6405,7 +6671,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000264250.pdf"
+        "Document_name": "000264250.pdf",
+        "Marketing_authorisation_holder_extracted": "Bayer"
     },
     "000236502.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6429,7 +6696,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000236502.pdf"
+        "Document_name": "000236502.pdf",
+        "Marketing_authorisation_holder_extracted": "Kyowa Hakko Kirin"
     },
     "000238705.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6453,7 +6721,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000238705.pdf"
+        "Document_name": "000238705.pdf",
+        "Marketing_authorisation_holder_extracted": "Gilead"
     },
     "000228502.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6477,7 +6746,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000228502.pdf"
+        "Document_name": "000228502.pdf",
+        "Marketing_authorisation_holder_extracted": "Astellas"
     },
     "000252522.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6501,7 +6771,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000252522.pdf"
+        "Document_name": "000252522.pdf",
+        "Marketing_authorisation_holder_extracted": "Taiho"
     },
     "000153135.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6525,7 +6796,8 @@
         "Application_year": "2006",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153135.pdf"
+        "Document_name": "000153135.pdf",
+        "Marketing_authorisation_holder_extracted": "Toyama"
     },
     "000228503.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6549,7 +6821,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000228503.pdf"
+        "Document_name": "000228503.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000275604.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6573,7 +6846,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000275604.pdf"
+        "Document_name": "000275604.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "000209718.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6597,7 +6871,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000209718.pdf"
+        "Document_name": "000209718.pdf",
+        "Marketing_authorisation_holder_extracted": "Astellas"
     },
     "000216837.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6621,7 +6896,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000216837.pdf"
+        "Document_name": "000216837.pdf",
+        "Marketing_authorisation_holder_extracted": "Meiji"
     },
     "000216189.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6645,7 +6921,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000216189.pdf"
+        "Document_name": "000216189.pdf",
+        "Marketing_authorisation_holder_extracted": "Astellas"
     },
     "000271106.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6669,7 +6946,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000271106.pdf"
+        "Document_name": "000271106.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "000252640.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6693,7 +6971,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000252640.pdf"
+        "Document_name": "000252640.pdf",
+        "Marketing_authorisation_holder_extracted": "Argenx"
     },
     "000246621.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6717,7 +6996,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000246621.pdf"
+        "Document_name": "000246621.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "000235181.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6741,7 +7021,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000235181.pdf"
+        "Document_name": "000235181.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000241166.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6765,7 +7046,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000241166.pdf"
+        "Document_name": "000241166.pdf",
+        "Marketing_authorisation_holder_extracted": "Kyowa Kirin"
     },
     "000233296.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6789,7 +7071,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000233296.pdf"
+        "Document_name": "000233296.pdf",
+        "Marketing_authorisation_holder_extracted": "Merck"
     },
     "000205730.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6813,7 +7096,8 @@
         "Application_year": "2012",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000205730.pdf"
+        "Document_name": "000205730.pdf",
+        "Marketing_authorisation_holder_extracted": "Japan Tobacco"
     },
     "000244787.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6837,7 +7121,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000244787.pdf"
+        "Document_name": "000244787.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000153525.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6861,7 +7146,8 @@
         "Application_year": "2006",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153525.pdf"
+        "Document_name": "000153525.pdf",
+        "Marketing_authorisation_holder_extracted": "Toray"
     },
     "000250094.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6885,7 +7171,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000250094.pdf"
+        "Document_name": "000250094.pdf",
+        "Marketing_authorisation_holder_extracted": "AstraZeneca"
     },
     "000271700.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6909,7 +7196,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000271700.pdf"
+        "Document_name": "000271700.pdf",
+        "Marketing_authorisation_holder_extracted": "Kyowa Kirin"
     },
     "000226880.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6933,7 +7221,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000226880.pdf"
+        "Document_name": "000226880.pdf",
+        "Marketing_authorisation_holder_extracted": "MSD"
     },
     "000224729.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6957,7 +7246,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000224729.pdf"
+        "Document_name": "000224729.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000237219.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -6981,7 +7271,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000237219.pdf"
+        "Document_name": "000237219.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000238159.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7005,7 +7296,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000238159.pdf"
+        "Document_name": "000238159.pdf",
+        "Marketing_authorisation_holder_extracted": "Novo Nordisk"
     },
     "000252828.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7029,7 +7321,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000252828.pdf"
+        "Document_name": "000252828.pdf",
+        "Marketing_authorisation_holder_extracted": "Mitsubishi Tanabe"
     },
     "000209810.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7053,7 +7346,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000209810.pdf"
+        "Document_name": "000209810.pdf",
+        "Marketing_authorisation_holder_extracted": "Zenyaku Kogyo"
     },
     "000215395.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7077,7 +7371,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000215395.pdf"
+        "Document_name": "000215395.pdf",
+        "Marketing_authorisation_holder_extracted": "Celgene"
     },
     "000240419.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7101,7 +7396,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000240419.pdf"
+        "Document_name": "000240419.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000215815.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7125,7 +7421,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000215815.pdf"
+        "Document_name": "000215815.pdf",
+        "Marketing_authorisation_holder_extracted": "Otsuka"
     },
     "000153807.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7149,7 +7446,8 @@
         "Application_year": "2008",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153807.pdf"
+        "Document_name": "000153807.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000235285.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7173,7 +7471,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000235285.pdf"
+        "Document_name": "000235285.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000223356.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7197,7 +7496,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000223356.pdf"
+        "Document_name": "000223356.pdf",
+        "Marketing_authorisation_holder_extracted": "Maruho"
     },
     "000153609.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7221,7 +7521,8 @@
         "Application_year": "2011",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153609.pdf"
+        "Document_name": "000153609.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000240418.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7245,7 +7546,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000240418.pdf"
+        "Document_name": "000240418.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000209024.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7269,7 +7571,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000209024.pdf"
+        "Document_name": "000209024.pdf",
+        "Marketing_authorisation_holder_extracted": "Otsuka"
     },
     "000265667.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7293,7 +7596,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000265667.pdf"
+        "Document_name": "000265667.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "000153351.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7317,7 +7621,8 @@
         "Application_year": "2012",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153351.pdf"
+        "Document_name": "000153351.pdf",
+        "Marketing_authorisation_holder_extracted": "Bayer"
     },
     "000232850.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7341,7 +7646,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000232850.pdf"
+        "Document_name": "000232850.pdf",
+        "Marketing_authorisation_holder_extracted": "MSD"
     },
     "000224954.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7365,7 +7671,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Pharmaceutical Affairs and Food Sanitation Council",
-        "Document_name": "000224954.pdf"
+        "Document_name": "000224954.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "000221838.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7389,7 +7696,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000221838.pdf"
+        "Document_name": "000221838.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000215223.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7413,7 +7721,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000215223.pdf"
+        "Document_name": "000215223.pdf",
+        "Marketing_authorisation_holder_extracted": "Bristol-Myers Squibb"
     },
     "000216064.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7437,7 +7746,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000216064.pdf"
+        "Document_name": "000216064.pdf",
+        "Marketing_authorisation_holder_extracted": "Japan Vaccine"
     },
     "000153594.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7461,7 +7771,8 @@
         "Application_year": "2011",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153594.pdf"
+        "Document_name": "000153594.pdf",
+        "Marketing_authorisation_holder_extracted": "Mitsubishi Tanabe"
     },
     "000252154.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7485,7 +7796,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000252154.pdf"
+        "Document_name": "000252154.pdf",
+        "Marketing_authorisation_holder_extracted": "Otsuka"
     },
     "000243267.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7509,7 +7821,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000243267.pdf"
+        "Document_name": "000243267.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "000240793.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7533,7 +7846,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000240793.pdf"
+        "Document_name": "000240793.pdf",
+        "Marketing_authorisation_holder_extracted": "Japan Tobacco"
     },
     "000233741.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7557,7 +7871,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000233741.pdf"
+        "Document_name": "000233741.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000270863.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7581,7 +7896,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000270863.pdf"
+        "Document_name": "000270863.pdf",
+        "Marketing_authorisation_holder_extracted": "Mitsubishi Tanabe"
     },
     "000207341.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7605,7 +7921,8 @@
         "Application_year": "2010",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000207341.pdf"
+        "Document_name": "000207341.pdf",
+        "Marketing_authorisation_holder_extracted": "Boehringer Ingelheim"
     },
     "000272245.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7629,7 +7946,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000272245.pdf"
+        "Document_name": "000272245.pdf",
+        "Marketing_authorisation_holder_extracted": "Otsuka"
     },
     "000232846.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7653,7 +7971,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000232846.pdf"
+        "Document_name": "000232846.pdf",
+        "Marketing_authorisation_holder_extracted": "MSD"
     },
     "000228981.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7677,7 +7996,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000228981.pdf"
+        "Document_name": "000228981.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000250190.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7701,7 +8021,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000250190.pdf"
+        "Document_name": "000250190.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen"
     },
     "000227668.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7725,7 +8046,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000227668.pdf"
+        "Document_name": "000227668.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen"
     },
     "000270056.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7749,7 +8071,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000270056.pdf"
+        "Document_name": "000270056.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi"
     },
     "000265467.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7773,7 +8096,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000265467.pdf"
+        "Document_name": "000265467.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi"
     },
     "000248293.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7797,7 +8121,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000248293.pdf"
+        "Document_name": "000248293.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "000223354.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7821,7 +8146,8 @@
         "Application_year": "2009",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000223354.pdf"
+        "Document_name": "000223354.pdf",
+        "Marketing_authorisation_holder_extracted": "Teijin"
     },
     "000245006.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7845,7 +8171,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000245006.pdf"
+        "Document_name": "000245006.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "000235287.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7869,7 +8196,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000235287.pdf"
+        "Document_name": "000235287.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000235286.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7893,7 +8221,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000235286.pdf"
+        "Document_name": "000235286.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000223355.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7917,7 +8246,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000223355.pdf"
+        "Document_name": "000223355.pdf",
+        "Marketing_authorisation_holder_extracted": "Teijin"
     },
     "000273006.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7941,7 +8271,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000273006.pdf"
+        "Document_name": "000273006.pdf",
+        "Marketing_authorisation_holder_extracted": "Nobel"
     },
     "000250191.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7965,7 +8296,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000250191.pdf"
+        "Document_name": "000250191.pdf",
+        "Marketing_authorisation_holder_extracted": "Eisai"
     },
     "000233542.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -7989,7 +8321,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000233542.pdf"
+        "Document_name": "000233542.pdf",
+        "Marketing_authorisation_holder_extracted": "Eisai"
     },
     "000243933.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8013,7 +8346,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000243933.pdf"
+        "Document_name": "000243933.pdf",
+        "Marketing_authorisation_holder_extracted": "Mitsubishi Tanabe"
     },
     "000233740.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8037,7 +8371,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000233740.pdf"
+        "Document_name": "000233740.pdf",
+        "Marketing_authorisation_holder_extracted": "Novartis"
     },
     "000247943.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8061,7 +8396,8 @@
         "Application_year": "2022",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000247943.pdf"
+        "Document_name": "000247943.pdf",
+        "Marketing_authorisation_holder_extracted": "KM Biologics"
     },
     "000222649.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8085,7 +8421,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000222649.pdf"
+        "Document_name": "000222649.pdf",
+        "Marketing_authorisation_holder_extracted": "AbbVie"
     },
     "000226413.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8109,7 +8446,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000226413.pdf"
+        "Document_name": "000226413.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi"
     },
     "000234771.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8133,7 +8471,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000234771.pdf"
+        "Document_name": "000234771.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000153949.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8157,7 +8496,8 @@
         "Application_year": "2011",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153949.pdf"
+        "Document_name": "000153949.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000227269.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8181,7 +8521,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000227269.pdf"
+        "Document_name": "000227269.pdf",
+        "Marketing_authorisation_holder_extracted": "SymBio"
     },
     "000272485.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8205,7 +8546,8 @@
         "Application_year": "2024",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000272485.pdf"
+        "Document_name": "000272485.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "000209023.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8229,7 +8571,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000209023.pdf"
+        "Document_name": "000209023.pdf",
+        "Marketing_authorisation_holder_extracted": "Bristol-Myers"
     },
     "000220894.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8253,7 +8596,8 @@
         "Application_year": "2010",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000220894.pdf"
+        "Document_name": "000220894.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "000231769.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8277,7 +8621,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000231769.pdf"
+        "Document_name": "000231769.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "000243472.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8301,7 +8646,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000243472.pdf"
+        "Document_name": "000243472.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000231967.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8325,7 +8671,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000231967.pdf"
+        "Document_name": "000231967.pdf",
+        "Marketing_authorisation_holder_extracted": "Alexion"
     },
     "000153196.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8349,7 +8696,8 @@
         "Application_year": "2007",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153196.pdf"
+        "Document_name": "000153196.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "000245994.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8373,7 +8721,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000245994.pdf"
+        "Document_name": "000245994.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000153343.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8397,7 +8746,8 @@
         "Application_year": "2011",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000153343.pdf"
+        "Document_name": "000153343.pdf",
+        "Marketing_authorisation_holder_extracted": "Osaka University"
     },
     "000235724.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8421,7 +8771,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000235724.pdf"
+        "Document_name": "000235724.pdf",
+        "Marketing_authorisation_holder_extracted": "Shionogi"
     },
     "000208512.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8445,7 +8796,8 @@
         "Application_year": "2009",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000208512.pdf"
+        "Document_name": "000208512.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "000219621.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8469,7 +8821,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000219621.pdf"
+        "Document_name": "000219621.pdf",
+        "Marketing_authorisation_holder_extracted": "Baxter"
     },
     "000233792.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8493,7 +8846,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000233792.pdf"
+        "Document_name": "000233792.pdf",
+        "Marketing_authorisation_holder_extracted": "Japan Vaccine"
     },
     "000153747.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8517,7 +8871,8 @@
         "Application_year": "2010",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153747.pdf"
+        "Document_name": "000153747.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen"
     },
     "000222648.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8541,7 +8896,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000222648.pdf"
+        "Document_name": "000222648.pdf",
+        "Marketing_authorisation_holder_extracted": "MSD"
     },
     "000153009.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8565,7 +8921,8 @@
         "Application_year": "2009",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000153009.pdf"
+        "Document_name": "000153009.pdf",
+        "Marketing_authorisation_holder_extracted": "Alexion"
     },
     "000234772.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8589,7 +8946,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000234772.pdf"
+        "Document_name": "000234772.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000207435.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8613,7 +8971,8 @@
         "Application_year": "2010",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000207435.pdf"
+        "Document_name": "000207435.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "000209430.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8637,7 +8996,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000209430.pdf"
+        "Document_name": "000209430.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000250545.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8661,7 +9021,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000250545.pdf"
+        "Document_name": "000250545.pdf",
+        "Marketing_authorisation_holder_extracted": "Otsuka"
     },
     "000153553.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8685,7 +9046,8 @@
         "Application_year": "2011",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153553.pdf"
+        "Document_name": "000153553.pdf",
+        "Marketing_authorisation_holder_extracted": "GlaxoSmithKline"
     },
     "000272323.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8709,7 +9071,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000272323.pdf"
+        "Document_name": "000272323.pdf",
+        "Marketing_authorisation_holder_extracted": "Astellas"
     },
     "000223352.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8733,7 +9096,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000223352.pdf"
+        "Document_name": "000223352.pdf",
+        "Marketing_authorisation_holder_extracted": "Nihon"
     },
     "000247830.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8757,7 +9121,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000247830.pdf"
+        "Document_name": "000247830.pdf",
+        "Marketing_authorisation_holder_extracted": "Gilead"
     },
     "000222716.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8781,7 +9146,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000222716.pdf"
+        "Document_name": "000222716.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "000153180.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8805,7 +9171,8 @@
         "Application_year": "2008",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153180.pdf"
+        "Document_name": "000153180.pdf",
+        "Marketing_authorisation_holder_extracted": "Novo Nordisk"
     },
     "000245968.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8829,7 +9196,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000245968.pdf"
+        "Document_name": "000245968.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000223353.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8853,7 +9221,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000223353.pdf"
+        "Document_name": "000223353.pdf",
+        "Marketing_authorisation_holder_extracted": "Nihon"
     },
     "000246722.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8877,7 +9246,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000246722.pdf"
+        "Document_name": "000246722.pdf",
+        "Marketing_authorisation_holder_extracted": "Sumitomo Dainippon"
     },
     "000209021.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8901,7 +9271,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000209021.pdf"
+        "Document_name": "000209021.pdf",
+        "Marketing_authorisation_holder_extracted": "Bristol-Myers"
     },
     "000216840.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8925,7 +9296,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000216840.pdf"
+        "Document_name": "000216840.pdf",
+        "Marketing_authorisation_holder_extracted": "Japan Tobacco"
     },
     "000208511.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8949,7 +9321,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000208511.pdf"
+        "Document_name": "000208511.pdf",
+        "Marketing_authorisation_holder_extracted": "Otsuka"
     },
     "000234203.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8973,7 +9346,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000234203.pdf"
+        "Document_name": "000234203.pdf",
+        "Marketing_authorisation_holder_extracted": "Janssen"
     },
     "000234773.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -8997,7 +9371,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000234773.pdf"
+        "Document_name": "000234773.pdf",
+        "Marketing_authorisation_holder_extracted": "Taiho"
     },
     "000153036.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9021,7 +9396,8 @@
         "Application_year": "2008",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153036.pdf"
+        "Document_name": "000153036.pdf",
+        "Marketing_authorisation_holder_extracted": "Sanofi-aventis"
     },
     "000153750.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9045,7 +9421,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153750.pdf"
+        "Document_name": "000153750.pdf",
+        "Marketing_authorisation_holder_extracted": "Pfizer"
     },
     "000231145.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9069,7 +9446,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000231145.pdf"
+        "Document_name": "000231145.pdf",
+        "Marketing_authorisation_holder_extracted": "CSL Behring"
     },
     "000216795.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9093,7 +9471,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000216795.pdf"
+        "Document_name": "000216795.pdf",
+        "Marketing_authorisation_holder_extracted": "Kyowa Hakko Kirin"
     },
     "000249129.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9117,7 +9496,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000249129.pdf"
+        "Document_name": "000249129.pdf",
+        "Marketing_authorisation_holder_extracted": "Takeda"
     },
     "000232793.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9141,7 +9521,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000232793.pdf"
+        "Document_name": "000232793.pdf",
+        "Marketing_authorisation_holder_extracted": "Amgen Astellas"
     },
     "000222576.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9165,7 +9546,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000222576.pdf"
+        "Document_name": "000222576.pdf",
+        "Marketing_authorisation_holder_extracted": "Gilead"
     },
     "000252521.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9189,7 +9571,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000252521.pdf"
+        "Document_name": "000252521.pdf",
+        "Marketing_authorisation_holder_extracted": "Fujimoto"
     },
     "000223202.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9213,7 +9596,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000223202.pdf"
+        "Document_name": "000223202.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000227731.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9237,7 +9621,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000227731.pdf"
+        "Document_name": "000227731.pdf",
+        "Marketing_authorisation_holder_extracted": "Maruho"
     },
     "000217011.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9261,7 +9646,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000217011.pdf"
+        "Document_name": "000217011.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "000213143.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9285,7 +9671,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000213143.pdf"
+        "Document_name": "000213143.pdf",
+        "Marketing_authorisation_holder_extracted": "Shionogi"
     },
     "000214453.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9309,7 +9696,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000214453.pdf"
+        "Document_name": "000214453.pdf",
+        "Marketing_authorisation_holder_extracted": "Torii"
     },
     "000153624.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9333,7 +9721,8 @@
         "Application_year": "2012",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153624.pdf"
+        "Document_name": "000153624.pdf",
+        "Marketing_authorisation_holder_extracted": "Fujiyakuhin; Sanwa Kagaku Kenkyusho"
     },
     "000233404.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9357,7 +9746,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000233404.pdf"
+        "Document_name": "000233404.pdf",
+        "Marketing_authorisation_holder_extracted": "Bristol-Meyers Squibb"
     },
     "000233403.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9381,7 +9771,8 @@
         "Application_year": "2017",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000233403.pdf"
+        "Document_name": "000233403.pdf",
+        "Marketing_authorisation_holder_extracted": "Ono"
     },
     "000225702.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9405,7 +9796,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000225702.pdf"
+        "Document_name": "000225702.pdf",
+        "Marketing_authorisation_holder_extracted": "Taisho"
     },
     "000233503.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9429,7 +9821,8 @@
         "Application_year": "2018",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000233503.pdf"
+        "Document_name": "000233503.pdf",
+        "Marketing_authorisation_holder_extracted": "Taiho"
     },
     "000153735.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9453,7 +9846,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000153735.pdf"
+        "Document_name": "000153735.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000270669.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9477,7 +9871,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000270669.pdf"
+        "Document_name": "000270669.pdf",
+        "Marketing_authorisation_holder_extracted": "Daiichi Sankyo"
     },
     "000237467.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9501,7 +9896,8 @@
         "Application_year": "2019",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000237467.pdf"
+        "Document_name": "000237467.pdf",
+        "Marketing_authorisation_holder_extracted": "Nippon Shinyaku"
     },
     "000221104.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9525,7 +9921,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000221104.pdf"
+        "Document_name": "000221104.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "000217925.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9549,7 +9946,8 @@
         "Application_year": "2015",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000217925.pdf"
+        "Document_name": "000217925.pdf",
+        "Marketing_authorisation_holder_extracted": "Amgen Astellas"
     },
     "000214531.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9573,7 +9971,8 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000214531.pdf"
+        "Document_name": "000214531.pdf",
+        "Marketing_authorisation_holder_extracted": "Boehringer Ingelheim"
     },
     "000263434.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9597,7 +9996,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000263434.pdf"
+        "Document_name": "000263434.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000228334.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9621,7 +10021,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000228334.pdf"
+        "Document_name": "000228334.pdf",
+        "Marketing_authorisation_holder_extracted": "Biogen"
     },
     "000206796.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9645,7 +10046,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000206796.pdf"
+        "Document_name": "000206796.pdf",
+        "Marketing_authorisation_holder_extracted": "Astellas"
     },
     "000274240.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9669,7 +10071,8 @@
         "Application_year": "2023",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000274240.pdf"
+        "Document_name": "000274240.pdf",
+        "Marketing_authorisation_holder_extracted": "Moderna"
     },
     "000245005.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9693,7 +10096,8 @@
         "Application_year": "2021",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000245005.pdf"
+        "Document_name": "000245005.pdf",
+        "Marketing_authorisation_holder_extracted": "MSD"
     },
     "000209869.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9717,7 +10121,8 @@
         "Application_year": "2013",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000209869.pdf"
+        "Document_name": "000209869.pdf",
+        "Marketing_authorisation_holder_extracted": "Nobel"
     },
     "000243471.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9741,7 +10146,8 @@
         "Application_year": "2020",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000243471.pdf"
+        "Document_name": "000243471.pdf",
+        "Marketing_authorisation_holder_extracted": "Eli Lilly"
     },
     "000224730.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9765,7 +10171,8 @@
         "Application_year": "2016",
         "Nonclinical_abridged": "yes",
         "Referral_body": "Not reported",
-        "Document_name": "000224730.pdf"
+        "Document_name": "000224730.pdf",
+        "Marketing_authorisation_holder_extracted": "Chugai"
     },
     "000215814.pdf": {
         "Marketing_authorisation_number": "Not reported",
@@ -9789,6 +10196,7 @@
         "Application_year": "2014",
         "Nonclinical_abridged": "no",
         "Referral_body": "NA",
-        "Document_name": "000215814.pdf"
+        "Document_name": "000215814.pdf",
+        "Marketing_authorisation_holder_extracted": "Genzyme"
     }
 }
