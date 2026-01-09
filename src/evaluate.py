@@ -99,6 +99,12 @@ def summarize_column(series):
     no_match_count = (series_str == "no_match").sum()
     partial_count = series_str.str.startswith("partial_").sum()
     
+    # Compute binary counts (same way as metrics)
+    binary_values = series.apply(parse_verdict_binary)
+    valid_binary = binary_values.dropna()
+    true_count = (valid_binary == 1).sum()
+    false_count = (valid_binary == 0).sum()
+    
     # Compute sklearn metrics
     sklearn_metrics = compute_sklearn_metrics(series)
 
@@ -108,6 +114,8 @@ def summarize_column(series):
         "num_match": int(match_count),
         "num_no_match": int(no_match_count),
         "num_partial": int(partial_count),
+        "num_true": int(true_count),
+        "num_false": int(false_count),
         "mean_score_partial": round(valid.mean(), 2) if not valid.empty else None,
         "accuracy": sklearn_metrics["accuracy"],
         "precision": sklearn_metrics["precision"],
@@ -119,16 +127,17 @@ def plot_results(results, output_dir, output_name):
 
     plt.figure(figsize=(8, 5))
 
-    labels = list(results.keys())
-    match_counts = [res['num_match'] for res in results.values()]
-    no_match_counts = [res['num_no_match'] for res in results.values()]
-    partial_counts = [res['num_partial'] for res in results.values()]
+    # Filter out Document_name
+    filtered_results = {k: v for k, v in results.items() if k != 'Document_name'}
+    
+    labels = [key.replace('_', ' ') for key in filtered_results.keys()]
+    true_counts = [res['num_true'] for res in filtered_results.values()]
+    false_counts = [res['num_false'] for res in filtered_results.values()]
 
     x = range(len(labels))
 
-    bar1 = plt.bar(x, match_counts, label='Match', color='seagreen')
-    bar2 = plt.bar(x, no_match_counts, bottom=match_counts, label='No Match', color='violet')
-    bar3 = plt.bar(x, partial_counts, bottom=[m + n for m, n in zip(match_counts, no_match_counts)], label='Partial', color='dodgerblue')
+    bar1 = plt.bar(x, true_counts, label='True', color='seagreen')
+    bar2 = plt.bar(x, false_counts, bottom=true_counts, label='False', color='violet')
 
 
     plt.xlabel('Columns')
@@ -137,7 +146,7 @@ def plot_results(results, output_dir, output_name):
     plt.legend()
     plt.tight_layout()
     plt.grid(axis='y')
-    plt.savefig(f'{output_dir}/{output_name}.png')
+    plt.savefig(f'{output_dir}/{output_name}.png', dpi=300)
     # plt.show()
 
 
