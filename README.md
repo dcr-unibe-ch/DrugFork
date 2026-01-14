@@ -296,18 +296,13 @@ If you use this dataset in your research, please cite:
 ```bibtex
 @misc{drugfork2025,
   title={DrugFork: A Multi-Agency Drug Approval Dataset for Medical Data Science},
-  author={{Ineichen Research Group}},
-  year={2025},
+  author={{TODO add authors}},
+  year={2026},
   publisher={GitHub},
   howpublished={\url{https://github.com/Ineichen-Group/DrugFork}},
   note={Accessed: 2025-01-14}
 }
 ```
-
-## 📞 Contact & Support
-
-- **Issues**: Please use the GitHub issue tracker
-- **Project Planning**: [Google Doc](https://docs.google.com/document/d/1er_b-P0t4VZV8D_rDrC07WQxEI5QWUZx2Vs_6W2GFDA/edit?usp=sharing)
 
 ## 📜 License
 
@@ -315,9 +310,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- All regulatory agencies for making public assessment reports available
-- The medical data science community
-- Contributors to open-source tools used in this project
+- TODO add
 
 ## ⚠️ Disclaimer
 
@@ -325,6 +318,6 @@ This dataset is compiled from publicly available information for research purpos
 
 ---
 
-**Last Updated**: January 2025  
+**Last Updated**: January 2026  
 **Version**: 1.0  
 **Maintained by**: Ineichen-Group
