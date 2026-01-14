@@ -27,32 +27,32 @@ This project aims to:
 
 ### 1. **EMA (European Medicines Agency)** 🇪🇺
 - **Region**: European Union
-- **Dataset Size**: 4,238 records
+- **Dataset Size**: 4,237 records
 - **Document Type**: European Public Assessment Reports (EPARs)
 
 ### 2. **FDA (Food and Drug Administration)** 🇺🇸
 - **Region**: United States
-- **Dataset Size**: 28,289 records
+- **Dataset Size**: 28,288 records
 - **Document Type**: FDA Approval Packages, Drug Labels
 
 ### 3. **PMDA (Pharmaceuticals and Medical Devices Agency)** 🇯🇵
 - **Region**: Japan
-- **Dataset Size**: 410 records
+- **Dataset Size**: 409 records
 - **Document Type**: Japanese Public Assessment Reports
 
 ### 4. **TGA (Therapeutic Goods Administration)** 🇦🇺
 - **Region**: Australia
-- **Dataset Size**: 1,051 records
+- **Dataset Size**: 1,050 records
 - **Document Type**: Australian Public Assessment Reports (AusPARs)
 
 ### 5. **Swissmedic** 🇨🇭
 - **Region**: Switzerland
-- **Dataset Size**: 235 records
+- **Dataset Size**: 234 records
 - **Document Type**: Swiss Public Assessment Reports (SwissPARs)
 
 ### 6. **Health Canada** 🇨🇦
 - **Region**: Canada
-- **Dataset Size**: 16,450 records
+- **Dataset Size**: 16,449 records
 - **Document Type**: Product Monographs, Regulatory Decision Summaries
 
 ## 📚 Dataset Description
@@ -83,12 +83,12 @@ The primary dataset (`data/Drug_Approval_Annotations_all_datasets-Sheet1.csv`) c
 
 ### Complete Datasets
 Full datasets for each agency are available in `data/datasets/`:
-- `EMA.csv` / `EMA.json` (4,238 records)
-- `FDA.csv` / `FDA.json` (28,289 records)
-- `JAPAN.csv` / `JAPAN.json` (410 records)
-- `AUSTRALIA.csv` / `AUSTRALIA.json` (1,051 records)
-- `SWISSMEDIC.csv` / `SWISSMEDIC.json` (235 records)
-- `HEALTHCANADA.csv` / `HEALTHCANADA.json` (16,450 records)
+- `EMA.csv` / `EMA.json` (4,237 records)
+- `FDA.csv` / `FDA.json` (28,288 records)
+- `JAPAN.csv` / `JAPAN.json` (409 records)
+- `AUSTRALIA.csv` / `AUSTRALIA.json` (1,050 records)
+- `SWISSMEDIC.csv` / `SWISSMEDIC.json` (234 records)
+- `HEALTHCANADA.csv` / `HEALTHCANADA.json` (16,449 records)
 
 ## 🛠️ Repository Structure
 
