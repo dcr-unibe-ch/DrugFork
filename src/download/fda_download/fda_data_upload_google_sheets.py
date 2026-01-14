@@ -4,28 +4,28 @@ import re
 from gspread_dataframe import set_with_dataframe
 from oauth2client.service_account import ServiceAccountCredentials
 
-# === KONFIGURATION ===
+# === CONFIGURATION ===
 SERVICE_ACCOUNT_FILE = "data/FDA/Google_API_key.json"
 CSV_FILE = "data/FDA/formatted_output_openFDA.csv"
 SPREADSHEET_NAME = "FDA_EMA_Swissmedic_Drug_Approval"
 SHEET_NAME = "Sheet1"
-START_ROW_TO_CLEAR = 226  # <-- hier festlegen, ab welcher Zeile alles gelöscht werden soll
+START_ROW_TO_CLEAR = 226  # <-- specify from which row everything should be deleted
 
-# === GOOGLE SHEETS VERBINDUNG ===
+# === GOOGLE SHEETS CONNECTION ===
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
 creds = ServiceAccountCredentials.from_json_keyfile_name(SERVICE_ACCOUNT_FILE, scope)
 client = gspread.authorize(creds)
 sheet = client.open(SPREADSHEET_NAME).worksheet(SHEET_NAME)
 
-# === ZEILEN AB START_ROW_TO_CLEAR LÖSCHEN ===
+# === DELETE ROWS FROM START_ROW_TO_CLEAR ===
 total_rows = len(sheet.get_all_values())
 if total_rows >= START_ROW_TO_CLEAR:
-    sheet.batch_clear([f"A{START_ROW_TO_CLEAR}:AZ{total_rows}"])  # löscht alle Inhalte von A226 bis AZ...
+    sheet.batch_clear([f"A{START_ROW_TO_CLEAR}:AZ{total_rows}"])  # deletes all content from A226 to AZ...
 
-# === FDA CSV LADEN ===
+# === LOAD FDA CSV ===
 df_raw = pd.read_csv(CSV_FILE)
 
-# === DROP-DOWN-MAPPING FUNKTIONEN ===
+# === DROP-DOWN MAPPING FUNCTIONS ===
 def map_decision(val):
     v = str(val).strip().lower()
     return "approved" if v == "approved" else ""
@@ -45,7 +45,7 @@ def map_yes_no(val):
     v = str(val).strip().lower()
     return "yes" if v == "yes" else "no"
 
-# === SPALTENDEFINITION NACH GOOGLE SHEET STRUKTUR ===
+# === COLUMN DEFINITION ACCORDING TO GOOGLE SHEET STRUCTURE ===
 columns_gsheet = [
     'Origin', 'Document Link/ name', 'Marketing_authorisation_number', 'EMA_product_number', 'Drug',
     'Non_proprietary_name', 'marketing_authorisation_holder', 'Drug_class', 'Pharmaceutical_form',
@@ -63,10 +63,10 @@ columns_gsheet = [
     'Sex_reported_allgemein', 'Sex', 'Comment'
 ]
 
-# === LEERES DATAFRAME VORBEREITEN ===
+# === PREPARE EMPTY DATAFRAME ===
 df_sheet = pd.DataFrame(columns=columns_gsheet)
 
-# === WERTE AUS FDA-DATEN EINTRAGEN ===
+# === ENTER VALUES FROM FDA DATA ===
 df_sheet['Origin'] = df_raw['Origin']
 df_sheet['Document Link/ name'] = ""
 df_sheet['Marketing_authorisation_number'] = df_raw['Marketing authorisation Number']
@@ -93,18 +93,18 @@ df_sheet['Disease_class(es)'] = ""
 df_sheet['Application_date'] = ""
 df_sheet['Decisions_number'] = ""
 df_sheet['Nonclinical_abridged'] = df_raw['Non-clinical abridge'].apply(map_yes_no)
-df_sheet['Referral_body'] = ""  # leer lassen
+df_sheet['Referral_body'] = ""  # leave empty
 df_sheet['Referral'] = df_raw['Referral'].apply(map_yes_no)
 
-# === RESTLICHE FELDER LEER LASSEN ===
+# === LEAVE REMAINING FIELDS EMPTY ===
 for col in columns_gsheet:
     if col not in df_sheet.columns:
         df_sheet[col] = ""
 
-# === SPALTEN IN RICHTIGER REIHENFOLGE ===
+# === COLUMNS IN CORRECT ORDER ===
 df_sheet = df_sheet[columns_gsheet]
 
-# === NEU EINFÜGEN AB ZEILE 226 ===
+# === INSERT NEW DATA FROM ROW 226 ===
 set_with_dataframe(sheet, df_sheet, row=START_ROW_TO_CLEAR, include_column_header=False)
 
-print("✅ FDA-Daten erfolgreich an das Google Sheet angehängt.")
+print("FDA data successfully appended to Google Sheet.")
