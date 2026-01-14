@@ -27,32 +27,32 @@ This project aims to:
 
 ### 1. **EMA (European Medicines Agency)** 🇪🇺
 - **Region**: European Union
-- **Dataset Size**: ~4,200 records
+- **Dataset Size**: 4,238 records
 - **Document Type**: European Public Assessment Reports (EPARs)
 
 ### 2. **FDA (Food and Drug Administration)** 🇺🇸
 - **Region**: United States
-- **Dataset Size**: ~28,000 records
+- **Dataset Size**: 28,289 records
 - **Document Type**: FDA Approval Packages, Drug Labels
 
 ### 3. **PMDA (Pharmaceuticals and Medical Devices Agency)** 🇯🇵
 - **Region**: Japan
-- **Dataset Size**: ~410 records
+- **Dataset Size**: 410 records
 - **Document Type**: Japanese Public Assessment Reports
 
 ### 4. **TGA (Therapeutic Goods Administration)** 🇦🇺
 - **Region**: Australia
-- **Dataset Size**: ~1,050 records
+- **Dataset Size**: 1,051 records
 - **Document Type**: Australian Public Assessment Reports (AusPARs)
 
 ### 5. **Swissmedic** 🇨🇭
 - **Region**: Switzerland
-- **Dataset Size**: ~235 records
+- **Dataset Size**: 235 records
 - **Document Type**: Swiss Public Assessment Reports (SwissPARs)
 
 ### 6. **Health Canada** 🇨🇦
 - **Region**: Canada
-- **Dataset Size**: ~16,450 records
+- **Dataset Size**: 16,450 records
 - **Document Type**: Product Monographs, Regulatory Decision Summaries
 
 ## 📚 Dataset Description
@@ -296,10 +296,11 @@ If you use this dataset in your research, please cite:
 ```bibtex
 @misc{drugfork2025,
   title={DrugFork: A Multi-Agency Drug Approval Dataset for Medical Data Science},
-  author={Ineichen-Group},
+  author={{Ineichen Research Group}},
   year={2025},
   publisher={GitHub},
-  url={https://github.com/Ineichen-Group/DrugFork}
+  howpublished={\url{https://github.com/Ineichen-Group/DrugFork}},
+  note={Accessed: 2025-01-14}
 }
 ```
 
