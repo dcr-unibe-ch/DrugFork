@@ -4,14 +4,14 @@
 
 ## 🔬 Overview
 
-DrugFork is a comprehensive medical data science project that systematically analyzes and compares drug approval processes across **6 major regulatory agencies worldwide**. This repository contains tools for data extraction, processing, and analysis of public assessment reports (PARs) from regulatory authorities, enabling large-scale comparative studies of drug approvals, non-clinical data requirements, and regulatory decision-making processes.
+DrugFork is a comprehensive medical data science project that systematically analyzes and compares drug approval processes across **7 major regulatory agencies worldwide** from **1995 to present**. This repository contains tools for automated extraction of structured data from public assessment reports (PARs) using large language models, enabling large-scale comparative studies of drug approvals and regulatory decision-making.
 
-### Key Statistics
+### Key Statistics (1995-Current)
 
-- **🌍 6 Regulatory Agencies**: EMA, FDA, PMDA (Japan), TGA (Australia), Swissmedic (Switzerland), Health Canada
-- **📊 50,667 Drug Records**: Comprehensive dataset spanning multiple decades
-- **🔍 Detailed Annotations**: 280+ manually curated drug approval reports with extensive metadata
-- **🧪 Non-clinical Data**: Extracted pharmacology, pharmacokinetics, and toxicology information
+- **🌍 7 Regulatory Agencies**: EMA, FDA, PMDA (Japan), TGA (Australia), Swissmedic (Switzerland), Health Canada
+- **📊 3,500+ Drug Approval Records**: Dataset from 1995 onwards across all agencies
+- **🔍 280+ Manually Curated Records**: High-quality ground truth for evaluation
+- **🤖 Automated LLM Extraction**: Structured data extraction from unstructured PDF reports
 
 ## 🎯 Objectives
 
@@ -23,111 +23,153 @@ This project aims to:
 4. **Enable** comparative research on regulatory decision-making
 5. **Provide** open-source tools for medical data science research
 
-## 🏛️ Regulatory Agencies Covered
+## 🏛️ Regulatory Agencies Covered (1995-Present)
 
 ### 1. **EMA (European Medicines Agency)** 🇪🇺
 - **Region**: European Union
-- **Dataset Size**: 4,237 records
+- **Dataset Size (1995+)**: ~600 records
 - **Document Type**: European Public Assessment Reports (EPARs)
 
 ### 2. **FDA (Food and Drug Administration)** 🇺🇸
 - **Region**: United States
-- **Dataset Size**: 28,288 records
+- **Dataset Size (1995+)**: ~1,800 records
 - **Document Type**: FDA Approval Packages, Drug Labels
 
 ### 3. **PMDA (Pharmaceuticals and Medical Devices Agency)** 🇯🇵
 - **Region**: Japan
-- **Dataset Size**: 409 records
+- **Dataset Size (1995+)**: ~200 records
 - **Document Type**: Japanese Public Assessment Reports
 
 ### 4. **TGA (Therapeutic Goods Administration)** 🇦🇺
 - **Region**: Australia
-- **Dataset Size**: 1,050 records
+- **Dataset Size (1995+)**: ~400 records
 - **Document Type**: Australian Public Assessment Reports (AusPARs)
 
 ### 5. **Swissmedic** 🇨🇭
 - **Region**: Switzerland
-- **Dataset Size**: 234 records
+- **Dataset Size (1995+)**: ~230 records
 - **Document Type**: Swiss Public Assessment Reports (SwissPARs)
 
 ### 6. **Health Canada** 🇨🇦
 - **Region**: Canada
-- **Dataset Size**: 16,449 records
+- **Dataset Size (1995+)**: ~270 records
 - **Document Type**: Product Monographs, Regulatory Decision Summaries
 
 ## 📚 Dataset Description
 
-### Main Dataset
-The primary dataset (`data/Drug_Approval_Annotations_all_datasets-Sheet1.csv`) contains 280+ manually annotated drug approval records with comprehensive metadata including:
+### Main Datasets (1995-Current)
 
-#### Core Drug Information
-- Drug name (proprietary and non-proprietary)
-- Marketing authorization number and holder
-- Drug class (biologics, small molecules, vaccines, cell/gene therapy)
-- Pharmaceutical form and administration route
-- Decision status and dates
+The primary datasets are located in `data/datasets/1995/` and contain drug approval records from 1995 onwards. Each record includes **24 standardized fields** extracted automatically from assessment reports:
 
-#### Regulatory Information
-- Application and decision dates
-- Approval status (approved, withdrawn, temporary authorization)
-- Orphan drug designation
-- Indication (requested vs. approved)
-- Disease classifications
-- Referral information
+#### Identification & Authorization
+- **Marketing_authorisation_number**: Regulatory product identifier
+- **Procedure_number**: Application procedure identifier
+- **Document_name**: Source PDF filename
+- **Marketing_authorisation_holder**: Company holding the authorization
+- **Marketing_authorisation_holder_extracted**: Extracted company name
+- **Agency**: Regulatory agency (EMA, FDA, PMDA, TGA, Swissmedic, HealthCanada)
 
-#### Non-clinical Data (Extracted from Assessment Reports)
-- **Pharmacology Studies**: Species, strain, model, sex, outcomes, adverse findings
-- **Pharmacokinetics**: ADME (Absorption, Distribution, Metabolism, Excretion) data
-- **Toxicology**: Species, models, outcomes, adverse events
-- **Special Studies**: Genotoxicity, carcinogenicity, reproduction toxicity, immunogenicity
+#### Drug Characteristics
+- **Drug_name**: Proprietary/brand name
+- **Non_proprietary_name**: Generic/INN name
+- **Drug_class**: Classification (Small molecule, Biologics, Peptides and proteins, Cell and gene therapy, Vaccine, Other)
+- **Pharmaceutical_form**: Formulation (tablet, solution for injection, capsule, etc.)
+- **Administration_route**: Route of administration (oral, intravenous, subcutaneous, etc.)
 
-### Complete Datasets
-Full datasets for each agency are available in `data/datasets/`:
-- `EMA.csv` / `EMA.json` (4,237 records)
-- `FDA.csv` / `FDA.json` (28,288 records)
-- `JAPAN.csv` / `JAPAN.json` (409 records)
-- `AUSTRALIA.csv` / `AUSTRALIA.json` (1,050 records)
-- `SWISSMEDIC.csv` / `SWISSMEDIC.json` (234 records)
-- `HEALTHCANADA.csv` / `HEALTHCANADA.json` (16,449 records)
+#### Regulatory Decision
+- **Decision**: Approval outcome (approved, withdrawn, refused, conditional marketing authorisation, temporary authorisation)
+- **Current_status**: Current authorization status (authorised, withdrawn, revoked, NA)
+- **Decision_date**: Date of regulatory decision
+- **Decision_year**: Year of decision (1995-2025)
+- **Application_date**: Date of initial application
+- **Application_year**: Year of application
+
+#### Indication & Classification
+- **Indication_requested**: Original indication sought by applicant
+- **Indication_extended**: Extended/additional indications
+- **Indication_approved**: Final approved indication(s)
+- **Disease_class(es)**: Disease categories (based on ICD-11 classification)
+
+#### Additional Information
+- **Orphan_drug_status**: Orphan designation (yes/no)
+- **Nonclinical_abridged**: Whether non-clinical data was abbreviated (yes/no)
+- **Referral_body**: Referral information if applicable
+
+### Datasets Structure
+
+```
+data/datasets/1995/
+├── all_decisions/              # All regulatory decisions (approved, withdrawn, refused)
+│   ├── EMA.csv
+│   ├── FDA.csv
+│   ├── PMDA.csv
+│   ├── TGA.csv
+│   ├── Swissmedic.csv
+│   ├── HealthCanada.csv
+│   └── Overall.csv           # Combined dataset across all agencies
+└── approved/                  # Only approved drugs subset
+    └── [same structure]
+```
 
 ## 🛠️ Repository Structure
 
 ```
 DrugFork/
 ├── data/                           # All data files
-│   ├── annotations/                # Manual annotations
-│   ├── datasets/                   # Processed datasets by agency
-│   ├── eval_data/                  # Evaluation datasets
-│   ├── inference_data/             # Data for model inference
-│   ├── randomized_data/            # Randomized data for evaluation
-│   ├── Australia/                  # TGA raw data
-│   ├── EMA/                        # EMA raw data
-│   ├── FDA/                        # FDA raw data
+│   ├── datasets/                   # Processed datasets
+│   │   └── 1995/                   # 1995-current subset (primary focus)
+│   │       ├── all_decisions/      # All regulatory decisions
+│   │       └── approved/           # Approved drugs only
+│   ├── annotations/                # Manual annotations for evaluation
+│   ├── eval_data/                  # Evaluation sample lists
+│   ├── inference_data/             # Inference sample lists
+│   ├── EMA/                        # EMA raw PDFs
+│   ├── PMDA/                       # PMDA raw PDFs
+│   ├── TGA/                        # TGA raw PDFs
+│   ├── Swissmedic/                 # Swissmedic raw PDFs
 │   ├── HealthCanada/               # Health Canada raw data
-│   ├── Japan/                      # PMDA raw data
-│   ├── Swissmedic/                 # Swissmedic raw data
+│   ├── FDA/                        # FDA raw data
 │   └── Disease_burden_mapping/     # Disease classification mappings
-├── src/                            # Source code
-│   ├── parse_pdf.py                # PDF parsing utilities
-│   ├── extract_from_columns.py     # Data extraction tools
-│   ├── generate_predictions.py     # ML model predictions
-│   ├── evaluate.py                 # Evaluation scripts
-│   ├── schema.py                   # Data schema definitions
-│   ├── ema_download/               # EMA data download tools
-│   ├── fda_download/               # FDA data download tools
-│   ├── health_canada_download/     # Health Canada download tools
-│   ├── preprocess_AusPAR/          # Australia preprocessing
-│   └── preprocess_FDA/             # FDA preprocessing
-├── inference/                      # Model inference outputs
-│   └── combined/                   # Combined analysis results
-├── analysis/                       # Analysis outputs
-│   ├── all_decisions/              # All decision analyses
+├── src/                            # Source code (organized by function)
+│   ├── evaluation/                 # Evaluation pipeline
+│   │   ├── run_evaluation_pipeline.py
+│   │   ├── data_preparation.py
+│   │   ├── generate_predictions.py
+│   │   ├── create_evaluation_sheet.py
+│   │   ├── evaluate.py
+│   │   ├── eval_with_llm.py
+│   │   └── combine_eval_inference.py
+│   ├── extraction/                 # Data extraction schemas & prompts
+│   │   ├── schema.py               # JSON validation schemas
+│   │   └── question_response.py   # Agency-specific prompts
+│   ├── preprocessing/              # Data preprocessing
+│   │   ├── parse_pdf.py
+│   │   ├── clean_filenames.py
+│   │   ├── randomize_data.py
+│   │   └── preprocess_FDA/         # FDA-specific preprocessing
+│   ├── utils/                      # General utilities
+│   │   ├── combine_datasets_csv.py
+│   │   ├── json_to_csv.py
+│   │   └── extract_from_columns.py
+│   ├── download/                   # Download scripts by agency
+│   │   ├── ema_download/
+│   │   ├── fda_download/
+│   │   └── health_canada_download/
+│   └── *.ipynb                     # Analysis notebooks
+├── analysis/                       # Analysis results
+│   ├── all_decisions/              # Analyses across all decisions
 │   └── approved/                   # Approved drugs analyses
-├── assets/                         # Project assets
-├── logs/                           # Processing logs
-├── output/                         # General outputs
+├── evaluation/                     # Evaluation pipeline outputs
+│   ├── output/                     # Evaluation sheets (LLM vs human)
+│   ├── processed_files/            # Manually assessed sheets
+│   ├── results/                    # Metrics (JSON)
+│   └── plots/                      # Visualizations
+├── output/                         # LLM prediction outputs
+├── config/                         # Configuration files
+│   └── evaluation_config.yaml
 ├── requirements.txt                # Python dependencies
-└── run_*.sh                        # Execution scripts
+├── run_full_evaluation.sh          # Main evaluation pipeline
+└── run_*.sh                        # Individual task scripts
 ```
 
 ## 🚀 Getting Started
