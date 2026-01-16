@@ -312,17 +312,3 @@ Final Health Canada dataset (1995+) includes:
 
 - **Metadata**:
   - Agency = "HealthCanada"
-
-## Methodology Passage for Paper
-
-**Health Canada Drug Approval Dataset (1995-Present)**
-
-We compiled a comprehensive dataset of drug approvals from Health Canada's Drug Product Database (DPD), covering the period from 1995 to present. The DPD provides structured data through tab-delimited text files containing information on drug products, active ingredients, pharmaceutical forms, routes of administration, marketing status history, and company details.
-
-Data extraction proceeded in three stages. First, we parsed and integrated seven DPD text files (drug.txt, ingred.txt, form.txt, route.txt, status.txt, comp.txt, ther.txt) using custom Python scripts. We filtered for human and radiopharmaceutical drug classes and merged records by Drug Identification Number (DIN). For drugs with multiple ingredients, pharmaceutical forms, or routes of administration, we combined values using semicolon separators. Marketing status history was processed to extract the earliest status and date as the initial regulatory decision, with the most recent status representing current market authorization.
-
-Second, we employed GPT-4o-mini (OpenAI, temperature=0.1) to extract standardized information from two fields: marketing authorization holders were processed to identify core parent company names by removing legal suffixes and country identifiers (e.g., "Takeda Pharmaceutical Company Limited" → "Takeda"), and drug classifications were assigned based on non-proprietary names into six categories (small molecules, biologics, peptides and proteins, cell and gene therapies, vaccines, or other).
-
-Third, we filtered the dataset to include only approvals from 1995 onwards to enable temporal comparison with other regulatory agencies. The data were standardized to lowercase, invalid entries were removed, and an agency identifier field was added. The final dataset comprises approximately 10,286 drug products approved by Health Canada since 1995, representing all major pharmaceutical classes and therapeutic areas. Unlike the FDA dataset which required manual curation due to data quality issues, the Health Canada pipeline was fully automated owing to the structured nature of the DPD text files.
-
-All data processing scripts and notebooks are available in the project repository. The Health Canada DPD data are publicly accessible and regularly updated by Health Canada.
