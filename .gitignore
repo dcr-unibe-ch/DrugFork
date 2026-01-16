@@ -204,3 +204,6 @@ data/FDA/labels/drug-label-0013-of-0013.json
 data/FDA/combined_labels.json
 data/FDA/indications_and_usage.csv
 data/FDA/indications_and_usage.json
+
+
+inference/

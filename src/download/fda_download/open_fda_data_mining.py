@@ -194,7 +194,7 @@ def main():
     with open(file_out_json, 'w', encoding='utf-8') as f:
         json.dump(rows, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ {len(rows)} Data saved in:\n→ {file_out_csv}\n→ {file_out_json}")
+    print(f"{len(rows)} data rows saved in:\n{file_out_csv}\n{file_out_json}")
 
 if __name__ == '__main__':
     main()
