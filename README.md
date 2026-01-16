@@ -8,7 +8,7 @@ DrugFork is a comprehensive medical data science project that systematically ana
 
 ### Key Statistics (1995-Current)
 
-- **🌍 7 Regulatory Agencies**: EMA, FDA, PMDA (Japan), TGA (Australia), Swissmedic (Switzerland), Health Canada
+- **🌍 6 Regulatory Agencies**: EMA, FDA, PMDA (Japan), TGA (Australia), Swissmedic (Switzerland), Health Canada
 - **📊 3,500+ Drug Approval Records**: Dataset from 1995 onwards across all agencies
 - **🔍 280+ Manually Curated Records**: High-quality ground truth for evaluation
 - **🤖 Automated LLM Extraction**: Structured data extraction from unstructured PDF reports
