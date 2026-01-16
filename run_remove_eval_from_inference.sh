@@ -2,10 +2,9 @@
 
 # ==========================================================
 # TODO change the below argument as needed
-DATASET="EMA" # EMA, SwissPAR, Japan, Australia
+DATASET="EMA" # EMA, Swissmedic, PMDA, TGA
 
 # ==========================================================
-echo "whatsup"
 
 python src/remove_eval_from_inference.py \
     --eval_list "./data/eval_data/eval_${DATASET}.txt" \

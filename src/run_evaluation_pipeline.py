@@ -144,9 +144,9 @@ class EvaluationPipeline:
                     output_file = existing_files[0]
                     print(f"Using existing predictions from: {output_file}")
                     return True, output_file
-                else:
-                    print(f"No existing predictions found for {dataset}, will generate new ones...")
-                    use_existing = False
+                
+                print(f"No existing predictions found for {dataset}, will generate new ones...")
+                use_existing = False
         
         if not use_existing:
             data_split = self.config.get('data_split', {})
@@ -162,14 +162,7 @@ class EvaluationPipeline:
                 return False, None
             
             # Determine data directory (where PDFs are located)
-            # This assumes a structure like data/{dataset}/ or similar
-            data_dir_map = {
-                'EMA': 'data/EMA',
-                'SwissPAR': 'data/SwissPar',
-                'Japan': 'data/Japan',
-                'Australia': 'data/Australia'
-            }
-            data_dir = data_dir_map.get(dataset, f'data/{dataset}')
+            data_dir = f'data/{dataset}'
             
             # Output file
             os.makedirs(output_dir, exist_ok=True)
@@ -403,7 +396,7 @@ def parse_args():
     )
     parser.add_argument(
         "--dataset",
-        help="Specific dataset to evaluate (e.g., 'EMA', 'Japan', 'Australia', 'SwissPAR')"
+        help="Specific dataset to evaluate (e.g., 'EMA', 'Swissmedic', 'PMDA', 'TGA')"
     )
     parser.add_argument(
         "--all",

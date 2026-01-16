@@ -313,7 +313,7 @@ The evaluation process consists of 4 main steps:
 #### ⚙️ Configuration
 
 Edit `config/evaluation_config.yaml` to customize:
-- Datasets to evaluate (EMA, Japan, Australia, SwissPAR)
+- Datasets to evaluate (EMA, Swissmedic, PMDA, TGA)
 - Model parameters (name, temperature, max_tokens)
 - File paths and directories
 - Processing options (skip_if_exists, validate_split)

@@ -5,21 +5,15 @@
 # Datasets to evaluate
 datasets:
   - EMA
-  - SwissPAR
-  - Japan
-  - Australia
+  - Swissmedic
+  - PMDA
+  - TGA
 
 # Data split configuration
 data_split:
   enabled: true
   eval_files_dir: data/eval_data
   inference_files_dir: data/inference_data
-  # Mapping for dataset name variations
-  dataset_mapping:
-    SwissPAR: SwissPAR
-    EMA: EMA
-    Japan: Japan
-    Australia: Australia
 
 # Model configuration for predictions
 model:

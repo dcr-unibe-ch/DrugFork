@@ -2,7 +2,7 @@
 # ==========================================================
 # TODO change the below arguments as needed
 FILE_LIST="data/inference_data/Australia_clean.txt"
-DATASET="Australia" # EMA, SwissMedic, Japan, Australia"
+DATASET="Australia" # EMA, Swissmedic, PMDA, TGA"
 # ==========================================================
 
 
@@ -10,12 +10,12 @@ DATASET="Australia" # EMA, SwissMedic, Japan, Australia"
 
 if [ "$DATASET" == "EMA" ]; then
     DATA_DIR="data/EMA/downloads"
-elif [ "$DATASET" == "SwissMedic" ]; then    
-    DATA_DIR="data/SwissPar/downloads"
-elif [ "$DATASET" == "Japan" ]; then
-    DATA_DIR="data/Japan/downloads"
-elif [ "$DATASET" == "Australia" ]; then
-    DATA_DIR="data/Australia/downloads"
+elif [ "$DATASET" == "Swissmedic" ]; then    
+    DATA_DIR="data/Swissmedic/downloads"
+elif [ "$DATASET" == "PMDA" ]; then
+    DATA_DIR="data/PMDA/downloads"
+elif [ "$DATASET" == "TGA" ]; then
+    DATA_DIR="data/TGA/downloads"
 fi
 
 SAVE_DIR="./output"

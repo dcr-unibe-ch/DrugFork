@@ -1,7 +1,7 @@
 DIR_PATHS=(
     "data/EMA/downloads"
-    # "data/SwissPar/downloads"
-    # "data/Japan/downloads"
+    # "data/Swissmedic/downloads"
+    # "data/PMDA/downloads"
     "data/Australia/downloads"
 )
 
