@@ -5,15 +5,15 @@ __pycache__/
 
 # heavy data in data/
 */downloads/
-/data/SwissPar/SwissPAR_Jan19_2025/
+/data/Swissmedic/Swissmedic_Jan19_2025/
 /data/EMA/EMA_downloads/
 /data/EMA/
 /data/FDA/drugs@fda_openFDA.json
 /data/FDA/drug-event-0034-of-0034.json
 /data/FDA/Google_API_key.json
-/data/Japan/Japan_PAR_download
-data/Australia/AusPAR_download
-data/AusPAR/AusPAR_merged.csv
+/data/PMDA/PMDA_PAR_download
+data/TGA/TGA_download
+data/TGA/TGA_merged.csv
 data/HealthCanada/ProductMonographs
 data/FDA/drug-event-0034-of-0034.json
 # C extensions
