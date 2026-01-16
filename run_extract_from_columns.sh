@@ -40,7 +40,7 @@ for DATASET in "${DATASETS[@]}"; do
     SAVE_DIR="inference/combined"
     mkdir -p "$SAVE_DIR"}
 
-    python ./src/extract_from_columns.py\
+    python ./src/utils/extract_from_columns.py\
         --input_file "$INPUT_FILE" \
         --columns_of_interest "${COLUMNS_OF_INTEREST[@]}" \
         --slice -1 \

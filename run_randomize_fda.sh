@@ -6,7 +6,7 @@ NUM_SAMPLES=1000
 # ==========================================================
 
 
-python src/randomize_fda.py\
+python src/preprocessing/randomize_fda.py\
     --dataset "FDA" \
     --file_path "./data/FDA/Products.csv" \
     --num_samples "$NUM_SAMPLES" \

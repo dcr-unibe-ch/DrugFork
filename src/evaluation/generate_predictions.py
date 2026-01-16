@@ -8,8 +8,12 @@ from jsonschema import validate, ValidationError
 from openai import OpenAI
 from datetime import datetime
 
-from schema import json_schema
-from question_response import EMA_pairs, Swissmedic_pairs, PMDA_pairs, TGA_pairs
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
+from extraction.schema import json_schema
+from extraction.question_response import EMA_pairs, Swissmedic_pairs, PMDA_pairs, TGA_pairs
 
 
 def load_env_variables():

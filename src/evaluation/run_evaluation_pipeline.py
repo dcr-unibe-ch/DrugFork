@@ -9,8 +9,8 @@ This script coordinates the full evaluation workflow:
 5. Optionally combine results
 
 Usage:
-    python src/run_evaluation_pipeline.py --dataset EMA --config config/evaluation_config.yaml
-    python src/run_evaluation_pipeline.py --all --config config/evaluation_config.yaml
+    python src/evaluation/run_evaluation_pipeline.py --dataset EMA --config config/evaluation_config.yaml
+    python src/evaluation/run_evaluation_pipeline.py --all --config config/evaluation_config.yaml
 """
 
 import argparse
@@ -94,7 +94,7 @@ class EvaluationPipeline:
         
         cmd = [
             sys.executable,
-            "src/data_preparation.py",
+            "src/evaluation/data_preparation.py",
             "--dataset", dataset,
             "--config", self.config_path
         ]
@@ -169,7 +169,7 @@ class EvaluationPipeline:
             
             cmd = [
                 sys.executable,
-                "src/generate_predictions.py",
+                "src/evaluation/generate_predictions.py",
                 "--file_list", eval_file,
                 "--data_dir", data_dir,
                 "--dataset", dataset,
@@ -219,7 +219,7 @@ class EvaluationPipeline:
         
         cmd = [
             sys.executable,
-            "src/create_evaluation_sheet.py",
+            "src/evaluation/create_evaluation_sheet.py",
             "--llm_file", llm_output_file,
             "--human_file", human_annotations,
             "--output_file", eval_sheet
@@ -291,7 +291,7 @@ class EvaluationPipeline:
         
         cmd = [
             sys.executable,
-            "src/evaluate.py",
+            "src/evaluation/evaluate.py",
             "--input_file", eval_sheet,
             "--output_file", results_file,
             "--output_dir", plots_dir
@@ -329,7 +329,7 @@ class EvaluationPipeline:
         
         cmd = [
             sys.executable,
-            "src/combine_eval_inference.py",
+            "src/evaluation/combine_eval_inference.py",
             "--input_file_1", eval_output,
             "--input_file_2", inference_output,
             "--output_file", combined_file

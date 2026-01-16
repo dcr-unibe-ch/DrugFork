@@ -9,7 +9,7 @@ INFERENCE="output\20250722_EMA_gpt-4o.json"
 
 
 # Run the Python script with the specified arguments
-python src/combine_eval_inference.py \
+python src/evaluation/combine_eval_inference.py \
     --input_file_1 "$EVAL" \
     --input_file_2 "$INFERENCE" \
     --output_file "inference/combined/$DATASET.json"

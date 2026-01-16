@@ -10,7 +10,7 @@ MODEL_NAME="gpt-4o-mini"
 # ==========================================================
 
 
-python ./src/eval_with_llm.py \
+python ./src/evaluation/eval_with_llm.py \
     --eval_sheet "./evaluation/$EVAL_SHEET_NAME" \
     --output_file "./evaluation/compared_$EVAL_SHEET_NAME" \
     --model_name "$MODEL_NAME" \

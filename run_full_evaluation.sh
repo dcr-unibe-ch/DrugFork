@@ -120,9 +120,9 @@ if [ "$SKIP_SPLIT" = false ]; then
     echo "==========================================================="
     
     if [ "$RUN_ALL" = true ]; then
-        python src/data_preparation.py --config "$CONFIG_FILE" --skip-if-exists --validate
+        python src/evaluation/data_preparation.py --config "$CONFIG_FILE" --skip-if-exists --validate
     else
-        python src/data_preparation.py --dataset "$DATASET" --config "$CONFIG_FILE" --skip-if-exists --validate
+        python src/evaluation/data_preparation.py --dataset "$DATASET" --config "$CONFIG_FILE" --skip-if-exists --validate
     fi
     
     PREP_EXIT_CODE=$?
@@ -156,7 +156,7 @@ if [ "$USE_ASSESSED" = true ]; then
     PIPELINE_ARGS="$PIPELINE_ARGS --use-assessed-sheets"
 fi
 
-python src/run_evaluation_pipeline.py $PIPELINE_ARGS
+python src/evaluation/run_evaluation_pipeline.py $PIPELINE_ARGS
 
 EXIT_CODE=$?
 

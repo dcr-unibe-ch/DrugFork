@@ -27,7 +27,7 @@ for pdf_file in "$INPUT_DIR"/*.pdf; do
         echo "[$count/$total] Processing: $base_name"
         
         # Run the extraction
-        python src/parse_pdf.py \
+        python src/preprocessing/parse_pdf.py \
           --input "$pdf_file" \
           --output "$output_file" \
           --to_extract "${TO_EXTRACT[@]}" \

@@ -17,7 +17,7 @@ elif [ "$DATASET" == "TGA" ]; then
     DATA_DIR="data/TGA/TGA_downloads"
 fi
 
-python src/randomize_data.py\
+python src/preprocessing/randomize_data.py\
     --dataset "$DATASET" \
     --data_dir "$DATA_DIR" \
     --num_samples "$NUM_SAMPLES" \

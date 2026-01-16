@@ -8,6 +8,6 @@ INPUT_FILE="$DATA_DIR/$DATASET.json"
 # ==========================================================
 
 
-python ./src/json_to_csv.py\
+python ./src/utils/json_to_csv.py\
     --input_file "$INPUT_FILE" \
     --output_file "$DATA_DIR/$DATASET.csv" \

@@ -344,26 +344,39 @@ DrugFork/
 ```
 
 **Individual Components:**
-- `src/data_preparation.py` - Data splitting module
-- `src/run_evaluation_pipeline.py` - Pipeline orchestrator
+- `src/evaluation/` - Complete evaluation pipeline module
+  - `run_evaluation_pipeline.py` - Main pipeline orchestrator
+  - `data_preparation.py` - Data splitting and preparation
+  - `generate_predictions.py` - LLM prediction generation
+  - `create_evaluation_sheet.py` - Comparison sheet creation
+  - `evaluate.py` - Metrics computation
+  - `eval_with_llm.py` - LLM-based evaluation
+  - `combine_eval_inference.py` - Result combination utility
+- `src/extraction/` - Data extraction schemas and templates
+  - `schema.py` - JSON validation schemas
+  - `question_response.py` - Agency-specific prompt templates
+- `src/preprocessing/` - Data preprocessing utilities
+  - `parse_pdf.py` - PDF text extraction
+  - `clean_filenames.py` - Filename standardization
+  - `randomize_data.py` - Data randomization
+- `src/utils/` - General utility scripts
+  - `combine_datasets_csv.py` - Dataset merging
+  - `json_to_csv.py` - Format conversion
+  - `extract_from_columns.py` - Column extraction
 - `config/evaluation_config.yaml` - Centralized configuration
 
-### Data Processing
+### Data Processing Scripts
 - `run_parse_pdf.sh` - Extract text and data from PDF documents
 - `run_clean_filenames.sh` - Standardize file naming conventions
 - `run_combine_datasets_csv.sh` - Merge datasets from different agencies
 - `run_extract_from_columns.sh` - Extract specific data columns
+- `run_randomize_data.sh` - Randomize data for sampling
 
-### Legacy Evaluation Scripts (Now Integrated)
-- `run_generate_predictions.sh` - Generate ML model predictions
-- `run_eval_with_llm.sh` - Evaluate using language models
-- `run_evaluate.sh` - Run evaluation metrics
-- `run_create_evaluation_sheet.sh` - Create evaluation spreadsheets
-- `run_randomize_data.sh` - Randomize data for evaluation
-- `run_remove_eval_from_inference.sh` - Separate evaluation/inference sets
-- `run_combine_eval_inference.sh` - Combine evaluation results
+### Additional Evaluation Utilities
+- `run_eval_with_llm.sh` - LLM-based evaluation (standalone)
+- `run_combine_eval_inference.sh` - Combine evaluation and inference results
 
-> **Note:** The legacy scripts above are now integrated into the unified evaluation pipeline. You can still use them individually if needed, but `run_full_evaluation.sh` provides a streamlined workflow.
+> **Note:** Most evaluation workflows are now handled by the unified pipeline (`run_full_evaluation.sh`). Individual scripts remain available for specific tasks.
 
 ## 🔬 Research Applications
 
