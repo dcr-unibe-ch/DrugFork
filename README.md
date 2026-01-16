@@ -9,8 +9,8 @@ DrugFork is a comprehensive medical data science project that systematically ana
 ### Key Statistics (1995-Current)
 
 - **🌍 6 Regulatory Agencies**: EMA, FDA, PMDA (Japan), TGA (Australia), Swissmedic (Switzerland), Health Canada
-- **📊 3,500+ Drug Approval Records**: Dataset from 1995 onwards across all agencies
-- **🔍 280+ Manually Curated Records**: High-quality ground truth for evaluation
+- **📊 32,000+ Drug Approval Records**: Dataset from 1995 onwards across all agencies
+- **🔍 282 Manually Curated Records**: High-quality ground truth for evaluation (157 EMA, 65 Swissmedic, 30 PMDA, 30 TGA)
 - **🤖 Automated LLM Extraction**: Structured data extraction from unstructured PDF reports
 
 ## 🎯 Objectives
@@ -27,22 +27,22 @@ This project aims to:
 
 ### 1. **EMA (European Medicines Agency)** 🇪🇺
 - **Region**: European Union
-- **Dataset Size (1995+)**: ~600 records
+- **Dataset Size (1995+)**: ~1,687 records
 - **Document Type**: European Public Assessment Reports (EPARs)
 
 ### 2. **FDA (Food and Drug Administration)** 🇺🇸
 - **Region**: United States
-- **Dataset Size (1995+)**: ~1,800 records
+- **Dataset Size (1995+)**: ~18,558 records
 - **Document Type**: FDA Approval Packages, Drug Labels
 
 ### 3. **PMDA (Pharmaceuticals and Medical Devices Agency)** 🇯🇵
 - **Region**: Japan
-- **Dataset Size (1995+)**: ~200 records
+- **Dataset Size (1995+)**: ~409 records
 - **Document Type**: Japanese Public Assessment Reports
 
 ### 4. **TGA (Therapeutic Goods Administration)** 🇦🇺
 - **Region**: Australia
-- **Dataset Size (1995+)**: ~400 records
+- **Dataset Size (1995+)**: ~1,042 records
 - **Document Type**: Australian Public Assessment Reports (AusPARs)
 
 ### 5. **Swissmedic** 🇨🇭
@@ -52,7 +52,7 @@ This project aims to:
 
 ### 6. **Health Canada** 🇨🇦
 - **Region**: Canada
-- **Dataset Size (1995+)**: ~270 records
+- **Dataset Size (1995+)**: ~10,286 records
 - **Document Type**: Product Monographs, Regulatory Decision Summaries
 
 ## 📚 Dataset Description
