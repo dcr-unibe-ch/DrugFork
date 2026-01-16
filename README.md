@@ -308,6 +308,8 @@ The evaluation process consists of 4 main steps:
 ./run_full_evaluation.sh --all --no-split --use-existing-predictions --use-assessed-sheets
 # Skips: Data split, LLM generation, eval sheet creation
 # Uses: All existing files, only computes metrics
+# Note: When --use-assessed-sheets is set, new evaluation sheets are NOT created
+#       The pipeline only looks for and uses existing *_assessed.csv files
 ```
 
 #### ⚙️ Configuration
@@ -331,9 +333,9 @@ DrugFork/
 ├── output/                           # LLM predictions
 │   └── 20250729_EMA_gpt-4o.json
 ├── evaluation/
-│   ├── output/                       # Unassessed eval sheets
-│   │   └── 20250729_EMA_gpt-4o.csv
-│   ├── processed_files/              # Manually assessed sheets
+│   ├── output/                       # Unassessed eval sheets (only created when needed)
+│   │   └── 20250729_EMA_gpt-4o.csv   # Created ONLY without --use-assessed-sheets
+│   ├── processed_files/              # Manually assessed sheets (required for metrics)
 │   │   └── 20250717_EMA_gpt-4o_assessed.csv
 │   ├── results/                      # Metrics JSON
 │   │   └── 20250717_EMA_gpt-4o_assessed.csv.json
@@ -420,13 +422,12 @@ Jupyter notebooks for analysis are available in the `src/` directory:
 If you use this dataset in your research, please cite:
 
 ```bibtex
-@misc{drugfork2025,
-  title={DrugFork: A Multi-Agency Drug Approval Dataset for Medical Data Science},
+@misc{drugfork2026,
+  title={DrugFork: Automated assessment of global patterns in drug approvals across six major regulatory agencies, 1995–2025},
   author={{TODO add authors}},
   year={2026},
   publisher={GitHub},
-  howpublished={\url{https://github.com/Ineichen-Group/DrugFork}},
-  note={Accessed: 2025-01-14}
+  howpublished={\url{https://github.com/Ineichen-Group/DrugFork}}
 }
 ```
 

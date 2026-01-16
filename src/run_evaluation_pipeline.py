@@ -232,13 +232,13 @@ class EvaluationPipeline:
         
         return success, eval_sheet if success else None
     
-    def step_4_compute_metrics(self, dataset: str, eval_sheet: str, use_assessed: bool = False) -> bool:
+    def step_4_compute_metrics(self, dataset: str, eval_sheet: str = None, use_assessed: bool = False) -> bool:
         """
         Step 4: Compute evaluation metrics.
         
         Args:
             dataset: Dataset name
-            eval_sheet: Path to evaluation sheet CSV
+            eval_sheet: Path to evaluation sheet CSV (can be None if use_assessed=True)
             use_assessed: If True, look for manually assessed version
             
         Returns:
@@ -252,10 +252,14 @@ class EvaluationPipeline:
             # Try to find assessed version
             import glob
             import os
-            basename = os.path.basename(eval_sheet).replace('.csv', '_assessed.csv')
-            assessed_file = os.path.join(processed_dir, basename)
             
-            if os.path.exists(assessed_file):
+            if eval_sheet and os.path.basename(eval_sheet):
+                basename = os.path.basename(eval_sheet).replace('.csv', '_assessed.csv')
+                assessed_file = os.path.join(processed_dir, basename)
+            else:
+                assessed_file = None
+            
+            if assessed_file and os.path.exists(assessed_file):
                 print(f"Using manually assessed file: {assessed_file}")
                 eval_sheet = assessed_file
             else:
@@ -267,7 +271,8 @@ class EvaluationPipeline:
                     print(f"Using manually assessed file: {eval_sheet}")
                 else:
                     print(f"Warning: No assessed file found for {dataset}")
-                    print(f"Looking for: {assessed_file}")
+                    if assessed_file:
+                        print(f"Looking for: {assessed_file}")
                     print(f"The evaluation sheet needs manual assessment before computing metrics.")
                     return False
         
@@ -367,11 +372,15 @@ class EvaluationPipeline:
             print(f"\nPipeline failed at Step 2 for {dataset}")
             return False
         
-        # Step 3: Create evaluation sheet
-        success, eval_sheet = self.step_3_create_evaluation_sheet(dataset, llm_output)
-        if not success:
-            print(f"\nPipeline failed at Step 3 for {dataset}")
-            return False
+        # Step 3: Create evaluation sheet (skip if using assessed sheets)
+        eval_sheet = None
+        if use_assessed_sheets:
+            print("\nSkipping Step 3: Using existing assessed sheets")
+        else:
+            success, eval_sheet = self.step_3_create_evaluation_sheet(dataset, llm_output)
+            if not success:
+                print(f"\nPipeline failed at Step 3 for {dataset}")
+                return False
         
         # Step 4: Compute metrics
         if not self.step_4_compute_metrics(dataset, eval_sheet, use_assessed=use_assessed_sheets):
