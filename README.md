@@ -220,22 +220,148 @@ See `src/schema.py` for the complete data schema definition.
 
 ## 🔧 Available Scripts
 
+### 🚀 Unified Evaluation Pipeline (Recommended)
+
+**Quick Start:**
+```bash
+# Run complete evaluation pipeline for a single dataset
+./run_full_evaluation.sh EMA
+
+# Run for all datasets
+./run_full_evaluation.sh --all
+
+# Use existing predictions and assessed sheets (fastest)
+./run_full_evaluation.sh --all --no-split --use-existing-predictions --use-assessed-sheets
+```
+
+#### 📋 Complete Evaluation Workflow
+
+The evaluation process consists of 4 main steps:
+
+**Step 1: Data Preparation**
+```bash
+# Splits evaluation samples from inference datasets
+./run_full_evaluation.sh --all
+# Output: data/inference_data/*_clean.txt
+```
+
+**Step 2: Generate LLM Predictions**
+```bash
+# Runs LLM on evaluation set to extract drug information
+./run_full_evaluation.sh EMA
+# Output: output/YYYYMMDD_EMA_gpt-4o.json
+```
+
+**Step 3: Create Evaluation Sheets**
+```bash
+# Creates side-by-side comparison of LLM vs human annotations
+# Output: evaluation/output/YYYYMMDD_EMA_gpt-4o.csv
+# Format: Each field has three columns:
+#   - field_llm: LLM's prediction
+#   - field_human: Human annotation
+#   - field_verdict_human: Empty (needs manual assessment)
+```
+
+**Step 4: Manual Assessment** *(Required - Not automated)*
+- Open the evaluation sheet CSV file
+- For each row, compare LLM vs human values
+- Fill in the `_verdict_human` columns with:
+  - `match` - LLM output matches human annotation
+  - `no_match` - LLM output is incorrect
+  - `partial_0.X` - Partial match (e.g., `partial_0.5` for 50% correct)
+- Save the assessed file to: `evaluation/processed_files/YYYYMMDD_EMA_gpt-4o_assessed.csv`
+
+**Step 5: Compute Metrics**
+```bash
+# Computes accuracy, precision, recall, F1 on assessed files
+./run_full_evaluation.sh --all --use-assessed-sheets
+# Output: 
+#   - evaluation/results/YYYYMMDD_EMA_gpt-4o_assessed.csv.json
+#   - evaluation/plots/YYYYMMDD_EMA_gpt-4o_assessed.png
+```
+
+#### 🎯 Pipeline Modes
+
+**Full Pipeline (Fresh Start):**
+```bash
+./run_full_evaluation.sh --all
+# Runs: Data split → LLM generation → Create eval sheets
+# Then: Manually assess sheets → Run with --use-assessed-sheets
+```
+
+**Using Existing Predictions:**
+```bash
+./run_full_evaluation.sh --all --use-existing-predictions
+# Skips: LLM generation (expensive)
+# Uses: Most recent JSON files from output/ directory
+```
+
+**Using Assessed Sheets:**
+```bash
+./run_full_evaluation.sh --all --use-assessed-sheets
+# Skips: Creating new eval sheets
+# Uses: Manually assessed CSV files from evaluation/processed_files/
+```
+
+**Fast Mode (All Existing):**
+```bash
+./run_full_evaluation.sh --all --no-split --use-existing-predictions --use-assessed-sheets
+# Skips: Data split, LLM generation, eval sheet creation
+# Uses: All existing files, only computes metrics
+```
+
+#### ⚙️ Configuration
+
+Edit `config/evaluation_config.yaml` to customize:
+- Datasets to evaluate (EMA, Japan, Australia, SwissPAR)
+- Model parameters (name, temperature, max_tokens)
+- File paths and directories
+- Processing options (skip_if_exists, validate_split)
+
+#### 📂 File Structure
+
+```
+DrugFork/
+├── data/
+│   ├── eval_data/                    # Evaluation sample lists
+│   │   └── eval_EMA.txt
+│   └── inference_data/               # Full dataset lists
+│       ├── EMA.txt                   # Original full list
+│       └── EMA_clean.txt             # After removing eval samples
+├── output/                           # LLM predictions
+│   └── 20250729_EMA_gpt-4o.json
+├── evaluation/
+│   ├── output/                       # Unassessed eval sheets
+│   │   └── 20250729_EMA_gpt-4o.csv
+│   ├── processed_files/              # Manually assessed sheets
+│   │   └── 20250717_EMA_gpt-4o_assessed.csv
+│   ├── results/                      # Metrics JSON
+│   │   └── 20250717_EMA_gpt-4o_assessed.csv.json
+│   └── plots/                        # Visualization plots
+│       └── 20250717_EMA_gpt-4o_assessed.png
+```
+
+**Individual Components:**
+- `src/data_preparation.py` - Data splitting module
+- `src/run_evaluation_pipeline.py` - Pipeline orchestrator
+- `config/evaluation_config.yaml` - Centralized configuration
+
 ### Data Processing
 - `run_parse_pdf.sh` - Extract text and data from PDF documents
 - `run_clean_filenames.sh` - Standardize file naming conventions
 - `run_combine_datasets_csv.sh` - Merge datasets from different agencies
 - `run_extract_from_columns.sh` - Extract specific data columns
 
-### Model & Evaluation
+### Legacy Evaluation Scripts (Now Integrated)
 - `run_generate_predictions.sh` - Generate ML model predictions
 - `run_eval_with_llm.sh` - Evaluate using language models
 - `run_evaluate.sh` - Run evaluation metrics
 - `run_create_evaluation_sheet.sh` - Create evaluation spreadsheets
-
-### Data Preparation
 - `run_randomize_data.sh` - Randomize data for evaluation
 - `run_remove_eval_from_inference.sh` - Separate evaluation/inference sets
 - `run_combine_eval_inference.sh` - Combine evaluation results
+
+> **Note:** The legacy scripts above are now integrated into the unified evaluation pipeline. You can still use them individually if needed, but `run_full_evaluation.sh` provides a streamlined workflow.
 
 ## 🔬 Research Applications
 

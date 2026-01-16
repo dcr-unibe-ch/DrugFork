@@ -40,9 +40,9 @@ def merge_dfs_with_suffixes(df_llm, df_annotated,
     key1 = key + suffix1
     key2 = key + suffix2
 
-    print("\n📄 LLM Data:")
+    print("\nLLM Data:")
     print(df_llm[["Document_name"]].head())
-    print("\n📄 Human Data:")
+    print("\nHuman Data:")
     print(df_annotated[["Document_name"]].head())
 
 

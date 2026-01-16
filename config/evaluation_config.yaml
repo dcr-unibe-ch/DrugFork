@@ -1,0 +1,64 @@
+# Evaluation Configuration for DrugFork
+# This config controls the full evaluation pipeline including data splitting,
+# prediction generation, and metrics computation
+
+# Datasets to evaluate
+datasets:
+  - EMA
+  - SwissPAR
+  - Japan
+  - Australia
+
+# Data split configuration
+data_split:
+  enabled: true
+  eval_files_dir: data/eval_data
+  inference_files_dir: data/inference_data
+  # Mapping for dataset name variations
+  dataset_mapping:
+    SwissPAR: SwissPAR
+    EMA: EMA
+    Japan: Japan
+    Australia: Australia
+
+# Model configuration for predictions
+model:
+  name: gpt-4o
+  temperature: 0.1
+  max_tokens: 1000
+
+# Paths
+paths:
+  # Human annotations for comparison
+  human_annotations: data/annotations/Drug_Approval_Annotations_all_datasets-Sheet1_cleaned.csv
+  
+  # Output directories
+  output_dir: output
+  evaluation_dir: evaluation
+  evaluation_output_dir: evaluation/output
+  evaluation_plots_dir: evaluation/plots
+  evaluation_processed_dir: evaluation/processed_files
+  evaluation_results_dir: evaluation/results
+
+# Evaluation settings
+evaluation:
+  # Metrics to compute
+  metrics:
+    - accuracy
+    - precision
+    - recall
+    - f1_score
+  
+  # Create evaluation sheets comparing LLM vs human
+  create_comparison_sheets: true
+  
+  # Combine eval and inference results after evaluation
+  combine_results: false
+
+# Processing options
+processing:
+  # Skip data split if clean files already exist
+  skip_if_exists: true
+  
+  # Validate split (check for leakage)
+  validate_split: true

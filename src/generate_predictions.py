@@ -91,9 +91,9 @@ def generate_response(text, client, model_name, file_name, question_response_pai
 
 def save_to_csv(data, output_csv_file, question_response_pairs):
     """Save the results to a CSV file."""
-    with open(output_csv_file, 'w', newline='') as csvfile:
-        fieldnames = ["Document_name"] + [key for key in question_response_pairs.keys()]
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    with open(output_csv_file, 'w', newline='', encoding='utf-8') as csvfile:
+        fieldnames = ["Document_name"] + [key for key in question_response_pairs.keys()] + ["Error"]
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, extrasaction='ignore')
         
         writer.writeheader()
         for file_name, response in data.items():

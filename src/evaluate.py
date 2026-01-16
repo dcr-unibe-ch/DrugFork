@@ -171,8 +171,10 @@ def main():
 
     print(f"Results saved to {args.output_file}")
 
-    # Plot results
-    plot_results(results, args.output_dir, args.input_file.split('/')[-1].replace('.csv', ''))
+    # Plot results - use os.path.basename to get just the filename
+    import os
+    output_name = os.path.basename(args.input_file).replace('.csv', '')
+    plot_results(results, args.output_dir, output_name)
 
 
 if __name__ == "__main__":
