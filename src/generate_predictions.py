@@ -9,15 +9,14 @@ from openai import OpenAI
 from datetime import datetime
 
 from schema import json_schema
-from question_response import EMA_pairs, SwissMedic_pairs, Japan_pairs, Australia_pairs
+from question_response import EMA_pairs, Swissmedic_pairs, PMDA_pairs, TGA_pairs
 
 
 def load_env_variables():
     """Load environment variables from .env file."""
     load_dotenv(override=True)
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-    GOOGLEAI_API_KEY = os.getenv("GOOGLEAI_API_KEY")
-    return OPENAI_API_KEY, GOOGLEAI_API_KEY
+    return OPENAI_API_KEY
 
 def parse_arguments():
     """Parse command line arguments."""
@@ -35,11 +34,11 @@ def handle_file(file_path, dataset_name):
     """Extract text from the PDF file."""
     if file_path.endswith('.pdf'):
         reader = PdfReader(file_path)
-        if dataset_name == "Australia":
+        if dataset_name == "TGA":
             max_pages = 40
-        elif dataset_name == "Japan":
+        elif dataset_name == "PMDA":
             max_pages = 60
-        elif dataset_name == "SwissMedic" or dataset_name == "EMA":
+        elif dataset_name == "Swissmedic" or dataset_name == "EMA":
             max_pages = 70
         else:
             max_pages = 80
@@ -114,7 +113,7 @@ def process_files(args, file_list, client, model_name, save_dir, data_dir):
     output_file_csv = os.path.join(save_dir, f'{timestamp}_{args.dataset}_{model_name}.csv')
     os.makedirs(save_dir, exist_ok=True)
 
-    dataset_pairs = EMA_pairs if args.dataset == "EMA" else SwissMedic_pairs if args.dataset == "SwissMedic" else Japan_pairs if args.dataset == "Japan" else Australia_pairs
+    dataset_pairs = EMA_pairs if args.dataset == "EMA" else Swissmedic_pairs if args.dataset == "Swissmedic" else PMDA_pairs if args.dataset == "PMDA" else TGA_pairs
 
 
     existing_data = {}
@@ -159,7 +158,7 @@ def process_files(args, file_list, client, model_name, save_dir, data_dir):
 
 def main():
     args = parse_arguments()
-    OPENAI_API_KEY, _ = load_env_variables()
+    OPENAI_API_KEY = load_env_variables()
     client = OpenAI(api_key=OPENAI_API_KEY)
 
     process_files(args, args.file_list, client, model_name=args.model, save_dir=args.save_dir, data_dir=args.data_dir)

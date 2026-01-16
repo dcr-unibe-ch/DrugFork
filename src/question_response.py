@@ -84,7 +84,7 @@ EMA_pairs = {
         "response": "`Referral_body` (string)"
     }
 }
-SwissMedic_pairs = {
+Swissmedic_pairs = {
     "Marketing_authorisation_number": {
         "question": "What is the marketing authorisation number? Product number, usually specified on the first page. It is always a 5-digit number",
         "response": "`Marketing_authorisation_number` (string)"
@@ -170,7 +170,7 @@ SwissMedic_pairs = {
         "response": "`Referral_body` (string)"
     }
 }
-Japan_pairs = {
+PMDA_pairs = {
     "Marketing_authorisation_number": {
         "question": "What is the marketing authorisation number? If not specified, write `Not reported`.",
         "response": "`Marketing_authorisation_number` (string)"
@@ -256,7 +256,7 @@ Japan_pairs = {
         "response": "`Referral_body` (string)"
     }
 }
-Australia_pairs = {
+TGA_pairs = {
     "Marketing_authorisation_number": {
         "question": "What is the ARTG number (marketing authorisation number)? If not specified, write `Not reported`.",
         "response": "`Marketing_authorisation_number` (string)"
