@@ -1,0 +1,436 @@
+Year,Disease_class,Prevalence
+1995,Diseases of the blood and blood-forming organs,1084078834.119773
+1995,Diseases of the circulatory system,621415091.9923829
+1995,Diseases of the digestive system,6134640168.257484
+1995,Diseases of the ear,1038236745.5491741
+1995,Diseases of the eye and adnexa,476163367.96210337
+1995,Diseases of the genitourinary system,2731599750.5434184
+1995,Diseases of the musculoskeletal system and connective tissue,1133679302.5780106
+1995,Diseases of the nervous system,899846969.9716612
+1995,Diseases of the respiratory system,2242602271.4940104
+1995,Diseases of the skin,1009685459.2486469
+1995,"Injury, poisoning and certain other consequences of external causes",1840773573.8779714
+1995,Mental and behavioural disorders,846149792.8263283
+1995,Neoplasms,220315535.9419951
+1995,Other,3515045424.88451
+1995,Pregnancy and childbirth,195578165.9567085
+1996,Diseases of the blood and blood-forming organs,1101495116.9068613
+1996,Diseases of the circulatory system,635001233.1748222
+1996,Diseases of the digestive system,6174161673.827034
+1996,Diseases of the ear,1059699597.0660536
+1996,Diseases of the eye and adnexa,486536876.027824
+1996,Diseases of the genitourinary system,2785326823.2336698
+1996,Diseases of the musculoskeletal system and connective tissue,1156951750.8760233
+1996,Diseases of the nervous system,914276760.4384942
+1996,Diseases of the respiratory system,2265201662.089818
+1996,Diseases of the skin,1021285060.2605103
+1996,"Injury, poisoning and certain other consequences of external causes",1864266356.251154
+1996,Mental and behavioural disorders,859760657.1242524
+1996,Neoplasms,224838521.9823937
+1996,Other,3564661399.545842
+1996,Pregnancy and childbirth,198095345.19052413
+1997,Diseases of the blood and blood-forming organs,1117782878.2400723
+1997,Diseases of the circulatory system,649365305.7674489
+1997,Diseases of the digestive system,6208309249.802359
+1997,Diseases of the ear,1082039398.1204991
+1997,Diseases of the eye and adnexa,496934900.46305454
+1997,Diseases of the genitourinary system,2839217779.3987484
+1997,Diseases of the musculoskeletal system and connective tissue,1179734012.5390844
+1997,Diseases of the nervous system,928051684.9929965
+1997,Diseases of the respiratory system,2285201923.972106
+1997,Diseases of the skin,1033039436.4990194
+1997,"Injury, poisoning and certain other consequences of external causes",1887784292.1774719
+1997,Mental and behavioural disorders,872528412.0912707
+1997,Neoplasms,229024349.96043944
+1997,Other,3611975198.954592
+1997,Pregnancy and childbirth,200406500.20445845
+1998,Diseases of the blood and blood-forming organs,1133640423.269982
+1998,Diseases of the circulatory system,663802336.9318678
+1998,Diseases of the digestive system,6242067183.061906
+1998,Diseases of the ear,1104930126.3705702
+1998,Diseases of the eye and adnexa,507405410.8017912
+1998,Diseases of the genitourinary system,2894134333.689858
+1998,Diseases of the musculoskeletal system and connective tissue,1202601054.9199934
+1998,Diseases of the nervous system,941716933.6738044
+1998,Diseases of the respiratory system,2303554256.4702277
+1998,Diseases of the skin,1044741894.7886887
+1998,"Injury, poisoning and certain other consequences of external causes",1911664561.9730217
+1998,Mental and behavioural disorders,885428155.2167791
+1998,Neoplasms,233430903.4452905
+1998,Other,3658607010.5262074
+1998,Pregnancy and childbirth,202658362.60969067
+1999,Diseases of the blood and blood-forming organs,1149817949.767031
+1999,Diseases of the circulatory system,677336717.2249484
+1999,Diseases of the digestive system,6281596312.5198765
+1999,Diseases of the ear,1128616841.0187016
+1999,Diseases of the eye and adnexa,518349683.5470827
+1999,Diseases of the genitourinary system,2949362857.34153
+1999,Diseases of the musculoskeletal system and connective tissue,1226563694.2661035
+1999,Diseases of the nervous system,955761303.4459981
+1999,Diseases of the respiratory system,2321461024.571171
+1999,Diseases of the skin,1056263805.7718351
+1999,"Injury, poisoning and certain other consequences of external causes",1936441860.8164206
+1999,Mental and behavioural disorders,898889165.7645652
+1999,Neoplasms,237994448.40083474
+1999,Other,3706162199.4148083
+1999,Pregnancy and childbirth,205010392.5526927
+2000,Diseases of the blood and blood-forming organs,1167192056.8812244
+2000,Diseases of the circulatory system,688929762.5902045
+2000,Diseases of the digestive system,6333943180.117009
+2000,Diseases of the ear,1152511973.8480694
+2000,Diseases of the eye and adnexa,529701725.6946696
+2000,Diseases of the genitourinary system,3006137217.080754
+2000,Diseases of the musculoskeletal system and connective tissue,1252295057.9834628
+2000,Diseases of the nervous system,970826654.6071705
+2000,Diseases of the respiratory system,2340389966.7515435
+2000,Diseases of the skin,1067647789.3493339
+2000,"Injury, poisoning and certain other consequences of external causes",1962010403.1305494
+2000,Mental and behavioural disorders,911920820.7111062
+2000,Neoplasms,242435005.74146774
+2000,Other,3755954292.771533
+2000,Pregnancy and childbirth,207728258.6915842
+2001,Diseases of the blood and blood-forming organs,1185749409.2259977
+2001,Diseases of the circulatory system,692692376.8759251
+2001,Diseases of the digestive system,6390456016.828149
+2001,Diseases of the ear,1176802287.355002
+2001,Diseases of the eye and adnexa,541707804.8577752
+2001,Diseases of the genitourinary system,3062110195.553198
+2001,Diseases of the musculoskeletal system and connective tissue,1281028122.2347953
+2001,Diseases of the nervous system,987337683.8639305
+2001,Diseases of the respiratory system,2352029289.416089
+2001,Diseases of the skin,1079212478.0541306
+2001,"Injury, poisoning and certain other consequences of external causes",1987175065.823528
+2001,Mental and behavioural disorders,924850097.7131875
+2001,Neoplasms,247000674.09233096
+2001,Other,3801817130.9740357
+2001,Pregnancy and childbirth,211251971.96507
+2002,Diseases of the blood and blood-forming organs,1203467995.271872
+2002,Diseases of the circulatory system,686774417.0438683
+2002,Diseases of the digestive system,6440796668.128665
+2002,Diseases of the ear,1201506407.6829522
+2002,Diseases of the eye and adnexa,554021822.4073982
+2002,Diseases of the genitourinary system,3116685817.261186
+2002,Diseases of the musculoskeletal system and connective tissue,1312621104.3170989
+2002,Diseases of the nervous system,1004997592.9459273
+2002,Diseases of the respiratory system,2351907752.5274396
+2002,Diseases of the skin,1091178556.8979418
+2002,"Injury, poisoning and certain other consequences of external causes",2013421649.4862237
+2002,Mental and behavioural disorders,938776563.5525764
+2002,Neoplasms,251855531.60856232
+2002,Other,3841150451.2375636
+2002,Pregnancy and childbirth,215616230.67095816
+2003,Diseases of the blood and blood-forming organs,1221577373.3758368
+2003,Diseases of the circulatory system,675676921.0075542
+2003,Diseases of the digestive system,6489124903.581713
+2003,Diseases of the ear,1226422596.2192721
+2003,Diseases of the eye and adnexa,566364410.3213332
+2003,Diseases of the genitourinary system,3171047314.5950093
+2003,Diseases of the musculoskeletal system and connective tissue,1345695675.1383915
+2003,Diseases of the nervous system,1023231019.0934522
+2003,Diseases of the respiratory system,2347427817.434468
+2003,Diseases of the skin,1103693202.684086
+2003,"Injury, poisoning and certain other consequences of external causes",2042527990.787838
+2003,Mental and behavioural disorders,951507600.9667156
+2003,Neoplasms,257023730.69344887
+2003,Other,3878958076.6540866
+2003,Pregnancy and childbirth,220444140.75151107
+2004,Diseases of the blood and blood-forming organs,1239522473.4566827
+2004,Diseases of the circulatory system,664673563.5688736
+2004,Diseases of the digestive system,6539076585.396172
+2004,Diseases of the ear,1252271660.6537051
+2004,Diseases of the eye and adnexa,579152004.862472
+2004,Diseases of the genitourinary system,3225571243.7569094
+2004,Diseases of the musculoskeletal system and connective tissue,1379510357.2043083
+2004,Diseases of the nervous system,1041291508.9050223
+2004,Diseases of the respiratory system,2346129187.333868
+2004,Diseases of the skin,1116513435.5213122
+2004,"Injury, poisoning and certain other consequences of external causes",2075565220.6515815
+2004,Mental and behavioural disorders,964823399.4324718
+2004,Neoplasms,262065576.12514204
+2004,Other,3920036685.991921
+2004,Pregnancy and childbirth,225174784.52869517
+2005,Diseases of the blood and blood-forming organs,1257220653.1039739
+2005,Diseases of the circulatory system,661435249.2993917
+2005,Diseases of the digestive system,6597319256.565065
+2005,Diseases of the ear,1280422639.299694
+2005,Diseases of the eye and adnexa,592861679.3274342
+2005,Diseases of the genitourinary system,3283384680.099526
+2005,Diseases of the musculoskeletal system and connective tissue,1414026401.979887
+2005,Diseases of the nervous system,1058733414.9256214
+2005,Diseases of the respiratory system,2356856471.710475
+2005,Diseases of the skin,1129785040.8399725
+2005,"Injury, poisoning and certain other consequences of external causes",2113830333.472409
+2005,Mental and behavioural disorders,978458030.5402361
+2005,Neoplasms,267921565.87660718
+2005,Other,3970229952.432114
+2005,Pregnancy and childbirth,229182713.6698344
+2006,Diseases of the blood and blood-forming organs,1272905091.9776347
+2006,Diseases of the circulatory system,659794545.3133199
+2006,Diseases of the digestive system,6649420600.882606
+2006,Diseases of the ear,1309841125.2498183
+2006,Diseases of the eye and adnexa,607038925.5955614
+2006,Diseases of the genitourinary system,3335877447.7203937
+2006,Diseases of the musculoskeletal system and connective tissue,1449151452.19171
+2006,Diseases of the nervous system,1075421209.9094954
+2006,Diseases of the respiratory system,2377312229.8382287
+2006,Diseases of the skin,1142849358.4714584
+2006,"Injury, poisoning and certain other consequences of external causes",2161583096.205358
+2006,Mental and behavioural disorders,992364182.2595998
+2006,Neoplasms,273828546.24662703
+2006,Other,4028960963.723759
+2006,Pregnancy and childbirth,232225483.7050878
+2007,Diseases of the blood and blood-forming organs,1285474528.9969535
+2007,Diseases of the circulatory system,653904196.1102829
+2007,Diseases of the digestive system,6688077171.045567
+2007,Diseases of the ear,1340699672.9995534
+2007,Diseases of the eye and adnexa,621540545.1974727
+2007,Diseases of the genitourinary system,3380564633.6578116
+2007,Diseases of the musculoskeletal system and connective tissue,1486815581.6124399
+2007,Diseases of the nervous system,1092320149.9911215
+2007,Diseases of the respiratory system,2400004634.3518305
+2007,Diseases of the skin,1155853996.8102221
+2007,"Injury, poisoning and certain other consequences of external causes",2219866006.4328604
+2007,Mental and behavioural disorders,1007300304.5838095
+2007,Neoplasms,280348217.2216505
+2007,Other,4092847900.79259
+2007,Pregnancy and childbirth,234643023.89023143
+2008,Diseases of the blood and blood-forming organs,1296548509.605411
+2008,Diseases of the circulatory system,646842557.5566908
+2008,Diseases of the digestive system,6722137310.916254
+2008,Diseases of the ear,1372381760.3234026
+2008,Diseases of the eye and adnexa,636215090.84062
+2008,Diseases of the genitourinary system,3421804777.7803073
+2008,Diseases of the musculoskeletal system and connective tissue,1525596716.0198414
+2008,Diseases of the nervous system,1109161232.4231176
+2008,Diseases of the respiratory system,2423018816.5305905
+2008,Diseases of the skin,1168906561.7076557
+2008,"Injury, poisoning and certain other consequences of external causes",2283066255.4336715
+2008,Mental and behavioural disorders,1020399182.3390348
+2008,Neoplasms,286943283.2246759
+2008,Other,4159969862.962814
+2008,Pregnancy and childbirth,236657805.17198557
+2009,Diseases of the blood and blood-forming organs,1308777957.2946136
+2009,Diseases of the circulatory system,642535201.2158558
+2009,Diseases of the digestive system,6764871362.67156
+2009,Diseases of the ear,1405379285.7939298
+2009,Diseases of the eye and adnexa,651660982.5979269
+2009,Diseases of the genitourinary system,3465855029.6207223
+2009,Diseases of the musculoskeletal system and connective tissue,1564903172.3195484
+2009,Diseases of the nervous system,1126224949.177858
+2009,Diseases of the respiratory system,2445927845.4480543
+2009,Diseases of the skin,1182904229.291354
+2009,"Injury, poisoning and certain other consequences of external causes",2343536655.888051
+2009,Mental and behavioural disorders,1035937080.7672181
+2009,Neoplasms,293043678.3094336
+2009,Other,4227549621.2600193
+2009,Pregnancy and childbirth,238792415.92450544
+2010,Diseases of the blood and blood-forming organs,1322804835.8397458
+2010,Diseases of the circulatory system,645941226.7397069
+2010,Diseases of the digestive system,6825363822.213202
+2010,Diseases of the ear,1439551478.8866582
+2010,Diseases of the eye and adnexa,668023660.643015
+2010,Diseases of the genitourinary system,3517709909.829016
+2010,Diseases of the musculoskeletal system and connective tissue,1603677847.816458
+2010,Diseases of the nervous system,1142797374.858965
+2010,Diseases of the respiratory system,2466041933.7633295
+2010,Diseases of the skin,1197870377.93958
+2010,"Injury, poisoning and certain other consequences of external causes",2397132132.2232285
+2010,Mental and behavioural disorders,1050675972.8209758
+2010,Neoplasms,299371220.97427
+2010,Other,4295355612.593207
+2010,Pregnancy and childbirth,241273912.44489962
+2011,Diseases of the blood and blood-forming organs,1333889705.49833
+2011,Diseases of the circulatory system,653987411.574472
+2011,Diseases of the digestive system,6893870089.612198
+2011,Diseases of the ear,1474739581.2442439
+2011,Diseases of the eye and adnexa,684939003.7418954
+2011,Diseases of the genitourinary system,3570077156.6936026
+2011,Diseases of the musculoskeletal system and connective tissue,1642476519.054685
+2011,Diseases of the nervous system,1158057780.8951983
+2011,Diseases of the respiratory system,2483405977.62418
+2011,Diseases of the skin,1212871077.716012
+2011,"Injury, poisoning and certain other consequences of external causes",2442344742.373108
+2011,Mental and behavioural disorders,1066896975.2266304
+2011,Neoplasms,305199913.86837196
+2011,Other,4359112856.409211
+2011,Pregnancy and childbirth,245721941.5583914
+2012,Diseases of the blood and blood-forming organs,1340000155.3435552
+2012,Diseases of the circulatory system,661995910.172533
+2012,Diseases of the digestive system,6959892035.510738
+2012,Diseases of the ear,1511703819.2717862
+2012,Diseases of the eye and adnexa,701992294.5339118
+2012,Diseases of the genitourinary system,3617858320.0376515
+2012,Diseases of the musculoskeletal system and connective tissue,1683525010.8920536
+2012,Diseases of the nervous system,1172896769.7261517
+2012,Diseases of the respiratory system,2501219732.3984733
+2012,Diseases of the skin,1228021683.2326255
+2012,"Injury, poisoning and certain other consequences of external causes",2485558995.7537665
+2012,Mental and behavioural disorders,1084033445.6003828
+2012,Neoplasms,311381514.6861559
+2012,Other,4421152166.796304
+2012,Pregnancy and childbirth,252707263.8976809
+2013,Diseases of the blood and blood-forming organs,1344038420.7532554
+2013,Diseases of the circulatory system,670271902.416293
+2013,Diseases of the digestive system,7025982321.487385
+2013,Diseases of the ear,1549599525.027488
+2013,Diseases of the eye and adnexa,719198393.7333949
+2013,Diseases of the genitourinary system,3664013116.45794
+2013,Diseases of the musculoskeletal system and connective tissue,1725625470.5562947
+2013,Diseases of the nervous system,1187811530.2872534
+2013,Diseases of the respiratory system,2519616227.0333524
+2013,Diseases of the skin,1243602433.8860166
+2013,"Injury, poisoning and certain other consequences of external causes",2524278596.2774544
+2013,Mental and behavioural disorders,1101889798.8048422
+2013,Neoplasms,317601927.3841217
+2013,Other,4479924585.024993
+2013,Pregnancy and childbirth,260720562.4529857
+2014,Diseases of the blood and blood-forming organs,1349478676.9057066
+2014,Diseases of the circulatory system,680182166.254438
+2014,Diseases of the digestive system,7094257256.580956
+2014,Diseases of the ear,1588134149.853631
+2014,Diseases of the eye and adnexa,737123947.5977616
+2014,Diseases of the genitourinary system,3711112499.8400145
+2014,Diseases of the musculoskeletal system and connective tissue,1767774301.0649648
+2014,Diseases of the nervous system,1202760207.223011
+2014,Diseases of the respiratory system,2537602682.0497255
+2014,Diseases of the skin,1259300963.909045
+2014,"Injury, poisoning and certain other consequences of external causes",2556747213.5291452
+2014,Mental and behavioural disorders,1121787631.0406115
+2014,Neoplasms,323940970.50539464
+2014,Other,4534143452.411204
+2014,Pregnancy and childbirth,267986835.92175025
+2015,Diseases of the blood and blood-forming organs,1360557802.7619867
+2015,Diseases of the circulatory system,693115766.5433344
+2015,Diseases of the digestive system,7167806241.21498
+2015,Diseases of the ear,1626750334.859282
+2015,Diseases of the eye and adnexa,755811460.4577166
+2015,Diseases of the genitourinary system,3762728392.9232225
+2015,Diseases of the musculoskeletal system and connective tissue,1809093591.9360552
+2015,Diseases of the nervous system,1218120306.0441918
+2015,Diseases of the respiratory system,2554981480.359786
+2015,Diseases of the skin,1274971457.5524616
+2015,"Injury, poisoning and certain other consequences of external causes",2581471748.1132245
+2015,Mental and behavioural disorders,1141928274.6874301
+2015,Neoplasms,330736231.56500584
+2015,Other,4582893380.0824995
+2015,Pregnancy and childbirth,272699049.2446564
+2016,Diseases of the blood and blood-forming organs,1376707841.5608943
+2016,Diseases of the circulatory system,706074661.4231573
+2016,Diseases of the digestive system,7233877121.579238
+2016,Diseases of the ear,1664702948.4091923
+2016,Diseases of the eye and adnexa,774433378.1926024
+2016,Diseases of the genitourinary system,3817708782.293643
+2016,Diseases of the musculoskeletal system and connective tissue,1848601234.3463526
+2016,Diseases of the nervous system,1234354653.1698658
+2016,Diseases of the respiratory system,2571338275.5240536
+2016,Diseases of the skin,1289944982.0867586
+2016,"Injury, poisoning and certain other consequences of external causes",2572148625.9619203
+2016,Mental and behavioural disorders,1161798557.2875147
+2016,Neoplasms,337359527.0094025
+2016,Other,4599398683.050637
+2016,Pregnancy and childbirth,276593378.8848099
+2017,Diseases of the blood and blood-forming organs,1395239768.8886414
+2017,Diseases of the circulatory system,718804115.2863923
+2017,Diseases of the digestive system,7290488122.975609
+2017,Diseases of the ear,1704421812.8327808
+2017,Diseases of the eye and adnexa,792977032.7412126
+2017,Diseases of the genitourinary system,3875429057.009456
+2017,Diseases of the musculoskeletal system and connective tissue,1889089249.2816882
+2017,Diseases of the nervous system,1252185703.2252965
+2017,Diseases of the respiratory system,2587664164.326225
+2017,Diseases of the skin,1304753051.432273
+2017,"Injury, poisoning and certain other consequences of external causes",2523186928.7089667
+2017,Mental and behavioural disorders,1180992604.0424035
+2017,Neoplasms,344269361.8768532
+2017,Other,4577797934.514794
+2017,Pregnancy and childbirth,281831715.5966492
+2018,Diseases of the blood and blood-forming organs,1414618035.047054
+2018,Diseases of the circulatory system,730489325.1059718
+2018,Diseases of the digestive system,7345870551.424008
+2018,Diseases of the ear,1744388615.854272
+2018,Diseases of the eye and adnexa,811223275.8113518
+2018,Diseases of the genitourinary system,3933810715.316894
+2018,Diseases of the musculoskeletal system and connective tissue,1929172818.4346101
+2018,Diseases of the nervous system,1270570484.3530989
+2018,Diseases of the respiratory system,2602957570.849254
+2018,Diseases of the skin,1318824167.347157
+2018,"Injury, poisoning and certain other consequences of external causes",2458422133.726709
+2018,Mental and behavioural disorders,1199658184.191291
+2018,Neoplasms,350703688.1974746
+2018,Other,4540966800.672472
+2018,Pregnancy and childbirth,287018834.45278776
+2019,Diseases of the blood and blood-forming organs,1434102685.5356295
+2019,Diseases of the circulatory system,743409130.1935661
+2019,Diseases of the digestive system,7412621775.969711
+2019,Diseases of the ear,1785576446.3272274
+2019,Diseases of the eye and adnexa,830601773.5411079
+2019,Diseases of the genitourinary system,3993682527.4036865
+2019,Diseases of the musculoskeletal system and connective tissue,1969626527.727644
+2019,Diseases of the nervous system,1288742248.4425738
+2019,Diseases of the respiratory system,2617817942.410672
+2019,Diseases of the skin,1332635992.7437618
+2019,"Injury, poisoning and certain other consequences of external causes",2410333898.928127
+2019,Mental and behavioural disorders,1219419108.7485423
+2019,Neoplasms,357417076.8543461
+2019,Other,4521032008.302504
+2019,Pregnancy and childbirth,290716273.93606496
+2020,Diseases of the blood and blood-forming organs,1452399917.5613985
+2020,Diseases of the circulatory system,757163267.2282213
+2020,Diseases of the digestive system,7495276681.020965
+2020,Diseases of the ear,1825504666.465963
+2020,Diseases of the eye and adnexa,850028211.1964235
+2020,Diseases of the genitourinary system,4052564517.3174906
+2020,Diseases of the musculoskeletal system and connective tissue,2008362858.705625
+2020,Diseases of the nervous system,1305359517.560887
+2020,Diseases of the respiratory system,2760674907.7004724
+2020,Diseases of the skin,1345573134.4959056
+2020,"Injury, poisoning and certain other consequences of external causes",2407353695.4456477
+2020,Mental and behavioural disorders,1342696005.9096875
+2020,Neoplasms,363666095.4962658
+2020,Other,4545218666.363687
+2020,Pregnancy and childbirth,295986996.7126025
+2021,Diseases of the blood and blood-forming organs,1467585570.3274024
+2021,Diseases of the circulatory system,767535491.3672631
+2021,Diseases of the digestive system,7567668537.776492
+2021,Diseases of the ear,1870312020.1437137
+2021,Diseases of the eye and adnexa,869085674.4824383
+2021,Diseases of the genitourinary system,4112679471.7950172
+2021,Diseases of the musculoskeletal system and connective tissue,2041717911.2251782
+2021,Diseases of the nervous system,1320413680.4090462
+2021,Diseases of the respiratory system,2918862617.907392
+2021,Diseases of the skin,1357047197.9128137
+2021,"Injury, poisoning and certain other consequences of external causes",2471883115.3038545
+2021,Mental and behavioural disorders,1368915154.2404125
+2021,Neoplasms,370326180.5103663
+2021,Other,4632425850.466454
+2021,Pregnancy and childbirth,299195667.95127153
+2022,Diseases of the blood and blood-forming organs,1483458767.2504458
+2022,Diseases of the circulatory system,780312871.878353
+2022,Diseases of the digestive system,7639147750.114962
+2022,Diseases of the ear,1916501763.4024365
+2022,Diseases of the eye and adnexa,889451069.5971287
+2022,Diseases of the genitourinary system,4173322625.9226074
+2022,Diseases of the musculoskeletal system and connective tissue,2072511714.9896598
+2022,Diseases of the nervous system,1335925276.68344
+2022,Diseases of the respiratory system,3072086425.5336356
+2022,Diseases of the skin,1368735268.5382724
+2022,"Injury, poisoning and certain other consequences of external causes",2555650423.765132
+2022,Mental and behavioural disorders,1398832523.7367525
+2022,Neoplasms,379788183.0109336
+2022,Other,4741262016.862887
+2022,Pregnancy and childbirth,305929816.72457623
+2023,Diseases of the blood and blood-forming organs,1496167156.2548077
+2023,Diseases of the circulatory system,801961013.3545359
+2023,Diseases of the digestive system,7618474656.655922
+2023,Diseases of the ear,1952559437.099018
+2023,Diseases of the eye and adnexa,909537748.8528548
+2023,Diseases of the genitourinary system,4274839912.5811896
+2023,Diseases of the musculoskeletal system and connective tissue,2081140748.1676564
+2023,Diseases of the nervous system,1350448322.5926201
+2023,Diseases of the respiratory system,2984338496.5379195
+2023,Diseases of the skin,1383149585.6065164
+2023,"Injury, poisoning and certain other consequences of external causes",2602194176.470373
+2023,Mental and behavioural disorders,1479793378.3744879
+2023,Neoplasms,387227598.3881989
+2023,Other,4813291915.395644
+2023,Pregnancy and childbirth,308048300.0167676
