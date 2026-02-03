@@ -125,7 +125,7 @@ def summarize_column(series):
 
 def plot_results(results, output_dir, output_name):
 
-    plt.figure(figsize=(8, 5))
+    plt.figure(figsize=(5, 6))
 
     # Filter out Document_name
     filtered_results = {k: v for k, v in results.items() if k != 'Document_name'}
@@ -133,19 +133,25 @@ def plot_results(results, output_dir, output_name):
     labels = [key.replace('_', ' ') for key in filtered_results.keys()]
     true_counts = [res['num_true'] for res in filtered_results.values()]
     false_counts = [res['num_false'] for res in filtered_results.values()]
+    
+    # Calculate percentages
+    totals = [true + false for true, false in zip(true_counts, false_counts)]
+    true_percentages = [100 * true / total if total > 0 else 0 for true, total in zip(true_counts, totals)]
+    false_percentages = [100 * false / total if total > 0 else 0 for false, total in zip(false_counts, totals)]
 
-    x = range(len(labels))
+    y = range(len(labels))
 
-    bar1 = plt.bar(x, true_counts, label='True', color='seagreen')
-    bar2 = plt.bar(x, false_counts, bottom=true_counts, label='False', color='violet')
+    bar1 = plt.barh(y, true_percentages, label='True', color='seagreen')
+    bar2 = plt.barh(y, false_percentages, left=true_percentages, label='False', color='violet')
 
 
-    plt.xlabel('Columns')
-    plt.ylabel('Counts')
-    plt.xticks([i + 0.2 for i in x], labels, rotation=90)
+    plt.ylabel('Columns')
+    plt.xlabel('Percentage (%)')
+    plt.xlim(0, 100)
+    plt.yticks(y, labels)
     plt.legend()
     plt.tight_layout()
-    plt.grid(axis='y')
+    plt.grid(axis='x')
     plt.savefig(f'{output_dir}/{output_name}.png', dpi=300)
     # plt.show()
 
