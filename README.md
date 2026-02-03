@@ -4,24 +4,24 @@
 
 ## 🔬 Overview
 
-DrugFork is a comprehensive medical data science project that systematically analyzes and compares drug approval processes across **7 major regulatory agencies worldwide** from **1995 to present**. This repository contains tools for automated extraction of structured data from public assessment reports (PARs) using large language models, enabling large-scale comparative studies of drug approvals and regulatory decision-making.
+DrugFork is a comprehensive medical data science project that systematically analyzes and compares drug approval processes across **6 major regulatory agencies worldwide** from **1995 to present**. This repository contains **separate automated pipelines for each dataset** for extracting structured data from public assessment reports (PARs) using large language models. The project focuses exclusively on **approved drugs from 1995 onwards**, enabling large-scale comparative studies of successful drug approvals and regulatory decision-making.
 
 ### Key Statistics (1995-Current)
 
 - **🌍 6 Regulatory Agencies**: EMA, FDA, PMDA (Japan), TGA (Australia), Swissmedic (Switzerland), Health Canada
-- **📊 32,000+ Drug Approval Records**: Dataset from 1995 onwards across all agencies
+- **📊 32,000+ Approved Drug Records**: Approved drugs from 1995 onwards across all agencies
 - **🔍 282 Manually Curated Records**: High-quality ground truth for evaluation (157 EMA, 65 Swissmedic, 30 PMDA, 30 TGA)
-- **🤖 Automated LLM Extraction**: Structured data extraction from unstructured PDF reports
+- **🤖 Agency-Specific Pipelines**: Separate extraction pipelines tailored to each regulatory agency's data format
 
 ## 🎯 Objectives
 
 This project aims to:
 
 1. **Standardize** drug approval data across different regulatory frameworks
-2. **Extract** structured information from unstructured public assessment reports (PDFs)
-3. **Analyze** non-clinical requirements and study designs across agencies
-4. **Enable** comparative research on regulatory decision-making
-5. **Provide** open-source tools for medical data science research
+2. **Extract** structured information from approved drugs using agency-specific pipelines
+3. **Analyze** successful drug approvals and study designs across agencies (1995-present)
+4. **Enable** comparative research on regulatory approval patterns
+5. **Provide** open-source tools and separate pipelines for each regulatory agency
 
 ## 🏛️ Regulatory Agencies Covered (1995-Present)
 
@@ -57,9 +57,9 @@ This project aims to:
 
 ## 📚 Dataset Description
 
-### Main Datasets (1995-Current)
+### Main Datasets (Approved Drugs, 1995-Current)
 
-The primary datasets are located in `data/datasets/1995/` and contain drug approval records from 1995 onwards. Each record includes **24 standardized fields** extracted automatically from assessment reports:
+The primary datasets are located in `data/datasets/1995/approved/` and contain **approved drug records from 1995 onwards only**. Each regulatory agency has its own **dedicated extraction pipeline** tailored to that agency's specific data format. Each record includes **24 standardized fields** extracted automatically from assessment reports:
 
 #### Identification & Authorization
 - **Marketing_authorisation_number**: Regulatory product identifier
@@ -77,7 +77,7 @@ The primary datasets are located in `data/datasets/1995/` and contain drug appro
 - **Administration_route**: Route of administration (oral, intravenous, subcutaneous, etc.)
 
 #### Regulatory Decision
-- **Decision**: Approval outcome (approved, withdrawn, refused, conditional marketing authorisation, temporary authorisation)
+- **Decision**: Approval outcome (approved only in this dataset)
 - **Current_status**: Current authorization status (authorised, withdrawn, revoked, NA)
 - **Decision_date**: Date of regulatory decision
 - **Decision_year**: Year of decision (1995-2025)
@@ -97,19 +97,21 @@ The primary datasets are located in `data/datasets/1995/` and contain drug appro
 
 ### Datasets Structure
 
+The project focuses exclusively on **approved drugs from 1995 onwards**, with separate processing pipelines for each regulatory agency:
+
 ```
 data/datasets/1995/
-├── all_decisions/              # All regulatory decisions (approved, withdrawn, refused)
-│   ├── EMA.csv
-│   ├── FDA.csv
-│   ├── PMDA.csv
-│   ├── TGA.csv
-│   ├── Swissmedic.csv
-│   ├── HealthCanada.csv
-│   └── Overall.csv           # Combined dataset across all agencies
-└── approved/                  # Only approved drugs subset
-    └── [same structure]
+└── approved/                  # Approved drugs only (1995-present)
+    ├── EMA.csv
+    ├── FDA.csv
+    ├── PMDA.csv
+    ├── TGA.csv
+    ├── Swissmedic.csv
+    ├── HealthCanada.csv
+    └── Overall.csv           # Combined dataset across all agencies
 ```
+
+Each dataset is generated using an **agency-specific pipeline** tailored to that regulatory body's data format and structure.
 
 ## 🛠️ Repository Structure
 
@@ -117,9 +119,8 @@ data/datasets/1995/
 DrugFork/
 ├── data/                           # All data files
 │   ├── datasets/                   # Processed datasets
-│   │   └── 1995/                   # 1995-current subset (primary focus)
-│   │       ├── all_decisions/      # All regulatory decisions
-│   │       └── approved/           # Approved drugs only
+│   │   └── 1995/                   # 1995-current subset (approved drugs only)
+│   │       └── approved/           # Approved drugs (primary dataset)
 │   ├── annotations/                # Manual annotations for evaluation
 │   ├── eval_data/                  # Evaluation sample lists
 │   ├── inference_data/             # Inference sample lists
@@ -157,8 +158,7 @@ DrugFork/
 │   │   └── health_canada_download/
 │   └── *.ipynb                     # Analysis notebooks
 ├── analysis/                       # Analysis results
-│   ├── all_decisions/              # Analyses across all decisions
-│   └── approved/                   # Approved drugs analyses
+│   └── approved/                   # Approved drugs analyses (1995-present)
 ├── evaluation/                     # Evaluation pipeline outputs
 │   ├── output/                     # Evaluation sheets (LLM vs human)
 │   ├── processed_files/            # Manually assessed sheets
@@ -216,15 +216,15 @@ print(f"Drug classes: {df['Drug_class'].value_counts()}")
 
 #### 2. Load Agency-Specific Datasets
 ```python
-# Load EMA dataset
-ema_df = pd.read_csv('data/datasets/EMA.csv')
+# Load EMA approved drugs dataset (1995+)
+ema_df = pd.read_csv('data/datasets/1995/approved/EMA.csv')
 
-# Load FDA dataset
-fda_df = pd.read_csv('data/datasets/FDA.csv')
+# Load FDA approved drugs dataset (1995+)
+fda_df = pd.read_csv('data/datasets/1995/approved/FDA.csv')
 
-# Compare approval counts
-print(f"EMA approvals: {len(ema_df[ema_df['Decision'] == 'approved'])}")
-print(f"FDA approvals: {len(fda_df[fda_df['Decision'] == 'approved'])}")
+# Compare approval counts (all records are approved)
+print(f"EMA approvals since 1995: {len(ema_df)}")
+print(f"FDA approvals since 1995: {len(fda_df)}")
 ```
 
 #### 3. Extract Data from PDFs
@@ -249,8 +249,8 @@ print(f"FDA approvals: {len(fda_df[fda_df['Decision'] == 'approved'])}")
 | `Drug_name` | Proprietary drug name | Keytruda, Humira |
 | `Non_proprietary_name` | Generic/scientific name | pembrolizumab, adalimumab |
 | `Drug_class` | Drug category | Biologics, Small molecule, Vaccine, Cell and gene therapy |
-| `Decision` | Regulatory decision | approved, withdrawn, refused |
-| `Decision_date` | Date of approval decision | 2021-03-15 |
+| `Decision` | Regulatory decision | approved (all records in dataset) |
+| `Decision_date` | Date of approval decision (1995+) | 2021-03-15 |
 | `Indication_approved` | Approved medical use | Treatment of metastatic melanoma |
 | `Disease_class(es)` | Disease categories | Neoplasms, Infectious diseases |
 | `Orphan_drug_status` | Orphan designation | yes, no |
@@ -422,24 +422,25 @@ DrugFork/
 
 ## 🔬 Research Applications
 
-This dataset enables various research questions:
+This dataset of approved drugs (1995-present) enables various research questions:
 
 1. **Comparative Regulatory Science**
    - How do approval timelines differ across agencies?
-   - What are the differences in non-clinical data requirements?
+   - What are the differences in non-clinical data requirements for successful approvals?
 
 2. **Drug Development Analysis**
-   - Which drug classes have highest approval rates?
-   - What animal models are most commonly used?
+   - Which drug classes are most frequently approved?
+   - What animal models are most commonly used in approved drugs?
+   - How have approval patterns changed since 1995?
 
 3. **Safety & Efficacy Assessment**
-   - How do toxicology requirements vary by drug class?
-   - What are common adverse findings in preclinical studies?
+   - How do toxicology requirements vary by drug class in approved products?
+   - What are common preclinical study designs in successful applications?
 
 4. **Machine Learning & NLP**
-   - Automated extraction of structured data from reports
-   - Prediction of approval outcomes
-   - Classification of drug indications
+   - Automated extraction of structured data using agency-specific pipelines
+   - Pattern recognition in successful drug approvals
+   - Classification of drug indications and disease classes
 
 ## 🤝 Contributing
 
