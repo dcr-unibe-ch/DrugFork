@@ -1,0 +1,130 @@
+field,cleaned_value,total_count,original_variants
+Administration_route,intravenous,13,Intravenous infusion (9); IV infusion (2); Intravenous (IV) (1); IV (1)
+Administration_route,ocular,11,Ophthalmic (4); Intraocular (intravitreal) (2); Topical (ocular) (1); Intraocular (1); Topical (1); Eye drops (1); Topical ophthalmic (1)
+Administration_route,oral; rectal,1,Oral and rectal (1)
+Administration_route,nasal,3,Intranasal (2); intranasal (1)
+Administration_route,oral; buccal,1,Oral/buccal (1)
+Administration_route,extracorporeal circulation,1,Extracorporeal circulation via photopheresis (1)
+Administration_route,oral; vaginal,1,oral; intravaginal (1)
+Administration_route,inhalation,6,Oral inhalation (6)
+Administration_route,intravenous; Subcutaneous,1,Intravenous and Subcutaneous (1)
+Administration_route,vaginal,2,Intravaginally (1); Intravaginal (1)
+Administration_route,intravenous; intramuscular,1,Intravenous infusion or intramuscular (1)
+Administration_route,intramuscular;intradermal,1,Intramuscular and intradermal (1)
+Administration_route,oral; intramuscular,1,Oral and intramuscular (1)
+Administration_route,intravenous; subcutaneous,4,"Intravenous injection, subcutaneous injection (1); Intravenous and subcutaneous (1); Intravenously (IV) or subcutaneously (SC) (1); Intravenous infusion and subcutaneous injection (1)"
+Administration_route,intramuscular;subcutaneous,1,Intramuscular and subcutaneous (1)
+Administration_route,subcutaneous,3,Subcutaneously (2); SC injection (1)
+Administration_route,intravascular,1,Intravascular injection (1)
+Administration_route,oral; intravenous,4,"Oral (PO) (capecitabine) and IV (oxaliplatin) (1); oral, intravenous (1); Oral, intravenous infusion (1); Oral and intravenous (1)"
+Administration_route,intravenous; Intramuscular,1,"Intravenous, Intramuscular (1)"
+Administration_route,intramuscular,4,Intramuscularly (4)
+Administration_route,subcutaneous; intravenous,5,"Subcutaneous, intravenous (2); Subcutaneous injection, subcutaneous infusion, intravenous injection, intravenous infusion (1); Subcutaneous administration and intravenous infusion (1); Subcutaneous, and intravenous infusion (1)"
+Administration_route,intravesical,1,Intravesically (1)
+Administration_route,oral; nasogastric,1,Oral and nasogastric (1)
+Administration_route,subcutaneous; oral,1,Subcutaneous injection/Oral (1)
+Administration_route,intramuscular;deep subcutaneous,2,Intramuscular or deep subcutaneous injection (1); Intramuscular or deep subcutaneous (1)
+Administration_route,intravenous; interstitial,1,Intravenous and interstitial (1)
+Administration_route,intramuscular; intraglandular,1,"Intramuscular, intraglandular (1)"
+Administration_route,subcutaneous; intramuscular,1,"Subcutaneous, intramuscular (1)"
+Administration_route,subcutaneous; intravenous; extracorporeal circulation,1,"Subcutaneous, intravenous and extracorporeal circulation (haemodialysis) (1)"
+Disease_class(es),Neoplasms; diseases of the digestive system,4,Neoplasms; Diseases of the liver (4)
+Disease_class(es),Infectious and parasitic diseases; diseases of the digestive system,1,Infectious and parasitic diseases; Diseases of the liver (1)
+Disease_class(es),diseases of the digestive system; Diseases of the nervous system,1,Diseases of the liver; Diseases of the nervous system (1)
+Disease_class(es),Diseases of the genitourinary system; diseases of the digestive system,1,Diseases of the genitourinary system; Diseases of the liver (1)
+Drug_class,other,1,Radiopharmaceutical (1)
+Drug_name,Oralair tablet,1,Oralair Sublingual Tablet (1)
+Indication_approved,"Cardiac, circulatory and micro-circulatory diagnostics; Liver function diagnostics; ocular angiography diagnostics",1,"Cardiac, circulatory and micro-circulatory diagnostics; Liver function diagnostics; Ophthalmic angiography diagnostics (1)"
+Indication_approved,"As an adjunct to diet and exercise to improve glycaemic control in patients with type 2 diabetes whose diabetes is not adequately controlled on metformin hydrochloride alone or who are already treated with the combination of vildagliptin and metformin hydrochloride, as separate tablet.",1,"As an adjunct to diet and exercise to improve glycaemic control in patients with type 2 diabetes whose diabetes is not adequately controlled on metformin hydrochloride alone or who are already treated with the combination of vildagliptin and metformin hydrochloride, as separate tablets. (1)"
+Indication_approved,Reduction of ocular pressure in adult patients with open angle glaucoma or ocular hypertension who are insufficiently responsive to beta blockers or prostaglandin analogues and require a combination therapy.,1,Reduction of intraocular pressure in adult patients with open angle glaucoma or ocular hypertension who are insufficiently responsive to beta blockers or prostaglandin analogues and require a combination therapy. (1)
+Indication_approved,Chronic rhinosinusitis with nasal polyps (CRSwNP) with inadequate response to nasal corticosteroids,1,Chronic rhinosinusitis with nasal polyps (CRSwNP) with inadequate response to intranasal corticosteroids (1)
+Indication_approved,Decrease of ocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension for whom monotherapy with either component provides insufficient IOP reduction.,1,Decrease of intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension for whom monotherapy with either component provides insufficient IOP reduction. (1)
+Indication_approved,Reduction of elevated ocular pressure in open-angle glaucoma or ocular hypertension,1,Reduction of elevated intraocular pressure in open-angle glaucoma or ocular hypertension (1)
+Indication_approved,Lowering of ocular pressure in patients with chronic open angle glaucoma or ocular hypertension,1,Lowering of intraocular pressure in patients with chronic open angle glaucoma or ocular hypertension (1)
+Indication_approved,Symptomatic treatment of moderate to severe allergic rhinitis and rhino-conjunctivitis in adults and children 12 years and older where use of a combination (nasal antihistamine and glucocorticoid) is appropriate.,1,Symptomatic treatment of moderate to severe allergic rhinitis and rhino-conjunctivitis in adults and children 12 years and older where use of a combination (intranasal antihistamine and glucocorticoid) is appropriate. (1)
+Indication_requested,"Cardiac, circulatory and micro-circulatory diagnostics; Liver function diagnostics; ocular angiography diagnostics",1,"Cardiac, circulatory and micro-circulatory diagnostics; Liver function diagnostics; Ophthalmic angiography diagnostics (1)"
+Indication_requested,Reduction of ocular pressure in adult patients with open angle glaucoma or ocular hypertension when concomitant therapy is appropriate.,1,Reduction of intraocular pressure in adult patients with open angle glaucoma or ocular hypertension when concomitant therapy is appropriate. (1)
+Indication_requested,Chronic rhinosinusitis with nasal polyps (CRSwNP) with inadequate response to nasal corticosteroids,1,Chronic rhinosinusitis with nasal polyps (CRSwNP) with inadequate response to intranasal corticosteroids (1)
+Indication_requested,Decrease of ocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension for whom monotherapy provides insufficient IOP reduction.,1,Decrease of intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension for whom monotherapy provides insufficient IOP reduction. (1)
+Indication_requested,Reduction of elevated ocular pressure in open-angle glaucoma or ocular hypertension,1,Reduction of elevated intraocular pressure in open-angle glaucoma or ocular hypertension (1)
+Indication_requested,Lowering of ocular pressure in patients with chronic open angle glaucoma or ocular hypertension,1,Lowering of intraocular pressure in patients with chronic open angle glaucoma or ocular hypertension (1)
+Indication_requested,"Maintenance treatment of pulmonary arterial hypertension (PAH, WHO Group 1) in adult patients of WHO functional class (FC) II, III and IV who are on stable doses of macitentan 10 mg and tadalafil 40 mg (20 mg x 2) as separate tablet.",1,"Maintenance treatment of pulmonary arterial hypertension (PAH, WHO Group 1) in adult patients of WHO functional class (FC) II, III and IV who are on stable doses of macitentan 10 mg and tadalafil 40 mg (20 mg x 2) as separate tablets. (1)"
+Indication_requested,Symptomatic treatment of moderate to severe allergic rhinitis and rhino-conjunctivitis in adults and children 12 years and older where use of a combination (nasal antihistamine and glucocorticoid) is appropriate.,1,Symptomatic treatment of moderate to severe allergic rhinitis and rhino-conjunctivitis in adults and children 12 years and older where use of a combination (intranasal antihistamine and glucocorticoid) is appropriate. (1)
+Pharmaceutical_form,tablet,216,"Film coated tablet (53); Film-coated tablet (25); Film coated tablets (24); Film-coated tablets (19); Tablets (13); Modified release tablet (11); Immediate release film coated tablets (9); Concentrate for solution for infusion (5); Modified release tablets (5); Fixed dose combination tablet (4); Sublingual tablet (2); Uncoated tablet (2); Prolonged release tablet (2); Chewable tablets (2); film-coated tablets (2); Immediate release tablet (1); Soluble tablets (1); Film coated immediate release tablet (1); Tablets, film-coated (1); Modified released tablet (1); tablet; modified release tablet (1); Film-coated tablet/ dispersible tablet (1); Tablets: film coated, unscored (1); Chewable tablet (1); Extended release tablet (1); Enteric coated tablet (1); Film-coated prolonged-release tablet (1); Film-coated tablets and effervescent tablets (1); Tablets, film coated (1); film-coated tablet (1); Concentrate for solution for Infusion (1); Orodispersible tablet (1); Vaginal tablet (1); Uncoated tablet, and dispersible tablet (1); Film Coated Tablets (1); film coated tablet (1); Film coated modified release fixed dose combination tablet (1); Tablets - modified release (1); Uncoated oral tablet (1); film-coated tablet; dispersible tablet (1); Orally Disintegrating Tablets (1); Dispersible tablets (1); Film coated, immediate release tablets (1); Fixed dose combination tablets (1); Uncoated tablets (1); Fixed dose combination film coated tablets (1); Sublingual tablets (1); Immediate release uncoated tablets (1); Film-coated dispersible tablet and film-coated tablet (1); Orally disintegrating tablet (1); Fixed dose combination tablet, multilayer (1); tablets – film-coated (1); Dispersible tablet (1)"
+Pharmaceutical_form,Concentrate,17,"Concentrate for solution for infusion (6); Injection, concentrated (6); Concentrate for intravenous infusion (1); Injection concentrated (1); Concentrate for solution for infusion; prefilled syringe (1); Injection concentrated vial (1); Concentrated solution for infusion (1)"
+Pharmaceutical_form,solution,245,"Solution for injection (140); Solution for Injection (20); Concentrated solution for infusion (9); solution for injection (9); Concentrated solution (7); Concentrated solution for injection (7); Injection solution (6); Solution for infusion (5); Injection, solution (4); Solution for intravenous infusion (3); Two deep frozen solutions (3); Injection solution for intraocular injection (2); Two deep frozen solutions in pre-filled syringes (2); Nasal spray solution (2); Pressurised inhalation solution (2); Injectable solution (2); Sterile Solution for Injection (1); Injection solution concentrated (1); Solution for IV infusion (1); Concentrated liposomal solution for infusion (1); Injection, intravenous solution (1); Concentrated solution for intravenous infusion (1); Radiochemical solution (1); Injection and oral solution (1); Spray solution (1); solution for injection/infusion (1); Solution for Inhalation (1); Injection, reconstituted solution (1); Oromucosal solution (1); Oral liquid solution (1); Solution for Intramuscular Injection (1); Injection solution concentrate (1); Concentrated injection solution for infusion (1); Intravenous solution (1); Oral solution (1); Solution for infusion and injection (1); solution for subcutaneous injection (1); Injection solution (colloidal) (1)"
+Pharmaceutical_form,suspension,72,"Suspension for injection (52); Suspension for Injection (5); Concentrated suspension for injection (5); suspension for injection (3); Vaccine suspension for injection (1); Eye drop suspension (1); Cell suspension (1); Injection, suspension (1); Injection suspension (1); suspension for intramuscular injection (1); Eye Drops, suspension (1)"
+Pharmaceutical_form,powder,59,"Powder for injection (38); Powder for Injection (8); Powder for solution for infusion (2); Inhalation powder in hard capsule (2); powder for injection (2); Powder for solution for injection (1); Freeze-dried powder for injection (1); Powder for solution for injection/infusion (1); Injection, powder for (1); powder for inhalation; inhalation pressurised (1); Sterile, vacuum-dried, powder for reconstitution (1); Sterile, vacuum dried, powder for reconstitution (1)"
+Pharmaceutical_form,Tablet,20,"Tablet, film coated (12); Tablet, film-coated (2); Tablet and dispersible tablet (2); Tablet blister pack (1); Tablet (film coated) (1); Tablet, dispersible (1); Tablets: film-coated, unscored (1)"
+Pharmaceutical_form,Powder,53,"Powder for injection (17); Powder for inhalation (6); Powder for suspension (3); Powder for concentrate for solution for infusion (2); Powder for injection with solvent (2); Powder for IV infusion (2); Powder for injection vial (2); Powder for Inhalation (1); Powder for oral suspension (1); Powder for reconstitution (1); Powder for concentrated injection (1); Powder filled hard capsule for inhalation (1); Powder, oral (1); Powder for injection with diluent (1); Powder for injection (suspension) (1); Powder for oral liquid (1); Powder for inhalation in unit dose capsules (1); Powder for injection with IV solution stabiliser (1); Powder for solution for infusion (1); Powder for Oral Solution (1); Powder for injection and diluent (1); Powder for nebuliser solution (1); Powder for inhalation in hard capsules (1); Powder for solution for injection (1); Powder for oral administration (1); Powder for reconstitution for injection (1)"
+Pharmaceutical_form,concentrate,35,Concentrated injection (14); Concentrate solution for intravenous infusion (4); Concentrated Injection (4); Concentrate for injection (3); Concentrate solution for infusion (3); Concentrate solution for injection (2); Concentrated injection for infusion (1); Injection concentrate (1); concentrate solution for infusion (1); Injection concentrate vials (1); Concentrate solution for intravenous (IV) infusion (1)
+Pharmaceutical_form,powder; concentrate,1,Powder for injection; concentrated injection (1)
+Pharmaceutical_form,Inhaler,2,"Inhalation, conventional (1); Inhalation (1)"
+Pharmaceutical_form,Powder; solution,8,Powder for injection and concentrated solution for injection (2); Powder for injection with intravenous solution stabiliser (1); Powder for injection and Concentrated solution for injection (1); Powder for injection; solution for injection (prefilled syringe); solution for injection (prefilled pen) (1); Powder for injection vial with solution for suspension vial (1); Powder for injection and solution for injection (1); Powder for injection; concentrated solution for injection (1)
+Pharmaceutical_form,capsule,57,"Hard capsule (21); Soft capsule (9); Capsules (8); Modified release capsules (3); Hard capsules (2); Hard gelatin capsules (2); Capsules – hard (1); Capsules – soft (1); Soft gelatin capsules (1); Capsules, hard (1); Extended release capsules (1); Capsule, hard (1); Pessary (soft capsule) (1); Hard gelatin capsule (1); hard capsule (1); Hard capsule (gelatine) (1); Gelatin capsules (1); Immediate release hard capsule (1)"
+Pharmaceutical_form,Lyophilized powder,4,Lyophilised powder (2); Lyophilized powder for intravenous infusion (1); Lyophilised powder for injection after reconstitution (1)
+Pharmaceutical_form,Solution,17,"Solution for subcutaneous injection (3); Solution for intravitreal injection (2); Solution for Subcutaneous Injection (1); Solutions for sealant (1); Solution for Injection or Infusion (1); Eye drops, Solution (1); Solution concentrated for Injection (1); Eye Drop Solution (1); Concentrated Solution for Injection (1); Solution for injection or infusion (1); Solution for injection and solution for infusion (1); Injection, Solution (1); Solution for Intravitreal Injection (1); Solution (eye drops) (1)"
+Pharmaceutical_form,Tablet; suspension,1,"Tablet, oral suspension (1)"
+Pharmaceutical_form,tablet; solution,3,"Tablets, oral solution (1); Immediate release film coated tablets, oral solution & solution for injection (1); Film coated tablets, solution for injection and oral solution (1)"
+Pharmaceutical_form,granules,1,granules for oral solution (1)
+Pharmaceutical_form,capsule; Foam,1,Capsules and Foam (1)
+Pharmaceutical_form,drug delivery system,3,Intrauterine drug delivery system (2); Transdermal drug delivery system (1)
+Pharmaceutical_form,pessary,1,Moulded pessary (1)
+Pharmaceutical_form,spray,7,Nasal spray (5); Oromucosal spray (1); nasal spray (1)
+Pharmaceutical_form,lyophilized powder,2,"Sterile, white to off-white lyophilised powder (1); lyophilised powder for injection (1)"
+Pharmaceutical_form,patch,2,Transdermal patch (2)
+Pharmaceutical_form,Powder; diluent; solution,1,"Powder for injection vial and diluent syringe composite pack, solution for injection prefilled syringe and solution for auto injection (1)"
+Pharmaceutical_form,Injection,5,"Injection, intravenous infusion (2); Injection for intravenous infusion (1); Injection concentrated (1); Injection concentrate (1)"
+Pharmaceutical_form,Suspension,2,Suspension for intramuscular injection (1); Suspension eye drops (1)
+Pharmaceutical_form,tablet; granules,1,"Film-coated tablets, granules (1)"
+Pharmaceutical_form,powder; capsule,1,"Inhalation powder, hard capsule (1)"
+Pharmaceutical_form,powder; solution,2,Powder for solution; Solution for injection (1); Powder for Injection; Solution for injection (1)
+Pharmaceutical_form,gas,3,Medicinal gas (2); Medical gas (1)
+Pharmaceutical_form,Granules,1,"Granules, enteric coated minimicrospheres (1)"
+Pharmaceutical_form,Solution; Powder,2,Solution for subcutaneous injection; Powder for intravenous infusion (1); Byetta: Solution for Injection; Bydureon: Powder for modified release injection (1)
+Pharmaceutical_form,Powder; solvent,8,Powder and solvent for solution for injection (3); Powder and solvent for injection (2); Powder and solvent for suspension for injection (1); Powder and solvent solution for injection (1); Powder for injection and solvent (1)
+Pharmaceutical_form,tablet; suspension,2,"Film-coated tablet and prolonged-release suspension for injection (1); Film coated tablets, oral suspension (1)"
+Pharmaceutical_form,capsule; tablet,2,"hard capsules and film coated tablets (1); Hard gelatine capsules, film-coated tablets (1)"
+Pharmaceutical_form,gel,1,Topical gel (1)
+Pharmaceutical_form,Lyophilized powder; solvent,2,Lyophilised powder and solvent for solution for injection (1); Lyophilised powder and solvent for reconstitution (1)
+Pharmaceutical_form,water,1,Wafer (1)
+Pharmaceutical_form,drops,4,Eye drops (3); Eye Drops (1)
+Pharmaceutical_form,Capsule; powder,1,Capsule and powder (1)
+Pharmaceutical_form,Powder; diluent,5,Powder and diluent for injection (1); Powder (vaccine) and diluent (1); Powder for injection and diluent for injection (1); Powder for injection plus diluent (1); Powder for injection with diluent vial (1)
+Pharmaceutical_form,solution; powder,1,"Injection, solution and Injection, powder (1)"
+Pharmaceutical_form,Capsule; liquid,1,Capsules and liquid (1)
+Pharmaceutical_form,injection,3,"Modified release injection syringe (1); Modified release injection (1); sterile, for injection (1)"
+Pharmaceutical_form,Powder; plug,1,Powder or plug for reconstitution and injection (1)
+Pharmaceutical_form,Powder; suspension,1,Powder and suspension for suspension for injection (1)
+Pharmaceutical_form,Capsule,2,Capsules (hard gelatin) (1); Capsule (enteric/gastro-resistant) (1)
+Pharmaceutical_form,tablet; concentrate; powder,1,Film-coated tablets/concentrate or powder for injection (1)
+Pharmaceutical_form,Emulsion,1,Emulsion for intravenous (IV) Infusion (1)
+Pharmaceutical_form,tablet; capsule,1,Film-coated tablet (Mekinist) and Hard capsules (Tafinlar) (1)
+Pharmaceutical_form,capsule; solution,1,"Capsules, Oral liquid solution (1)"
+Pharmaceutical_form,concentrate; powder,1,"Concentrated injection, powder for injection (1)"
+Pharmaceutical_form,Implant,1,Implant (ocular) (1)
+Pharmaceutical_form,capsule; Powder,2,"Hard capsules and Powder oral suspension (1); Capsules, Powder for injection (1)"
+Pharmaceutical_form,ointment,1,Topical ointment (1)
+Pharmaceutical_form,inhaler,3,Pressurised metered dose inhaler (2); Pressurised inhalation (1)
+Pharmaceutical_form,Solution; powder,1,Solution for injection in pre-filled syringe and powder for injection vial with diluent (1)
+Pharmaceutical_form,Powder; Solution,2,Powder / Solution for injection (1); Powder for injection; Solution for injection (1)
+Pharmaceutical_form,implant,2,Intraocular implant (1); Controlled release implant (1)
+Pharmaceutical_form,Powder; concentrate,2,"Powder for injection, concentrated injection (1); Powder for injection and concentrated injection (1)"
+Pharmaceutical_form,intravenous,1,Intravenous infusion (1)
+Pharmaceutical_form,tablet; powder,1,Film coated tablet / powder for oral solution (1)
+Pharmaceutical_form,Preservative free,1,Preservative free eye drops (1)
+Pharmaceutical_form,vial,1,vial for injection (1)
+Pharmaceutical_form,solution; tablet,1,Solution for Injection/Tablet (1)
+Pharmaceutical_form,emulsion,3,"Injectable emulsion (1); Eye drops, emulsion (1); Antigen as suspension and adjuvant as emulsion in separate vials (1)"
+Pharmaceutical_form,tablet; Powder,1,Film coated tablets and Powder for oral suspension (1)
+Pharmaceutical_form,Powder; diluent; Solution,2,Powder for injection plus diluent; Solution for injection in pre-filled syringe or Auto-injector (1); Powder for injection with diluent; Solution for injection (1)
+Pharmaceutical_form,Tablet; granules,1,Tablet and granule (1)
+Pharmaceutical_form,soluble film,1,Soluble film (1)
+Pharmaceutical_form,Lyophilized Powder,1,Lyophilised Powder For Injection (1)
+Pharmaceutical_form,Pre-filled syringe,1,Pre-filled syringe and Pre-filled syringe with pen injector (1)
+Pharmaceutical_form,solution; capsule,1,Oral liquid solution; hard capsule (1)
+Pharmaceutical_form,Concentrate; solution,1,Concentrate for solution for infusion and solution for injection (1)
+Pharmaceutical_form,Tablet; powder,2,"Tablets, powder for injection, powder for suspension (1); Tablet and powder for injection (1)"
+Pharmaceutical_form,lyophilized Powder,1,"Injection, Powder (lyophilized) for injection (1)"
+Pharmaceutical_form,Lyophilized powder; Water,1,Lyophilised powder for Injection and Water for Injections (1)
+Pharmaceutical_form,syringe,1,Disposable glass pre-filled single use syringes (1)

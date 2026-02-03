@@ -1,0 +1,22 @@
+field,cleaned_value,total_count,original_variants
+Administration_route,intramuscular; subcutaneous,1,"intramuscular, subcutaneous (1)"
+Administration_route,intravenous; subcutaneous,1,"intravenous, subcutaneous (1)"
+Administration_route,autologous; intravenous,1,autologous and intravenous (1)
+Decision,conditional marketing authorisation,19,temporary authorisation (19)
+Disease_class(es),"Neoplasms; Diseases of the respiratory system; endocrine, nutritional, and metabolic diseases",2,"Neoplasms; Diseases of the respiratory system; Diseases of the endocrine, nutritional, and metabolic diseases (1); Neoplasms; Diseases of the respiratory system; Diseases of the endocrine system (1)"
+Disease_class(es),Diseases of the circulatory system; diseases of the digestive system; Diseases of the eye and adnexa,1,Diseases of the circulatory system; Diseases of the liver; Diseases of the eye and adnexa (1)
+Disease_class(es),Infectious and parasitic diseases; diseases of the digestive system,1,Infectious and parasitic diseases; Diseases of the liver (1)
+Disease_class(es),diseases of the digestive system; Diseases of the skin,1,Diseases of the liver; Diseases of the skin (1)
+Pharmaceutical_form,powder; gel,1,powder and gel for gel (1)
+Pharmaceutical_form,solution,31,"solution for injection (18); solution for infusion (4); oral solution (3); solution for injection in a pre-filled syringe (1); eye drops, solution (1); Nasal spray, solution (1); solution for injection/infusion (1); solution for injection in pre-filled syringe, solution for injection in pre-filled pen (1); solution for injection in pre-filled syringe (1)"
+Pharmaceutical_form,tablet,46,"film-coated tablets (19); film-coated tablet (11); tablets (4); prolonged-release tablet (4); prolonged-release tablets (2); coated tablets (1); sublingual tablet (1); film coated tablets (1); dispersible tablet for ingestion (1); coated tablet (1); tablets, film-coated tablets (1)"
+Pharmaceutical_form,powder,25,powder for concentrate for solution for infusion (13); powder for solution for injection (5); powder for solution for infusion (3); powder for oral solution (2); oral powder (1); powder for concentrate for solution for infusion and concentrate for solution for infusion (1)
+Pharmaceutical_form,capsule,20,"hard capsules (9); hard capsule (5); soft capsule (2); capsules (2); soft vaginal capsule (1); capsule, hard (1)"
+Pharmaceutical_form,concentrate,24,concentrate for solution for infusion (22); concentrate for solution for injection (1); concentrate for a solution for infusion (1)
+Pharmaceutical_form,Powder; solvent,1,Powder and solvent for solution for injection (1)
+Pharmaceutical_form,suspension,7,suspension for injection (3); Suspension for injection (2); suspension in a nasal spray (1); prolonged release suspension for injection (1)
+Pharmaceutical_form,Powder,1,Powder for oral suspension (1)
+Pharmaceutical_form,dispersion,3,dispersion for infusion (2); dispersion for injection (1)
+Pharmaceutical_form,lyophilisate,1,oral lyophilisate (1)
+Pharmaceutical_form,powder; suspension,1,powder and suspension for suspension for injection (1)
+Pharmaceutical_form,Powder; suspension,1,Powder and suspension for suspension for injection (1)
