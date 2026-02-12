@@ -24,7 +24,71 @@ TO DO
 ## 🇪🇺 **EMA** – European Medicines Agency
 ---
 
-TO DO
+## Data Sources
+The European Medicines Agency (EMA) publishes regulatory assessment information
+primarily through European Public Assessment Reports (EPARs). EPARs are publicly
+available for all centrally authorised medicinal products and can be accessed via
+the EMA website. In addition, structured metadata are available through EMA datasets
+and downloadable tables, although these are less comprehensive than the EPAR 
+documents. EMA also publishes relevant information on the product page, which not 
+always matches with the information in the EPARs. 
+Download EPARs: https://www.ema.europa.eu/en/search?f%5B0%5D=ema_medicine_bundle%3Aema_medicine&f%5B1%5D=ema_search_categories%3A83
+Information about EPARS: https://www.ema.europa.eu/en/medicines/what-we-publish-medicines-when/european-public-assessment-reports-background-context
+Medicine information tables: https://www.ema.europa.eu/en/medicines/download-medicine-data
+
+
+## Scope of published information
+**Timeline**: EPARs have been published since the establishment of the centralised
+procedure in 1995. EPARs are updated over time to reflect major regulatory changes,
+such as new indications, variations, or safety-related updates.
+**Substance Types**: EMA publishes EPARs for every medicine that has been approved or refused. Which means that not only new active substances, but also generics and biosimilars get EPARs.
+EMA also publishes supplementary reports for additional indications (= indication extension).
+**Decision Types**: approved, conditional marketing authorisation, withdrawn, refused
+**Non clinical experiments**: EPARs typically summarise non-clinical pharmacology,
+pharmacokinetics, and toxicology data. The level of detail varies across reports and
+over time; experimental species, models and strains are often mentioned but not reported in a
+systematic or standardised manner. The reports are much more detailed than SwissPARs.
+
+
+### Granularity of the data  
+EMA public data are primarily available at the substance and product level.
+Each EPAR corresponds to a centrally authorised medicinal product and documents the
+initial authorisation as well as subsequent major regulatory changes. Individual
+submissions and variations are not provided as standalone, submission-level records
+but are integrated into the evolving EPAR documents.
+
+
+### Key identifiers  
+EPARs generally include:
+- the international non-proprietary name (INN): substance name,
+- the product (brand) name,
+- a document nuber for each EPAR,
+- the EMA product number (drug-specific).
+
+### Structure of EPAR
+
+| Name EPAR | Name DrugFork Dataset |
+|----------|-----------------------|
+| Document number (first page, top left, starts with EMA/) | Marketing_authorisation_number |
+| Procedure no. (first page) | EMA_product_number |
+| Stated on the first page after Assessment Report | Drug_name |
+| International non-proprietary name | Non_proprietary_name |
+| Submission of the dossier (in text) | Marketing_authorisation_holder |
+| About the product (in text) | Pharmaceutical_form |
+| About the product (in text) | Administration_route |
+| Steps taken for the assessment of the product (table) | Decision |
+| Steps taken for the assessment of the product (table) | Decision_date |
+| Not directly stated; default for approved drugs: authorised | Current_status |
+| Submission of the dossier (in text, if applicable) | Orphan_drug_status |
+| In text, if applicable | Indication_extended |
+| Recommendations, Outcome | Indication_approved |
+| Submission of the dossier (in text: applicant applied for the following indication) | Indication_requested |
+| Submission of the dossier (in text) | Application_date |
+| Under non-clinical aspects | Non_clinical_abridge |
+| Under non-clinical aspects (not always clear) | Referral / Referral body |
+| Implicit in text | Drug_class |
+| Implicit in text | Disease_class(es) |
+| Non-clinical aspects (Pharmacology, Pharmacokinetics, Toxicology) | Animal species, strain, model, sex, in vitro |
 
 
 ## 🇨🇭 **Swissmedic** – Swiss Agency for Therapeutic Products 
@@ -32,7 +96,7 @@ TO DO
 
 ### Data Sources
 Swissmedic organises their data in SwissPARs (=Public Assessment Reports) and also
-providesa comprehensive excel sheet (only available in german and french) with all 
+provides a comprehensive excel sheet (only available in german and french) with all 
 currently approved medicines in Switzerland.
 Download SwissPARs: https://www.swissmedic.ch/swissmedic/en/home/humanarzneimittel/authorisations/swisspar.html
 Download Excel Sheet: https://www.swissmedic.ch/dam/swissmedic/de/dokumente/internetlisten/erweiterte_ham_ind.xlsx.download.xlsx/Erweiterte_Arzneimittelliste%20HAM.xlsx
@@ -60,7 +124,7 @@ documented in a systematic manner.
 SwissPARs generally include:
 - the international non-proprietary name (INN): substance name,
 - the product (brand) name,
-- the marketing authorisation number (Swissmedic specific)
+- the marketing authorisation number (Swissmedic specific).
 
 
 ### Structure of SwissPAR
@@ -100,7 +164,7 @@ TO DO
 TO DO
 
 
-API based Agencies
+# API based Agencies
 ---
 
 ## 🇺🇸 **FDA** – U.S. Food and Drug Administration
