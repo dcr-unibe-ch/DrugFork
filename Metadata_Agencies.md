@@ -17,25 +17,23 @@ Swissmedic: SwissPAR, EMA: EPAR, TGA: AusPAR, PMDA: Review Report.
 
 TO DO
 
----
 # PAR based Agencies
 ---
 
----
+
 ## 🇪🇺 **EMA** – European Medicines Agency
 ---
 
 TO DO
 
 
----
 ## 🇨🇭 **Swissmedic** – Swiss Agency for Therapeutic Products 
 ---
 
 ### Data Sources
 Swissmedic organises their data in SwissPARs (=Public Assessment Reports) and also
 providesa comprehensive excel sheet (only available in german and french) with all 
-currently approved medicines in Switzerland. 
+currently approved medicines in Switzerland.
 Download SwissPARs: https://www.swissmedic.ch/swissmedic/en/home/humanarzneimittel/authorisations/swisspar.html
 Download Excel Sheet: https://www.swissmedic.ch/dam/swissmedic/de/dokumente/internetlisten/erweiterte_ham_ind.xlsx.download.xlsx/Erweiterte_Arzneimittelliste%20HAM.xlsx
 
@@ -46,7 +44,7 @@ publication, except drugs are no longer authorised (marking on page).
 **Substance Types**: Only New Active Substances get SwissPARs, there are no PARs for 
 biosimilars or generics. Swissmedic also publishes supplementary reports for additional 
 indications (= indication extension) if a SwissPAR has been published in the first place. 
-**Decision Types**: 
+**Decision Types**: approved, conditional marketing authorisation, refused
 **Non clinical experiments**: summary of conducted experiments, not comprehensive. Species,
 strain and model are not consistently reported. 
 
@@ -90,35 +88,30 @@ SwissPARs generally include:
 | Nonclinical aspects (Pharmacology / PK) | Animal species, model, in vitro |
 
 
----
 ## 🇦🇺 **TGA** – Therapeutic Goods Administration (Australia)
 ---
 
 TO DO
 
----
+
 ## 🇯🇵 **PMDA** – Pharmaceuticals and Medical Devices Agency (Japan)
 ---
 
 TO DO
 
----
+
 API based Agencies
 ---
 
----
 ## 🇺🇸 **FDA** – U.S. Food and Drug Administration
 ---
 
 TO DO
 
----
+
 ## 🇨🇦 **Health Canada** – Canadian regulatory authority
 ---
 
 TO DO
 
 
-
-
-## 
