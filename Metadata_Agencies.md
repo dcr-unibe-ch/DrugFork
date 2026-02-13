@@ -52,7 +52,7 @@ Medicine information tables: https://www.ema.europa.eu/en/medicines/download-med
 procedure in 1995. EPARs are updated over time to reflect major regulatory changes,
 such as new indications, variations, or safety-related updates.
 **Substance Types**: EMA publishes EPARs for every medicine that has been approved or refused. Which means that not only new active substances, but also generics and biosimilars get EPARs.
-EMA also publishes supplementary reports for additional indications (= indication extension).
+**Additional reports** EMA does not publish supplementary reports for additional indications (= indication extension) as they implement such updates in the regular EPAR.
 **Decision Types**: approved, conditional marketing authorisation, withdrawn, refused
 **Non clinical experiments**: EPARs typically summarise non-clinical pharmacology,
 pharmacokinetics, and toxicology data. The level of detail varies across reports and
@@ -116,8 +116,10 @@ Download Excel Sheet: https://www.swissmedic.ch/dam/swissmedic/de/dokumente/inte
 **Timeline**: Swissmedic publishes SwissPARs since 2019. PARs do not get revised after
 publication, except drugs are no longer authorised (marking on page).
 **Substance Types**: Only New Active Substances get SwissPARs, there are no PARs for 
-biosimilars or generics. Swissmedic also publishes supplementary reports for additional 
-indications (= indication extension) if a SwissPAR has been published in the first place. 
+biosimilars or generics. 
+
+**Additional reports** Review reports for indication extensions or other post-authorisation changes are published selectively and only if a SwissPAR exists for the product.
+
 **Decision Types**: approved, conditional marketing authorisation, refused
 **Non clinical experiments**: summary of conducted experiments, not comprehensive. Species,
 strain and model are not consistently reported. 
@@ -177,16 +179,27 @@ these datasets do not share a single consistent primary identifier across
 files, requiring cross-referencing of multiple identifiers (e.g. ARTG numbers,
 product IDs, or submission-related fields) to link information between datasets and
 with AusPAR documents.
+
 Download AusPARs: https://www.tga.gov.au/resources/australian-public-assessment-reports-auspar
+
 Information AusPARs: https://www.tga.gov.au/products/regulations-all-products/about-australian-register-therapeutic-goods-artg/about-australian-public-assessment-reports-prescription-medicines-auspars
+
+Information submission types: https://www.tga.gov.au/resources/guidance/understanding-australian-public-assessment-reports-auspars-prescription-medicines
+
 Download csv documents: https://apps.tga.gov.au/downloads/
 
 ### Scope of published information
 **Timeline**: AusPARs have been published since 2009. Reports are static documents and
 are generally not updated after publication. 
-**Substance Types**: AusPARs are published mainly for new active substances and selected
-significant regulatory decisions such as extension of indication. Biosimilars and generics are generally not covered by AusPARs.
+
+**Substance Types**: AusPARs are published primarily for new active substances (Type A) and new fixed combination medicines (Type B). Other application types, including biosimilars and 
+generics are not routinely accompanied by AusPARs and may be published at the discretion of the TGA.
+
+**Additional reports** Major variations in indications or use, are not routinely accompanied by
+AusPARs and may be published at the discretion of the TGA.
+
 **Decision Types**: approved, withdrawn, rejected, refused.
+
 **Non-clinical experiments**: AusPARs summarise non-clinical pharmacology,
 pharmacokinetics, and toxicology data. The reporting of experimental species, models,
 and study details is variable and not standardised across reports. This information is not available in the structured datasets.
@@ -231,8 +244,67 @@ AusPARs generally include:
 ## 🇯🇵 **PMDA** – Pharmaceuticals and Medical Devices Agency (Japan)
 ---
 
-TO DO
+### Data Sources
+The Pharmaceuticals and Medical Devices Agency (PMDA) publishes regulatory assessment
+information primarily through publicly available review reports and summary documents
+for approved medicinal products. These documents are accessible via the PMDA website
+and provide descriptions of the scientific and regulatory evaluation supporting marketing authorisation decisions in Japan. PMDA publishes English translations of selected review reports 
+for reference purposes only. These translations are provided for convenience, and the 
+original Japanese documents remain authoritative. English versions are available primarily for recently approved drugs with new active ingredients, selected based on novelty and regulatory
+priority.
 
+Download review reports: https://www.pmda.go.jp/english/review-services/reviews/approved-information/drugs/0001.html
+
+### Scope of published information
+**Timeline**: Public review reports have been published consistently since 2007, with increasing availability and standardisation over time. Reports are static documents and are generally not updated after publication.
+
+**Substance Types**: PMDA review reports are published mainly for new active substances
+and selected innovative products. Biosimilars and generics are typically not covered
+by detailed public assessment reports. 
+
+**Additional reports** In some cases, PMDA also publishes review reports for major post-authorisation changes, such as indication extensions or new strengths, particularly when these are considered scientifically significant.
+
+**Decision Types**: approved; information on refused or withdrawn applications is not systematically published.
+
+**Non-clinical experiments**: Review reports summarise non-clinical pharmacology,
+pharmacokinetics, and toxicology data. Reporting of experimental species, models, and
+study details is variable and not fully standardised. 
+
+### Granularity of the data
+PMDA public regulatory information is primarily available at the substance and
+product level, reflecting individual marketing authorisation decisions. Detailed
+submission-level histories, including supplements or post-authorisation variations,
+are not systematically available in public datasets.
+
+### Key identifiers
+PMDA review reports generally include:
+- the international non-proprietary name (INN): substance name,
+- the product (brand) name,
+- the marketing authorisation holder,
+- PMDA- or MHLW-specific approval identifiers.
+
+### Structure of PMDA Review Report
+| Name Japan PAR | Name in Google Sheets |
+|----------------|-----------------------|
+| Document number (without leading zero; not explicitly stated in text) | Marketing authorisation number |
+| Brand name | Drug |
+| Non-proprietary name | Non proprietary name |
+| Applicant | Marketing authorisation holder |
+| Dosage form | Pharmaceutical form |
+| Not consistently reported; often embedded in text | Administration route |
+| Results of deliberation | Decision |
+| Results of deliberation; if unavailable, document date (top right) | Decision date |
+| Public review reports are generally available only for authorised drugs | Current status |
+| Items warranting special mention | Orphan drug status |
+| Indication section; additions indicated by underlined text | Indication extended |
+| Indication | Indication approved |
+| Date of application | Application date |
+| Not reported | Number of decisions |
+| Section 3: Non-clinical data (reported per category) | Non clinical abridge |
+| Usually not reported | Referral / Referral body |
+| Implicit from text | Drug class |
+| Implicit from text | Disease class |
+| Section 3: Non-clinical data — (i) Pharmacology, (ii) Pharmacokinetics, (iii) Toxicology | Animal species, strain, model, sex, in vitro |
 
 # API based Agencies
 ---
