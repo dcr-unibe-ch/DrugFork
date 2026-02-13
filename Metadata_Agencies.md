@@ -6,6 +6,7 @@
 - [Overall](#overall)
   - [Definition Public Assessment Report (PAR)](#definition-public-assessment-report-par)
   - [Notice on downloading regulatory documents](#notice-on-downloading-regulatory-documents)
+  - [Overview of regulatory agencies and public data characteristics](#overview-of-regulatory-agencies-and-public-data-characteristics)
 - [PAR based Agencies](#par-based-agencies)
   - [EMA – European Medicines Agency](#-ema--european-medicines-agency)
   - [Swissmedic – Swiss Agency for Therapeutic Products](#-swissmedic--swiss-agency-for-therapeutic-products)
