@@ -15,6 +15,16 @@ PARs are intended to enhance transparency of regulatory decision-making while ex
 confidential commercial information. The exact naming terminology differs between the agencies:
 Swissmedic: SwissPAR, EMA: EPAR, TGA: AusPAR, PMDA: Review Report.
 
+### Notice on downloading regulatory documents
+When downloading regulatory documents at scale, caution is advised. Several agency
+websites implement technical safeguards against high request volumes, which may
+result in temporary access restrictions, connection resets, or blocking. Such
+behaviour was observed in this project particularly for the European Medicines Agency
+(EMA) and the Therapeutic Goods Administration (TGA). We therefore recommend limiting
+request rates, introducing delays between downloads, and complying with the
+respective website terms of use.
+
+
 TO DO
 
 # PAR based Agencies
@@ -155,7 +165,67 @@ SwissPARs generally include:
 ## 🇦🇺 **TGA** – Therapeutic Goods Administration (Australia)
 ---
 
-TO DO
+### Data Sources
+The Therapeutic Goods Administration (TGA) publishes regulatory assessment information
+primarily through Australian Public Assessment Reports (AusPARs). AusPARs are publicly
+available via the TGA website in PDF and Word format and provide summaries of
+the scientific and regulatory evaluation supporting the approval of selected
+prescription medicines. 
+In addition, the TGA publishes several structured datasets in CSV format, including 
+Cognos exports (e.g. cognos_v_gen), which contain extensive regulatory metadata. However, 
+these datasets do not share a single consistent primary identifier across
+files, requiring cross-referencing of multiple identifiers (e.g. ARTG numbers,
+product IDs, or submission-related fields) to link information between datasets and
+with AusPAR documents.
+Download AusPARs: https://www.tga.gov.au/resources/australian-public-assessment-reports-auspar
+Information AusPARs: https://www.tga.gov.au/products/regulations-all-products/about-australian-register-therapeutic-goods-artg/about-australian-public-assessment-reports-prescription-medicines-auspars
+Download csv documents: https://apps.tga.gov.au/downloads/
+
+### Scope of published information
+**Timeline**: AusPARs have been published since 2009. Reports are static documents and
+are generally not updated after publication. 
+**Substance Types**: AusPARs are published mainly for new active substances and selected
+significant regulatory decisions such as extension of indication. Biosimilars and generics are generally not covered by AusPARs.
+**Decision Types**: approved, withdrawn, rejected, refused.
+**Non-clinical experiments**: AusPARs summarise non-clinical pharmacology,
+pharmacokinetics, and toxicology data. The reporting of experimental species, models,
+and study details is variable and not standardised across reports. This information is not available in the structured datasets.
+
+### Granularity of the data
+TGA public data provided through AusPARs are primarily available at the substance
+and product level, typically corresponding to the initial approval of a medicinal
+product. Submission-level regulatory actions and post-approval variations are not
+systematically documented in public sources. TGA Cognos datasets provide more fine-grained, structured regulatory metadata than public assessment reports, although they do not represent full submission-level histories comparable to FDA or Health Canada APIs.
+
+### Key identifiers
+AusPARs generally include:
+- the international non-proprietary name (INN): substance name,
+- the product (brand) name,
+- the Australian Register of Therapeutic Goods (ARTG) number,
+- the document number (in document name).
+
+### Structure of AusPAR
+
+| Name AusPAR | Name DrugFork Dataset |
+|-------------|-----------------------|
+| Number in document name (not in text) | Marketing_authorisation_number |
+| Product name | Drug_name |
+| Active ingredient | Non_proprietary_name |
+| Sponsor’s name and address (first line only) | Marketing_authorisation_holder |
+| Dose form | Pharmaceutical_form |
+| Route of administration | Administration_route |
+| Decision | Decision |
+| Date of withdrawal / Date of approval | Decision_date |
+| Not reported | Current_status |
+| In table “Timeline for Submission”: first line “Positive Designation (Orphan)”; in older reports stated in text | Orphan_drug_status |
+| If type of submission: Extension of indications = yes | Indication_extended |
+| Approved therapeutic use | Indication_approved |
+| In text, mostly under “Product background” | Indication_requested |
+| In table “Timeline for Submission”: submission dossier accepted | Application_date |
+| Under Nonclinical: no (new) experiments have been conducted | Non_clinical_abridge |
+| Implicit from text | Drug_class |
+| Implicit from text | Disease_class(es) |
+| Under Nonclinical (Pharmacology / Pharmacodynamic, Pharmacokinetic, Toxicology) | Animal species, strain, model, sex, in vitro |
 
 
 ## 🇯🇵 **PMDA** – Pharmaceuticals and Medical Devices Agency (Japan)
