@@ -1,6 +1,21 @@
 # Dataset Metadata: Agency-specific helpful Findings
 ---
 
+## Contents
+
+- [Overall](#overall)
+  - [Definition Public Assessment Report (PAR)](#definition-public-assessment-report-par)
+  - [Notice on downloading regulatory documents](#notice-on-downloading-regulatory-documents)
+- [PAR based Agencies](#par-based-agencies)
+  - [EMA – European Medicines Agency](#-ema--european-medicines-agency)
+  - [Swissmedic – Swiss Agency for Therapeutic Products](#-swissmedic--swiss-agency-for-therapeutic-products)
+  - [TGA – Therapeutic Goods Administration (Australia)](#-tga--therapeutic-goods-administration-australia)
+  - [PMDA – Pharmaceuticals and Medical Devices Agency (Japan)](#-pmda--pharmaceuticals-and-medical-devices-agency-japan)
+- [API based Agencies](#api-based-agencies)
+  - [FDA – U.S. Food and Drug Administration](#-fda--us-food-and-drug-administration-united-states)
+  - [Health Canada – Health Products and Food Branch](#-health-canada--health-products-and-food-branch-canada)
+
+
 ## Overall
 ---
 
@@ -20,16 +35,24 @@ When downloading regulatory documents at scale, caution is advised. Several agen
 websites implement technical safeguards against high request volumes, which may
 result in temporary access restrictions, connection resets, or blocking. Such
 behaviour was observed in this project particularly for the European Medicines Agency
-(EMA) and the Therapeutic Goods Administration (TGA). We therefore recommend limiting
+(EMA), Health Canada and the Therapeutic Goods Administration (TGA). We therefore recommend limiting
 request rates, introducing delays between downloads, and complying with the
 respective website terms of use.
 
+### Overview of regulatory agencies and public data characteristics
 
-TO DO
+| Agency | Public assessment reports | Main data granularity | Coverage of generics / biosimilars | Post-authorisation changes | Special characteristics / notes |
+|------|---------------------------|-----------------------|------------------------------------|----------------------------|--------------------------------|
+| **EMA** | EPAR (systematic) | Product / substance | Yes (included in EPARs) | Integrated into updated EPARs | EPARs are living documents that are updated over time to reflect major regulatory changes |
+| **Swissmedic** | SwissPAR (selective) | Substance (initial approval) | No | Selective, only if SwissPAR exists | SwissPARs are static and not updated after publication |
+| **TGA** | AusPAR (selective) | Product / substance | Rare, discretionary | Discretionary, not systematic | AusPAR publication depends on application type and TGA discretion |
+| **PMDA** | Review Reports (selective) | Product / substance | Rare | Selective for major changes | English translations are provided for reference only; Japanese originals are authoritative |
+| **FDA** | No PARs | Submission / application | Yes (explicit NDA / ANDA) | Fragmented across datasets | Regulatory information is distributed across multiple heterogeneous data sources |
+| **Health Canada** | No PARs | Submission-like (Drug_code) | Yes | Implicit, via multiple records | Regulatory decisions are represented by Drug_code without explicit submission identifiers |
+
 
 # PAR based Agencies
 ---
-
 
 ## 🇪🇺 **EMA** – European Medicines Agency
 ---
@@ -262,21 +285,27 @@ AusPARs generally include:
 The Pharmaceuticals and Medical Devices Agency (PMDA) publishes regulatory assessment
 information primarily through publicly available review reports and summary documents
 for approved medicinal products. These documents are accessible via the PMDA website
-and provide descriptions of the scientific and regulatory evaluation supporting marketing authorisation decisions in Japan. PMDA publishes English translations of selected review reports 
+and provide descriptions of the scientific and regulatory evaluation supporting marketing
+authorisation decisions in Japan. PMDA publishes English translations of selected review reports 
 for reference purposes only. These translations are provided for convenience, and the 
-original Japanese documents remain authoritative. English versions are available primarily for recently approved drugs with new active ingredients, selected based on novelty and regulatory
+original Japanese documents remain authoritative. English versions are available primarily for
+recently approved drugs with new active ingredients, selected based on novelty and regulatory
 priority.
 
 Download review reports: https://www.pmda.go.jp/english/review-services/reviews/approved-information/drugs/0001.html
 
 ### Scope of published information
-**Timeline**: Public review reports have been published consistently since 2007, with increasing availability and standardisation over time. Reports are static documents and are generally not updated after publication.
+**Timeline**: Public review reports have been published consistently since 2007, with increasing
+availability and standardisation over time. Reports are static documents and are generally not
+updated after publication.
 
 **Substance Types**: PMDA review reports are published mainly for new active substances
 and selected innovative products. Biosimilars and generics are typically not covered
 by detailed public assessment reports. 
 
-**Additional reports**: In some cases, PMDA also publishes review reports for major post-authorisation changes, such as indication extensions or new strengths, particularly when these are considered scientifically significant.
+**Additional reports**: In some cases, PMDA also publishes review reports for major post
+authorisation changes, such as indication extensions or new strengths, particularly when these 
+are considered scientifically significant.
 
 **Decision Types**: approved; information on refused or withdrawn applications is not systematically published.
 
@@ -321,15 +350,195 @@ PMDA review reports generally include:
 # API based Agencies
 ---
 
-## 🇺🇸 **FDA** – U.S. Food and Drug Administration
+## 🇺🇸 **FDA** – U.S. Food and Drug Administration (United States)
 ---
 
-TO DO
+### Data Sources
+The U.S. Food and Drug Administration (FDA) provides public regulatory information
+through multiple structured data sources rather than a single consolidated dataset.
+Key sources include the openFDA API, downloadable data files from Drugs@FDA, and
+auxiliary datasets related to specific regulatory designations (ex. orphan drug status). Each source captures different aspects of the regulatory process and differs in scope and granularity.
+
+**openFDA**
+- openFDA provides programmatic access to selected, machine-readable FDA datasets, primarily designed for automated retrieval of labels and structured regulatory metadata.
+- Application Number fomat: NDAXXXXX / ANDAXXXXX
+- `drug-label-0001-of-0013.json`: structured drug label information  
+- `drugs-drugsfda-0001-of-0001.json`: application-level approval metadata
+- Link: https://open.fda.gov/
+- Information about Drug label API: https://open.fda.gov/apis/drug/label/?utm_source=chatgpt.com
+
+**Drugs@FDA downloadable files (ZIP-folder)**
+- Drugs@FDA is the FDA’s primary public repository for drug approval information, presenting application-level records of authorised medicines.
+- Application number format: XXXXX (without NDA or ANDA before the number!)
+- Drugs@FDA: https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm
+- Download Drugs@FDA TXT files: https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files 
+
+**Drugs@FDA TXT files – internal structure**
+Applications.txt
+│
+├── Submissions.txt
+│     ├── SubmissionClass_Lookup.txt
+│     ├── SubmissionPropertyType.txt
+│     ├── Join_Submission_ActionTypes_Lookup.txt
+│     │     └── ActionTypes_Lookup.txt
+│
+├── ApplicationDocs.txt
+│     └── ApplicationsDocsType_Lookup.txt
+│
+└── Products.txt
+      ├── MarketingStatus.txt
+      │     └── MarketingStatus_Lookup.txt
+      └── TE.txt
+
+-> Files can be linkes with common ApplNo
+
+**Additional sources**
+- `Orphan_Drug_Status_FDA.xls`: orphan drug designation and approval information  
+  (note: application numbers are not consistently provided and may require linkage
+  via other identifiers or the FDA API
+- Download: https://www.accessdata.fda.gov/scripts/opdlisting/oopd/index.cfm  
+
+### Scope of published information
+**Timeline**: FDA data cover a wide historical range, with availability varying by
+source and product type. Datasets are updated asynchronously across sources.
+
+**Substance Types**: FDA sources include innovator products, generics, and products
+approved via different regulatory pathways. Application types are explicitly
+identifiable (e.g. NDA vs ANDA in application number).
+
+**Decision Types**: Initial approvals are consistently reported across FDA data
+sources, whereas post-approval regulatory actions (e.g. supplements, label changes,
+or discontinuations) are distributed across multiple datasets and are not captured in
+a uniform or comprehensive manner.
+
+**Non-clinical experiments**: Public FDA datasets do not provide a unified,
+comprehensive non-clinical assessment comparable to PAR documents. Selected sources
+contain abbreviated or indirect non-clinical information. (Can be found in Drugs@fda, the name of those documents is not uniform, usually calles Pharamcology/ Toxicology/ Nonclinical review or a combination of such)
+
+### Granularity of the data
+FDA public data are frequently available at the submission/application level, with
+multiple records per substance reflecting different applications (e.g. NDAs and ANDAs)
+and regulatory actions over time. 
+
+### Key identifiers
+FDA sources commonly include:
+- application numbers (e.g. NDAXXXXX / ANDAXXXXX),
+- the non-proprietary name (INN): substance name,
+- the product (brand) name.
+
+### Coverage of key variables by FDA data source
+
+| Document | Drug_name | Non_proprietary_name | Marketing_authorisation_holder | Pharmaceutical_form | Administration_route | Decision | Decision_date | Indication | Current_status |
+|--------|-----------|----------------------|-------------------------------|---------------------|----------------------|----------|---------------|------------|----------------|
+| `drug-label-0001-of-0013.json` (openFDA) | Yes | Yes | No | No | Yes | No | No | Yes | No |
+| `drugs-drugsfda-0001-of-0001.json` (openFDA) | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | No |
+| `MarketingStatus.txt` (Drugs@FDA ZIP) | No | No | No | No | No | No | No | No | Yes |
+| `Products.txt` (Drugs@FDA ZIP) | Yes | Yes | No | Yes | Yes | No | No | No | No |
+| `Orphan_Drug_Status_FDA.xls` | Yes | Yes | No | No | No | Yes (approved only) | Yes | No | No |
 
 
-## 🇨🇦 **Health Canada** – Canadian regulatory authority
+### Coverage of extended regulatory information
+
+| Document | Indication_requested | Non_clinical_abridged | Non-clinical pharmacology | Non-clinical pharmacokinetics | Non-clinical toxicology | Orphan_drug_status | Application_date |
+|--------|----------------------|-----------------------|----------------------------|-------------------------------|------------------------|-------------------|------------------|
+| `drug-label-0001-of-0013.json` (openFDA) | No | No | Yes (abridged) | No | No | No | No |
+| `drugs-drugsfda-0001-of-0001.json` (openFDA) | No | Yes | No | No | No | No | No |
+| `MarketingStatus.txt` | No | No | No | No | No | No | No |
+| `Products.txt` | No | No | No | No | No | No | No |
+| `Orphan_Drug_Status_FDA.xls` | No | No | No | No | No | Yes | No |
+
+Drug_class and Disease_class(es): implicit information, not stated directly in the documents
+
+
+## 🇨🇦 **Health Canada** – Health Products and Food Branch (Canada)
 ---
 
-TO DO
+### Data Sources
+Health Canada provides publicly accessible regulatory information primarily through the
+Drug Product Database (DPD) and associated Product Monographs. The DPD offers
+structured records of authorised medicines in Canada and is distributed as a set of
+relational text files that can be linked via a shared internal identifier
+(Drug_code). Product monographs provide complementary information on
+indications, dosing, and safety. In contrast to PAR-based agencies, Health Canada does
+not systematically publish public assessment reports for all approvals.
+Structured DPD data are available as downloadable text files (ZIP archive, called allfiles),
+which together represent regulatory decision records rather than a single consolidated
+product list.
 
+Access DPD: https://health-products.canada.ca/dpd-bdpp/ 
 
+Download DPD / data extracts: http://www.hc-sc.gc.ca/dhp mps/prodpharma/databasdon/dpd_bdpp_data_extract-eng.php  
+
+DPD data extract documentation: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-product-database/read-file-drug-product-database-data-extract.html  
+
+### Scope of published information
+**Timeline**: Public availability depends on DPD coverage and the availability of
+product monographs; content, structure, and completeness vary over time.
+
+**Substance Types**: The DPD includes a broad range of applications, including new active
+substances, biosimilars and generics. Distinguishing them is not possible from a single field and
+may require triangulation across multiple DPD files and monograph content.
+
+**Decision Types**: The DPD reflects applications that are approved, marketed or cancelled and since
+2017 dormant products. Information on refused or withdrawn submissions is not systematically
+captured in a centralised or standardised manner.
+
+**Non-clinical experiments**: Non-clinical data are not consistently published. Since
+2019, Health Canada has implemented a legal framework for the public release of
+regulatory data; however, the Public Release of Clinical Information (PRCI) portal
+covers clinical data only and does not include non-clinical study reports.  
+Non-clinical information corresponding to CTD Module 4 (Nonclinical Study Reports /
+Summaries) is generally not publicly available. Limited toxicology information may be
+found in rare cases at the end of product monographs, accessible via the DPD, but this
+is not systematic.
+
+PRCI portal (clinical data only): https://clinical-information.canada.ca/search/ci-rc 
+
+### Granularity of the data
+Although Health Canada does not expose explicit submission identifiers comparable to FDA
+NDAs or ANDAs, DPD records operate at a submission-like level. Each Drug_code
+represents a distinct regulatory decision record, and often multiple Drug_code entries
+exist for the same product, reflecting separate approvals for different strengths,
+formulations, manufacturers, or other regulatory changes. As a result, Health Canada
+public data are more granular than product-level listings but lack an explicit,
+standardised submission hierarchy.
+
+### Structure of DPD data extracts
+All core DPD text files share the internal identifier Drug_code, which enables
+relational linking across datasets. Key files capture drug identity, formulation,
+route of administration, regulatory status, and therapeutic classification. The data
+represent individual regulatory decisions associated with marketed products rather
+than unique substances or products.
+
+**Health Canada DPD – file structure (allfiles)**
+
+drug.txt
+│
+├── comp.txt
+├── ingred.txt
+├── form.txt
+├── route.txt
+├── status.txt
+├── ther.txt
+├── pharm.txt
+├── biosimilar.txt
+├── vet.txt
+└── package.txt
+
+More detailed information in the Read Me file: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-product-database/read-file-drug-product-database-data-extract.html
+
+### Key identifiers
+Health Canada sources commonly include:
+- the Drug Identification Number (DIN),
+- an internal Drug_code linking all DPD text files,
+- the international non-proprietary name (INN): substance name,
+- the product (brand) name.
+
+### Additional considerations
+Health Canada does not currently have a formal orphan drug designation system
+comparable to the othe regulatory agencies. Orphan drug status is therefore not represented as a
+structured field in the DPD, although regulatory initiatives in this area have been
+introduced in recent years.
+
+Information on orphan drug policy developments:
+https://capra.ca/en/blog/rare-diseases-and-orphan-drugs-regulatory-framework-in-canada-recent-initiatives-by-government-of-canada-2023-05-15
