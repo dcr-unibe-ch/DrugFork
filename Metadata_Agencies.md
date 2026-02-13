@@ -112,9 +112,12 @@ EPARs generally include:
 ---
 
 ### Data Sources
-Swissmedic organises their data in SwissPARs (=Public Assessment Reports) and also
-provides a comprehensive excel sheet (only available in german and french) with all 
-currently approved medicines in Switzerland.
+Swissmedic publishes regulatory assessment information primarily through Swiss Public
+Assessment Reports (SwissPARs). SwissPARs are publicly available via the Swissmedic
+website and provide summaries of the scientific and regulatory evaluation
+supporting selected marketing authorisation decisions. In addition, Swissmedic
+publishes structured information on authorised medicinal products in downloadable
+Excel lists. However, these lists do not contain the same level of detail as SwissPARs.
 
 Download SwissPARs: https://www.swissmedic.ch/swissmedic/en/home/humanarzneimittel/authorisations/swisspar.html
 
