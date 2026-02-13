@@ -391,6 +391,7 @@ Applications.txt
       ├── MarketingStatus.txt
       │     └── MarketingStatus_Lookup.txt
       └── TE.txt
+```
 
 -> Files can be linkes with common ApplNo
 
@@ -527,6 +528,7 @@ drug.txt
 ├── biosimilar.txt
 ├── vet.txt
 └── package.txt
+```
 
 More detailed information in the Read Me file: https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-product-database/read-file-drug-product-database-data-extract.html
 
