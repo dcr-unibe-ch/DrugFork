@@ -41,14 +41,14 @@ respective website terms of use.
 
 ### Overview of regulatory agencies and public data characteristics
 
-| Agency | Public assessment reports | Main data granularity | Coverage of generics / biosimilars | Post-authorisation changes | Special characteristics / notes |
-|------|---------------------------|-----------------------|------------------------------------|----------------------------|--------------------------------|
-| **EMA** | EPAR (systematic) | Product / substance | Yes (included in EPARs) | Integrated into updated EPARs | EPARs are living documents that are updated over time to reflect major regulatory changes |
-| **Swissmedic** | SwissPAR (selective) | Substance (initial approval) | No | Selective, only if SwissPAR exists | SwissPARs are static and not updated after publication |
-| **TGA** | AusPAR (selective) | Product / substance | Rare, discretionary | Discretionary, not systematic | AusPAR publication depends on application type and TGA discretion |
-| **PMDA** | Review Reports (selective) | Product / substance | Rare | Selective for major changes | English translations are provided for reference only; Japanese originals are authoritative |
-| **FDA** | No PARs | Submission / application | Yes (explicit NDA / ANDA) | Fragmented across datasets | Regulatory information is distributed across multiple heterogeneous data sources |
-| **Health Canada** | No PARs | Submission-like (Drug_code) | Yes | Implicit, via multiple records | Regulatory decisions are represented by Drug_code without explicit submission identifiers |
+| Agency | Public assessment reports | Main data granularity | Coverage of generics / biosimilars | Post-authorisation changes |
+|------|---------------------------|-----------------------|------------------------------------|----------------------------|
+| **EMA** | EPAR (systematic) | Product / substance | Yes (included in EPARs) | Integrated into updated EPARs |
+| **Swissmedic** | SwissPAR (selective) | Substance (initial approval) | No | Selective, only if SwissPAR exists |
+| **TGA** | AusPAR (selective) | Product / substance | Rare, discretionary | Discretionary, not systematic |
+| **PMDA** | Review Reports (selective) | Product / substance | Rare | Selective for major changes |
+| **FDA** | No PARs | Submission / application | Yes (explicit NDA / ANDA) | Fragmented across datasets |
+| **Health Canada** | No PARs | Submission-like (Drug_code) | Yes | Implicit, via multiple records |
 
 
 # PAR based Agencies
@@ -373,7 +373,9 @@ auxiliary datasets related to specific regulatory designations (ex. orphan drug 
 - Drugs@FDA: https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm
 - Download Drugs@FDA TXT files: https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files 
 
-**Drugs@FDA TXT files – internal structure**
+### Drugs@FDA TXT files – internal structure
+
+```text
 Applications.txt
 │
 ├── Submissions.txt
@@ -512,6 +514,7 @@ than unique substances or products.
 
 **Health Canada DPD – file structure (allfiles)**
 
+```text
 drug.txt
 │
 ├── comp.txt
