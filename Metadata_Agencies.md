@@ -42,8 +42,11 @@ the EMA website. In addition, structured metadata are available through EMA data
 and downloadable tables, although these are less comprehensive than the EPAR 
 documents. EMA also publishes relevant information on the product page, which not 
 always matches with the information in the EPARs. 
+
 Download EPARs: https://www.ema.europa.eu/en/search?f%5B0%5D=ema_medicine_bundle%3Aema_medicine&f%5B1%5D=ema_search_categories%3A83
+
 Information about EPARS: https://www.ema.europa.eu/en/medicines/what-we-publish-medicines-when/european-public-assessment-reports-background-context
+
 Medicine information tables: https://www.ema.europa.eu/en/medicines/download-medicine-data
 
 
@@ -51,9 +54,13 @@ Medicine information tables: https://www.ema.europa.eu/en/medicines/download-med
 **Timeline**: EPARs have been published since the establishment of the centralised
 procedure in 1995. EPARs are updated over time to reflect major regulatory changes,
 such as new indications, variations, or safety-related updates.
+
 **Substance Types**: EMA publishes EPARs for every medicine that has been approved or refused. Which means that not only new active substances, but also generics and biosimilars get EPARs.
-**Additional reports** EMA does not publish supplementary reports for additional indications (= indication extension) as they implement such updates in the regular EPAR.
+
+**Additional reports**: EMA does not publish supplementary reports for additional indications (= indication extension) as they implement such updates in the regular EPAR.
+
 **Decision Types**: approved, conditional marketing authorisation, withdrawn, refused
+
 **Non clinical experiments**: EPARs typically summarise non-clinical pharmacology,
 pharmacokinetics, and toxicology data. The level of detail varies across reports and
 over time; experimental species, models and strains are often mentioned but not reported in a
@@ -108,25 +115,29 @@ EPARs generally include:
 Swissmedic organises their data in SwissPARs (=Public Assessment Reports) and also
 provides a comprehensive excel sheet (only available in german and french) with all 
 currently approved medicines in Switzerland.
+
 Download SwissPARs: https://www.swissmedic.ch/swissmedic/en/home/humanarzneimittel/authorisations/swisspar.html
+
 Download Excel Sheet: https://www.swissmedic.ch/dam/swissmedic/de/dokumente/internetlisten/erweiterte_ham_ind.xlsx.download.xlsx/Erweiterte_Arzneimittelliste%20HAM.xlsx
 
 
 ### Scope of published information
 **Timeline**: Swissmedic publishes SwissPARs since 2019. PARs do not get revised after
 publication, except drugs are no longer authorised (marking on page).
+
 **Substance Types**: Only New Active Substances get SwissPARs, there are no PARs for 
 biosimilars or generics. 
 
-**Additional reports** Review reports for indication extensions or other post-authorisation changes are published selectively and only if a SwissPAR exists for the product.
+**Additional reports**: Review reports for indication extensions or other post-authorisation changes are published selectively and only if a SwissPAR exists for the product.
 
 **Decision Types**: approved, conditional marketing authorisation, refused
+
 **Non clinical experiments**: summary of conducted experiments, not comprehensive. Species,
 strain and model are not consistently reported. 
 
 
 ### Granularity of the data  
-Swissmedic public data are primarily available at the **substance level**, as each
+Swissmedic public data are primarily available at the substance level, as each
 SwissPAR generally corresponds to a specific active substance and indication at the
 time of first authorisation. Submission-level regulatory actions are not publicly
 documented in a systematic manner.
@@ -195,7 +206,7 @@ are generally not updated after publication.
 **Substance Types**: AusPARs are published primarily for new active substances (Type A) and new fixed combination medicines (Type B). Other application types, including biosimilars and 
 generics are not routinely accompanied by AusPARs and may be published at the discretion of the TGA.
 
-**Additional reports** Major variations in indications or use, are not routinely accompanied by
+**Additional reports**: Major variations in indications or use, are not routinely accompanied by
 AusPARs and may be published at the discretion of the TGA.
 
 **Decision Types**: approved, withdrawn, rejected, refused.
@@ -262,7 +273,7 @@ Download review reports: https://www.pmda.go.jp/english/review-services/reviews/
 and selected innovative products. Biosimilars and generics are typically not covered
 by detailed public assessment reports. 
 
-**Additional reports** In some cases, PMDA also publishes review reports for major post-authorisation changes, such as indication extensions or new strengths, particularly when these are considered scientifically significant.
+**Additional reports**: In some cases, PMDA also publishes review reports for major post-authorisation changes, such as indication extensions or new strengths, particularly when these are considered scientifically significant.
 
 **Decision Types**: approved; information on refused or withdrawn applications is not systematically published.
 
