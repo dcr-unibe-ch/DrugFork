@@ -101,7 +101,7 @@ EPARs generally include:
 | Recommendations, Outcome | Indication_approved |
 | Submission of the dossier (in text: applicant applied for the following indication) | Indication_requested |
 | Submission of the dossier (in text) | Application_date |
-| Under non-clinical aspects | Non_clinical_abridge |
+| Under non-clinical aspects | Non_clinical_abridged |
 | Under non-clinical aspects (not always clear) | Referral / Referral body |
 | Implicit in text | Drug_class |
 | Implicit in text | Disease_class(es) |
@@ -168,7 +168,7 @@ SwissPARs generally include:
 | Indication and Dosage, Approved indication | Indication_approved |
 | Indication and Dosage, Requested indication | Indication_requested |
 | In table “Regulatory History” line Application | Application_date |
-| Nonclinical aspects: “Swissmedic has not assessed the primary data” | Non_clinical_abridge |
+| Nonclinical aspects: “Swissmedic has not assessed the primary data” | Non_clinical_abridged |
 | Nonclinical aspects, in text | Referral / Referral_body |
 | Implicit, in text | Drug_class |
 | Implicit, in text | Disease_class(es) |
@@ -246,7 +246,7 @@ AusPARs generally include:
 | Approved therapeutic use | Indication_approved |
 | In text, mostly under “Product background” | Indication_requested |
 | In table “Timeline for Submission”: submission dossier accepted | Application_date |
-| Under Nonclinical: no (new) experiments have been conducted | Non_clinical_abridge |
+| Under Nonclinical: no (new) experiments have been conducted | Non_clinical_abridged |
 | Implicit from text | Drug_class |
 | Implicit from text | Disease_class(es) |
 | Under Nonclinical (Pharmacology / Pharmacodynamic, Pharmacokinetic, Toxicology) | Animal species, strain, model, sex, in vitro |
@@ -299,22 +299,20 @@ PMDA review reports generally include:
 |----------------|-----------------------|
 | Document number (without leading zero; not explicitly stated in text) | Marketing authorisation number |
 | Brand name | Drug |
-| Non-proprietary name | Non proprietary name |
-| Applicant | Marketing authorisation holder |
-| Dosage form | Pharmaceutical form |
-| Not consistently reported; often embedded in text | Administration route |
+| Non-proprietary name | Non_proprietary_name |
+| Applicant | Marketing_authorisation_holder |
+| Dosage form | Pharmaceutical_form |
+| Not consistently reported; often embedded in text | Administration_route |
 | Results of deliberation | Decision |
-| Results of deliberation; if unavailable, document date (top right) | Decision date |
-| Public review reports are generally available only for authorised drugs | Current status |
-| Items warranting special mention | Orphan drug status |
-| Indication section; additions indicated by underlined text | Indication extended |
-| Indication | Indication approved |
-| Date of application | Application date |
-| Not reported | Number of decisions |
-| Section 3: Non-clinical data (reported per category) | Non clinical abridge |
-| Usually not reported | Referral / Referral body |
-| Implicit from text | Drug class |
-| Implicit from text | Disease class |
+| Results of deliberation; if unavailable, document date (top right) | Decision_date |
+| Public review reports are generally available only for authorised drugs | Current_status |
+| Items warranting special mention | Orphan_drug_status |
+| Indication section; additions indicated by underlined text | Indication_extended |
+| Indication | Indication_approved |
+| Date of application | Application_date |
+| Section 3: Non-clinical data (reported per category) | Non_clinical_abridged |
+| Implicit from text | Drug_class |
+| Implicit from text | Disease_class(es) |
 | Section 3: Non-clinical data — (i) Pharmacology, (ii) Pharmacokinetics, (iii) Toxicology | Animal species, strain, model, sex, in vitro |
 
 # API based Agencies
