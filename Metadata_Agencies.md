@@ -1,5 +1,4 @@
 # Dataset Metadata: Agency-specific helpful Findings
----
 
 ## Contents
 
@@ -18,7 +17,6 @@
 
 
 ## Overall
----
 
 ### Definition Public Assessment Report (PAR)
 A Public Assessment Report is an official document published by a regulatory
@@ -53,10 +51,8 @@ respective website terms of use.
 
 
 # PAR based Agencies
----
 
 ## 🇪🇺 **EMA** – European Medicines Agency
----
 
 ## Data Sources
 The European Medicines Agency (EMA) publishes regulatory assessment information
@@ -133,7 +129,6 @@ EPARs generally include:
 
 
 ## 🇨🇭 **Swissmedic** – Swiss Agency for Therapeutic Products 
----
 
 ### Data Sources
 Swissmedic publishes regulatory assessment information primarily through Swiss Public
@@ -203,7 +198,6 @@ SwissPARs generally include:
 
 
 ## 🇦🇺 **TGA** – Therapeutic Goods Administration (Australia)
----
 
 ### Data Sources
 The Therapeutic Goods Administration (TGA) publishes regulatory assessment information
@@ -280,7 +274,6 @@ AusPARs generally include:
 
 
 ## 🇯🇵 **PMDA** – Pharmaceuticals and Medical Devices Agency (Japan)
----
 
 ### Data Sources
 The Pharmaceuticals and Medical Devices Agency (PMDA) publishes regulatory assessment
@@ -349,10 +342,8 @@ PMDA review reports generally include:
 | Section 3: Non-clinical data — (i) Pharmacology, (ii) Pharmacokinetics, (iii) Toxicology | Animal species, strain, model, sex, in vitro |
 
 # API based Agencies
----
 
 ## 🇺🇸 **FDA** – U.S. Food and Drug Administration (United States)
----
 
 ### Data Sources
 The U.S. Food and Drug Administration (FDA) provides public regulatory information
@@ -455,7 +446,6 @@ Drug_class and Disease_class(es): implicit information, not stated directly in t
 
 
 ## 🇨🇦 **Health Canada** – Health Products and Food Branch (Canada)
----
 
 ### Data Sources
 Health Canada provides publicly accessible regulatory information primarily through the
