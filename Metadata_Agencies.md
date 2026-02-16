@@ -13,7 +13,7 @@
   - [PMDA – Pharmaceuticals and Medical Devices Agency (Japan)](#-pmda--pharmaceuticals-and-medical-devices-agency-japan)
 - [API based Agencies](#api-based-agencies)
   - [FDA – U.S. Food and Drug Administration](#-fda--us-food-and-drug-administration-united-states)
-  - [Health Canada – Canadian Health Products Agency](#-health-canada--canadian-helath-products-agency)
+  - [Health Canada – Canadian Health Products Agency](#-health-canada--canadian-health-products-agency)
 
 
 ## Overall
