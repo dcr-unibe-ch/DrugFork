@@ -13,7 +13,7 @@
   - [PMDA – Pharmaceuticals and Medical Devices Agency (Japan)](#-pmda--pharmaceuticals-and-medical-devices-agency-japan)
 - [API based Agencies](#api-based-agencies)
   - [FDA – U.S. Food and Drug Administration](#-fda--us-food-and-drug-administration-united-states)
-  - [Health Canada – Health Products and Food Branch](#-health-canada--health-products-and-food-branch-canada)
+  - [Health Canada – Canadian Health Products Agency](#-health-canada--canadian-helath-products-agency)
 
 
 ## Overall
@@ -445,7 +445,7 @@ FDA sources commonly include:
 Drug_class and Disease_class(es): implicit information, not stated directly in the documents
 
 
-## 🇨🇦 **Health Canada** – Health Products and Food Branch (Canada)
+## 🇨🇦 **Health Canada** – Canadian Health Products Agency
 
 ### Data Sources
 Health Canada provides publicly accessible regulatory information primarily through the
