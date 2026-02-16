@@ -99,7 +99,7 @@ but are integrated into the evolving EPAR documents.
 EPARs generally include:
 - the international non-proprietary name (INN): substance name,
 - the product (brand) name,
-- a document nuber for each EPAR,
+- a document number for each EPAR,
 - the EMA product number (drug-specific).
 
 ### Structure of EPAR
@@ -305,7 +305,7 @@ are considered scientifically significant.
 
 **Non-clinical experiments**: Review reports summarise non-clinical pharmacology,
 pharmacokinetics, and toxicology data. Reporting of experimental species, models, and
-study details is variable and not fully standardised. 
+study details are variable and not fully standardised. 
 
 ### Granularity of the data
 PMDA public regulatory information is primarily available at the substance and
@@ -353,7 +353,7 @@ auxiliary datasets related to specific regulatory designations (ex. orphan drug 
 
 **openFDA**
 - openFDA provides programmatic access to selected, machine-readable FDA datasets, primarily designed for automated retrieval of labels and structured regulatory metadata.
-- Application Number fomat: NDAXXXXX / ANDAXXXXX
+- Application Number format: NDAXXXXX / ANDAXXXXX
 - `drug-label-0001-of-0013.json`: structured drug label information  
 - `drugs-drugsfda-0001-of-0001.json`: application-level approval metadata
 - Link: https://open.fda.gov/
@@ -385,11 +385,11 @@ Applications.txt
       └── TE.txt
 ```
 
--> Files can be linkes with common ApplNo
+-> Files can be linked with common ApplNo
 
 **Additional sources**
 - `Orphan_Drug_Status_FDA.xls`: orphan drug designation and approval information  
-  (note: application numbers are not consistently provided and may require linkage
+  (Note: application numbers are not consistently provided and may require linkage
   via other identifiers or the FDA API
 - Download: https://www.accessdata.fda.gov/scripts/opdlisting/oopd/index.cfm  
 
@@ -408,7 +408,7 @@ a uniform or comprehensive manner.
 
 **Non-clinical experiments**: Public FDA datasets do not provide a unified,
 comprehensive non-clinical assessment comparable to PAR documents. Selected sources
-contain abbreviated or indirect non-clinical information. (Can be found in Drugs@fda, the name of those documents is not uniform, usually calles Pharamcology/ Toxicology/ Nonclinical review or a combination of such)
+contain abbreviated or indirect non-clinical information. (Can be found in Drugs@fda, the name of those documents is not uniform, usually called Pharmacology/ Toxicology/ Nonclinical review or a combination of such)
 
 ### Granularity of the data
 FDA public data are frequently available at the submission/application level, with
@@ -532,7 +532,7 @@ Health Canada sources commonly include:
 
 ### Additional considerations
 Health Canada does not currently have a formal orphan drug designation system
-comparable to the othe regulatory agencies. Orphan drug status is therefore not represented as a
+comparable to the other regulatory agencies. Orphan drug status is therefore not represented as a
 structured field in the DPD, although regulatory initiatives in this area have been
 introduced in recent years.
 
