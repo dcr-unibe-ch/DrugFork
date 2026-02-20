@@ -1,0 +1,27 @@
+
+================================================================================
+Drug Sharing Analysis by Agency (unique deduped entries based on Drug_name)
+================================================================================
+
+Percentages represent proportion of each agency's unique deduped entries by Drug_name:
+
+              Unique to agency  Shared with 1 other
+FDA                       81.5                 18.5
+HealthCanada              85.6                 14.4
+
+
+================================================================================
+Absolute counts (by unique deduped entry in Drug_name):
+================================================================================
+
+              Unique to agency  Shared with 1 other
+FDA                       3701                  840
+HealthCanada              4992                  840
+
+
+================================================================================
+Summary Statistics by unique deduped Drug_name:
+================================================================================
+
+FDA             - Total: 18212, Total deduped: 4541, Unique to this agency: 3701 (81.5%)
+HealthCanada    - Total: 10286, Total deduped: 5832, Unique to this agency: 4992 (85.6%)

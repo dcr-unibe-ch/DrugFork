@@ -34,7 +34,7 @@ future health pharma gmbh
 galderma sa
 gebro pharma ag
 gedeon richter (schweiz) ag
-gilead sciences switzerland s‡rl
+gilead sciences switzerland s√†rl
 glaxosmithkline ag
 guerbet ag
 horizon therapeutics
@@ -46,7 +46,7 @@ incyte biosciences international
 iqone healthcare switzerland
 janssen-cilag ag
 jazz pharmaceuticals
-kyowa kirin s‡rl
+kyowa kirin s√†rl
 labatec pharma sa
 laves arzneimittel gmbh
 leo pharmaceutical products sarath
@@ -91,4 +91,4 @@ vertex pharmaceuticals (ch) gmbh
 vifor (international) inc.
 vifor fresenius medical care
 viiv healthcare gmbh
-voisin consulting ch s‡rl
+voisin consulting ch s√†rl
