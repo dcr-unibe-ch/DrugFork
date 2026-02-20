@@ -18,10 +18,10 @@ PMDA:
   Negative duration: 1 (0.2%)
   Min duration: -13.0 days
   First 3 examples of < 30 days:
-     Drug_name Application_date Decision_date  Review_duration_days
-165    zyprexa       2017-06-22    2017-06-09                 -13.0
-295    veklury       2020-05-04    2020-05-07                   3.0
-306  ronapreve       2021-10-11    2021-11-04                  24.0
+      Drug_name Application_date Decision_date  Review_duration_days
+1656    zyprexa       2017-06-22    2017-06-09                 -13.0
+1786    veklury       2020-05-04    2020-05-07                   3.0
+1797  ronapreve       2021-10-11    2021-11-04                  24.0
 
 Swissmedic:
   Total with both dates: 233
@@ -34,10 +34,10 @@ TGA:
   Negative duration: 10 (2.0%)
   Min duration: -188.0 days
   First 3 examples of < 30 days:
-                     Drug_name Application_date Decision_date  Review_duration_days
-29   zaltrap, aflitiv, lidaveg       2013-04-02    2013-03-05                 -28.0
-77                      inlyta       2012-07-26    2012-07-19                  -7.0
-113                  comirnaty       2021-10-15    2021-10-26                  11.0
+                      Drug_name Application_date Decision_date  Review_duration_days
+2161  zaltrap, aflitiv, lidaveg       2013-04-02    2013-03-05                 -28.0
+2209                     inlyta       2012-07-26    2012-07-19                  -7.0
+2245                  comirnaty       2021-10-15    2021-10-26                  11.0
 
 Overall:
   Total with both dates: 2542

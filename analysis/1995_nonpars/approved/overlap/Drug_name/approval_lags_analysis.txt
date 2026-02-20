@@ -1,0 +1,17 @@
+================================================================================
+Time Lag Statistics Between Agencies (consecutive approvals) - DAYS
+================================================================================
+
+                     Count  Mean (days)  Median (days)  Std (days)  Min (days)  Max (days)
+agency_pair                                                                               
+FDA -> HealthCanada    724        931.8          475.5      1238.7           0        8764
+HealthCanada -> FDA    116        991.9          504.0      1315.2           3        7953
+
+================================================================================
+Time Lag Statistics in Months
+================================================================================
+
+                     Count  Mean (months)  Median (months)  Std (months)  Min (months)  Max (months)
+agency_pair                                                                                         
+FDA -> HealthCanada    724           30.6             15.6          40.7           0.0         287.9
+HealthCanada -> FDA    116           32.6             16.6          43.2           0.1         261.3

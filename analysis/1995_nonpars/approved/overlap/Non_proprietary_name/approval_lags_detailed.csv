@@ -1,0 +1,726 @@
+drug,from_agency,to_agency,lag_days,lag_months,from_date,to_date,agency_pair
+abatacept,FDA,HealthCanada,188,6.176084099868594,2005-12-23,2006-06-29,FDA -> HealthCanada
+abemaciclib,FDA,HealthCanada,554,18.199737187910642,2017-09-28,2019-04-05,FDA -> HealthCanada
+abiraterone acetate,FDA,HealthCanada,90,2.9566360052562417,2011-04-28,2011-07-27,FDA -> HealthCanada
+abobotulinumtoxina,FDA,HealthCanada,1140,37.450722733245726,2009-04-29,2012-06-12,FDA -> HealthCanada
+abrocitinib,FDA,HealthCanada,166,5.45335085413929,2022-01-14,2022-06-29,FDA -> HealthCanada
+acalabrutinib,FDA,HealthCanada,661,21.71484888304862,2017-10-31,2019-08-23,FDA -> HealthCanada
+acamprosate calcium,FDA,HealthCanada,960,31.537450722733244,2004-07-29,2007-03-16,FDA -> HealthCanada
+acarbose,FDA,HealthCanada,8829,290.0459921156373,1995-09-06,2019-11-08,FDA -> HealthCanada
+acetaminophen,FDA,HealthCanada,213,6.9973718791064385,1995-06-01,1995-12-31,FDA -> HealthCanada
+acetylcysteine,FDA,HealthCanada,1963,64.48751642575559,1995-07-28,2000-12-11,FDA -> HealthCanada
+acitretin,FDA,HealthCanada,7560,248.3574244415243,1996-10-28,2017-07-10,FDA -> HealthCanada
+aclidinium bromide,FDA,HealthCanada,371,12.187910643889618,2012-07-23,2013-07-29,FDA -> HealthCanada
+acyclovir,FDA,HealthCanada,356,11.695137976346912,1996-08-30,1997-08-21,FDA -> HealthCanada
+adalimumab,FDA,HealthCanada,633,20.795006570302235,2002-12-31,2004-09-24,FDA -> HealthCanada
+adapalene,HealthCanada,FDA,493,16.1957950065703,1995-01-24,1996-05-31,HealthCanada -> FDA
+adenosine,FDA,HealthCanada,3645,119.7437582128778,1995-05-18,2005-05-10,FDA -> HealthCanada
+aflibercept,FDA,HealthCanada,721,23.68593955321945,2011-11-18,2013-11-08,FDA -> HealthCanada
+agalsidase beta,FDA,HealthCanada,274,9.00131406044678,2003-04-24,2004-01-23,FDA -> HealthCanada
+alemtuzumab,FDA,HealthCanada,2083,68.42969776609723,2001-05-07,2007-01-19,FDA -> HealthCanada
+alfuzosin hydrochloride,HealthCanada,FDA,476,15.637319316688567,2002-02-21,2003-06-12,HealthCanada -> FDA
+alglucosidase alfa,FDA,HealthCanada,108,3.54796320630749,2006-04-28,2006-08-14,FDA -> HealthCanada
+alirocumab,FDA,HealthCanada,262,8.607095926412615,2015-07-24,2016-04-11,FDA -> HealthCanada
+alitretinoin,FDA,HealthCanada,7139,234.526938239159,1999-02-02,2018-08-20,FDA -> HealthCanada
+allopurinol,HealthCanada,FDA,2735,89.84888304862024,1995-12-31,2003-06-27,HealthCanada -> FDA
+alpelisib,FDA,HealthCanada,292,9.592641261498029,2019-05-24,2020-03-11,FDA -> HealthCanada
+alprazolam,FDA,HealthCanada,2037,66.91852825229961,1995-08-31,2001-03-29,FDA -> HealthCanada
+alprostadil,FDA,HealthCanada,390,12.81208935611038,1995-07-06,1996-07-30,FDA -> HealthCanada
+amantadine hydrochloride,FDA,HealthCanada,10189,334.7240473061761,1995-07-17,2023-06-09,FDA -> HealthCanada
+ambrisentan,FDA,HealthCanada,279,9.165571616294349,2007-06-15,2008-03-20,FDA -> HealthCanada
+amcinonide,FDA,HealthCanada,256,8.409986859395532,2002-05-31,2003-02-11,FDA -> HealthCanada
+amifampridine,HealthCanada,FDA,540,17.73981603153745,2020-08-10,2022-02-01,HealthCanada -> FDA
+amiloride hydrochloride,HealthCanada,FDA,1691,55.55190538764783,2004-06-14,2009-01-30,HealthCanada -> FDA
+aminolevulinic acid hydrochloride,FDA,HealthCanada,565,18.561103810775293,1999-12-03,2001-06-20,FDA -> HealthCanada
+amiodarone hydrochloride,FDA,HealthCanada,1331,43.72536136662286,1995-08-03,1999-03-26,FDA -> HealthCanada
+amitriptyline hydrochloride,FDA,HealthCanada,5668,186.2023653088042,1997-09-11,2013-03-19,FDA -> HealthCanada
+amphotericin b,FDA,HealthCanada,1783,58.5742444152431,1995-03-31,2000-02-16,FDA -> HealthCanada
+anakinra,FDA,HealthCanada,191,6.274638633377135,2001-11-14,2002-05-24,FDA -> HealthCanada
+anastrozole,FDA,HealthCanada,247,8.114323258869907,1995-12-27,1996-08-30,FDA -> HealthCanada
+anidulafungin,FDA,HealthCanada,1257,41.29434954007884,2006-02-17,2009-07-28,FDA -> HealthCanada
+apalutamide,FDA,HealthCanada,139,4.566360052562418,2018-02-14,2018-07-03,FDA -> HealthCanada
+apixaban,HealthCanada,FDA,378,12.417871222076215,2011-12-16,2012-12-28,HealthCanada -> FDA
+apremilast,FDA,HealthCanada,236,7.752956636005256,2014-03-21,2014-11-12,FDA -> HealthCanada
+aprepitant,FDA,HealthCanada,1612,52.95663600525624,2003-03-26,2007-08-24,FDA -> HealthCanada
+argatroban,FDA,HealthCanada,8764,287.9106438896189,2000-06-30,2024-06-28,FDA -> HealthCanada
+aripiprazole,FDA,HealthCanada,2428,79.7634691195795,2002-11-15,2009-07-09,FDA -> HealthCanada
+arsenic trioxide,FDA,HealthCanada,6776,222.60183968462547,2000-09-25,2019-04-15,FDA -> HealthCanada
+ascorbic acid,FDA,HealthCanada,4950,162.6149802890933,2001-02-21,2014-09-11,FDA -> HealthCanada
+asfotase alfa,HealthCanada,FDA,70,2.299605781865966,2015-08-14,2015-10-23,HealthCanada -> FDA
+atenolol,FDA,HealthCanada,347,11.399474375821287,1995-01-18,1995-12-31,FDA -> HealthCanada
+atezolizumab,FDA,HealthCanada,329,10.808147174770038,2016-05-18,2017-04-12,FDA -> HealthCanada
+atogepant,FDA,HealthCanada,450,14.783180026281208,2021-09-28,2022-12-22,FDA -> HealthCanada
+atovaquone,FDA,HealthCanada,580,19.053876478318003,1995-02-08,1996-09-10,FDA -> HealthCanada
+atropine sulfate,HealthCanada,FDA,430,14.126149802890932,1995-12-31,1997-03-05,HealthCanada -> FDA
+avacopan,FDA,HealthCanada,189,6.2089356110381075,2021-10-07,2022-04-14,FDA -> HealthCanada
+avapritinib,FDA,HealthCanada,1714,56.30749014454665,2020-01-09,2024-09-18,FDA -> HealthCanada
+avelumab,FDA,HealthCanada,270,8.869908015768726,2017-03-23,2017-12-18,FDA -> HealthCanada
+axitinib,FDA,HealthCanada,167,5.486202365308804,2012-01-27,2012-07-12,FDA -> HealthCanada
+azacitidine,FDA,HealthCanada,1983,65.14454664914585,2004-05-19,2009-10-23,FDA -> HealthCanada
+azathioprine,FDA,HealthCanada,637,20.92641261498029,1996-02-16,1997-11-14,FDA -> HealthCanada
+azelaic acid,FDA,HealthCanada,3642,119.64520367936925,1995-09-13,2005-09-02,FDA -> HealthCanada
+azithromycin,FDA,HealthCanada,249,8.180026281208935,1995-10-19,1996-06-24,FDA -> HealthCanada
+aztreonam,HealthCanada,FDA,164,5.387647831800263,2009-09-11,2010-02-22,HealthCanada -> FDA
+baclofen,FDA,HealthCanada,134,4.402102496714849,1996-08-19,1996-12-31,FDA -> HealthCanada
+baloxavir marboxil,FDA,HealthCanada,1177,38.66622864651774,2018-10-24,2022-01-13,FDA -> HealthCanada
+baricitinib,FDA,HealthCanada,78,2.562417871222076,2018-05-31,2018-08-17,FDA -> HealthCanada
+basiliximab,FDA,HealthCanada,843,27.69382391590013,1998-05-12,2000-09-01,FDA -> HealthCanada
+beclomethasone dipropionate,HealthCanada,FDA,536,17.608409986859396,1995-07-07,1996-12-24,HealthCanada -> FDA
+belimumab,FDA,HealthCanada,119,3.9093298291721417,2011-03-09,2011-07-06,FDA -> HealthCanada
+belzutifan,FDA,HealthCanada,332,10.90670170827858,2021-08-13,2022-07-11,FDA -> HealthCanada
+benazepril hydrochloride,FDA,HealthCanada,656,21.55059132720105,2004-02-11,2005-11-28,FDA -> HealthCanada
+bendamustine hydrochloride,FDA,HealthCanada,1618,53.153745072273324,2008-03-20,2012-08-24,FDA -> HealthCanada
+benralizumab,FDA,HealthCanada,100,3.2851511169513796,2017-11-14,2018-02-22,FDA -> HealthCanada
+benzoyl peroxide,HealthCanada,FDA,1551,50.9526938239159,1996-08-29,2000-11-27,HealthCanada -> FDA
+benztropine mesylate,FDA,HealthCanada,897,29.467805519053876,1996-12-12,1999-05-28,FDA -> HealthCanada
+bepotastine besilate,FDA,HealthCanada,2514,82.58869908015768,2009-09-08,2016-07-27,FDA -> HealthCanada
+betaine,FDA,HealthCanada,643,21.12352168199737,1996-10-25,1998-07-30,FDA -> HealthCanada
+bevacizumab,FDA,HealthCanada,561,18.429697766097238,2004-02-26,2005-09-09,FDA -> HealthCanada
+bicalutamide,FDA,HealthCanada,3779,124.14586070959264,1995-10-04,2006-02-07,FDA -> HealthCanada
+bimatoprost,FDA,HealthCanada,2952,96.97766097240472,2001-03-16,2009-04-15,FDA -> HealthCanada
+binimetinib,FDA,HealthCanada,979,32.16162943495401,2018-06-27,2021-03-02,FDA -> HealthCanada
+bisacodyl,HealthCanada,FDA,2464,80.946123521682,1997-08-11,2004-05-10,HealthCanada -> FDA
+bismuth subsalicylate,FDA,HealthCanada,138,4.533508541392904,1996-08-15,1996-12-31,FDA -> HealthCanada
+bisoprolol fumarate,FDA,HealthCanada,1404,46.12352168199737,2000-09-25,2004-07-30,FDA -> HealthCanada
+bivalirudin,FDA,HealthCanada,663,21.780551905387647,2000-12-15,2002-10-09,FDA -> HealthCanada
+blinatumomab,FDA,HealthCanada,384,12.614980289093298,2014-12-03,2015-12-22,FDA -> HealthCanada
+brentuximab vedotin,FDA,HealthCanada,532,17.47700394218134,2011-08-19,2013-02-01,FDA -> HealthCanada
+brexpiprazole,FDA,HealthCanada,587,19.2838370565046,2015-07-10,2017-02-16,FDA -> HealthCanada
+brigatinib,FDA,HealthCanada,454,14.914586070959263,2017-04-28,2018-07-26,FDA -> HealthCanada
+brilliant blue g,FDA,HealthCanada,392,12.877792378449408,2019-12-20,2021-01-15,FDA -> HealthCanada
+brimonidine tartrate,FDA,HealthCanada,444,14.586070959264125,1996-09-06,1997-11-24,FDA -> HealthCanada
+brinzolamide,FDA,HealthCanada,205,6.734559789750328,1998-04-01,1998-10-23,FDA -> HealthCanada
+brivaracetam,FDA,HealthCanada,20,0.657030223390276,2016-02-18,2016-03-09,FDA -> HealthCanada
+brodalumab,FDA,HealthCanada,384,12.614980289093298,2017-02-15,2018-03-06,FDA -> HealthCanada
+budesonide,HealthCanada,FDA,145,4.763469119579501,1997-01-30,1997-06-24,HealthCanada -> FDA
+bupivacaine hydrochloride,HealthCanada,FDA,656,21.55059132720105,2000-03-24,2002-01-09,HealthCanada -> FDA
+buprenorphine,HealthCanada,FDA,117,3.843626806833114,2010-03-05,2010-06-30,HealthCanada -> FDA
+bupropion hydrochloride,FDA,HealthCanada,664,21.81340341655716,1996-10-04,1998-07-30,FDA -> HealthCanada
+buspirone hydrochloride,HealthCanada,FDA,1450,47.63469119579501,1996-12-31,2000-12-20,HealthCanada -> FDA
+busulfan,FDA,HealthCanada,6665,218.95532194480944,1999-02-04,2017-05-05,FDA -> HealthCanada
+butorphanol tartrate,FDA,HealthCanada,1287,42.27989487516425,1997-01-22,2000-08-01,FDA -> HealthCanada
+cabazitaxel,FDA,HealthCanada,3470,113.99474375821288,2010-06-17,2019-12-17,FDA -> HealthCanada
+cabergoline,FDA,HealthCanada,1285,42.21419185282523,1996-12-23,2000-06-30,FDA -> HealthCanada
+cabotegravir,FDA,HealthCanada,1205,39.58607095926413,2021-01-21,2024-05-10,FDA -> HealthCanada
+caffeine citrate,FDA,HealthCanada,7470,245.40078843626804,1999-09-21,2020-03-04,FDA -> HealthCanada
+calcitriol,FDA,HealthCanada,4029,132.3587385019711,1998-11-20,2009-12-01,FDA -> HealthCanada
+calcium chloride,HealthCanada,FDA,271,8.902759526938238,1995-12-31,1996-09-27,HealthCanada -> FDA
+calcium gluconate,FDA,HealthCanada,1637,53.777923784494085,2017-06-15,2021-12-08,FDA -> HealthCanada
+canagliflozin,FDA,HealthCanada,420,13.797634691195794,2013-03-29,2014-05-23,FDA -> HealthCanada
+canakinumab,FDA,HealthCanada,2760,90.67017082785807,2009-06-17,2017-01-06,FDA -> HealthCanada
+candesartan cilexetil,FDA,HealthCanada,169,5.551905387647832,1998-06-04,1998-11-20,FDA -> HealthCanada
+cannabidiol,FDA,HealthCanada,1969,64.68462549277267,2018-06-25,2023-11-15,FDA -> HealthCanada
+capecitabine,FDA,HealthCanada,5783,189.9802890932983,1998-04-30,2014-02-28,FDA -> HealthCanada
+capivasertib,FDA,HealthCanada,71,2.3324572930354797,2023-11-16,2024-01-26,FDA -> HealthCanada
+captopril,FDA,HealthCanada,10489,344.5795006570302,1995-03-31,2023-12-18,FDA -> HealthCanada
+carbamazepine,FDA,HealthCanada,281,9.231274638633376,1996-03-25,1996-12-31,FDA -> HealthCanada
+carbon dioxide,HealthCanada,FDA,6396,210.11826544021025,1995-12-31,2013-07-05,HealthCanada -> FDA
+carboplatin,HealthCanada,FDA,2175,71.4520367936925,1997-07-30,2003-07-14,HealthCanada -> FDA
+carfilzomib,FDA,HealthCanada,1274,41.85282522996058,2012-07-20,2016-01-15,FDA -> HealthCanada
+carglumic acid,FDA,HealthCanada,1849,60.74244415243101,2010-03-18,2015-04-10,FDA -> HealthCanada
+carmustine,FDA,HealthCanada,9524,312.8777923784494,1996-09-23,2022-10-21,FDA -> HealthCanada
+carvedilol,FDA,HealthCanada,2878,94.54664914586071,1995-09-14,2003-08-01,FDA -> HealthCanada
+cefixime,FDA,HealthCanada,3900,128.1208935611038,2004-02-12,2014-10-17,FDA -> HealthCanada
+cefotaxime sodium,FDA,HealthCanada,5341,175.45992115637318,2000-03-24,2014-11-07,FDA -> HealthCanada
+cefprozil,FDA,HealthCanada,2116,69.51379763469119,2004-06-23,2010-04-09,FDA -> HealthCanada
+celecoxib,FDA,HealthCanada,104,3.416557161629435,1998-12-31,1999-04-14,FDA -> HealthCanada
+cenobamate,FDA,HealthCanada,1299,42.67411300919842,2019-11-21,2023-06-12,FDA -> HealthCanada
+ceritinib,FDA,HealthCanada,332,10.90670170827858,2014-04-29,2015-03-27,FDA -> HealthCanada
+cerliponase alfa,FDA,HealthCanada,601,19.743758212877793,2017-04-27,2018-12-19,FDA -> HealthCanada
+certolizumab pegol,FDA,HealthCanada,477,15.670170827858081,2008-04-22,2009-08-12,FDA -> HealthCanada
+cetirizine hydrochloride,FDA,HealthCanada,454,14.914586070959263,1995-12-08,1997-03-06,FDA -> HealthCanada
+cetuximab,FDA,HealthCanada,575,18.889618922470433,2004-02-12,2005-09-09,FDA -> HealthCanada
+chlorhexidine gluconate,FDA,HealthCanada,382,12.54927726675427,1995-12-15,1996-12-31,FDA -> HealthCanada
+chloroprocaine hydrochloride,FDA,HealthCanada,9479,311.3994743758213,1998-09-09,2024-08-22,FDA -> HealthCanada
+chlorthalidone,FDA,HealthCanada,5901,193.85676741130092,2005-10-27,2021-12-23,FDA -> HealthCanada
+choriogonadotropin alfa,FDA,HealthCanada,1548,50.85413929040735,2000-09-20,2004-12-16,FDA -> HealthCanada
+ciclesonide,HealthCanada,FDA,39,1.281208935611038,2006-09-11,2006-10-20,HealthCanada -> FDA
+ciclopirox,FDA,HealthCanada,3923,128.87647831800263,1997-07-21,2008-04-17,FDA -> HealthCanada
+ciprofloxacin,FDA,HealthCanada,161,5.289093298291721,1997-09-26,1998-03-06,FDA -> HealthCanada
+cisplatin,HealthCanada,FDA,798,26.21550591327201,1997-05-09,1999-07-16,HealthCanada -> FDA
+cladribine,FDA,HealthCanada,3202,105.19053876478317,2000-02-28,2008-12-04,FDA -> HealthCanada
+clarithromycin,HealthCanada,FDA,1850,60.775295663600524,1995-02-08,2000-03-03,HealthCanada -> FDA
+clascoterone,FDA,HealthCanada,1023,33.60709592641261,2020-08-26,2023-06-15,FDA -> HealthCanada
+clevidipine,FDA,HealthCanada,969,31.83311432325887,2008-08-01,2011-03-28,FDA -> HealthCanada
+clobazam,HealthCanada,FDA,4855,159.49408672798947,1998-07-06,2011-10-21,HealthCanada -> FDA
+clobetasol propionate,FDA,HealthCanada,354,11.629434954007884,1995-03-31,1996-03-19,FDA -> HealthCanada
+clofarabine,FDA,HealthCanada,1661,54.566360052562416,2004-12-28,2009-07-16,FDA -> HealthCanada
+clomipramine hydrochloride,FDA,HealthCanada,8761,287.8120893561104,1996-03-29,2020-03-24,FDA -> HealthCanada
+clonazepam,HealthCanada,FDA,254,8.344283837056505,1995-12-31,1996-09-10,HealthCanada -> FDA
+clonidine hydrochloride,FDA,HealthCanada,4114,135.15111695137975,1996-10-02,2008-01-07,FDA -> HealthCanada
+clotrimazole,FDA,HealthCanada,306,10.052562417871222,1995-02-28,1995-12-31,FDA -> HealthCanada
+clozapine,FDA,HealthCanada,2364,77.66097240473061,1996-08-30,2003-02-19,FDA -> HealthCanada
+colchicine,FDA,HealthCanada,1242,40.80157687253614,2008-05-13,2011-10-07,FDA -> HealthCanada
+colesevelam hydrochloride,FDA,HealthCanada,4136,135.87385019710905,2000-05-26,2011-09-22,FDA -> HealthCanada
+colestipol hydrochloride,HealthCanada,FDA,3775,124.01445466491458,1995-12-31,2006-05-02,HealthCanada -> FDA
+colistimethate sodium,FDA,HealthCanada,9159,300.88699080157687,1999-02-26,2024-03-25,FDA -> HealthCanada
+crisaborole,FDA,HealthCanada,540,17.73981603153745,2016-12-14,2018-06-07,FDA -> HealthCanada
+crizotinib,FDA,HealthCanada,243,7.982917214191852,2011-08-26,2012-04-25,FDA -> HealthCanada
+cyclobenzaprine hydrochloride,FDA,HealthCanada,222,7.293035479632063,1995-05-23,1995-12-31,FDA -> HealthCanada
+cyclopentolate hydrochloride,HealthCanada,FDA,379,12.450722733245728,1995-12-31,1997-01-13,HealthCanada -> FDA
+cyclophosphamide,FDA,HealthCanada,203,6.668856767411301,1999-08-17,2000-03-07,FDA -> HealthCanada
+cyclosporine,FDA,HealthCanada,170,5.5847568988173455,1995-07-14,1995-12-31,FDA -> HealthCanada
+cyproheptadine hydrochloride,FDA,HealthCanada,2407,79.0735873850197,2003-09-30,2010-05-03,FDA -> HealthCanada
+cytarabine,HealthCanada,FDA,828,27.201051248357423,1996-09-23,1998-12-30,HealthCanada -> FDA
+dacarbazine,FDA,HealthCanada,504,16.557161629434955,1998-08-27,2000-01-13,FDA -> HealthCanada
+danaparoid sodium,HealthCanada,FDA,359,11.793692509855452,1995-12-31,1996-12-24,HealthCanada -> FDA
+danicopan,FDA,HealthCanada,112,3.679369250985545,2024-03-29,2024-07-19,FDA -> HealthCanada
+dantrolene sodium,FDA,HealthCanada,6380,209.59264126149802,2005-03-01,2022-08-19,FDA -> HealthCanada
+dapagliflozin,FDA,HealthCanada,3414,112.1550591327201,2014-01-08,2023-05-15,FDA -> HealthCanada
+dapsone,FDA,HealthCanada,343,11.268068331143231,2005-07-07,2006-06-15,FDA -> HealthCanada
+daptomycin,FDA,HealthCanada,5040,165.57161629434952,2003-09-12,2017-06-30,FDA -> HealthCanada
+daratumumab,FDA,HealthCanada,226,7.424441524310118,2015-11-16,2016-06-29,FDA -> HealthCanada
+darbepoetin alfa,FDA,HealthCanada,4025,132.22733245729302,2001-09-17,2012-09-24,FDA -> HealthCanada
+darolutamide,FDA,HealthCanada,205,6.734559789750328,2019-07-30,2020-02-20,FDA -> HealthCanada
+darunavir,FDA,HealthCanada,4941,162.31931668856765,2006-06-23,2020-01-02,FDA -> HealthCanada
+dasatinib,FDA,HealthCanada,4901,161.00525624178712,2006-06-28,2019-11-28,FDA -> HealthCanada
+decitabine,FDA,HealthCanada,4647,152.66097240473061,2006-05-02,2019-01-21,FDA -> HealthCanada
+deferasirox,FDA,HealthCanada,350,11.498028909329829,2005-11-02,2006-10-18,FDA -> HealthCanada
+deferiprone,FDA,HealthCanada,1218,40.01314060446781,2011-10-14,2015-02-13,FDA -> HealthCanada
+deferoxamine mesylate,HealthCanada,FDA,1500,49.27726675427069,2000-02-07,2004-03-17,HealthCanada -> FDA
+denosumab,FDA,HealthCanada,66,2.1681997371879107,2010-06-01,2010-08-06,FDA -> HealthCanada
+deoxycholic acid,FDA,HealthCanada,85,2.7923784494086727,2015-04-29,2015-07-23,FDA -> HealthCanada
+desflurane,HealthCanada,FDA,7735,254.10643889618922,1996-12-23,2018-02-26,HealthCanada -> FDA
+desipramine hydrochloride,FDA,HealthCanada,326,10.709592641261498,1996-02-09,1996-12-31,FDA -> HealthCanada
+desloratadine,HealthCanada,FDA,206,6.767411300919842,2001-05-29,2001-12-21,HealthCanada -> FDA
+desmopressin acetate,FDA,HealthCanada,116,3.8107752956636003,1995-09-06,1995-12-31,FDA -> HealthCanada
+desonide,HealthCanada,FDA,1518,49.86859395532194,1997-01-14,2001-03-12,HealthCanada -> FDA
+desoximetasone,FDA,HealthCanada,153,5.026281208935611,1996-06-07,1996-11-07,FDA -> HealthCanada
+desvenlafaxine,FDA,HealthCanada,1618,53.153745072273324,2013-03-04,2017-08-08,FDA -> HealthCanada
+deucravacitinib,FDA,HealthCanada,76,2.4967148488830486,2022-09-09,2022-11-24,FDA -> HealthCanada
+dexamethasone,FDA,HealthCanada,348,11.432325886990801,1995-09-13,1996-08-26,FDA -> HealthCanada
+dexlansoprazole,FDA,HealthCanada,538,17.67411300919842,2009-01-30,2010-07-22,FDA -> HealthCanada
+dextroamphetamine sulfate,FDA,HealthCanada,5894,193.6268068331143,1999-05-13,2015-07-02,FDA -> HealthCanada
+dextromethorphan hydrobromide,FDA,HealthCanada,49,1.609724047306176,1996-07-31,1996-09-18,FDA -> HealthCanada
+dextrose,FDA,HealthCanada,94,3.088042049934297,1995-09-28,1995-12-31,FDA -> HealthCanada
+diazepam,FDA,HealthCanada,422,13.863337713534822,1997-07-29,1998-09-24,FDA -> HealthCanada
+diclofenac potassium,FDA,HealthCanada,159,5.223390275952694,1998-08-06,1999-01-12,FDA -> HealthCanada
+diclofenac sodium,FDA,HealthCanada,185,6.077529566360052,1995-06-29,1995-12-31,FDA -> HealthCanada
+dicyclomine hydrochloride,FDA,HealthCanada,5424,178.18659658344282,1996-10-01,2011-08-08,FDA -> HealthCanada
+dienogest,FDA,HealthCanada,524,17.21419185282523,2010-05-06,2011-10-12,FDA -> HealthCanada
+difluprednate,FDA,HealthCanada,1960,64.38896189224704,2008-06-23,2013-11-04,FDA -> HealthCanada
+digoxin,FDA,HealthCanada,1863,61.202365308804204,1996-04-25,2001-06-01,FDA -> HealthCanada
+dihydroergotamine mesylate,HealthCanada,FDA,398,13.074901445466491,1996-11-05,1997-12-08,HealthCanada -> FDA
+diltiazem hydrochloride,FDA,HealthCanada,559,18.363994743758212,1995-03-03,1996-09-12,FDA -> HealthCanada
+dimenhydrinate,HealthCanada,FDA,1514,49.73718791064389,2000-05-01,2004-06-23,HealthCanada -> FDA
+dimethyl fumarate,FDA,HealthCanada,7,0.22996057818659657,2013-03-27,2013-04-03,FDA -> HealthCanada
+dinoprostone,FDA,HealthCanada,739,24.277266754270695,1995-03-30,1997-04-07,FDA -> HealthCanada
+dinutuximab,FDA,HealthCanada,1359,44.645203679369246,2015-03-10,2018-11-28,FDA -> HealthCanada
+diphenhydramine hydrochloride,HealthCanada,FDA,1055,34.65834428383705,1995-12-31,1998-11-20,HealthCanada -> FDA
+dipyridamole,FDA,HealthCanada,1950,64.0604467805519,1996-06-07,2001-10-09,FDA -> HealthCanada
+docetaxel,FDA,HealthCanada,5400,177.3981603153745,1996-05-14,2011-02-25,FDA -> HealthCanada
+donepezil hydrochloride,FDA,HealthCanada,260,8.541392904073588,1996-11-25,1997-08-12,FDA -> HealthCanada
+doravirine,FDA,HealthCanada,43,1.4126149802890933,2018-08-30,2018-10-12,FDA -> HealthCanada
+doxorubicin hydrochloride,FDA,HealthCanada,800,26.281208935611037,1995-02-28,1997-05-08,FDA -> HealthCanada
+drospirenone,FDA,HealthCanada,7508,246.64914586070958,2001-05-11,2021-11-30,FDA -> HealthCanada
+dulaglutide,FDA,HealthCanada,418,13.731931668856767,2014-09-18,2015-11-10,FDA -> HealthCanada
+dupilumab,FDA,HealthCanada,247,8.114323258869907,2017-03-28,2017-11-30,FDA -> HealthCanada
+durvalumab,FDA,HealthCanada,186,6.110381077529566,2017-05-01,2017-11-03,FDA -> HealthCanada
+dutasteride,FDA,HealthCanada,609,20.006570302233904,2001-11-20,2003-07-22,FDA -> HealthCanada
+eculizumab,FDA,HealthCanada,684,22.470433639947437,2007-03-16,2009-01-28,FDA -> HealthCanada
+edaravone,FDA,HealthCanada,2013,66.13009198423127,2017-05-05,2022-11-08,FDA -> HealthCanada
+efavirenz,FDA,HealthCanada,5430,178.38370565045992,1998-09-17,2013-07-30,FDA -> HealthCanada
+efgartigimod alfa,FDA,HealthCanada,641,21.057818659658345,2021-12-17,2023-09-19,FDA -> HealthCanada
+efinaconazole,HealthCanada,FDA,247,8.114323258869907,2013-10-02,2014-06-06,HealthCanada -> FDA
+eflornithine hydrochloride,FDA,HealthCanada,287,9.42838370565046,2000-07-27,2001-05-10,FDA -> HealthCanada
+elafibranor,FDA,HealthCanada,319,10.4796320630749,2024-06-10,2025-04-25,FDA -> HealthCanada
+elosulfase alfa,FDA,HealthCanada,138,4.533508541392904,2014-02-14,2014-07-02,FDA -> HealthCanada
+elranatamab,FDA,HealthCanada,114,3.7450722733245727,2023-08-14,2023-12-06,FDA -> HealthCanada
+eluxadoline,FDA,HealthCanada,610,20.039421813403415,2015-05-27,2017-01-26,FDA -> HealthCanada
+emicizumab,FDA,HealthCanada,259,8.508541392904073,2017-11-16,2018-08-02,FDA -> HealthCanada
+empagliflozin,FDA,HealthCanada,356,11.695137976346912,2014-08-01,2015-07-23,FDA -> HealthCanada
+enalapril maleate,FDA,HealthCanada,4186,137.51642575558475,1996-12-27,2008-06-13,FDA -> HealthCanada
+enalaprilat,FDA,HealthCanada,4322,141.98423127463863,2000-08-22,2012-06-22,FDA -> HealthCanada
+encorafenib,FDA,HealthCanada,979,32.16162943495401,2018-06-27,2021-03-02,FDA -> HealthCanada
+enoxaparin sodium,HealthCanada,FDA,3458,113.6005256241787,1997-11-26,2007-05-16,HealthCanada -> FDA
+entacapone,FDA,HealthCanada,4545,149.3101182654402,1999-10-19,2012-03-29,FDA -> HealthCanada
+entecavir,FDA,HealthCanada,444,14.586070959264125,2005-03-29,2006-06-16,FDA -> HealthCanada
+entrectinib,FDA,HealthCanada,179,5.88042049934297,2019-08-15,2020-02-10,FDA -> HealthCanada
+enzalutamide,FDA,HealthCanada,271,8.902759526938238,2012-08-31,2013-05-29,FDA -> HealthCanada
+epinephrine,FDA,HealthCanada,6937,227.8909329829172,1995-12-21,2014-12-18,FDA -> HealthCanada
+epirubicin hydrochloride,FDA,HealthCanada,3474,114.12614980289092,1999-09-15,2009-03-20,FDA -> HealthCanada
+eplerenone,FDA,HealthCanada,2344,77.00394218134034,2002-09-27,2009-02-26,FDA -> HealthCanada
+eptifibatide,FDA,HealthCanada,9233,303.3180026281209,1998-05-18,2023-08-28,FDA -> HealthCanada
+erdafitinib,FDA,HealthCanada,196,6.438896189224704,2019-04-12,2019-10-25,FDA -> HealthCanada
+eribulin mesylate,FDA,HealthCanada,394,12.943495400788436,2010-11-15,2011-12-14,FDA -> HealthCanada
+erythromycin,FDA,HealthCanada,435,14.290407358738502,1996-07-03,1997-09-11,FDA -> HealthCanada
+eslicarbazepine acetate,FDA,HealthCanada,242,7.9500657030223385,2013-11-08,2014-07-08,FDA -> HealthCanada
+esmolol hydrochloride,HealthCanada,FDA,2916,95.79500657030223,1996-08-16,2004-08-10,HealthCanada -> FDA
+estradiol,HealthCanada,FDA,74,2.431011826544021,1995-12-31,1996-03-14,HealthCanada -> FDA
+eszopiclone,FDA,HealthCanada,4110,135.0197109067017,2004-12-15,2016-03-17,FDA -> HealthCanada
+etanercept,FDA,HealthCanada,2605,85.57818659658344,1998-11-02,2005-12-20,FDA -> HealthCanada
+ethacrynic acid,HealthCanada,FDA,4284,140.7358738501971,2004-10-07,2016-06-30,HealthCanada -> FDA
+ethinyl estradiol; norethindrone,HealthCanada,FDA,5636,185.15111695137975,1996-08-14,2012-01-19,HealthCanada -> FDA
+ethinyl estradiol; norgestimate,FDA,HealthCanada,811,26.642575558475688,2011-03-09,2013-05-28,FDA -> HealthCanada
+ethosuximide,FDA,HealthCanada,8499,279.20499342969777,2000-11-22,2024-02-29,FDA -> HealthCanada
+etomidate,FDA,HealthCanada,8654,284.2969776609724,1996-11-04,2020-07-15,FDA -> HealthCanada
+etonogestrel,FDA,HealthCanada,5061,166.26149802890933,2006-07-17,2020-05-25,FDA -> HealthCanada
+etravirine,FDA,HealthCanada,69,2.266754270696452,2008-01-18,2008-03-27,FDA -> HealthCanada
+everolimus,FDA,HealthCanada,259,8.508541392904073,2009-03-30,2009-12-14,FDA -> HealthCanada
+evolocumab,HealthCanada,FDA,1996,65.57161629434954,2015-09-10,2021-02-26,HealthCanada -> FDA
+exemestane,FDA,HealthCanada,301,9.888304862023652,1999-10-21,2000-08-17,FDA -> HealthCanada
+ezetimibe,FDA,HealthCanada,199,6.5374507227332455,2002-10-25,2003-05-12,FDA -> HealthCanada
+famciclovir,HealthCanada,FDA,4254,139.75032851511168,1995-12-31,2007-08-24,HealthCanada -> FDA
+famotidine,FDA,HealthCanada,452,14.848883048620236,1995-04-28,1996-07-23,FDA -> HealthCanada
+febuxostat,FDA,HealthCanada,3814,125.29566360052561,2009-02-13,2019-07-25,FDA -> HealthCanada
+felodipine,FDA,HealthCanada,640,21.02496714848883,2004-11-02,2006-08-04,FDA -> HealthCanada
+fenofibrate,HealthCanada,FDA,893,29.33639947437582,1999-03-26,2001-09-04,HealthCanada -> FDA
+fentanyl,FDA,HealthCanada,522,17.1484888304862,2005-01-28,2006-07-04,FDA -> HealthCanada
+fesoterodine fumarate,FDA,HealthCanada,1196,39.2904073587385,2008-10-31,2012-02-09,FDA -> HealthCanada
+fexofenadine hydrochloride,FDA,HealthCanada,321,10.545335085413928,1996-07-25,1997-06-11,FDA -> HealthCanada
+fezolinetant,FDA,HealthCanada,571,18.758212877792378,2023-05-12,2024-12-03,FDA -> HealthCanada
+fidaxomicin,FDA,HealthCanada,377,12.3850197109067,2011-05-27,2012-06-07,FDA -> HealthCanada
+finasteride,FDA,HealthCanada,189,6.2089356110381075,1997-12-19,1998-06-26,FDA -> HealthCanada
+finerenone,FDA,HealthCanada,462,15.177398160315374,2021-07-09,2022-10-14,FDA -> HealthCanada
+flecainide acetate,FDA,HealthCanada,1641,53.90932982917214,2001-07-31,2006-01-27,FDA -> HealthCanada
+flibanserin,FDA,HealthCanada,924,30.354796320630747,2015-08-18,2018-02-27,FDA -> HealthCanada
+fluconazole,HealthCanada,FDA,2657,87.28646517739816,1995-12-31,2003-04-10,HealthCanada -> FDA
+fludarabine phosphate,HealthCanada,FDA,373,12.253613666228645,2002-08-20,2003-08-28,HealthCanada -> FDA
+flumazenil,HealthCanada,FDA,204,6.701708278580814,2004-03-22,2004-10-12,HealthCanada -> FDA
+fluocinolone acetonide,FDA,HealthCanada,2084,68.46254927726675,2002-01-18,2007-10-03,FDA -> HealthCanada
+fluocinonide,FDA,HealthCanada,1015,33.3442838370565,1995-02-27,1997-12-08,FDA -> HealthCanada
+fluorescein sodium,HealthCanada,FDA,3740,122.86465177398159,1995-12-31,2006-03-28,HealthCanada -> FDA
+fluorometholone,HealthCanada,FDA,4243,139.38896189224704,2012-05-28,2024-01-09,HealthCanada -> FDA
+fluorouracil,FDA,HealthCanada,5483,180.12483574244413,1998-09-30,2013-10-04,FDA -> HealthCanada
+flutamide,HealthCanada,FDA,1077,35.38107752956636,1998-10-07,2001-09-18,HealthCanada -> FDA
+fluticasone furoate,FDA,HealthCanada,109,3.5808147174770038,2007-04-27,2007-08-14,FDA -> HealthCanada
+fluticasone propionate,FDA,HealthCanada,686,22.536136662286463,1996-03-27,1998-02-11,FDA -> HealthCanada
+fluvoxamine maleate,HealthCanada,FDA,1297,42.60840998685939,1997-05-12,2000-11-29,HealthCanada -> FDA
+folic acid,FDA,HealthCanada,2136,70.17082785808147,2005-06-14,2011-04-20,FDA -> HealthCanada
+fomepizole,FDA,HealthCanada,1092,35.873850197109064,1997-12-04,2000-11-30,FDA -> HealthCanada
+fondaparinux sodium,FDA,HealthCanada,188,6.176084099868594,2001-12-07,2002-06-13,FDA -> HealthCanada
+foscarnet sodium,FDA,HealthCanada,5606,184.16557161629433,2005-05-31,2020-10-05,FDA -> HealthCanada
+fosinopril sodium,HealthCanada,FDA,19,0.6241787122207622,2003-11-06,2003-11-25,HealthCanada -> FDA
+fosphenytoin sodium,FDA,HealthCanada,227,7.457293035479632,1996-08-05,1997-03-20,FDA -> HealthCanada
+fruquintinib,FDA,HealthCanada,307,10.085413929040735,2023-11-08,2024-09-10,FDA -> HealthCanada
+fulvestrant,FDA,HealthCanada,663,21.780551905387647,2002-04-25,2004-02-17,FDA -> HealthCanada
+furosemide,HealthCanada,FDA,1244,40.86727989487516,1995-12-31,1999-05-28,HealthCanada -> FDA
+gabapentin,FDA,HealthCanada,139,4.566360052562418,1998-10-09,1999-02-25,FDA -> HealthCanada
+gadobenate dimeglumine,HealthCanada,FDA,237,7.7858081471747695,2004-03-31,2004-11-23,HealthCanada -> FDA
+gadobutrol,HealthCanada,FDA,4144,136.13666228646517,1999-11-08,2011-03-14,HealthCanada -> FDA
+gadodiamide,HealthCanada,FDA,3816,125.36136662286465,1997-03-25,2007-09-05,HealthCanada -> FDA
+gadoterate meglumine,FDA,HealthCanada,1346,44.21813403416557,2013-03-20,2016-11-25,FDA -> HealthCanada
+gadoteridol,HealthCanada,FDA,1857,61.00525624178712,1998-09-08,2003-10-09,HealthCanada -> FDA
+gadoxetate disodium,FDA,HealthCanada,560,18.396846254927727,2008-07-03,2010-01-14,FDA -> HealthCanada
+galsulfase,FDA,HealthCanada,3030,99.5400788436268,2005-05-31,2013-09-16,FDA -> HealthCanada
+ganciclovir,FDA,HealthCanada,9684,318.1340341655716,1996-03-04,2022-09-08,FDA -> HealthCanada
+gatifloxacin,FDA,HealthCanada,521,17.115637319316686,2003-03-28,2004-08-30,FDA -> HealthCanada
+gefitinib,FDA,HealthCanada,226,7.424441524310118,2003-05-05,2003-12-17,FDA -> HealthCanada
+gemfibrozil,FDA,HealthCanada,318,10.446780551905388,1995-02-16,1995-12-31,FDA -> HealthCanada
+gemtuzumab ozogamicin,FDA,HealthCanada,818,26.872536136662287,2017-09-01,2019-11-28,FDA -> HealthCanada
+glatiramer acetate,FDA,HealthCanada,1916,62.943495400788436,1996-12-20,2002-03-20,FDA -> HealthCanada
+glimepiride,FDA,HealthCanada,3527,115.86727989487515,1995-11-30,2005-07-27,FDA -> HealthCanada
+glucagon,FDA,HealthCanada,7684,252.43101182654402,1998-09-11,2019-09-25,FDA -> HealthCanada
+glyburide,FDA,HealthCanada,5357,175.98554533508542,1995-08-29,2010-04-29,FDA -> HealthCanada
+glycerol phenylbutyrate,FDA,HealthCanada,1141,37.483574244415244,2013-02-01,2016-03-18,FDA -> HealthCanada
+glycopyrrolate,FDA,HealthCanada,2659,87.35216819973718,2004-12-22,2012-04-03,FDA -> HealthCanada
+golimumab,HealthCanada,FDA,17,0.5584756898817346,2009-04-07,2009-04-24,HealthCanada -> FDA
+guaifenesin,HealthCanada,FDA,2385,78.3508541392904,1995-12-31,2002-07-12,HealthCanada -> FDA
+guselkumab,FDA,HealthCanada,120,3.9421813403416555,2017-07-13,2017-11-10,FDA -> HealthCanada
+halobetasol propionate,FDA,HealthCanada,5775,189.71747700394218,2004-12-16,2020-10-08,FDA -> HealthCanada
+haloperidol,FDA,HealthCanada,1211,39.78318002628121,2007-11-29,2011-03-24,FDA -> HealthCanada
+heparin sodium,FDA,HealthCanada,3516,115.5059132720105,1995-10-10,2005-05-26,FDA -> HealthCanada
+hexaminolevulinate hydrochloride,FDA,HealthCanada,1701,55.88042049934297,2010-05-28,2015-01-23,FDA -> HealthCanada
+hydralazine hydrochloride,FDA,HealthCanada,7025,230.7818659658344,1997-06-30,2016-09-23,FDA -> HealthCanada
+hydrochlorothiazide,FDA,HealthCanada,3177,104.36925098554534,1995-03-30,2003-12-10,FDA -> HealthCanada
+hydrochlorothiazide; irbesartan,HealthCanada,FDA,4747,155.94612352168198,2000-02-29,2013-02-27,HealthCanada -> FDA
+hydrocodone bitartrate,FDA,HealthCanada,4197,137.8777923784494,1997-09-23,2009-03-21,FDA -> HealthCanada
+hydrocortisone,FDA,HealthCanada,7978,262.08935611038106,1995-12-29,2017-11-01,FDA -> HealthCanada
+hydrocortisone valerate,FDA,HealthCanada,828,27.201051248357423,1998-08-12,2000-11-17,FDA -> HealthCanada
+hydromorphone hydrochloride,HealthCanada,FDA,147,4.829172141918528,1995-03-29,1995-08-23,HealthCanada -> FDA
+hydroxocobalamin,FDA,HealthCanada,1789,58.77135348226018,2006-12-15,2011-11-08,FDA -> HealthCanada
+hydroxychloroquine sulfate,FDA,HealthCanada,2566,84.2969776609724,1995-11-30,2002-12-09,FDA -> HealthCanada
+hydroxyurea,FDA,HealthCanada,1887,61.990801576872535,1995-08-18,2000-10-17,FDA -> HealthCanada
+ibrutinib,FDA,HealthCanada,369,12.12220762155059,2013-11-13,2014-11-17,FDA -> HealthCanada
+ibuprofen,FDA,HealthCanada,869,28.54796320630749,1995-04-20,1997-09-05,FDA -> HealthCanada
+ibutilide fumarate,FDA,HealthCanada,1660,54.533508541392905,1995-12-28,2000-07-14,FDA -> HealthCanada
+icosapent ethyl,FDA,HealthCanada,2713,89.12614980289094,2012-07-26,2019-12-30,FDA -> HealthCanada
+idarubicin hydrochloride,FDA,HealthCanada,6023,197.8646517739816,1997-02-17,2013-08-15,FDA -> HealthCanada
+idarucizumab,FDA,HealthCanada,196,6.438896189224704,2015-10-16,2016-04-29,FDA -> HealthCanada
+idelalisib,FDA,HealthCanada,247,8.114323258869907,2014-07-23,2015-03-27,FDA -> HealthCanada
+idursulfase,FDA,HealthCanada,324,10.64388961892247,2006-07-24,2007-06-13,FDA -> HealthCanada
+ifosfamide,HealthCanada,FDA,810,26.609724047306177,1999-12-09,2002-02-26,HealthCanada -> FDA
+imipramine hydrochloride,FDA,HealthCanada,5859,192.47700394218134,2008-02-28,2024-03-14,FDA -> HealthCanada
+imiquimod,FDA,HealthCanada,697,22.897503285151117,1997-02-27,1999-01-25,FDA -> HealthCanada
+inavolisib,FDA,HealthCanada,127,4.1721419185282524,2024-10-10,2025-02-14,FDA -> HealthCanada
+incobotulinumtoxina,HealthCanada,FDA,504,16.557161629434955,2009-03-13,2010-07-30,HealthCanada -> FDA
+indapamide,HealthCanada,FDA,162,5.321944809461235,1995-02-15,1995-07-27,HealthCanada -> FDA
+indocyanine green,FDA,HealthCanada,4032,132.45729303547964,2007-11-21,2018-12-05,FDA -> HealthCanada
+indomethacin,HealthCanada,FDA,302,9.921156373193167,1997-07-30,1998-05-28,HealthCanada -> FDA
+infliximab,FDA,HealthCanada,1017,33.40998685939553,1998-08-24,2001-06-06,FDA -> HealthCanada
+inotuzumab ozogamicin,FDA,HealthCanada,210,6.898817345597897,2017-08-17,2018-03-15,FDA -> HealthCanada
+insulin aspart,HealthCanada,FDA,5182,170.2365308804205,2001-07-18,2015-09-25,HealthCanada -> FDA
+insulin degludec,FDA,HealthCanada,700,22.996057818659658,2015-09-25,2017-08-25,FDA -> HealthCanada
+insulin detemir,HealthCanada,FDA,20,0.657030223390276,2005-09-29,2005-10-19,HealthCanada -> FDA
+insulin glargine,HealthCanada,FDA,5005,164.42181340341656,2002-04-03,2015-12-16,HealthCanada -> FDA
+insulin lispro,HealthCanada,FDA,7696,252.82522996057818,1996-11-15,2017-12-11,HealthCanada -> FDA
+interferon beta-1a,FDA,HealthCanada,629,20.66360052562418,1996-05-17,1998-02-05,FDA -> HealthCanada
+iodixanol,HealthCanada,FDA,82,2.6938239159001314,1995-12-31,1996-03-22,HealthCanada -> FDA
+iohexol,FDA,HealthCanada,863,28.350854139290405,1995-10-24,1998-03-05,FDA -> HealthCanada
+iopamidol,FDA,HealthCanada,428,14.060446780551905,1996-11-06,1998-01-08,FDA -> HealthCanada
+ioversol,HealthCanada,FDA,1209,39.71747700394218,1995-02-05,1998-05-29,HealthCanada -> FDA
+ipilimumab,FDA,HealthCanada,313,10.282522996057818,2011-03-25,2012-02-01,FDA -> HealthCanada
+ipratropium bromide,FDA,HealthCanada,164,5.387647831800263,1995-10-20,1996-04-01,FDA -> HealthCanada
+irbesartan,FDA,HealthCanada,244,8.015768725361367,1997-09-30,1998-06-01,FDA -> HealthCanada
+irinotecan hydrochloride,FDA,HealthCanada,3470,113.99474375821288,1996-06-14,2005-12-14,FDA -> HealthCanada
+isoflurane,FDA,HealthCanada,599,19.678055190538764,1995-05-12,1996-12-31,FDA -> HealthCanada
+isoproterenol hydrochloride,FDA,HealthCanada,1085,35.64388961892247,2017-08-02,2020-07-22,FDA -> HealthCanada
+isotretinoin,FDA,HealthCanada,874,28.71222076215506,2002-11-08,2005-03-31,FDA -> HealthCanada
+itraconazole,FDA,HealthCanada,7411,243.46254927726673,1996-12-06,2017-03-22,FDA -> HealthCanada
+ivacaftor,FDA,HealthCanada,300,9.85545335085414,2012-01-31,2012-11-26,FDA -> HealthCanada
+ivermectin,FDA,HealthCanada,6725,220.92641261498028,1996-11-22,2015-04-22,FDA -> HealthCanada
+ivosidenib,FDA,HealthCanada,2191,71.97766097240472,2018-07-20,2024-07-19,FDA -> HealthCanada
+ixekizumab,FDA,HealthCanada,64,2.102496714848883,2016-03-22,2016-05-25,FDA -> HealthCanada
+ketoconazole,FDA,HealthCanada,59,1.938239159001314,1997-10-10,1997-12-08,FDA -> HealthCanada
+ketoprofen,FDA,HealthCanada,86,2.8252299605781865,1995-10-06,1995-12-31,FDA -> HealthCanada
+ketorolac tromethamine,HealthCanada,FDA,502,16.491458607095925,1995-12-31,1997-05-16,HealthCanada -> FDA
+labetalol hydrochloride,HealthCanada,FDA,734,24.113009198423125,1996-07-30,1998-08-03,HealthCanada -> FDA
+lacosamide,FDA,HealthCanada,702,23.061760840998684,2008-10-28,2010-09-30,FDA -> HealthCanada
+lactulose,FDA,HealthCanada,471,15.473061760840999,1995-07-03,1996-10-16,FDA -> HealthCanada
+lamivudine,FDA,HealthCanada,44,1.445466491458607,1995-11-17,1995-12-31,FDA -> HealthCanada
+lamotrigine,HealthCanada,FDA,967,31.76741130091984,1995-12-31,1998-08-24,HealthCanada -> FDA
+landiolol hydrochloride,HealthCanada,FDA,368,12.089356110381077,2023-11-20,2024-11-22,HealthCanada -> FDA
+lansoprazole,FDA,HealthCanada,2,0.0657030223390276,1995-05-10,1995-05-12,FDA -> HealthCanada
+laronidase,FDA,HealthCanada,397,13.042049934296976,2003-04-30,2004-05-31,FDA -> HealthCanada
+latanoprost,FDA,HealthCanada,376,12.352168199737187,1996-06-05,1997-06-16,FDA -> HealthCanada
+latanoprostene bunod,FDA,HealthCanada,420,13.797634691195794,2017-11-02,2018-12-27,FDA -> HealthCanada
+leflunomide,FDA,HealthCanada,553,18.166885676741128,1998-09-10,2000-03-16,FDA -> HealthCanada
+lemborexant,FDA,HealthCanada,320,10.512483574244415,2019-12-20,2020-11-04,FDA -> HealthCanada
+lenalidomide,FDA,HealthCanada,751,24.67148488830486,2005-12-27,2008-01-17,FDA -> HealthCanada
+letermovir,HealthCanada,FDA,7,0.22996057818659657,2017-11-01,2017-11-08,HealthCanada -> FDA
+letrozole,HealthCanada,FDA,65,2.135348226018397,1997-05-21,1997-07-25,HealthCanada -> FDA
+leuprolide acetate,FDA,HealthCanada,624,20.49934296977661,1995-03-30,1996-12-13,FDA -> HealthCanada
+levetiracetam,FDA,HealthCanada,1192,39.15900131406045,1999-11-30,2003-03-06,FDA -> HealthCanada
+levocarnitine,HealthCanada,FDA,2261,74.2772667542707,1995-01-19,2001-03-29,HealthCanada -> FDA
+levofloxacin,FDA,HealthCanada,4688,154.00788436268067,1996-12-20,2009-10-21,FDA -> HealthCanada
+levonorgestrel,FDA,HealthCanada,1562,51.31406044678055,1996-08-15,2000-11-24,FDA -> HealthCanada
+levothyroxine sodium,HealthCanada,FDA,1329,43.659658344283834,1996-12-31,2000-08-21,HealthCanada -> FDA
+lidocaine,FDA,HealthCanada,420,13.797634691195794,1996-05-21,1997-07-15,FDA -> HealthCanada
+lidocaine hydrochloride,FDA,HealthCanada,2469,81.11038107752957,1995-06-23,2002-03-27,FDA -> HealthCanada
+lifitegrast,FDA,HealthCanada,529,17.378449408672797,2016-07-11,2017-12-22,FDA -> HealthCanada
+linaclotide,FDA,HealthCanada,459,15.078843626806833,2012-08-30,2013-12-02,FDA -> HealthCanada
+linagliptin,FDA,HealthCanada,87,2.8580814717477003,2011-05-02,2011-07-28,FDA -> HealthCanada
+linezolid,FDA,HealthCanada,349,11.465177398160314,2000-04-18,2001-04-02,FDA -> HealthCanada
+liraglutide,FDA,HealthCanada,116,3.8107752956636003,2010-01-25,2010-05-21,FDA -> HealthCanada
+lisdexamfetamine dimesylate,FDA,HealthCanada,727,23.88304862023653,2007-02-23,2009-02-19,FDA -> HealthCanada
+lisinopril,HealthCanada,FDA,2082,68.39684625492772,1996-10-18,2002-07-01,HealthCanada -> FDA
+lithium carbonate,HealthCanada,FDA,1731,56.86596583442838,1996-12-31,2001-09-27,HealthCanada -> FDA
+loperamide hydrochloride,FDA,HealthCanada,191,6.274638633377135,1995-06-23,1995-12-31,FDA -> HealthCanada
+loratadine,FDA,HealthCanada,591,19.415243101182654,1996-08-23,1998-04-06,FDA -> HealthCanada
+lorazepam,HealthCanada,FDA,256,8.409986859395532,1995-12-31,1996-09-12,HealthCanada -> FDA
+lorlatinib,FDA,HealthCanada,112,3.679369250985545,2018-11-02,2019-02-22,FDA -> HealthCanada
+losartan potassium,FDA,HealthCanada,261,8.5742444152431,1995-04-14,1995-12-31,FDA -> HealthCanada
+loteprednol etabonate,FDA,HealthCanada,3942,129.50065703022338,1998-03-09,2008-12-23,FDA -> HealthCanada
+lovastatin,HealthCanada,FDA,1727,56.73455978975033,1997-03-26,2001-12-17,HealthCanada -> FDA
+lurasidone hydrochloride,FDA,HealthCanada,594,19.513797634691194,2010-10-28,2012-06-13,FDA -> HealthCanada
+lurbinectedin,FDA,HealthCanada,471,15.473061760840999,2020-06-15,2021-09-29,FDA -> HealthCanada
+macitentan,FDA,HealthCanada,19,0.6241787122207622,2013-10-18,2013-11-06,FDA -> HealthCanada
+magnesium chloride,HealthCanada,FDA,3494,114.7831800262812,1996-12-31,2006-07-26,HealthCanada -> FDA
+magnesium sulfate,FDA,HealthCanada,9366,307.6872536136662,1995-07-11,2021-03-02,FDA -> HealthCanada
+mannitol,HealthCanada,FDA,3101,101.87253613666228,2002-04-09,2010-10-05,HealthCanada -> FDA
+maraviroc,FDA,HealthCanada,46,1.5111695137976346,2007-08-06,2007-09-21,FDA -> HealthCanada
+maribavir,FDA,HealthCanada,296,9.724047306176084,2021-11-23,2022-09-15,FDA -> HealthCanada
+mavacamten,FDA,HealthCanada,194,6.3731931668856765,2022-04-28,2022-11-08,FDA -> HealthCanada
+medroxyprogesterone acetate,FDA,HealthCanada,151,4.9605781865965834,1996-08-09,1997-01-07,FDA -> HealthCanada
+mefenamic acid,HealthCanada,FDA,5126,168.3968462549277,1996-11-06,2010-11-19,HealthCanada -> FDA
+megestrol acetate,FDA,HealthCanada,93,3.055190538764783,1995-09-29,1995-12-31,FDA -> HealthCanada
+meloxicam,FDA,HealthCanada,1302,42.77266754270696,2000-04-13,2003-11-06,FDA -> HealthCanada
+memantine hydrochloride,FDA,HealthCanada,419,13.764783180026281,2003-10-16,2004-12-08,FDA -> HealthCanada
+mepivacaine hydrochloride,HealthCanada,FDA,2523,82.88436268068331,2001-06-01,2008-04-28,HealthCanada -> FDA
+mepolizumab,FDA,HealthCanada,1434,47.109067017082786,2015-11-04,2019-10-08,FDA -> HealthCanada
+mercaptopurine,FDA,HealthCanada,3544,116.4257555847569,2004-02-11,2013-10-25,FDA -> HealthCanada
+meropenem,FDA,HealthCanada,6335,208.1143232588699,1996-06-21,2013-10-25,FDA -> HealthCanada
+mesna,HealthCanada,FDA,496,16.294349540078844,1999-12-17,2001-04-26,HealthCanada -> FDA
+metformin hydrochloride,FDA,HealthCanada,303,9.95400788436268,1995-03-03,1995-12-31,FDA -> HealthCanada
+methadone hydrochloride,FDA,HealthCanada,1799,59.09986859395532,1995-04-28,2000-03-31,FDA -> HealthCanada
+methazolamide,FDA,HealthCanada,2099,68.95532194480946,1996-08-28,2002-05-28,FDA -> HealthCanada
+methimazole,FDA,HealthCanada,2623,86.16951379763469,2000-03-29,2007-06-04,FDA -> HealthCanada
+methotrexate,HealthCanada,FDA,3608,118.52825229960578,2003-11-25,2013-10-11,HealthCanada -> FDA
+methoxsalen,FDA,HealthCanada,5187,170.40078843626807,1999-02-25,2013-05-09,FDA -> HealthCanada
+methylene blue,HealthCanada,FDA,5507,180.9132720105125,2001-03-11,2016-04-08,HealthCanada -> FDA
+methylnaltrexone bromide,HealthCanada,FDA,27,0.8869908015768725,2008-03-28,2008-04-24,HealthCanada -> FDA
+methylphenidate hydrochloride,FDA,HealthCanada,56,1.8396846254927726,1997-08-29,1997-10-24,FDA -> HealthCanada
+methylprednisolone acetate,HealthCanada,FDA,3342,109.78975032851511,1995-12-31,2005-02-23,HealthCanada -> FDA
+metoclopramide hydrochloride,HealthCanada,FDA,21,0.6898817345597897,1995-09-14,1995-10-05,HealthCanada -> FDA
+metoprolol tartrate,FDA,HealthCanada,769,25.26281208935611,1995-01-31,1997-03-10,FDA -> HealthCanada
+metreleptin,FDA,HealthCanada,3614,118.72536136662286,2014-02-24,2024-01-17,FDA -> HealthCanada
+metronidazole,FDA,HealthCanada,242,7.9500657030223385,1995-05-03,1995-12-31,FDA -> HealthCanada
+mexiletine hydrochloride,FDA,HealthCanada,643,21.12352168199737,1995-05-16,1997-02-17,FDA -> HealthCanada
+micafungin sodium,FDA,HealthCanada,797,26.182654402102497,2005-03-16,2007-05-22,FDA -> HealthCanada
+miconazole nitrate,FDA,HealthCanada,727,23.88304862023653,1995-01-04,1996-12-31,FDA -> HealthCanada
+midazolam,HealthCanada,FDA,7270,238.8304862023653,1999-06-21,2019-05-17,HealthCanada -> FDA
+midodrine hydrochloride,FDA,HealthCanada,3475,114.15900131406045,1996-09-06,2006-03-13,FDA -> HealthCanada
+midostaurin,FDA,HealthCanada,84,2.759526938239159,2017-04-28,2017-07-21,FDA -> HealthCanada
+miglustat,FDA,HealthCanada,244,8.015768725361367,2003-07-31,2004-03-31,FDA -> HealthCanada
+minoxidil,FDA,HealthCanada,5396,177.26675427069645,1995-12-13,2010-09-21,FDA -> HealthCanada
+mirabegron,FDA,HealthCanada,251,8.245729303547963,2012-06-28,2013-03-06,FDA -> HealthCanada
+mirtazapine,FDA,HealthCanada,1799,59.09986859395532,1996-06-14,2001-05-18,FDA -> HealthCanada
+misoprostol,HealthCanada,FDA,394,12.943495400788436,2001-06-11,2002-07-10,HealthCanada -> FDA
+mitomycin,FDA,HealthCanada,630,20.69645203679369,1995-04-19,1997-01-08,FDA -> HealthCanada
+modafinil,FDA,HealthCanada,64,2.102496714848883,1998-12-24,1999-02-26,FDA -> HealthCanada
+mometasone furoate,FDA,HealthCanada,294,9.658344283837057,1997-10-01,1998-07-22,FDA -> HealthCanada
+morphine sulfate,HealthCanada,FDA,338,11.103810775295663,1995-07-31,1996-07-03,HealthCanada -> FDA
+mupirocin,FDA,HealthCanada,1248,40.99868593955322,2002-12-04,2006-05-05,FDA -> HealthCanada
+mycophenolate mofetil,FDA,HealthCanada,196,6.438896189224704,1995-05-03,1995-11-15,FDA -> HealthCanada
+nabumetone,HealthCanada,FDA,644,21.156373193166885,1998-08-21,2000-05-26,HealthCanada -> FDA
+nadolol,FDA,HealthCanada,8868,291.3272010512483,1995-11-09,2020-02-19,FDA -> HealthCanada
+naloxone hydrochloride,HealthCanada,FDA,720,23.653088042049934,1995-02-01,1997-01-21,HealthCanada -> FDA
+naltrexone hydrochloride,HealthCanada,FDA,197,6.471747700394218,1997-10-23,1998-05-08,HealthCanada -> FDA
+naphazoline hydrochloride,FDA,HealthCanada,2975,97.73324572930355,1996-01-31,2004-03-24,FDA -> HealthCanada
+naproxen,FDA,HealthCanada,324,10.64388961892247,1995-02-10,1995-12-31,FDA -> HealthCanada
+naproxen sodium,FDA,HealthCanada,292,9.592641261498029,1995-03-14,1995-12-31,FDA -> HealthCanada
+natalizumab,FDA,HealthCanada,674,22.141918528252297,2004-11-23,2006-09-28,FDA -> HealthCanada
+nelarabine,FDA,HealthCanada,694,22.798948751642573,2005-10-28,2007-09-22,FDA -> HealthCanada
+neostigmine methylsulfate,HealthCanada,FDA,5117,168.1011826544021,1999-05-28,2013-05-31,HealthCanada -> FDA
+nepafenac,FDA,HealthCanada,972,31.93166885676741,2005-08-19,2008-04-17,FDA -> HealthCanada
+nevirapine,FDA,HealthCanada,5261,172.8318002628121,1996-06-21,2010-11-16,FDA -> HealthCanada
+nifedipine,FDA,HealthCanada,3301,108.44283837056504,1999-12-17,2008-12-30,FDA -> HealthCanada
+nimodipine,FDA,HealthCanada,751,24.67148488830486,2007-04-17,2009-05-07,FDA -> HealthCanada
+nitisinone,FDA,HealthCanada,5359,176.05124835742444,2002-01-18,2016-09-20,FDA -> HealthCanada
+nitric oxide,FDA,HealthCanada,2101,69.02102496714849,1999-12-23,2005-09-23,FDA -> HealthCanada
+nitrofurantoin,HealthCanada,FDA,2531,83.14717477003941,1997-04-17,2004-03-22,HealthCanada -> FDA
+nitrogen,HealthCanada,FDA,6384,209.7240473061761,1995-12-31,2013-06-23,HealthCanada -> FDA
+nitroglycerin,FDA,HealthCanada,192,6.307490144546649,1996-08-30,1997-03-10,FDA -> HealthCanada
+nitrous oxide,HealthCanada,FDA,6377,209.49408672798947,1995-12-31,2013-06-16,HealthCanada -> FDA
+nivolumab,FDA,HealthCanada,277,9.099868593955321,2014-12-22,2015-09-25,FDA -> HealthCanada
+norethindrone,FDA,HealthCanada,3937,129.3363994743758,2002-10-21,2013-08-01,FDA -> HealthCanada
+nystatin,FDA,HealthCanada,27,0.8869908015768725,1996-08-16,1996-09-12,FDA -> HealthCanada
+obeticholic acid,FDA,HealthCanada,362,11.892247043363994,2016-05-27,2017-05-24,FDA -> HealthCanada
+obinutuzumab,FDA,HealthCanada,389,12.779237844940866,2013-11-01,2014-11-25,FDA -> HealthCanada
+ocrelizumab,FDA,HealthCanada,139,4.566360052562418,2017-03-28,2017-08-14,FDA -> HealthCanada
+odevixibat,FDA,HealthCanada,832,27.33245729303548,2021-07-20,2023-10-30,FDA -> HealthCanada
+ofatumumab,FDA,HealthCanada,4106,134.88830486202366,2009-10-26,2021-01-22,FDA -> HealthCanada
+ofloxacin,HealthCanada,FDA,716,23.52168199737188,1995-12-31,1997-12-16,HealthCanada -> FDA
+olanzapine,FDA,HealthCanada,28,0.9198423127463863,1996-09-30,1996-10-28,FDA -> HealthCanada
+olaparib,FDA,HealthCanada,1232,40.473061760841,2014-12-19,2018-05-04,FDA -> HealthCanada
+olmesartan medoxomil,FDA,HealthCanada,2378,78.12089356110381,2002-04-25,2008-10-28,FDA -> HealthCanada
+omalizumab,FDA,HealthCanada,517,16.98423127463863,2003-06-20,2004-11-18,FDA -> HealthCanada
+omeprazole,FDA,HealthCanada,452,14.848883048620236,2002-11-01,2004-01-27,FDA -> HealthCanada
+ondansetron,FDA,HealthCanada,4934,162.08935611038106,1999-01-27,2012-07-31,FDA -> HealthCanada
+orlistat,FDA,HealthCanada,41,1.3469119579500657,1999-04-23,1999-06-03,FDA -> HealthCanada
+orphenadrine citrate,FDA,HealthCanada,984,32.32588699080158,1998-06-19,2001-02-27,FDA -> HealthCanada
+ospemifene,FDA,HealthCanada,3062,100.59132720105124,2013-02-26,2021-07-16,FDA -> HealthCanada
+oxaliplatin,FDA,HealthCanada,4877,160.21681997371877,2002-08-09,2015-12-16,FDA -> HealthCanada
+oxcarbazepine,FDA,HealthCanada,90,2.9566360052562417,2000-01-14,2000-04-13,FDA -> HealthCanada
+oxybutynin chloride,HealthCanada,FDA,89,2.923784494086728,1995-12-31,1996-03-29,HealthCanada -> FDA
+oxycodone hydrochloride,HealthCanada,FDA,451,14.816031537450723,1997-08-01,1998-10-26,HealthCanada -> FDA
+oxygen,HealthCanada,FDA,6377,209.49408672798947,1995-12-31,2013-06-16,HealthCanada -> FDA
+oxymetazoline hydrochloride,HealthCanada,FDA,5537,181.89881734559788,2001-05-02,2016-06-29,HealthCanada -> FDA
+oxytocin,HealthCanada,FDA,4180,137.31931668856768,1996-08-14,2008-01-24,HealthCanada -> FDA
+paclitaxel,HealthCanada,FDA,127,4.1721419185282524,2001-09-20,2002-01-25,HealthCanada -> FDA
+palbociclib,FDA,HealthCanada,1731,56.86596583442838,2015-02-03,2019-10-31,FDA -> HealthCanada
+paliperidone,FDA,HealthCanada,281,9.231274638633376,2006-12-19,2007-09-26,FDA -> HealthCanada
+palivizumab,FDA,HealthCanada,6103,200.4927726675427,1998-06-19,2015-03-05,FDA -> HealthCanada
+palovarotene,HealthCanada,FDA,572,18.791064388961892,2022-01-21,2023-08-16,HealthCanada -> FDA
+pamidronate disodium,FDA,HealthCanada,1074,35.282522996057814,1998-09-22,2001-08-31,FDA -> HealthCanada
+panitumumab,FDA,HealthCanada,551,18.101182654402102,2006-09-27,2008-03-31,FDA -> HealthCanada
+pegcetacoplan,FDA,HealthCanada,573,18.823915900131404,2021-05-14,2022-12-08,FDA -> HealthCanada
+pegfilgrastim,FDA,HealthCanada,771,25.328515111695136,2002-01-31,2004-03-12,FDA -> HealthCanada
+peginterferon alfa-2a,FDA,HealthCanada,301,9.888304862023652,2002-10-16,2003-08-13,FDA -> HealthCanada
+peginterferon beta-1a,FDA,HealthCanada,360,11.826544021024967,2014-08-15,2015-08-10,FDA -> HealthCanada
+pegvisomant,FDA,HealthCanada,937,30.781865965834427,2003-03-25,2005-10-17,FDA -> HealthCanada
+pembrolizumab,FDA,HealthCanada,705,23.160315374507228,2014-09-04,2016-08-09,FDA -> HealthCanada
+pemigatinib,FDA,HealthCanada,518,17.017082785808146,2020-04-17,2021-09-17,FDA -> HealthCanada
+pentoxifylline,HealthCanada,FDA,175,5.7490144546649145,1997-01-14,1997-07-08,HealthCanada -> FDA
+perampanel,FDA,HealthCanada,164,5.387647831800263,2012-10-22,2013-04-04,FDA -> HealthCanada
+perfluorohexyloctane,FDA,HealthCanada,475,15.604467805519054,2023-05-18,2024-09-04,FDA -> HealthCanada
+perflutren,HealthCanada,FDA,215,7.063074901445466,2000-12-28,2001-07-31,HealthCanada -> FDA
+perindopril erbumine,HealthCanada,FDA,2582,84.82260183968462,2002-10-16,2009-11-10,HealthCanada -> FDA
+permethrin,HealthCanada,FDA,247,8.114323258869907,1997-05-21,1998-01-23,HealthCanada -> FDA
+pertuzumab,FDA,HealthCanada,308,10.11826544021025,2012-06-08,2013-04-12,FDA -> HealthCanada
+phenobarbital sodium,HealthCanada,FDA,5375,176.57687253613665,2008-02-29,2022-11-17,HealthCanada -> FDA
+phentolamine mesylate,FDA,HealthCanada,1192,39.15900131406045,1998-03-11,2001-06-15,FDA -> HealthCanada
+phenylephrine hydrochloride,HealthCanada,FDA,3994,131.2089356110381,1995-12-31,2006-12-07,HealthCanada -> FDA
+phenytoin,FDA,HealthCanada,1153,37.877792378449406,2001-01-31,2004-03-29,FDA -> HealthCanada
+phenytoin sodium,FDA,HealthCanada,5918,194.41524310118265,1998-12-28,2015-03-12,FDA -> HealthCanada
+pilocarpine hydrochloride,HealthCanada,FDA,2869,94.25098554533508,1997-01-08,2004-11-16,HealthCanada -> FDA
+pimecrolimus,FDA,HealthCanada,461,15.14454664914586,2001-12-13,2003-03-19,FDA -> HealthCanada
+pimozide,HealthCanada,FDA,4969,163.23915900131405,2002-02-19,2015-09-28,HealthCanada -> FDA
+pirfenidone,FDA,HealthCanada,961,31.57030223390276,2014-10-15,2017-06-02,FDA -> HealthCanada
+pitolisant hydrochloride,FDA,HealthCanada,224,7.35873850197109,2020-10-13,2021-05-25,FDA -> HealthCanada
+plecanatide,FDA,HealthCanada,994,32.65440210249671,2017-01-19,2019-10-10,FDA -> HealthCanada
+plerixafor,FDA,HealthCanada,1088,35.74244415243101,2008-12-15,2011-12-08,FDA -> HealthCanada
+polyethylene glycol 3350,FDA,HealthCanada,3576,117.47700394218134,1999-02-18,2008-12-03,FDA -> HealthCanada
+pomalidomide,FDA,HealthCanada,346,11.366622864651774,2013-02-08,2014-01-20,FDA -> HealthCanada
+ponesimod,FDA,HealthCanada,41,1.3469119579500657,2021-03-18,2021-04-28,FDA -> HealthCanada
+poractant alfa,FDA,HealthCanada,55,1.8068331143232588,1999-11-18,2000-01-12,FDA -> HealthCanada
+posaconazole,FDA,HealthCanada,192,6.307490144546649,2006-09-15,2007-03-26,FDA -> HealthCanada
+potassium acetate,HealthCanada,FDA,1796,59.00131406044678,2011-01-28,2015-12-29,HealthCanada -> FDA
+potassium chloride,FDA,HealthCanada,1384,45.466491458607095,1996-04-26,2000-02-09,FDA -> HealthCanada
+potassium citrate,HealthCanada,FDA,4176,137.1879106438896,1995-01-01,2006-06-08,HealthCanada -> FDA
+pralatrexate,FDA,HealthCanada,3319,109.03416557161628,2009-09-24,2018-10-26,FDA -> HealthCanada
+prasterone,FDA,HealthCanada,1080,35.4796320630749,2016-11-16,2019-11-01,FDA -> HealthCanada
+pravastatin sodium,HealthCanada,FDA,945,31.044678055190538,2001-02-27,2003-09-30,HealthCanada -> FDA
+praziquantel,HealthCanada,FDA,7570,248.68593955321944,1997-03-07,2017-11-27,HealthCanada -> FDA
+prednicarbate,HealthCanada,FDA,3512,115.37450722733246,1997-02-06,2006-09-19,HealthCanada -> FDA
+prednisolone sodium phosphate,FDA,HealthCanada,2,0.0657030223390276,1995-12-29,1995-12-31,FDA -> HealthCanada
+pregabalin,FDA,HealthCanada,155,5.091984231274639,2004-12-30,2005-06-03,FDA -> HealthCanada
+prilocaine hydrochloride,FDA,HealthCanada,1527,50.16425755584757,2010-09-29,2014-12-04,FDA -> HealthCanada
+procainamide hydrochloride,FDA,HealthCanada,100,3.2851511169513796,1995-09-22,1995-12-31,FDA -> HealthCanada
+progesterone,HealthCanada,FDA,499,16.392904073587385,1995-12-31,1997-05-13,HealthCanada -> FDA
+propafenone hydrochloride,FDA,HealthCanada,107,3.515111695137976,2000-10-24,2001-02-08,FDA -> HealthCanada
+propofol,FDA,HealthCanada,1212,39.81603153745072,1998-06-08,2001-10-02,FDA -> HealthCanada
+propranolol hydrochloride,HealthCanada,FDA,1502,49.34296977660972,1996-07-19,2000-08-29,HealthCanada -> FDA
+propylthiouracil,HealthCanada,FDA,581,19.086727989487514,2021-10-06,2023-05-10,HealthCanada -> FDA
+pyridostigmine bromide,FDA,HealthCanada,6230,204.66491458607095,2002-12-26,2020-01-16,FDA -> HealthCanada
+pyridoxine hydrochloride,HealthCanada,FDA,3727,122.43758212877792,2002-06-01,2012-08-14,HealthCanada -> FDA
+quinine sulfate,HealthCanada,FDA,2295,75.39421813403416,1999-05-01,2005-08-12,HealthCanada -> FDA
+rabeprazole sodium,FDA,HealthCanada,627,20.59789750328515,1999-08-19,2001-05-07,FDA -> HealthCanada
+radium ra-223 dichloride,FDA,HealthCanada,211,6.931668856767411,2013-05-15,2013-12-12,FDA -> HealthCanada
+raloxifene hydrochloride,FDA,HealthCanada,332,10.90670170827858,1997-12-09,1998-11-06,FDA -> HealthCanada
+ramipril,HealthCanada,FDA,3428,112.6149802890933,1996-06-05,2005-10-24,HealthCanada -> FDA
+ramucirumab,FDA,HealthCanada,451,14.816031537450723,2014-04-21,2015-07-16,FDA -> HealthCanada
+ranibizumab,FDA,HealthCanada,361,11.85939553219448,2006-06-30,2007-06-26,FDA -> HealthCanada
+ranolazine,FDA,HealthCanada,5452,179.10643889618922,2006-01-27,2020-12-31,FDA -> HealthCanada
+rasburicase,FDA,HealthCanada,474,15.571616294349539,2002-07-12,2003-10-29,FDA -> HealthCanada
+regorafenib,FDA,HealthCanada,165,5.4204993429697765,2012-09-27,2013-03-11,FDA -> HealthCanada
+relugolix,FDA,HealthCanada,1026,33.70565045992115,2020-12-18,2023-10-10,FDA -> HealthCanada
+remdesivir,HealthCanada,FDA,87,2.8580814717477003,2020-07-27,2020-10-22,HealthCanada -> FDA
+repaglinide,FDA,HealthCanada,4599,151.08409986859394,1997-12-22,2010-07-26,FDA -> HealthCanada
+reslizumab,FDA,HealthCanada,119,3.9093298291721417,2016-03-23,2016-07-20,FDA -> HealthCanada
+ribavirin,HealthCanada,FDA,545,17.904073587385017,1996-12-05,1998-06-03,HealthCanada -> FDA
+rifabutin,HealthCanada,FDA,6630,217.80551905387648,1995-12-31,2014-02-24,HealthCanada -> FDA
+rifaximin,FDA,HealthCanada,3367,110.61103810775295,2004-05-25,2013-08-13,FDA -> HealthCanada
+riluzole,FDA,HealthCanada,1723,56.60315374507227,1995-12-12,2000-08-30,FDA -> HealthCanada
+riociguat,HealthCanada,FDA,19,0.6241787122207622,2013-09-19,2013-10-08,HealthCanada -> FDA
+ripretinib,FDA,HealthCanada,35,1.149802890932983,2020-05-15,2020-06-19,FDA -> HealthCanada
+risdiplam,FDA,HealthCanada,250,8.21287779237845,2020-08-07,2021-04-14,FDA -> HealthCanada
+risperidone,FDA,HealthCanada,2958,97.17477003942182,1996-06-10,2004-07-16,FDA -> HealthCanada
+ritonavir,FDA,HealthCanada,5323,174.86859395532193,1996-03-01,2010-09-27,FDA -> HealthCanada
+rituximab,FDA,HealthCanada,842,27.660972404730618,1997-11-26,2000-03-17,FDA -> HealthCanada
+rivaroxaban,HealthCanada,FDA,1019,33.47568988173456,2008-09-15,2011-07-01,HealthCanada -> FDA
+rivastigmine,FDA,HealthCanada,146,4.7963206307490145,2007-07-06,2007-11-29,FDA -> HealthCanada
+rocuronium bromide,HealthCanada,FDA,33,1.0840998685939554,2008-10-24,2008-11-26,HealthCanada -> FDA
+roflumilast,HealthCanada,FDA,97,3.1865965834428382,2010-11-23,2011-02-28,HealthCanada -> FDA
+romidepsin,FDA,HealthCanada,1441,47.33902759526938,2009-11-05,2013-10-16,FDA -> HealthCanada
+romiplostim,FDA,HealthCanada,181,5.946123521681997,2008-08-22,2009-02-19,FDA -> HealthCanada
+ropivacaine hydrochloride,FDA,HealthCanada,218,7.1616294349540075,1996-09-24,1997-04-30,FDA -> HealthCanada
+rotigotine,FDA,HealthCanada,2143,70.40078843626806,2007-05-09,2013-03-21,FDA -> HealthCanada
+rufinamide,FDA,HealthCanada,950,31.208935611038108,2008-11-14,2011-06-22,FDA -> HealthCanada
+sapropterin dihydrochloride,FDA,HealthCanada,869,28.54796320630749,2007-12-13,2010-04-30,FDA -> HealthCanada
+sarilumab,HealthCanada,FDA,130,4.270696452036794,2017-01-12,2017-05-22,HealthCanada -> FDA
+satralizumab,HealthCanada,FDA,74,2.431011826544021,2020-06-01,2020-08-14,HealthCanada -> FDA
+sebelipase alfa,FDA,HealthCanada,738,24.24441524310118,2015-12-08,2017-12-15,FDA -> HealthCanada
+secukinumab,FDA,HealthCanada,37,1.2155059132720105,2015-01-21,2015-02-27,FDA -> HealthCanada
+selegiline hydrochloride,FDA,HealthCanada,274,9.00131406044678,1996-05-15,1997-02-13,FDA -> HealthCanada
+selexipag,FDA,HealthCanada,30,0.9855453350854139,2015-12-21,2016-01-20,FDA -> HealthCanada
+selinexor,FDA,HealthCanada,1063,34.92115637319316,2019-07-03,2022-05-31,FDA -> HealthCanada
+selpercatinib,FDA,HealthCanada,403,13.23915900131406,2020-05-08,2021-06-15,FDA -> HealthCanada
+semaglutide,FDA,HealthCanada,30,0.9855453350854139,2017-12-05,2018-01-04,FDA -> HealthCanada
+sevelamer carbonate,FDA,HealthCanada,992,32.58869908015769,2007-10-19,2010-07-07,FDA -> HealthCanada
+sevelamer hydrochloride,FDA,HealthCanada,1036,34.03416557161629,1998-10-30,2001-08-31,FDA -> HealthCanada
+sevoflurane,FDA,HealthCanada,207,6.800262812089356,1995-06-07,1995-12-31,FDA -> HealthCanada
+silodosin,FDA,HealthCanada,4474,146.97766097240472,2008-10-08,2021-01-07,FDA -> HealthCanada
+siltuximab,FDA,HealthCanada,224,7.35873850197109,2014-04-23,2014-12-03,FDA -> HealthCanada
+simvastatin,HealthCanada,FDA,3425,112.51642575558475,1996-08-14,2005-12-30,HealthCanada -> FDA
+sincalide,HealthCanada,FDA,8903,292.47700394218134,1998-07-08,2022-11-22,HealthCanada -> FDA
+sinecatechins,FDA,HealthCanada,2501,82.16162943495401,2006-10-31,2013-09-05,FDA -> HealthCanada
+siponimod,FDA,HealthCanada,331,10.873850197109066,2019-03-26,2020-02-20,FDA -> HealthCanada
+sirolimus,FDA,HealthCanada,478,15.703022339027594,1999-09-15,2001-01-05,FDA -> HealthCanada
+sodium acetate,HealthCanada,FDA,7747,254.50065703022338,1996-08-14,2017-10-30,HealthCanada -> FDA
+sodium bicarbonate,HealthCanada,FDA,128,4.204993429697766,2005-07-04,2005-11-09,HealthCanada -> FDA
+sodium chloride,FDA,HealthCanada,1318,43.29829172141918,2004-10-27,2008-06-06,FDA -> HealthCanada
+sodium nitroprusside,HealthCanada,FDA,2142,70.36793692509855,2011-01-27,2016-12-08,HealthCanada -> FDA
+sodium oxybate,FDA,HealthCanada,1115,36.629434954007884,2002-07-17,2005-08-05,FDA -> HealthCanada
+sodium phenylbutyrate,FDA,HealthCanada,6845,224.86859395532193,1996-04-30,2015-01-26,FDA -> HealthCanada
+sodium polystyrene sulfonate,FDA,HealthCanada,7342,241.19579500657028,1998-02-06,2018-03-15,FDA -> HealthCanada
+sodium thiosulfate,HealthCanada,FDA,4964,163.07490144546648,1998-07-13,2012-02-14,HealthCanada -> FDA
+sodium zirconium cyclosilicate,FDA,HealthCanada,433,14.224704336399475,2018-05-18,2019-07-25,FDA -> HealthCanada
+sofosbuvir,FDA,HealthCanada,7,0.22996057818659657,2013-12-06,2013-12-13,FDA -> HealthCanada
+solifenacin succinate,FDA,HealthCanada,458,15.045992115637318,2004-11-19,2006-02-20,FDA -> HealthCanada
+somatropin,FDA,HealthCanada,1084,35.611038107752954,1995-05-25,1998-05-13,FDA -> HealthCanada
+sotalol hydrochloride,HealthCanada,FDA,1514,49.73718791064389,1995-12-31,2000-02-22,HealthCanada -> FDA
+sotorasib,FDA,HealthCanada,105,3.4494086727989486,2021-05-28,2021-09-10,FDA -> HealthCanada
+soybean oil,HealthCanada,FDA,220,7.227332457293035,1995-12-31,1996-08-07,HealthCanada -> FDA
+spironolactone,FDA,HealthCanada,7218,237.1222076215506,1999-07-29,2019-05-03,FDA -> HealthCanada
+stiripentol,HealthCanada,FDA,2068,67.93692509855452,2012-12-21,2018-08-20,HealthCanada -> FDA
+succinylcholine chloride,HealthCanada,FDA,1312,43.1011826544021,2014-09-30,2018-05-04,HealthCanada -> FDA
+sucralfate,HealthCanada,FDA,89,2.923784494086728,1995-12-31,1996-03-29,HealthCanada -> FDA
+sulfasalazine,HealthCanada,FDA,291,9.559789750328514,1995-12-31,1996-10-17,HealthCanada -> FDA
+tacrolimus,HealthCanada,FDA,1577,51.806833114323254,1996-08-14,2000-12-08,HealthCanada -> FDA
+tadalafil,HealthCanada,FDA,65,2.135348226018397,2003-09-17,2003-11-21,HealthCanada -> FDA
+tafamidis,FDA,HealthCanada,798,26.21550591327201,2019-05-03,2021-07-09,FDA -> HealthCanada
+tafamidis meglumine,FDA,HealthCanada,262,8.607095926412615,2019-05-03,2020-01-20,FDA -> HealthCanada
+taliglucerase alfa,FDA,HealthCanada,758,24.901445466491456,2012-05-01,2014-05-29,FDA -> HealthCanada
+tamsulosin hydrochloride,FDA,HealthCanada,4236,139.15900131406045,1997-04-15,2008-11-19,FDA -> HealthCanada
+tazarotene,FDA,HealthCanada,8791,288.7976346911958,1997-06-13,2021-07-08,FDA -> HealthCanada
+teduglutide,FDA,HealthCanada,987,32.42444152431012,2012-12-21,2015-09-04,FDA -> HealthCanada
+telmisartan,FDA,HealthCanada,289,9.494086727989487,1998-11-10,1999-08-26,FDA -> HealthCanada
+temozolomide,FDA,HealthCanada,75,2.463863337713535,1999-08-11,1999-10-25,FDA -> HealthCanada
+temsirolimus,FDA,HealthCanada,205,6.734559789750328,2007-05-30,2007-12-21,FDA -> HealthCanada
+tenecteplase,FDA,HealthCanada,502,16.491458607095925,2000-06-02,2001-10-17,FDA -> HealthCanada
+tenofovir disoproxil fumarate,FDA,HealthCanada,508,16.68856767411301,2001-10-26,2003-03-18,FDA -> HealthCanada
+terbinafine hydrochloride,FDA,HealthCanada,858,28.18659658344284,1996-05-10,1998-09-15,FDA -> HealthCanada
+terconazole,HealthCanada,FDA,300,9.85545335085414,2003-06-11,2004-04-06,HealthCanada -> FDA
+teriflunomide,FDA,HealthCanada,3533,116.06438896189225,2012-09-12,2022-05-16,FDA -> HealthCanada
+teriparatide,FDA,HealthCanada,555,18.232588699080157,2002-11-26,2004-06-03,FDA -> HealthCanada
+testosterone,FDA,HealthCanada,2322,76.28120893561103,1995-09-29,2002-02-06,FDA -> HealthCanada
+testosterone cypionate,FDA,HealthCanada,5476,179.89487516425754,2005-01-31,2020-01-29,FDA -> HealthCanada
+testosterone enanthate,FDA,HealthCanada,6120,201.05124835742444,2006-06-14,2023-03-17,FDA -> HealthCanada
+testosterone undecanoate,HealthCanada,FDA,1848,60.709592641261494,2009-02-11,2014-03-05,HealthCanada -> FDA
+tetrabenazine,HealthCanada,FDA,4267,140.17739816031536,1996-12-09,2008-08-15,HealthCanada -> FDA
+tetracaine hydrochloride,HealthCanada,FDA,7365,241.9513797634691,1995-12-31,2016-02-29,HealthCanada -> FDA
+thalidomide,FDA,HealthCanada,4402,144.61235216819972,1998-07-16,2010-08-04,FDA -> HealthCanada
+theophylline,FDA,HealthCanada,5819,191.16294349540078,1995-01-04,2010-12-10,FDA -> HealthCanada
+thiamine hydrochloride,FDA,HealthCanada,804,26.412614980289092,1996-05-03,1998-07-16,FDA -> HealthCanada
+thiotepa,FDA,HealthCanada,5840,191.85282522996056,2001-04-02,2017-03-29,FDA -> HealthCanada
+thyrotropin alfa,FDA,HealthCanada,1278,41.98423127463863,1998-11-30,2002-05-31,FDA -> HealthCanada
+ticagrelor,HealthCanada,FDA,51,1.6754270696452036,2011-05-30,2011-07-20,HealthCanada -> FDA
+tigecycline,FDA,HealthCanada,456,14.98028909329829,2005-06-15,2006-09-14,FDA -> HealthCanada
+tinzaparin sodium,HealthCanada,FDA,1878,61.695137976346906,1995-05-24,2000-07-14,HealthCanada -> FDA
+tipranavir,FDA,HealthCanada,152,4.993429697766097,2005-06-22,2005-11-21,FDA -> HealthCanada
+tirzepatide,FDA,HealthCanada,475,15.604467805519054,2022-05-13,2023-08-31,FDA -> HealthCanada
+tobramycin,FDA,HealthCanada,1490,48.94875164257556,1996-01-31,2000-02-29,FDA -> HealthCanada
+tocilizumab,FDA,HealthCanada,112,3.679369250985545,2010-01-08,2010-04-30,FDA -> HealthCanada
+tofersen,FDA,HealthCanada,675,22.174770039421812,2023-04-25,2025-02-28,FDA -> HealthCanada
+tolterodine tartrate,FDA,HealthCanada,240,7.884362680683311,1998-03-25,1998-11-20,FDA -> HealthCanada
+tolvaptan,FDA,HealthCanada,797,26.182654402102497,2009-05-19,2011-07-25,FDA -> HealthCanada
+topiramate,FDA,HealthCanada,72,2.3653088042049935,1996-12-24,1997-03-06,FDA -> HealthCanada
+trabectedin,HealthCanada,FDA,1989,65.34165571616295,2010-05-13,2015-10-23,HealthCanada -> FDA
+tralokinumab,HealthCanada,FDA,75,2.463863337713535,2021-10-13,2021-12-27,HealthCanada -> FDA
+tramadol hydrochloride,FDA,HealthCanada,4227,138.8633377135348,1995-03-03,2006-09-28,FDA -> HealthCanada
+trandolapril,FDA,HealthCanada,411,13.501971090670171,1996-04-26,1997-06-11,FDA -> HealthCanada
+tranexamic acid,HealthCanada,FDA,5066,166.4257555847569,1995-12-31,2009-11-13,HealthCanada -> FDA
+trastuzumab,FDA,HealthCanada,322,10.578186596583443,1998-09-25,1999-08-13,FDA -> HealthCanada
+travoprost,FDA,HealthCanada,2764,90.80157687253613,2001-03-16,2008-10-09,FDA -> HealthCanada
+trazodone hydrochloride,HealthCanada,FDA,833,27.365308804204993,1995-01-18,1997-04-30,HealthCanada -> FDA
+treosulfan,HealthCanada,FDA,1306,42.90407358738502,2021-06-25,2025-01-21,HealthCanada -> FDA
+tretinoin,FDA,HealthCanada,39,1.281208935611038,1995-11-22,1995-12-31,FDA -> HealthCanada
+triamcinolone acetonide,FDA,HealthCanada,567,18.626806833114323,1995-03-23,1996-10-10,FDA -> HealthCanada
+trientine hydrochloride,FDA,HealthCanada,950,31.208935611038108,2018-02-07,2020-09-14,FDA -> HealthCanada
+trifarotene,FDA,HealthCanada,52,1.7082785808147174,2019-10-04,2019-11-25,FDA -> HealthCanada
+triheptanoin,FDA,HealthCanada,230,7.555847568988173,2020-06-30,2021-02-15,FDA -> HealthCanada
+trimethoprim,HealthCanada,FDA,3827,125.7227332457293,2000-12-22,2011-06-15,HealthCanada -> FDA
+trofinetide,FDA,HealthCanada,581,19.086727989487514,2023-03-10,2024-10-11,FDA -> HealthCanada
+tropicamide,HealthCanada,FDA,1734,56.96452036793692,1995-12-31,2000-09-29,HealthCanada -> FDA
+trospium chloride,FDA,HealthCanada,592,19.44809461235217,2004-05-28,2006-01-10,FDA -> HealthCanada
+trypan blue,FDA,HealthCanada,629,20.66360052562418,2004-12-16,2006-09-06,FDA -> HealthCanada
+tucatinib,FDA,HealthCanada,49,1.609724047306176,2020-04-17,2020-06-05,FDA -> HealthCanada
+ubrogepant,FDA,HealthCanada,1053,34.59264126149803,2019-12-23,2022-11-10,FDA -> HealthCanada
+ulipristal acetate,FDA,HealthCanada,1613,52.989487516425754,2010-08-13,2015-01-12,FDA -> HealthCanada
+upadacitinib,FDA,HealthCanada,129,4.23784494086728,2019-08-16,2019-12-23,FDA -> HealthCanada
+ursodiol,FDA,HealthCanada,3064,100.65703022339027,1997-12-10,2006-05-01,FDA -> HealthCanada
+ustekinumab,HealthCanada,FDA,287,9.42838370565046,2008-12-12,2009-09-25,HealthCanada -> FDA
+valproic acid,FDA,HealthCanada,700,22.996057818659658,1995-01-13,1996-12-13,FDA -> HealthCanada
+valsartan,FDA,HealthCanada,1792,58.86990801576872,1996-12-23,2001-11-19,FDA -> HealthCanada
+vandetanib,FDA,HealthCanada,281,9.231274638633376,2011-04-06,2012-01-12,FDA -> HealthCanada
+vasopressin,HealthCanada,FDA,6455,212.05650459921156,1996-08-14,2014-04-17,HealthCanada -> FDA
+vedolizumab,FDA,HealthCanada,254,8.344283837056505,2014-05-20,2015-01-29,FDA -> HealthCanada
+velaglucerase alfa,FDA,HealthCanada,217,7.128777923784494,2010-02-26,2010-10-01,FDA -> HealthCanada
+vemurafenib,FDA,HealthCanada,182,5.978975032851511,2011-08-17,2012-02-15,FDA -> HealthCanada
+venetoclax,FDA,HealthCanada,172,5.650459921156373,2016-04-11,2016-09-30,FDA -> HealthCanada
+verapamil hydrochloride,HealthCanada,FDA,83,2.726675427069645,1995-05-06,1995-07-28,HealthCanada -> FDA
+vericiguat,FDA,HealthCanada,829,27.233902759526938,2021-01-19,2023-04-28,FDA -> HealthCanada
+verteporfin,FDA,HealthCanada,49,1.609724047306176,2000-04-12,2000-05-31,FDA -> HealthCanada
+vigabatrin,HealthCanada,FDA,4384,144.0210249671485,1997-08-20,2009-08-21,HealthCanada -> FDA
+vilazodone hydrochloride,FDA,HealthCanada,1637,53.777923784494085,2011-01-21,2015-07-16,FDA -> HealthCanada
+vincristine sulfate,HealthCanada,FDA,755,24.802890932982915,1997-08-07,1999-09-01,HealthCanada -> FDA
+vismodegib,FDA,HealthCanada,529,17.378449408672797,2012-01-30,2013-07-12,FDA -> HealthCanada
+vorasidenib,FDA,HealthCanada,21,0.6898817345597897,2024-08-06,2024-08-27,FDA -> HealthCanada
+voriconazole,FDA,HealthCanada,819,26.905387647831798,2002-05-24,2004-08-20,FDA -> HealthCanada
+vorinostat,FDA,HealthCanada,979,32.16162943495401,2006-10-06,2009-06-11,FDA -> HealthCanada
+warfarin sodium,FDA,HealthCanada,1232,40.473061760841,1997-03-26,2000-08-09,FDA -> HealthCanada
+zanamivir,FDA,HealthCanada,99,3.252299605781866,1999-07-26,1999-11-02,FDA -> HealthCanada
+zanubrutinib,FDA,HealthCanada,473,15.538764783180026,2019-11-14,2021-03-01,FDA -> HealthCanada
+zolmitriptan,FDA,HealthCanada,272,8.935611038107753,1997-11-25,1998-08-24,FDA -> HealthCanada
+zolpidem tartrate,FDA,HealthCanada,2146,70.4993429697766,2005-09-02,2011-07-19,FDA -> HealthCanada
