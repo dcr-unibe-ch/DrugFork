@@ -1,0 +1,26 @@
+Dataset Statistics (DEDUPLICATED - one entry per drug-agency pair):
+============================================================
+Total rows in dataset: 2,196
+Unique Non-proprietary names: 1,497
+Unique Drug names (brand): 1,468
+Unique agencies: 4
+Agencies: EMA, PMDA, Swissmedic, TGA
+============================================================
+
+Unique Non-proprietary names per agency:
+  EMA                  966
+  PMDA                 307
+  Swissmedic           204
+  TGA                  718
+
+============================================================
+Drug Sharing Analysis (by Non-proprietary name):
+============================================================
+
+Number of drugs by agency count:
+  Unique to 1 agency:        1,007 drugs
+  Shared by 2 agencies:       302 drugs (20.2%)
+  Shared by 3 agencies:       168 drugs (11.2%)
+  Shared by 4 agencies:       20 drugs (1.3%)
+
+  Total shared (2+ agencies): 490 drugs (32.7%)
