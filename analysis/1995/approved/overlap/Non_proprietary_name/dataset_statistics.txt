@@ -19,12 +19,14 @@ Unique Non-proprietary names per agency:
 Drug Sharing Analysis (by Non-proprietary name):
 ============================================================
 
-Number of drugs by agency count:
-  Unique to 1 agency:        3,426 drugs
-  Shared by 2 agencies:       611 drugs (13.4%)
-  Shared by 3 agencies:       226 drugs (5.0%)
-  Shared by 4 agencies:       178 drugs (3.9%)
-  Shared by 5 agencies:       99 drugs (2.2%)
-  Shared by 6 agencies:       9 drugs (0.2%)
+Unique to exactly 1 agency (total): 3,426 drugs (75.3%)
 
-  Total shared (2+ agencies): 1,123 drugs (24.7%)
+Number of drugs by agency count:
+  Unique to 1 agency:            3,426 drugs (75.3%)
+  Shared by 2 agencies:         611 drugs (13.4%)
+  Shared by 3 agencies:         226 drugs (5.0%)
+  Shared by 4 agencies:         178 drugs (3.9%)
+  Shared by 5 agencies:         99 drugs (2.2%)
+  Shared by 6 agencies:         9 drugs (0.2%)
+
+Total shared (2+ agencies): 1,123 drugs (24.7%)
