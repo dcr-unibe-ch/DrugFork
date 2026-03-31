@@ -1,11 +1,11 @@
 Trajectory,Count
-EMA,482
-TGA,310
-EMA -> TGA,153
-PMDA,127
-Swissmedic,69
-TGA -> EMA,46
+EMA -> TGA,152
+TGA -> EMA,47
 EMA -> Swissmedic,36
 EMA -> PMDA -> TGA,31
 EMA -> TGA -> PMDA,30
 EMA -> TGA -> Swissmedic,25
+EMA -> Swissmedic -> TGA,24
+PMDA -> EMA -> TGA,18
+EMA -> PMDA,18
+PMDA -> EMA,14

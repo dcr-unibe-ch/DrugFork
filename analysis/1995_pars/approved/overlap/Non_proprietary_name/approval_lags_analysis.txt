@@ -4,10 +4,10 @@ Time Lag Statistics Between Agencies (consecutive approvals) - DAYS
 
                     Count  Mean (days)  Median (days)  Std (days)  Min (days)  Max (days)
 agency_pair                                                                              
-EMA -> TGA            239        769.2          335.0      1102.2           4        6060
+EMA -> TGA            238        766.9          332.0      1104.0           4        6060
 EMA -> Swissmedic      77        534.4          300.0       667.1          21        3500
-TGA -> EMA             67       1208.5          433.0      1405.1           1        4902
-EMA -> PMDA            63        613.7          189.0      1001.5           0        5656
+TGA -> EMA             68       1198.4          434.0      1397.0           1        4902
+EMA -> PMDA            62        571.3          179.0       951.0           0        5656
 PMDA -> EMA            51        608.9          183.0       827.2           6        3195
 PMDA -> TGA            51        774.0          350.0       952.1           0        3773
 TGA -> PMDA            47       1009.1          711.0       903.9          10        3165
@@ -23,10 +23,10 @@ Time Lag Statistics in Months
 
                     Count  Mean (months)  Median (months)  Std (months)  Min (months)  Max (months)
 agency_pair                                                                                        
-EMA -> TGA            239           25.3             11.0          36.2           0.1         199.1
+EMA -> TGA            238           25.2             10.9          36.3           0.1         199.1
 EMA -> Swissmedic      77           17.6              9.9          21.9           0.7         115.0
-TGA -> EMA             67           39.7             14.2          46.2           0.0         161.0
-EMA -> PMDA            63           20.2              6.2          32.9           0.0         185.8
+TGA -> EMA             68           39.4             14.3          45.9           0.0         161.0
+EMA -> PMDA            62           18.8              5.9          31.2           0.0         185.8
 PMDA -> EMA            51           20.0              6.0          27.2           0.2         105.0
 PMDA -> TGA            51           25.4             11.5          31.3           0.0         123.9
 TGA -> PMDA            47           33.2             23.4          29.7           0.3         104.0

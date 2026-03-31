@@ -1,0 +1,78 @@
+================================================================================
+Most common trajectories (minimum 2 agencies)
+Total drugs meeting threshold: 485
+Unique trajectories: 35
+Top 20 trajectories:
+   1. [152] EMA -> TGA
+   2. [ 47] TGA -> EMA
+   3. [ 36] EMA -> Swissmedic
+   4. [ 31] EMA -> PMDA -> TGA
+   5. [ 30] EMA -> TGA -> PMDA
+   6. [ 25] EMA -> TGA -> Swissmedic
+   7. [ 24] EMA -> Swissmedic -> TGA
+   8. [ 18] PMDA -> EMA -> TGA
+   9. [ 18] EMA -> PMDA
+  10. [ 14] PMDA -> EMA
+  11. [ 13] PMDA -> TGA
+  12. [  9] TGA -> PMDA
+  13. [  9] TGA -> EMA -> PMDA
+  14. [  6] PMDA -> EMA -> TGA -> Swissmedic
+  15. [  6] PMDA -> TGA -> EMA
+  16. [  5] PMDA -> EMA -> Swissmedic -> TGA
+  17. [  5] TGA -> Swissmedic -> EMA
+  18. [  5] Swissmedic -> EMA -> TGA
+  19. [  5] Swissmedic -> TGA
+  20. [  4] TGA -> EMA -> Swissmedic
+Saved CSV: ./../analysis/1995_pars/approved/overlap/Non_proprietary_name/approval_trajectories_min2_agencies_top20.csv
+
+================================================================================
+Most common trajectories (minimum 3 agencies)
+Total drugs meeting threshold: 187
+Unique trajectories: 25
+Top 20 trajectories:
+   1. [ 31] EMA -> PMDA -> TGA
+   2. [ 30] EMA -> TGA -> PMDA
+   3. [ 25] EMA -> TGA -> Swissmedic
+   4. [ 24] EMA -> Swissmedic -> TGA
+   5. [ 18] PMDA -> EMA -> TGA
+   6. [  9] TGA -> EMA -> PMDA
+   7. [  6] PMDA -> EMA -> TGA -> Swissmedic
+   8. [  6] PMDA -> TGA -> EMA
+   9. [  5] PMDA -> EMA -> Swissmedic -> TGA
+  10. [  5] TGA -> Swissmedic -> EMA
+  11. [  5] Swissmedic -> EMA -> TGA
+  12. [  4] TGA -> EMA -> Swissmedic
+  13. [  3] TGA -> PMDA -> EMA
+  14. [  3] PMDA -> EMA -> Swissmedic
+  15. [  2] EMA -> PMDA -> Swissmedic
+  16. [  2] TGA -> PMDA -> EMA -> Swissmedic
+  17. [  1] PMDA -> Swissmedic -> TGA -> EMA
+  18. [  1] EMA -> TGA -> Swissmedic -> PMDA
+  19. [  1] TGA -> PMDA -> Swissmedic -> EMA
+  20. [  1] PMDA -> TGA -> EMA -> Swissmedic
+Saved CSV: ./../analysis/1995_pars/approved/overlap/Non_proprietary_name/approval_trajectories_min3_agencies_top20.csv
+
+================================================================================
+Most common trajectories (minimum 4 agencies)
+Total drugs meeting threshold: 20
+Unique trajectories: 10
+Top 20 trajectories:
+   1. [  6] PMDA -> EMA -> TGA -> Swissmedic
+   2. [  5] PMDA -> EMA -> Swissmedic -> TGA
+   3. [  2] TGA -> PMDA -> EMA -> Swissmedic
+   4. [  1] PMDA -> Swissmedic -> TGA -> EMA
+   5. [  1] EMA -> TGA -> Swissmedic -> PMDA
+   6. [  1] TGA -> PMDA -> Swissmedic -> EMA
+   7. [  1] PMDA -> TGA -> EMA -> Swissmedic
+   8. [  1] TGA -> Swissmedic -> EMA -> PMDA
+   9. [  1] Swissmedic -> EMA -> TGA -> PMDA
+  10. [  1] EMA -> Swissmedic -> TGA -> PMDA
+Saved CSV: ./../analysis/1995_pars/approved/overlap/Non_proprietary_name/approval_trajectories_min4_agencies_top20.csv
+
+================================================================================
+Most common trajectories (minimum 5 agencies)
+Total drugs meeting threshold: 0
+Unique trajectories: 0
+Top 20 trajectories:
+  No trajectories available for this threshold.
+Saved CSV: ./../analysis/1995_pars/approved/overlap/Non_proprietary_name/approval_trajectories_min5_agencies_top20.csv
