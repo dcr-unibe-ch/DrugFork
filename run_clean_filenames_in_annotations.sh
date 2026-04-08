@@ -1,6 +1,9 @@
 #!/bin/bash
-set -euo pipefail
 
-SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 
-bash "$SCRIPT_DIR/scripts/ad_hoc/run_clean_filenames_in_annotations.sh" "$@"
+CSV_PATH="data/annotations/Drug_Approval_Annotations_all_datasets-Sheet1.csv"
+OUTPUT_CSV="data/annotations/Drug_Approval_Annotations_all_datasets-Sheet1_cleaned.csv"
+
+python src/preprocessing/clean_filenames_in_annotations.py\
+    --csv_path "$CSV_PATH" \
+    --output_csv "$OUTPUT_CSV"

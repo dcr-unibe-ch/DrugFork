@@ -1,6 +1,14 @@
 #!/bin/bash
-set -euo pipefail
 
-SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+# ==========================================================
+# TODO change the below arguments as needed
+NUM_SAMPLES=1000
+# ==========================================================
 
-bash "$SCRIPT_DIR/scripts/ad_hoc/run_randomize_fda.sh" "$@"
+
+python src/preprocessing/randomize_fda.py\
+    --dataset "FDA" \
+    --file_path "./data/FDA/Products.csv" \
+    --num_samples "$NUM_SAMPLES" \
+    --save_dir "./data/randomized_data" \
+    --seed "42"

@@ -1,6 +1,14 @@
 #!/bin/bash
 set -euo pipefail
 
-SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+DIR_PATHS=(
+    "data/EMA/downloads"
+    # "data/Swissmedic/downloads"
+    # "data/PMDA/downloads"
+    "data/TGA/downloads"
+)
 
-bash "$SCRIPT_DIR/scripts/ad_hoc/run_clean_filenames.sh" "$@"
+for DIR_PATH in "${DIR_PATHS[@]}"; do
+    python src/preprocessing/clean_filenames.py\
+        --dir_path "$DIR_PATH"
+done

@@ -9,8 +9,7 @@ DrugFork is a research codebase for extracting, standardizing, and analyzing dru
 - `notebooks/`: analysis and paper-support notebooks
 - `evaluation/`: evaluation sheets, processed assessments, metrics, and plots
 - `output/`: model outputs and derived exports
-- `scripts/pipelines/`: main pipeline entrypoints
-- `scripts/ad_hoc/`: utility scripts for one-off tasks
+- `run_*.sh` (repo root): pipeline and utility scripts
 - `docs/`: agency-specific and metadata documentation
 
 ## Quick Start
@@ -37,8 +36,8 @@ Run the main evaluation workflow:
 
 ## Notes
 
-- Root `run_*.sh` scripts are compatibility wrappers.
-- Canonical script locations are under `scripts/`.
+- Scripts live directly in the repository root.
+- Main entrypoint: `./run_full_evaluation.sh`.
 
 ## License
 

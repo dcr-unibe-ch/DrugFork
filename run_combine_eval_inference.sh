@@ -1,6 +1,18 @@
 #!/bin/bash
-set -euo pipefail
 
-SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+# =================================================
+# TODO
+DATASET="EMA" # EMA, JAPAN, AUSTRALIA, SWISSMEDIC
+EVAL="evaluation/output/20250717_EMA_gpt-4o.json"
+INFERENCE="output/20250722_EMA_gpt-4o.json"
+# ==================================================
 
-bash "$SCRIPT_DIR/scripts/ad_hoc/run_combine_eval_inference.sh" "$@"
+
+# Run the Python script with the specified arguments
+python src/evaluation/combine_eval_inference.py \
+    --input_file_1 "$EVAL" \
+    --input_file_2 "$INFERENCE" \
+    --output_file "inference/combined/$DATASET.json"
+
+# Print a message indicating where the results are saved
+echo "Combined evaluation results saved to inference/combined/$DATASET.json"
