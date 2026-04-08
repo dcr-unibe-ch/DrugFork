@@ -1,13 +1,6 @@
 #!/bin/bash
-# ==========================================================
-# TODO change the below arguments as needed
-DATASET="JAPAN" # EMA, SWISSMEDIC, JAPAN, AUSTRALIA"
-DATA_DIR="./inference/combined/with_extracted_data"
-INPUT_FILE="$DATA_DIR/$DATASET.json"
+set -euo pipefail
 
-# ==========================================================
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 
-
-python ./src/utils/json_to_csv.py\
-    --input_file "$INPUT_FILE" \
-    --output_file "$DATA_DIR/$DATASET.csv" \
+bash "$SCRIPT_DIR/scripts/ad_hoc/run_json_to_csv.sh" "$@"

@@ -1,16 +1,6 @@
 #!/bin/bash
+set -euo pipefail
 
-echo "Combining datasets into a single CSV file..."
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 
-INPUT_FILES=(
-    "evaluation/processed_files/20250717_TGA_gpt-4o_assessed.csv"
-    "evaluation/processed_files/20250717_Swissmedic_gpt-4o_assessed.csv"
-    "evaluation/processed_files/20250717_PMDA_gpt-4o_assessed.csv"
-    "evaluation/processed_files/20250717_EMA_gpt-4o_assessed.csv"
-)
-
-python ./src/utils/combine_datasets_csv.py \
-    --input_files "${INPUT_FILES[@]}" \
-    --output_file "evaluation/processed_files/combined_datasets_shuffled.csv"
-
-echo "Combined datasets saved to evaluation/processed_files/combined_datasets_shuffled.csv"
+bash "$SCRIPT_DIR/scripts/ad_hoc/run_combine_datasets_csv.sh" "$@"
