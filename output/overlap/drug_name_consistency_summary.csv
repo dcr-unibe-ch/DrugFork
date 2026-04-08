@@ -3151,7 +3151,7 @@ oestradiol valerate,1,['qlaira'],True
 ofatumumab,4,"['arzerra', 'arzerra; kesimpta', 'kesimpta']",False
 ofloxacin,2,"['floxin otic', 'ocuflox', 'ofloxacin']",False
 olanexidine gluconate,1,['olanedine'],True
-olanzapine,4,"['ag-olanzapine fc', 'apo-olanzapine', 'apo-olanzapine odt', 'auro-olanzapine odt', 'jamp olanzapine fc', 'jamp olanzapine odt', 'lybalvi', 'mint-olanzapine', 'mint-olanzapine odt', 'nra-olanzapine', 'nra-olanzapine odt', 'olanzapine', 'olanzapine apotex', 'olanzapine glenmark', 'olanzapine glenmark europe', 'olanzapine mylan', 'olanzapine odt', 'olazax', 'olazax disperzi', 'pms-olanzapine', 'pms-olanzapine odt', 'riva-olanzapine', 'sandoz olanzapine', 'sandoz olanzapine odt', 'teva-olanzapine', 'zypadhera', 'zyprexa', 'zyprexa zydis']",False
+olanzapine,3,"['ag-olanzapine fc', 'apo-olanzapine', 'apo-olanzapine odt', 'auro-olanzapine odt', 'jamp olanzapine fc', 'jamp olanzapine odt', 'lybalvi', 'mint-olanzapine', 'mint-olanzapine odt', 'nra-olanzapine', 'nra-olanzapine odt', 'olanzapine', 'olanzapine apotex', 'olanzapine glenmark', 'olanzapine glenmark europe', 'olanzapine mylan', 'olanzapine odt', 'olazax', 'olazax disperzi', 'pms-olanzapine', 'pms-olanzapine odt', 'riva-olanzapine', 'sandoz olanzapine', 'sandoz olanzapine odt', 'teva-olanzapine', 'zypadhera', 'zyprexa', 'zyprexa zydis']",False
 olanzapine (olanzapine tartrate),1,['zyprexa intramuscular'],True
 olanzapine pamoate,1,['zyprexa relprevv'],True
 olaparib,5,"['lynparza', 'olaparib']",True

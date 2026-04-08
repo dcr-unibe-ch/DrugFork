@@ -8493,34 +8493,34 @@ ofloxacin,floxin otic,1,2,False
 ofloxacin,ocuflox,1,2,False
 ofloxacin,ofloxacin,1,2,False
 olanexidine gluconate,olanedine,1,1,True
-olanzapine,ag-olanzapine fc,1,4,False
-olanzapine,apo-olanzapine,1,4,False
-olanzapine,apo-olanzapine odt,1,4,False
-olanzapine,auro-olanzapine odt,1,4,False
-olanzapine,jamp olanzapine fc,1,4,False
-olanzapine,jamp olanzapine odt,1,4,False
-olanzapine,lybalvi,1,4,False
-olanzapine,mint-olanzapine,1,4,False
-olanzapine,mint-olanzapine odt,1,4,False
-olanzapine,nra-olanzapine,1,4,False
-olanzapine,nra-olanzapine odt,1,4,False
-olanzapine,olanzapine,2,4,False
-olanzapine,olanzapine apotex,1,4,False
-olanzapine,olanzapine glenmark,1,4,False
-olanzapine,olanzapine glenmark europe,1,4,False
-olanzapine,olanzapine mylan,1,4,False
-olanzapine,olanzapine odt,1,4,False
-olanzapine,olazax,1,4,False
-olanzapine,olazax disperzi,1,4,False
-olanzapine,pms-olanzapine,1,4,False
-olanzapine,pms-olanzapine odt,1,4,False
-olanzapine,riva-olanzapine,1,4,False
-olanzapine,sandoz olanzapine,1,4,False
-olanzapine,sandoz olanzapine odt,1,4,False
-olanzapine,teva-olanzapine,1,4,False
-olanzapine,zypadhera,1,4,False
-olanzapine,zyprexa,3,4,False
-olanzapine,zyprexa zydis,2,4,False
+olanzapine,ag-olanzapine fc,1,3,False
+olanzapine,apo-olanzapine,1,3,False
+olanzapine,apo-olanzapine odt,1,3,False
+olanzapine,auro-olanzapine odt,1,3,False
+olanzapine,jamp olanzapine fc,1,3,False
+olanzapine,jamp olanzapine odt,1,3,False
+olanzapine,lybalvi,1,3,False
+olanzapine,mint-olanzapine,1,3,False
+olanzapine,mint-olanzapine odt,1,3,False
+olanzapine,nra-olanzapine,1,3,False
+olanzapine,nra-olanzapine odt,1,3,False
+olanzapine,olanzapine,2,3,False
+olanzapine,olanzapine apotex,1,3,False
+olanzapine,olanzapine glenmark,1,3,False
+olanzapine,olanzapine glenmark europe,1,3,False
+olanzapine,olanzapine mylan,1,3,False
+olanzapine,olanzapine odt,1,3,False
+olanzapine,olazax,1,3,False
+olanzapine,olazax disperzi,1,3,False
+olanzapine,pms-olanzapine,1,3,False
+olanzapine,pms-olanzapine odt,1,3,False
+olanzapine,riva-olanzapine,1,3,False
+olanzapine,sandoz olanzapine,1,3,False
+olanzapine,sandoz olanzapine odt,1,3,False
+olanzapine,teva-olanzapine,1,3,False
+olanzapine,zypadhera,1,3,False
+olanzapine,zyprexa,2,3,False
+olanzapine,zyprexa zydis,2,3,False
 olanzapine (olanzapine tartrate),zyprexa intramuscular,1,1,True
 olanzapine pamoate,zyprexa relprevv,1,1,True
 olaparib,lynparza,5,5,True
