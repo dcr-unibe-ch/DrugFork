@@ -1,4 +1,4 @@
-# DrugFork b
+# DrugFork
 
 DrugFork is a research codebase for extracting, standardizing, and analyzing drug approval information across multiple regulatory agencies.
 
