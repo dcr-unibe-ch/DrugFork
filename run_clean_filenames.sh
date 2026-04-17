@@ -1,3 +1,6 @@
+#!/bin/bash
+set -euo pipefail
+
 DIR_PATHS=(
     "data/EMA/downloads"
     # "data/Swissmedic/downloads"

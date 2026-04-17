@@ -3,8 +3,8 @@
 # =================================================
 # TODO
 DATASET="EMA" # EMA, JAPAN, AUSTRALIA, SWISSMEDIC
-EVAL="evaluation\output\20250717_EMA_gpt-4o.json"
-INFERENCE="output\20250722_EMA_gpt-4o.json"
+EVAL="evaluation/output/20250717_EMA_gpt-4o.json"
+INFERENCE="output/20250722_EMA_gpt-4o.json"
 # ==================================================
 
 

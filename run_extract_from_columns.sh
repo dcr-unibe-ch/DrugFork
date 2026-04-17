@@ -38,7 +38,7 @@ for DATASET in "${DATASETS[@]}"; do
     # SAVE_DIR="data/FDA/with_extracted_data"
     # SAVE_DIR="./data/HealthCanada/with_extracted_data"
     SAVE_DIR="inference/combined"
-    mkdir -p "$SAVE_DIR"}
+    mkdir -p "$SAVE_DIR"
 
     python ./src/utils/extract_from_columns.py\
         --input_file "$INPUT_FILE" \
@@ -54,7 +54,7 @@ for DATASET in "${DATASETS[@]}"; do
     echo "Extraction completed. Output saved to $SAVE_DIR/${DATASET}_manually_cleaned.json"
     echo "Converting JSON to CSV..."
 
-    python ./src/json_to_csv.py\
+    python ./src/utils/json_to_csv.py\
          --input_file "$SAVE_DIR/${DATASET}_manually_cleaned.json" \
          --output_file "$SAVE_DIR/${DATASET}_manually_cleaned.csv" \
 
