@@ -68,5 +68,4 @@ Summary of the critique points from Reviewer 1 and Reviewer 2, along with the pl
 - Remaining organizational tasks
 
 ### Still open / unresolved
-- R2.1 - how to handle the fundamental PMDA incompleteness beyond the limitation statement is not yet finally decided
 - R2.6 - how to address the flawed counting and duration analyses (inconsistent deduplication) is still open
