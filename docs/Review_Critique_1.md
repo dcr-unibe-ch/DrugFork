@@ -57,7 +57,7 @@ Summary of the critique points from Reviewer 1 and Reviewer 2, along with the pl
   - Limitation on inconsistent abridged/non-abridged definition (R2.7)
 
 ### Hanna
-- Sensitivity analysis with deduplicated dataset (by INN) (R1.1)
+- Sensitivity analysis with deduplicated dataset (by Non-proprietary name) (R1.1)
 - Qualitative error analysis of the model for disease classification - over-/underrepresentation (R1.4)
 - Fully remove PMDA from text, code, and figures (R2.1)
 - Add FDA/CBER data via the Purple Book (R2.2)
