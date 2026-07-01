@@ -8,7 +8,7 @@ Summary of the critique points from Reviewer 1 and Reviewer 2, along with the pl
 
 | # | Critique point | Core statement | Planned action | Responsible |
 |---|---|---|---|---|
-| R1.1 | Unit of analysis / overcounting | Each regulatory decision is counted independently, including repeat approvals for the same product, potentially overestimating therapeutic activity | Sensitivity analysis with a deduplicated dataset (by INN); clarify unit of analysis in Methods/Results | Hanna (analysis), Ben (text) |
+| R1.1 | Unit of analysis / overcounting | Each regulatory decision is counted independently, including repeat approvals for the same product, potentially overestimating therapeutic activity | Sensitivity analysis with a deduplicated dataset (by non-proprietary name); clarify unit of analysis in Methods/Results | Hanna (analysis), Ben (text) |
 | R1.2 | Residual differences between datasets | PAR vs. non-PAR datasets capture different regulatory activities, so differences may be an artifact of database structure | Remove aggregated number, clearly state the two analyses are not comparable (see R2.4) | Ben |
 | R1.3 | Disease-burden interpretation oversimplified | Approval activity depends on many factors, not just disease burden | Add to limitations, account for time lag (see R1.5/R2.5) | Ben |
 | R1.4 | Disease-classification uncertainty | Disease-classification accuracy is lower and more variable than overall extraction accuracy, affecting ICD-10 mapping | Add to limitations; qualitative error analysis (over-/underrepresentation); short explanation of lower F1 scores in Results | Ben (limitations/results), Hanna (error analysis) |
