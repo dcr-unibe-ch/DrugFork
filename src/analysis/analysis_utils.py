@@ -184,7 +184,7 @@ def date_to_int(df, col_name):
 
     numeric_years = pd.to_numeric(df[col_name], errors='coerce')
     numeric_years = numeric_years.where(numeric_years.between(1800, 2100))
-    dt_years = pd.to_datetime(df[col_name], errors='coerce', infer_datetime_format=True).dt.year
+    dt_years = pd.to_datetime(df[col_name], errors='coerce').dt.year
     df[col_name] = numeric_years.fillna(dt_years).astype('Int64')
     df = df.dropna(subset=[col_name])
     df[col_name] = df[col_name].astype(int)

@@ -550,7 +550,7 @@
         "Indication_requested": "Visualization of malignant tissue during surgical resection of malignant glioma",
         "Indication_requested_extracted": "<Glioma>",
         "Marketing_authorisation_holder": "Nobelpharma Co., Ltd.; SBI Pharmaceuticals Co., Ltd.",
-        "Marketing_authorisation_holder_extracted": "Nobel  \r\nSBI",
+        "Marketing_authorisation_holder_extracted": "Nobel  \nSBI",
         "Marketing_authorisation_number": "000153482",
         "Non_proprietary_name": "Aminolevulinic Acid Hydrochloride",
         "Nonclinical_abridged": "yes",

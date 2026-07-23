@@ -12,17 +12,6 @@ EMA:
 130   bimervax       2023-03-21    2023-03-30                   9.0
 231  comirnaty       2020-11-30    2020-12-21                  21.0
 
-PMDA:
-  Total with both dates: 403
-  Review < 30 days: 9 (2.2%)
-  Negative duration: 0 (0.0%)
-  Min duration: 3.0 days
-  First 3 examples of < 30 days:
-      Drug_name Application_date Decision_date  Review_duration_days
-1785    veklury       2020-05-04    2020-05-07                   3.0
-1796  ronapreve       2021-10-11    2021-11-04                  24.0
-1797  ronapreve       2021-06-29    2021-07-19                  20.0
-
 Swissmedic:
   Total with both dates: 233
   Review < 30 days: 0 (0.0%)
@@ -35,13 +24,13 @@ TGA:
   Min duration: 4.0 days
   All cases < 30 days:
       Drug_name Application_date Decision_date  Review_duration_days
-2244  comirnaty       2021-10-15    2021-10-26                  11.0
-2390   spikevax       2021-11-08    2021-12-07                  29.0
-2863    veklury       2020-07-06    2020-07-10                   4.0
+1837  comirnaty       2021-10-15    2021-10-26                  11.0
+1983   spikevax       2021-11-08    2021-12-07                  29.0
+2456    veklury       2020-07-06    2020-07-10                   4.0
 
 Overall:
-  Total with both dates: 2527
-  Review < 30 days: 23 (0.9%)
+  Total with both dates: 2124
+  Review < 30 days: 14 (0.7%)
   Negative duration: 0 (0.0%)
   Min duration: 2.0 days
   First 3 examples of < 30 days:
