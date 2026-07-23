@@ -5623,7 +5623,6 @@ human fibrinogen/human thrombin,tachosil,1,1,True
 human hepatitis b immunoglobulin,immunogam,1,1,True
 human hepatitis b immunoglobulin,zutectra,1,1,True
 human heterologous liver cells,heparesc,1,1,True
-human igg1 monoclonal antibody specific for human interleukin-1 alpha,nan,1,1,True
 human normal immunoglobulin,cutaquig,1,2,False
 human normal immunoglobulin,deqsiga,1,2,False
 human normal immunoglobulin,flebogammadif,1,2,False
@@ -7850,10 +7849,6 @@ naltrexone hydrochloride,naltrexone hydrochloride; bupropion hydrochloride,1,2,F
 naltrexone hydrochloride,revia,1,2,False
 naltrexone hydrochloride,troxyca er,1,2,False
 naltrexone/bupropion,mysimba,1,1,True
-nan,nan,1,2,False
-nan,tritanrix hepb,1,2,False
-nan,twinrix adult,1,2,False
-nan,twinrix paediatric,1,2,False
 nandrolone decanoate,nandrolone decanoate,1,1,True
 naphazoline hydrochloride,clear eyes,1,2,False
 naphazoline hydrochloride,naphazoline hydrochloride and pheniramine maleate,1,2,False

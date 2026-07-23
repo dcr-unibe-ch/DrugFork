@@ -2066,7 +2066,6 @@ human fibrinogen / human thrombin,2,"['evarrest', 'evicel', 'raplixa', 'veraseal
 human fibrinogen/human thrombin,1,['tachosil'],True
 human hepatitis b immunoglobulin,1,"['immunogam', 'zutectra']",True
 human heterologous liver cells,1,['heparesc'],True
-human igg1 monoclonal antibody specific for human interleukin-1 alpha,1,['nan'],True
 human normal immunoglobulin,2,"['cutaquig', 'deqsiga', 'flebogammadif', 'hizentra', 'hyqvia', 'privigen', 'xembify']",False
 human papilloma virus (hpv) quadrivalent l1 vlp vaccine,1,['gardasil'],True
 human papillomavirus 9-valent vaccine,1,['gardasil 9'],True
@@ -2861,7 +2860,6 @@ naloxone hydrochloride; oxycodone hydrochloride,1,['targin'],True
 naltrexone,1,"['naltrexone', 'vivitrol']",True
 naltrexone hydrochloride,2,"['apo-naltrexone', 'naltrexone hydrochloride', 'naltrexone hydrochloride tablets usp', 'naltrexone hydrochloride; bupropion hydrochloride', 'revia', 'troxyca er']",False
 naltrexone/bupropion,1,['mysimba'],True
-nan,2,"['nan', 'tritanrix hepb', 'twinrix adult', 'twinrix paediatric']",False
 nandrolone decanoate,1,['nandrolone decanoate'],True
 naphazoline hydrochloride,2,"['clear eyes', 'naphazoline hydrochloride and pheniramine maleate', 'visine']",False
 naphazoline hydrochloride; antazoline phosphate,1,['refresh eye allergy relief'],True
