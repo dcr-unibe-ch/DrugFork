@@ -11,10 +11,10 @@ abacavir (abacavir sulfate),1,"['apo-abacavir', 'mint-abacavir', 'ziagen']",True
 abacavir (abacavir sulfate); lamivudine,1,"['jamp abacavir / lamivudine', 'kivexa', 'mylan-abacavir/lamivudine', 'pms-abacavir-lamivudine', 'teva-abacavir/lamivudine']",True
 abacavir sulfate,1,"['abacavir sulfate', 'abacavir sulfate and lamivudine', 'abacavir sulfate, lamivudine and zidovudine', 'abacavir sulfate; lamivudine', 'epzicom', 'triumeq', 'triumeq pd', 'trizivir', 'ziagen']",True
 abacavir || dolutegravir || lamivudine,1,['abacavir || dolutegravir || lamivudine'],True
-abaloparatide,5,"['eladynos', 'ostabalo', 'tymlos']",False
+abaloparatide,4,"['eladynos', 'tymlos']",False
 abametapir,1,['xeglyze'],True
 abarelix,1,['plenaxis'],True
-abatacept,4,['orencia'],True
+abatacept,3,['orencia'],True
 abemaciclib,4,"['verzenio', 'verzenios']",False
 abicipar pegol,1,['rayoqta'],True
 abiraterone,1,['zytiga'],True
@@ -22,7 +22,7 @@ abiraterone acetate,4,"['abiraterone', 'abiraterone accord', 'abiraterone acetat
 abiraterone acetate and methylprednisolone,1,['yonsa mpred'],True
 abiraterone acetate; niraparib (niraparib tosylate),1,['akeega'],True
 abobotulinumtoxina,2,"['dysport', 'dysport aesthetic', 'dysport therapeutic']",False
-abrocitinib,6,['cibinqo'],True
+abrocitinib,5,['cibinqo'],True
 acalabrutinib,5,"['acalabrutinib', 'calquence']",True
 acalabrutinib (acalabrutinib maleate),1,['calquence'],True
 acalabrutinib maleate,1,['calquence'],True
@@ -30,7 +30,6 @@ acamprosate calcium,2,"['acamprosate calcium', 'campral']",True
 acarbose,2,"['acarbose', 'mar-acarbose', 'mint-acarbose', 'precose']",False
 acebutolol (acebutolol hydrochloride),1,"['apo-acebutolol', 'teva-acebutolol']",True
 acebutolol hydrochloride,1,['acebutolol hydrochloride'],True
-aceneuramic acid,1,['acenobel'],True
 acetaminophen,2,"['acet 120', 'acet 160', 'acet 325', 'acet 650', 'acetaminophen', 'acetaminophen 160 mg chewable tablets', 'acetaminophen 325mg tablets regular strength', 'acetaminophen 500 mg tablets extra strength easy to swallow', 'acetaminophen 500mg tablets extra strength', 'acetaminophen and codeine phosphate', 'acetaminophen and ibuprofen', 'acetaminophen and pentazocine hydrochloride', 'acetaminophen arthritis pain', 'acetaminophen caplets 325 mg', 'acetaminophen caplets 500 mg', 'acetaminophen extra strength liquid gels', 'acetaminophen injection', 'acetaminophen tablets usp 325 mg', 'acetaminophen tablets usp 500 mg', 'acetaminophen, aspirin and caffeine', 'acetaminophen, caffeine and dihydrocodeine bitartrate', 'acetaminophen, caffeine, and dihydrocodeine bitartrate', 'acetaminophen; oxycodone hydrochloride', 'acétaminophène caplet 325', 'acétaminophène caplet 500', 'advil dual action with acetaminophen', 'allzital; butalbital and acetaminophen', 'anexsia', 'anexsia 5/325', 'anexsia 7.5/325', 'apadaz', 'apo-acetaminophen caplets', 'apo-acetaminophen caplets extra strength', 'arthritis pain relief', 'butalbital and acetaminophen', 'butalbital, acetaminophen and caffeine', 'butalbital, acetaminophen, caffeine and codeine phosphate', ""children's acetaminophen suspension"", ""children's tylenol chewables"", ""children's tylenol easy dissolve"", ""children's tylenol fever & sore throat pain"", 'codrix', 'combogesic', 'combogesic iv', 'darvocet a500', 'esgic-plus', 'excedrin (migraine relief)', 'extra strength acetaminophen', 'extra strength easy tabs 500 mg', 'hydrocodone bitartrate and acetaminophen', 'hydrocodone bitartrate and acetaminophen; norco', ""infants' tylenol fever & sore throat pain"", 'jamp acetaminophen 325', 'jamp acetaminophen 500', ""junior strength children's acetaminophen tablets"", 'lortab', 'muscle aches and body pain relief', 'norco', 'ofirmev', 'oxycodone and acetaminophen', 'oxycodone hydrochloride and acetaminophen', 'percocet', 'phrenilin with caffeine and codeine', 'propoxyphene hydrochloride and acetaminophen', 'propoxyphene napsylate and acetaminophen', 'regular strength acetaminophen', 'roxilox', 'taminol caplets', 'tavist allergy/sinus/headache', 'tramadol hydrochloride and acetaminophen', 'trezix', 'tylenol arthritis pain 8h', 'tylenol muscle & body', 'ultracet', 'vicodin hp', 'xartemis xr', 'zydone', 'zyfrel']",False
 acetaminophen; butalbital,1,"['butalbital, acetaminophen, caffeine and codeine phosphate; butalbital; acetaminophen; caffeine; codeine']",True
 acetaminophen; caffeine,1,['extra strength tylenol daytime relief'],True
@@ -105,7 +104,6 @@ aclidinium bromide; formoterol fumarate dihydrate,1,['duaklir genuair'],True
 acoltremon,1,['tryptyr'],True
 acoramidis,1,['beyonttra'],True
 acoramidis hydrochloride,1,['attruby'],True
-acotiamide,1,['acofide'],True
 activated recombinant dna human coagulation factor vii (rfviia),1,['novoseven'],True
 acyclovir,2,"['acyclovir', 'apo-acyclovir', 'apo-acyclovir ointment', 'avaclyr', 'mint-acyclovir', 'mylan-acyclovir', 'sitavig', 'taro-acyclovir', 'teva-acyclovir', 'xerese', 'zovirax']",False
 acyclovir (acyclovir sodium),1,['acyclovir sodium injection'],True
@@ -113,7 +111,7 @@ acyclovir sodium,1,"['acyclovir', 'acyclovir in sodium chloride 0.9% preservativ
 acyclovir; hydrocortisone,1,['xerese'],True
 ad26.cov2.s,1,['covid-19 vaccine janssen'],True
 adagrasib,2,['krazati'],True
-adalimumab,5,"['abrilada', 'amgevita', 'amsparity', 'ardalicip/ciptunec', 'cyltezo', 'hadlima', 'hadlima pushtouch', 'halimatoz', 'hefiya', 'hukyndra', 'hulio', 'humira', 'hyrimoz', 'idacio', 'imraldi', 'kromeya', 'libmyris', 'simlandi', 'solymbic', 'yuflyma']",False
+adalimumab,4,"['abrilada', 'amgevita', 'amsparity', 'ardalicip/ciptunec', 'cyltezo', 'hadlima', 'hadlima pushtouch', 'halimatoz', 'hefiya', 'hukyndra', 'hulio', 'humira', 'hyrimoz', 'idacio', 'imraldi', 'kromeya', 'libmyris', 'simlandi', 'solymbic', 'yuflyma']",False
 adalimumab-aacf,1,['idacio'],True
 adalimumab-aaty,1,['yuflyma'],True
 adalimumab-adaz,1,['hyrimoz'],True
@@ -131,19 +129,13 @@ adenosine,2,"['adenoscan', 'adenosine', 'adenosine injection']",False
 adenovirus serotype 26 encoding the sars-cov-2 spike glycoprotein,1,['covid-19 vaccine janssen'],True
 adenovirus-mediated herpes simplex virus-thymidine kinase gene,1,['cerepro'],True
 ado-trastuzumab emtansine,1,['kadcyla'],True
-adsorbed cell culture-derived influenza vaccine,1,['adsorbed cell culture-derived influenza vaccine h5n1'],True
-adsorbed diphtheria-purified pertussis-tetanus-inactivated polio (sabin strain) combined vaccine,1,"['quattrovac', 'tetrabik']",True
-adsorbed diphtheria-purified pertussis-tetanus-inactivated polio (salk vaccine) combined vaccine,1,['squarekids'],True
-adsorbed influenza vaccine,1,['adsorbed influenza vaccine'],True
-adsorbed influenza vaccine (h5n1),1,['adsorbed influenza vaccine (h5n1) “hokken”'],True
 aducanumab,1,['aduhelm'],True
 aducanumab-avwa,1,['aduhelm'],True
 afamelanotide,3,['scenesse'],True
 afatinib,3,"['afatinib', 'giotrif']",False
 afatinib (afatinib dimaleate),1,"['giotrif', 'mar-afatinib', 'sandoz afatinib']",True
 afatinib dimaleate,1,['gilotrif'],True
-afatinib maleate,1,['giotrif'],True
-aflibercept,5,"['afqlir', 'ahzantive', 'baiama', 'eydenzelt', 'eylea', 'eylea hd', 'opuviz', 'pavblu', 'skojoy', 'yesafili', 'zaltrap', 'zaltrap, aflitiv, lidaveg']",True
+aflibercept,4,"['afqlir', 'ahzantive', 'baiama', 'eydenzelt', 'eylea', 'eylea hd', 'opuviz', 'pavblu', 'skojoy', 'yesafili', 'zaltrap', 'zaltrap, aflitiv, lidaveg']",True
 aflibercept-abzv,1,['enzeevu'],True
 aflibercept-ayyh,1,['pavblu'],True
 aflibercept-jbvf,1,['yesafili'],True
@@ -163,14 +155,14 @@ albumin (human),2,"['albumex 20/albumex 5/albumex 4', 'albumin (human) 25% solut
 albumin human,1,['optison'],True
 albuterol,1,['albuterol'],True
 albuterol sulfate,1,"['accuneb', 'airsupra', 'albuterol sulfate', 'albuterol sulfate and ipratropium bromide', 'albuterol sulfate and ipratropium bromide; albuterol sulfate; ipratropium bromide', 'combivent', 'combivent respimat', 'duoneb', 'proair digihaler; proair respiclick', 'proair hfa', 'proventil-hfa', 'ventolin hfa', 'vospire er']",True
-albutrepenonacog alfa,3,['idelvion'],True
+albutrepenonacog alfa,2,['idelvion'],True
 alcaftadine,1,"['alcaftadine', 'lastacaft']",True
 alclometasone dipropionate,1,['alclometasone dipropionate'],True
 alcohol,1,"['ablysinol', 'avagard']",True
 aldesleukin,1,['proleukin'],True
 alectinib,2,['alecensa'],True
 alectinib (alectinib hydrochloride),1,['alecensaro'],True
-alectinib hydrochloride,3,['alecensa'],True
+alectinib hydrochloride,2,['alecensa'],True
 alemtuzumab,4,"['campath; lemtrada', 'lemtrada', 'lemtrada, remniq', 'mabcampath']",False
 alendronate sodium,1,"['alendronate sodium', 'binosto', 'fosamax', 'fosamax plus d']",True
 alendronic acid,1,"['alendraccord, alendrocor, pharmacor alendronate']",True
@@ -182,10 +174,10 @@ alendronic acid / colecalciferol,1,"['alendronate sodium and colecalciferol, msd
 alfacalcidol,1,"['one-alpha', 'sandoz alfacalcidol']",True
 alfentanil hydrochloride,1,['alfentanil'],True
 alfuzosin hydrochloride,2,"['alfuzosin', 'alfuzosin hydrochloride', 'apo-alfuzosin', 'auro-alfuzosin', 'sandoz alfuzosin', 'uroxatral', 'xatral']",False
-alglucosidase alfa,3,"['lumizyme', 'myozyme']",True
+alglucosidase alfa,2,"['lumizyme', 'myozyme']",True
 alipogene tiparvovec,1,['glybera'],True
-alirocumab,5,['praluent'],True
-aliskiren,2,"['enviage', 'rasilez', 'sprimeo', 'tekturna']",True
+alirocumab,4,['praluent'],True
+aliskiren,1,"['enviage', 'rasilez', 'sprimeo', 'tekturna']",True
 aliskiren / amlodipine,1,['rasilamlo'],True
 aliskiren / amlodipine / hydrochlorothiazide,1,['rasitrio'],True
 aliskiren / hydrochlorothiazide,1,['sprimeo hct'],True
@@ -228,9 +220,8 @@ aluminum hydroxide; dimethicone; magnesium hydroxide,1,['almagel plus sus'],True
 alvimopan,1,"['alvimopan', 'entereg']",True
 amantadine hydrochloride,2,"['amantadine hydrochloride', 'gocovri', 'odan-amantadine syrup', 'osmolex er']",False
 amantadine; amantadine hydrochloride,1,['amantadine; amantadine hydrochloride'],True
-ambrisentan,5,"['ambrisentan', 'ambrisentan mylan', 'apo-ambrisentan', 'jamp ambrisentan', 'letairis', 'sandoz ambrisentan tablets', 'volibris']",False
+ambrisentan,4,"['ambrisentan', 'ambrisentan mylan', 'apo-ambrisentan', 'jamp ambrisentan', 'letairis', 'sandoz ambrisentan tablets', 'volibris']",False
 amcinonide,2,"['amcinonide', 'taro-amcinonide']",False
-amenamevir,1,['amenalief'],True
 american house dust mite / european house dust mite,1,['actair initiation treatment and actair continuation treatment'],True
 american house dust mite extract; european house dust mite extract,1,['acarizax'],True
 amifampridine,4,"['amifampridine serb', 'ruzurgi', 'zenas']",False
@@ -245,7 +236,7 @@ amino acids,1,"['amino acids', 'aminosyn-hf 8%', 'clinimix 2.75/10 sulfite free 
 "amino acids, lipids and glucose",1,"['periolimel n4-600e, olimel n5-860e, olimel n7-960, olimel n7-960e, olimel n9-840, olimel n9-840e']",True
 aminocaproic acid,1,"['aminocaproic', 'aminocaproic acid']",True
 aminolevulinic acid hcl,1,['gliolan'],True
-aminolevulinic acid hydrochloride,3,"['alabel', 'ameluz', 'gleolan', 'levulan', 'levulan kerastick']",False
+aminolevulinic acid hydrochloride,2,"['ameluz', 'gleolan', 'levulan', 'levulan kerastick']",True
 amiodarone hydrochloride,2,"['amiodarone', 'amiodarone hydrochloride', 'amiodarone hydrochloride for injection', 'amiodarone hydrochloride for injection, usp', 'apo-amiodarone tablets', 'cordarone', 'dom-amiodarone', 'jamp amiodarone', 'nexterone', 'pacerone', 'pms-amiodarone', 'pro-amiodarone - 200', 'riva-amiodarone', 'sandoz amiodarone', 'teva-amiodarone']",False
 amisulpride,1,['barhemsys'],True
 amitriptyline hydrochloride,2,"['amitriptyline hydrochloride', 'apo-amitriptyline', 'chlordiazepoxide and amitriptyline hydrochloride', 'jamp-amitriptyline', 'mar-amitriptyline', 'pms-amitriptyline']",False
@@ -285,14 +276,12 @@ amylase; protease; lipase,1,['creon minimicrospheres 10'],True
 amylmetacresol; dichlorobenzyl alcohol,1,"['antibacterial throat lozenges', ""cepacol children's fruity strawberry""]",True
 amylmetacresol; menthol; dichlorobenzyl alcohol,1,['cepacol sensations sore throat & cough'],True
 anacaulase-bcdb,1,['nexobrid'],True
-anagliptin,1,['suiny'],True
 anagrelide,1,['anagrelide mylan'],True
 anagrelide (anagrelide hydrochloride monohydrate),1,['pms-anagrelide'],True
 anagrelide hydrochloride,2,"['agrylin', 'anagrelide hydrochloride', 'thromboreductin']",False
 anagrelide hydrochloride monohydrate,1,['xagrid'],True
 anakinra,3,['kineret'],True
 anamorelin,1,['adlumiz'],True
-anamorelin hydrochloride,1,['adlumiz'],True
 anastrozole,2,"['ach-anastrozole', 'ag-anastrozole', 'anastrozole', 'apo-anastrozole', 'arimidex', 'bio-anastrozole', 'jamp-anastrozole', 'mar-anastrozole', 'mint-anastrozole', 'nat-anastrozole', 'pms-anastrozole', 'riva-anastrozole', 'sandoz anastrozole', 'taro-anastrozole', 'teva-anastrozole']",True
 andexanet alfa,4,"['andexxa', 'ondexxya']",False
 andusomeran,1,['spikevax xbb.1.5'],True
@@ -316,15 +305,13 @@ antihemophilic factor (recombinant) porcine sequence,1,['obizur'],True
 "antihemophilic factor viii (recombinant, b-domain truncated), pegylated",1,['esperoct'],True
 antimony trisulfide,1,['antimony sulfide colloid kit'],True
 antithrombin alfa,1,['atryn'],True
-antithrombin gamma,1,['acoalan'],True
 antithrombin iii (human),1,['antithrombin iii nf'],True
-apadamtase alfa,1,['adzynma'],True
-apalutamide,5,"['apalutamide', 'erleada', 'erlyand / janssen apalutamide']",False
-apixaban,5,"['ach-apixaban', 'ag-apixaban', 'apixaban', 'apixaban accord', 'apo-apixaban', 'auro-apixaban', 'bio-apixaban', 'eliquis', 'eliquis; eliquis sprinkle', 'jamp apixaban', 'm-apixaban', 'mar-apixaban', 'mint-apixaban', 'nat-apixaban', 'nra-apixaban', 'nra-apixaban tablets', 'pro-apixaban', 'riva apixaban', 'sandoz apixaban sdz', 'taro-apixaban', 'teva-apixaban']",True
+apalutamide,4,"['apalutamide', 'erleada', 'erlyand / janssen apalutamide']",False
+apixaban,4,"['ach-apixaban', 'ag-apixaban', 'apixaban', 'apixaban accord', 'apo-apixaban', 'auro-apixaban', 'bio-apixaban', 'eliquis', 'eliquis; eliquis sprinkle', 'jamp apixaban', 'm-apixaban', 'mar-apixaban', 'mint-apixaban', 'nat-apixaban', 'nra-apixaban', 'nra-apixaban tablets', 'pro-apixaban', 'riva apixaban', 'sandoz apixaban sdz', 'taro-apixaban', 'teva-apixaban']",True
 apomorphine hydrochloride,1,"['apokyn', 'apomorphine hydrochloride', 'kynmobi', 'onapgo']",True
 apraclonidine (apraclonidine hydrochloride),1,['iopidine'],True
 apraclonidine hydrochloride,1,['apraclonidine hydrochloride'],True
-apremilast,5,"['apo-apremilast', 'apremilast', 'apremilast accord', 'auro-apremilast', 'gln-apremilast', 'jamp apremilast', 'mint-apremilast', 'otezla', 'pms-apremilast', 'sandoz apremilast']",True
+apremilast,4,"['apo-apremilast', 'apremilast', 'apremilast accord', 'auro-apremilast', 'gln-apremilast', 'jamp apremilast', 'mint-apremilast', 'otezla', 'pms-apremilast', 'sandoz apremilast']",True
 aprepitant,3,"['aponvie', 'aprepitant', 'cinvanti', 'emend', 'emend tri-pack']",True
 aprocitentan,2,"['jeraygo', 'tryvio']",False
 aprotinin (synthetic); calcium chloride; thrombin (human); sealer protein (human),1,['tisseel'],True
@@ -353,13 +340,12 @@ ascorbic acid; phenylephrine hydrochloride; pheniramine maleate; acetaminophen,1
 asenapine,3,"['saphris', 'secuado', 'sycrest']",False
 asenapine (asenapine maleate),1,['saphris'],True
 asenapine maleate,1,"['asenapine maleate', 'saphris']",True
-asfotase alfa,5,['strensiq'],True
+asfotase alfa,4,['strensiq'],True
 asparaginase,1,['spectrila'],True
 asparaginase erwinia chrysanthemi (recombinant)-rywn,1,['rylaze'],True
 aspirin,1,"['aggrenox', 'aspirin and dipyridamole', 'aspirin; omeprazole', 'bayer extra strength aspirin for migraine pain', 'butalbital, aspirin and caffeine', 'butalbital, aspirin, caffeine, and codeine phosphate', 'carisoprodol and aspirin', 'carisoprodol, aspirin and codeine phosphate', 'durlaza', 'hydrocodone bitartrate and aspirin', 'invagesic; invagesic forte', 'methocarbamol and aspirin', 'orphenadrine citrate, aspirin, and caffeine', 'orphengesic; orphengesic forte', 'oxycodone and aspirin', 'pravigard pac (copackaged)', 'vazalore', 'yosprala']",True
 aspirin + esomeprazole,1,['axanum'],True
-aspirin/lansoprazole,1,['takelda'],True
-asunaprevir,2,['sunvepra'],True
+asunaprevir,1,['sunvepra'],True
 ataluren,1,['translarna'],True
 atazanavir,1,"['atazanavir krka', 'atazanavir mylan']",True
 atazanavir (atazanavir sulfate),1,"['jamp atazanavir', 'mylan-atazanavir', 'reyataz', 'teva-atazanavir']",True
@@ -367,7 +353,7 @@ atazanavir / cobicistat,1,['evotaz'],True
 atazanavir sulfate,1,"['atazanavir sulfate', 'atazanavir sulfate and ritonavir', 'atazanavir sulfate; ritonavir', 'atazanavir sulfate;ritonavir;lamivudine;zidovudine', 'evotaz', 'reyataz']",True
 atenolol,2,"['ag-atenolol', 'atenolol', 'atenolol and chlorthalidone', 'jamp-atenolol', 'mar-atenolol', 'mint-atenol', 'pms-atenolol', 'riva-atenolol', 'taro-atenolol', 'tenormin', 'teva-atenolol']",True
 atenolol; chlorthalidone,1,['aa-atenidone'],True
-atezolizumab,5,"['tecentriq', 'tecentriq sc']",True
+atezolizumab,4,"['tecentriq', 'tecentriq sc']",True
 atezolizumab and hyaluronidase-tqjs,1,['tecentriq hybreza'],True
 atidarsagene autotemcel,1,['libmeldy'],True
 atogepant,5,"['aquipta', 'qulipta']",False
@@ -392,15 +378,15 @@ autologous cd34+ enriched cell fraction that contains cd34+ cells transduced wit
 "autologous glioma tumor cells, inactivated / autologous glioma tumor cell lysates, inactivated / allogeneic glioma tumor cells, inactivated / allogeneic glioma tumor cell lysates, inactivated",1,['sitoiganap'],True
 autologous peripheral blood mononuclear cells activated with pap-gm-csf (sipuleucel-t),1,['provenge'],True
 avacincaptad pegol sodium,1,['izervay'],True
-avacopan,6,['tavneos'],True
-avalglucosidase alfa,5,"['nexviadyme', 'nexviazyme']",False
+avacopan,5,['tavneos'],True
+avalglucosidase alfa,4,"['nexviadyme', 'nexviazyme']",False
 avalglucosidase alfa-ngpt,1,['nexviazyme'],True
 avanafil,3,"['avanafil', 'spedra', 'stendra']",False
 avapritinib,4,"['ayvakit', 'ayvakyt']",False
 avatrombopag,3,['doptelet'],True
 avatrombopag (avatrombopag maleate),1,['doptelet'],True
 avatrombopag maleate,1,['doptelet'],True
-avelumab,5,['bavencio'],True
+avelumab,4,['bavencio'],True
 avibactam sodium,1,"['avycaz', 'emblaveo']",True
 avobenzone,1,"['anthelios 20', 'anthelios 40', 'anthelios sx', 'capital soleil 15']",True
 avobenzone; bemotrizinol; ensulizole; octocrylene; octisalate; drometrizole trisiloxane; homosalate,1,['ultra light advanced lotion'],True
@@ -473,12 +459,12 @@ bacitracin zinc; gramicidin; polymyxin b (polymyxin b sulfate),1,['polysporin tr
 bacitracin zinc; polymyxin b sulfate,1,"['band-aid brand adhesive bandages plus antibiotic', 'sterisporin']",True
 bacitracin; polymyxin b sulfate,1,['jampolycin'],True
 baclofen,2,"['baclofen', 'baclofen injection', 'baclofen intrathecal', 'fleqsuvy', 'gablofen', 'kemstro', 'lyvispah', 'ozobax; ozobax ds', 'pro-baclofen', 'riva-baclofen']",True
-baloxavir marboxil,6,['xofluza'],True
+baloxavir marboxil,5,['xofluza'],True
 baloxavirum marboxilum,1,['xofluza'],True
 balsalazide disodium,1,"['balsalazide disodium', 'colazal', 'giazo']",True
 balugrastim,1,['egranli'],True
 bardoxolone methyl,1,['imbarkyd'],True
-baricitinib,5,"['baricitinib', 'olumiant']",True
+baricitinib,4,"['baricitinib', 'olumiant']",True
 barium sulfate,1,"['e-z-cat dry; e-z-hd; e-z-paque; varibar thin liquid', 'entero vu 24%; liquid e-z-paque; readi-cat 2; readi-cat 2 smoothie; tagitol v; varibar honey; varibar nectar; varibar thin honey', 'varibar pudding']",True
 basiliximab,2,['simulect'],True
 bazedoxifene,1,['conbriza'],True
@@ -495,7 +481,7 @@ bedaquiline fumarate,1,['sirturo'],True
 begelomab,1,['begedina'],True
 belantamab mafodotin,2,['blenrep'],True
 belatacept,3,['nulojix'],True
-belimumab,5,['benlysta'],True
+belimumab,4,['benlysta'],True
 belinostat,1,['beleodaq'],True
 belumosudil,1,['rholistiq'],True
 belumosudil (belumosudil mesylate),1,['rezurock'],True
@@ -512,11 +498,11 @@ bemotrizinol; octisalate; ensulizole; avobenzone,1,['nourishing day cream crème
 bempedoic acid,2,"['nexletol', 'nexlizet', 'nilemdo']",False
 bempedoic acid / ezetimibe,1,['nustendi'],True
 benazepril hydrochloride,2,"['benazepril', 'benazepril hydrochloride', 'benazepril hydrochloride and hydrochlorothiazide']",False
-bendamustine hydrochloride,4,"['belrapzo', 'bendamustine hydrochloride', 'bendamustine hydrochloride for injection', 'bendeka', 'benvyon', 'nat-bendamustine', 'ribomustin', 'treakisym', 'treanda', 'vivimusta']",False
+bendamustine hydrochloride,3,"['belrapzo', 'bendamustine hydrochloride', 'bendamustine hydrochloride for injection', 'bendeka', 'benvyon', 'nat-bendamustine', 'ribomustin', 'treanda', 'vivimusta']",False
 bendroflumethiazide,1,['nadolol and bendroflumethiazide'],True
 benfotiamine,1,['milgamma'],True
 benoxinate hydrochloride,1,"['altafluor benox', 'fluorescein sodium and benoxinate hydrochloride']",True
-benralizumab,5,"['fasenra', 'fasenra pen']",True
+benralizumab,4,"['fasenra', 'fasenra pen']",True
 bentoquatam,1,['ivy block'],True
 benzalkonium chloride,1,"['acclaim ab', 'advantage sanitizing wipes', 'alcohol free foaming hand sanitizer', 'aloe-care antibacterial lotion soap, benzalkonium chloride lotion 0.13% w/w', 'anti-microbe m', 'antibacterial foaming hand soap', 'antibacterial hand wipes', 'benzalkonium chloride antiseptic towelette', 'benzalkonium chloride wipes', 'derma solutions', 'dial antibacterial hand soap', 'dial complete 2 in 1 moisturizing & antibacterial foaming hand wash manuka honey', 'dial complete 2 in 1 moisturizing & antibacterial foaming hand wash pearl essence', 'dial foaming antibacterial hand wash', 'digisan e foam hand sanitizer', 'dove care & protect hand wash antibacterial', 'dye free fragrance free antibacterial foaming hand soap', 'ecocare 360', 'energy berry baies énergisantes foaming hand soap antibacterial', 'foam-care ultra', 'foaming antibacterial hand cleanser', 'fs antimicrobial hand wash', 'fuzion ab foaming hand soap', 'hand sanitizer', 'hand sanitizer foam', 'keystone foam hand sanitizer', 'kleenex foam hand sanitizer', 'loris 0.13% bzk', 'non-alcohol hand sanitizer', 'purell hand sanitizing wipes', 'purell sanitizing wipes', 'refresh antibac foam', 'sani hands foam', 'scott antimicrobial foam skin cleanser', 'scott foam hand sanitizer', 'soapopular', 'soapopular antibacterial hand soap', 'softsoap antibacterial', 'softsoap antibacterial for sensitive skin', 'spring showers pluies printanières foaming hand soap antibacterial', 'treksafe', 'x3 clean germ attack hand sanitizer', 'x3 on-the-go antiseptic spray']",True
 benzethonium chloride,1,"['finipil', 'finipil 4 men only', 'finipil lait 50', 'ino-f-san instant hand sanitizer', 'vinda antiseptic wipes', 'wet ones']",True
@@ -533,10 +519,10 @@ benztropine mesylate,2,"['benztropine mesylate', 'benztropine omega']",False
 benzydamine hydrochloride,1,"['odan-benzydamine', 'pharixia', 'pharixia alcohol free', 'pms-benzydamine']",True
 benzyl alcohol,1,['ulesfia'],True
 benzyl alcohol; lidocaine hydrochloride,1,['salonpas pain relieving cream'],True
-bepotastine besilate,3,"['bepotastine besilate', 'bepreve', 'talion']",False
+bepotastine besilate,2,"['bepotastine besilate', 'bepreve']",True
 berdazimer sodium,1,['zelsuvmi'],True
 beremagene geperpavec,1,['vyjuvek'],True
-berotralstat,3,['orladeyo'],True
+berotralstat,2,['orladeyo'],True
 berotralstat (berotralstat hydrochloride),1,['orladeyo'],True
 berotralstat hydrochloride,1,['orladeyo'],True
 besifloxacin (besifloxacin hydrochloride),1,['besivance'],True
@@ -558,7 +544,7 @@ bethanechol chloride,1,['bethanechol chloride'],True
 betiatide,1,['technescan mag3'],True
 betibeglogene autotemcel,1,['zynteglo'],True
 betrixaban,1,['bevyxxa'],True
-bevacizumab,5,"['abevmy', 'avastin', 'aybintio', 'bambevi', 'bevacip/bevaciptin', 'equidacent', 'ipique', 'lextemy', 'mvasi', 'onbevzi', 'oyavas', 'vegzelma', 'zirabev']",True
+bevacizumab,4,"['abevmy', 'avastin', 'aybintio', 'bambevi', 'bevacip/bevaciptin', 'equidacent', 'ipique', 'lextemy', 'mvasi', 'onbevzi', 'oyavas', 'vegzelma', 'zirabev']",True
 bevacizumab gamma,1,['lytenava'],True
 bevacizumab-adcd,1,['vegzelma'],True
 bevacizumab-awwb,1,['mvasi'],True
@@ -575,14 +561,13 @@ bicisate dihydrochloride,1,['neurolite'],True
 bictegravir (bictegravir sodium); tenofovir alafenamide (tenofovir alafenamide hemifumarate); emtricitabine,1,['biktarvy'],True
 bictegravir / emtricitabine / tenofovir alafenamide,2,['biktarvy'],True
 bictegravir sodium,1,['biktarvy'],True
-bictegravir sodium/emtricitabine/tenofovir alafenamide fumarate,1,['biktarvy'],True
 bilastine,1,"['apo-bilastine tablets', 'auro-bilastine', 'blexten', 'gln-bilastine', 'jamp bilastine', 'm-bilastine', 'mar-bilastine', 'nra-bilastine']",True
 bilastine (bilastine monohydrate),1,['sandoz bilastine'],True
 bimatoprost,4,"['bimatoprost', 'durysta', 'latisse', 'lumigan', 'lumigan rc', 'vistitan', 'zimed pf']",False
 bimatoprost and timolol,1,['ganfort'],True
 bimekizumab,4,['bimzelx'],True
 bimekizumab-bkzx,1,['bimzelx'],True
-binimetinib,4,"['binimetinib', 'mektovi']",True
+binimetinib,3,"['binimetinib', 'mektovi']",True
 biphasic insulin injection,1,['insulin human 30/70 mix marvel'],True
 birch bark extract,1,"['episalvan', 'filsuvez']",True
 birch triterpenes,1,['filsuvez'],True
@@ -594,27 +579,25 @@ bivalirudin,2,"['angiomax', 'angiomax rtu', 'bivalirudin', 'bivalirudin for inje
 bleomycin (bleomycin sulfate),1,"['bleomycin for injection', 'bleomycin for injection usp']",True
 bleomycin sulfate,1,['bleomycin sulfate'],True
 blinatumomab,4,['blincyto'],True
-blonanserin,1,['lonasen'],True
 bnt162b2,1,['comirnaty'],True
 boceprevir,3,['victrelis'],True
-borofalan,1,['steboronine'],True
-bortezomib,4,"['bortezomib', 'bortezomib accord', 'bortezomib fresenius kabi', 'bortezomib hospira', 'bortezomib sun', 'velcade']",True
+bortezomib,3,"['bortezomib', 'bortezomib accord', 'bortezomib fresenius kabi', 'bortezomib hospira', 'bortezomib sun', 'velcade']",True
 bortezomib (bortezomib mannitol boronic ester),1,"['act bortezomib', 'bortezomib', 'bortezomib for injection', 'bortezomib for injection sdz', 'pms-bortezomib', 'taro-bortezomib', 'velcade']",True
-bosentan,4,"['bosentan', 'stayveer', 'tracleer']",False
+bosentan,3,"['bosentan', 'stayveer', 'tracleer']",False
 bosentan (bosentan monohydrate),1,"['nat-bosentan', 'pms-bosentan', 'taro-bosentan', 'tracleer']",True
 bosutinib,1,['bosulif'],True
 bosutinib (bosutinib monohydrate),1,['bosulif'],True
 bosutinib monohydrate,1,"['bosulif', 'bosutinib monohydrate']",True
-botulinum toxin type a,3,"['botox', 'nuceiva', 'xeomin']",False
+botulinum toxin type a,2,"['botox', 'nuceiva', 'xeomin']",False
 botulinum toxin type a (strain cbfc26),1,['letybo'],True
 botulinum toxin type a (strain kcdc),1,['nuceiva'],True
 botulinum toxin type b,1,['myobloc'],True
 bremelanotide acetate,1,['vyleesi (autoinjector)'],True
-brentuximab vedotin,5,['adcetris'],True
+brentuximab vedotin,4,['adcetris'],True
 bretovameran,1,['comirnaty jn.1 covid-19 vaccine'],True
 bretylium tosylate,1,['bretylium tosylate'],True
 brexanolone,1,['zulresso'],True
-brexpiprazole,5,"['brexpiprazole', 'rexulti', 'rxulti']",False
+brexpiprazole,4,"['brexpiprazole', 'rexulti', 'rxulti']",False
 brexucabtagene autoleucel,1,['tecartus'],True
 brexucaptagene autoleucel,1,['tecartus'],True
 brigatinib,5,['alunbrig'],True
@@ -629,7 +612,7 @@ brinzolamide/ timolol maleate,1,['azarga'],True
 brinzolamide/timolol,1,['azarga'],True
 brinzolamide; brimonidine tartrate,1,['simbrinza'],True
 brivaracetam,4,"['apo-brivaracetam', 'auro-brivaracetam', 'brivaracetam', 'briviact', 'brivlera']",False
-brodalumab,4,"['kyntheum', 'lumicef', 'siliq']",False
+brodalumab,3,"['kyntheum', 'siliq']",False
 brolucizumab,4,['beovu'],True
 brolucizumab-dbll,1,['beovu'],True
 brolucizumabum,1,['beovu'],True
@@ -644,7 +627,6 @@ budesonide,4,"['breyna', 'breztri aerosphere', 'budenofalk', 'budesonide', 'cort
 budesonide / formoterol,1,"['biresp spiromax', 'budesonide/formoterol teva', 'duoresp spiromax', 'vylaer spiromax']",True
 budesonide / formoterol fumarate dihydrate,1,['budesonide/formoterol teva pharma b.v.'],True
 budesonide / glycopyrronium / formoterol,1,['breztri aerosphere'],True
-budesonide/ glycopyrronium bromide /formoterol fumarate hydrate,1,['breztri aerosphere'],True
 budesonide/eformoterol,1,['symbicort rapihaler'],True
 budesonide/eformoterol fumarate dihydrate,1,"['symbicort turbuhaler 200/6, 400/12 and symbicort rapihaler 200/6']",True
 budesonide/salmeterol,1,['labazenit'],True
@@ -663,7 +645,7 @@ buprenorphine hydrochloride,1,"['belbuca', 'bunavail', 'buprenorphine hydrochlor
 bupropion hydrobromide,1,"['aplenzin', 'bupropion hydrobromide']",True
 bupropion hydrochloride,2,"['auvelity', 'bupropion hydrochloride', 'contrave', 'forfivo xl', 'odan bupropion sr', 'taro-bupropion xl', 'teva-bupropion xl', 'wellbutrin sr', 'wellbutrin xl', 'zyban']",True
 bupropion hydrochloride; naltrexone hydrochloride,1,['contrave'],True
-burosumab,4,['crysvita'],True
+burosumab,3,['crysvita'],True
 burosumab-twza,1,['crysvita'],True
 buserelin (buserelin acetate),1,"['suprefact', 'suprefact depot 2 months']",True
 buspirone hydrochloride,2,"['amb-buspirone', 'apo-buspirone', 'auro-buspirone', 'buspar', 'buspirone', 'buspirone hydrochloride', 'jamp buspirone', 'mint-buspirone', 'pms-buspirone', 'pro-buspirone', 'teva-buspirone']",False
@@ -735,7 +717,7 @@ calfactant,1,['infasurf preservative free'],True
 canagliflozin,4,"['canagliflozin', 'canagliflozin; metformin hydrochloride', 'invokamet', 'invokamet xr', 'invokana', 'invokana, prominad']",False
 canagliflozin / metformin,1,['vokanamet'],True
 canagliflozin; metformin hydrochloride,1,['invokamet'],True
-canakinumab,5,"['canakinumab novartis', 'ilaris']",True
+canakinumab,4,"['canakinumab novartis', 'ilaris']",True
 candesartan cilexetil,2,"['ach-candesartan', 'ag-candesartan tablets', 'apo-candesartan tablets', 'atacand', 'atacand hct', 'auro-candesartan', 'candesartan', 'candesartan cilexetil', 'candesartan cilexetil and hydrochlorothiazide', 'candesartan cilexetil; hydrochlorothiazide', 'jamp-candesartan', 'mint-candesartan', 'nra-candesartan', 'pms-candesartan', 'sandoz candesartan', 'taro-candesartan', 'teva-candesartan']",True
 candesartan cilexetil; hydrochlorothiazide,1,"['atacand plus', 'auro-candesartan hct', 'candesartan-hctz', 'candesartan/hctz', 'jamp candesartan-hct', 'nra-candesartan hctz', 'pms-candesartan-hctz', 'sandoz candesartan plus', 'teva-candesartan/hctz']",True
 cangrelor,2,"['kengreal', 'kengrexal']",False
@@ -745,13 +727,12 @@ cantharidin,1,['ycanth'],True
 capecitabine,3,"['ach-capecitabine', 'capecitabine', 'capecitabine accord', 'capecitabine krka', 'capecitabine medac', 'capecitabine sun', 'capecitabine teva', 'mint-capecitabine', 'sandoz capecitabine', 'taro-capecitabine', 'xeloda']",False
 capecitabine /oxaliplatin,1,"['xeloda /eloxatin, oxaliplatin dakota, winthrop oxaliplatin']",True
 capivasertib,5,['truqap'],True
-caplacizumab,4,['cablivi'],True
+caplacizumab,3,['cablivi'],True
 caplacizumab-yhdp,1,['cablivi'],True
 caplacizumabum,1,['cablivi'],True
 capmatinib,2,['tabrecta'],True
 capmatinib (capmatinib hydrochloride),1,['tabrecta'],True
 capmatinib hydrochloride,1,['tabrecta'],True
-capmatinib hydrochloride hydrate,1,['tabrecta'],True
 capreomycin sulfate,1,['capreomycin sulfate'],True
 capromab pendetide,1,['prostascint'],True
 capsaicin,2,['qutenza'],True
@@ -773,7 +754,7 @@ carboplatin,2,"['carboplatin', 'carboplatin injection bp', 'paraplatin']",False
 carboprost (carboprost tromethamine),1,"['carboprost tromethamine injection', 'carboprost tromethamine injection usp', 'carboprost tromethamine injection, usp', 'hemabate']",True
 carboprost tromethamine,1,['carboprost tromethamine'],True
 carboxymethylcellulose sodium,1,"['preservative-free thera tears lubricant eye drops', 'refresh contacts', 'refresh liquigel', 'refresh plus', 'refresh tears', 'theratears lubricant eye drops']",True
-carfilzomib,5,"['carfilzomib', 'kyprolis']",True
+carfilzomib,4,"['carfilzomib', 'kyprolis']",True
 carglumic acid,4,"['carbaglu', 'carglumic acid', 'ucedane']",False
 cariprazine,1,['reagila'],True
 cariprazine (cariprazine hydrochloride),1,['vraylar'],True
@@ -781,12 +762,10 @@ cariprazine hydrochloride,2,"['cariprazine hydrochloride', 'reagila', 'vraylar']
 carisoprodol,1,['carisoprodol'],True
 carmustine,3,"['bicnu', 'carmustine', 'carmustine for injection usp', 'carmustine obvius', 'gliadel']",False
 carteolol hydrochloride,1,['carteolol hydrochloride'],True
-carteolol hydrochloride /latanoprost,1,['mikeluna'],True
-carvedilol,3,"['apo-carvedilol', 'artist', 'auro-carvedilol', 'carvedilol', 'coreg', 'jamp-carvedilol', 'pms-carvedilol', 'teva-carvedilol']",False
+carvedilol,2,"['apo-carvedilol', 'auro-carvedilol', 'carvedilol', 'coreg', 'jamp-carvedilol', 'pms-carvedilol', 'teva-carvedilol']",True
 carvedilol phosphate,1,"['carvedilol phosphate', 'coreg cr']",True
 casimersen,1,['amondys 45'],True
 casirivimab / imdevimab,1,['ronapreve'],True
-casirivimab and imdevimab,1,['ronapreve'],True
 "casirivimab, imdevimab",1,['ronapreve'],True
 casirivimab/imdevimab,1,['ronapreve'],True
 casopitant,1,['zunrisa'],True
@@ -794,7 +773,7 @@ caspofungin,1,['caspofungin accord'],True
 caspofungin (caspofungin acetate),1,"['cancidas', 'caspofungin for injection']",True
 caspofungin acetate,1,"['cancidas', 'caspofungin acetate']",True
 cat (felis domesticus) pelt and cat dander,1,['allergenic extract-standardized cat hair'],True
-catridecacog,4,"['novothirteen', 'tretten']",False
+catridecacog,3,"['novothirteen', 'tretten']",False
 catumaxomab,2,"['korjuny', 'removab']",True
 cedazuridine,1,['inqovi'],True
 cedazuridine; decitabine,1,['inqovi'],True
@@ -840,14 +819,14 @@ cefuroxime axetil,1,['cefuroxime axetil'],True
 cefuroxime sodium,1,"['cefuroxime and dextrose in duplex container', 'cefuroxime sodium', 'cefuroxime sodium in plastic container']",True
 cefuroxime; cefuroxime sodium,1,['cefuroxime; cefuroxime sodium'],True
 celecoxib,3,"['ag-celecoxib', 'apo-celecoxib', 'auro-celecoxib', 'bio-celecoxib', 'celebrex', 'celecoxib', 'elyxyb', 'jamp-celecoxib', 'm-celecoxib', 'mar-celecoxib', 'mint-celecoxib', 'nra-celecoxib', 'pmsc-celecoxib', 'riva-celecox', 'seglentis']",True
-cemiplimab,4,['libtayo'],True
+cemiplimab,3,['libtayo'],True
 cemiplimab-rwlc,1,['libtayo'],True
 cenegermin,2,['oxervate'],True
 cenegermin-bkbj,1,['oxervate'],True
 cenobamate,4,"['ontozry', 'xcopri']",False
 cephalexin,1,"['cephalexin', 'panixine disperdose']",True
 cephalexin (cephalexin monohydrate),1,"['auro-cephalexin', 'cephalexin', 'jamp cephalexin', 'jamp cephalexin suspension', 'lupin-cephalexin']",True
-ceritinib,5,['zykadia'],True
+ceritinib,4,['zykadia'],True
 cerivastatin sodium,1,['baycol'],True
 cerliponase alfa,3,['brineura'],True
 certolizumab,1,['cimzia'],True
@@ -856,7 +835,6 @@ cetirizine hydrochloride,2,"['ag-cetirizine', 'allergy relief', 'allergy relief 
 cetrorelix (cetrorelix acetate),1,['cetrotide'],True
 cetrorelix acetate,1,"['cetrorelix acetate', 'cetrotide']",True
 cetuximab,3,['erbitux'],True
-cetuximab sarotalocan sodium,1,['akalux'],True
 cetylpyridinium chloride,1,"['antiseptic oral rinse', 'colgate total active prevention', 'colgate total active prevention gum health', 'crest gum care', 'crest pro-health bacteria guard', 'crest pro-health gum & breath purify', 'crest pro-health invigorating clean multi-protection', 'crest pro-health multi protection', 'oral-b gum therapy', 'periogard protect cetylpyridinium chloride mouthwash', 'therabreath healthy gums oral rinse']",True
 cevimeline hydrochloride,1,"['cevimeline hydrochloride', 'evoxac']",True
 chadox-1-s,1,['vaxzevria'],True
@@ -948,7 +926,6 @@ clarithromycin,2,"['apo-clarithromycin', 'apo-clarithromycin xl', 'biaxin', 'bia
 clascoterone,3,['winlevi'],True
 clavulanic acid (clavulanate potassium); amoxicillin (amoxicillin sodium),1,['amoxicillin sodium and potassium clavulanate for injection'],True
 clavulanic acid (clavulanate potassium); amoxicillin (amoxicillin trihydrate),1,"['auro-amoxiclav', 'clavulin 400', 'jamp amoxi clav', 'jamp amoxi clav suspension', 'm-amoxi clav', 'pro-amoxi clav', 'sandoz amoxi-clav tablet']",True
-clazosentan sodium,1,['pivlaz'],True
 clemastine fumarate,1,['clemastine fumarate'],True
 clevidipine,3,['cleviprex'],True
 clindamycin (clindamycin hydrochloride),1,"['auro-clindamycin', 'clindamycin', 'jamp clindamycin', 'm-clindamycin', 'med-clindamycin', 'nra-clindamycin', 'riva-clindamycin', 'teva-clindamycin']",True
@@ -957,7 +934,6 @@ clindamycin (clindamycin phosphate); benzoyl peroxide,1,['clindoxyl gel'],True
 clindamycin hydrochloride,1,['clindamycin hydrochloride'],True
 clindamycin palmitate hydrochloride,1,['clindamycin palmitate hydrochloride'],True
 clindamycin phosphate,1,"['cleocin', 'clindagel', 'clindamycin phosphate', 'clindamycin phosphate and tretinoin', 'clindamycin phosphate in 0.9% sodium chloride', 'clindamycin phosphate in 5% dextrose in plastic container', 'clindamycin phosphate in dextrose 5%', 'clindamycin phosphate in dextrose 5% in plastic container', 'clindesse', 'clindets', 'evoclin', 'veltin', 'xaciato', 'ziana']",True
-clindamycin phosphate hydrate/benzoyl peroxide,1,['duac'],True
 clindamycin phosphate; tretinoin,1,['biacna topical gel'],True
 clobazam,3,"['apo-clobazam', 'clobazam', 'frisium', 'onfi', 'sympazan', 'teva-clobazam']",False
 clobetasol propionate,3,"['clobetasol propionate', 'clobetasol propionate (emollient)', 'clobex', 'clobex shampoo', 'clobex spray', 'cormax', 'dermovate cream', 'dermovate ointment', 'dermovate scalp application', 'embeline', 'embeline e', 'impeklo', 'impoyz', 'jamp clobetasol spray', 'mylan-clobetasol scalp application', 'odan clobetasol spray', 'olux', 'olux e', 'reddy-clobetasol shampoo', 'sandoz clobetasol', 'taro-clobetasol cream usp, 0.05%', 'taro-clobetasol ointment usp, 0.05%', 'taro-clobetasol shampoo', 'taro-clobetasol spray', 'taro-clobetasol topical solution usp, 0.05%']",False
@@ -980,7 +956,7 @@ clostridium botulinum type a toxin - haemagglutinin complex,1,['dysport'],True
 clotrimazole,2,"['canesten 1 day internal cream', 'canesten 1% topical cream', 'canesten 3 day internal cream', 'canesten 6 day internal cream', 'canesten combi 1 day', 'canesten combi 1 day internal + external creams', 'canesten combi 1 day soft capsule + extra strength external cream', 'canesten combi 3 day', 'canesten comfortab 1', 'canesten comfortab 3', 'canesten external antifungal cream', 'canesten external cream', 'canesten extra strength external antifungal cream', 'canesten soft capsule 1', 'clotrimazole', 'clotrimazole external antifungal cream', 'clotrimazole extra strength external antifungal cream', 'clotrimazole topical', 'clotrimazole vaginal 3', 'clotrimazole vaginal 6', 'gyne-lotrimin 3', 'gyne-lotrimin 3 combination pack', 'gynix', 'trivagizole 3']",False
 clotrimazole; fluconazole,1,['canesoral combi 1 day'],True
 cloxacillin (cloxacillin sodium),1,"['cloxacillin for injection', 'jamp cloxacillin']",True
-clozapine,3,"['aa-clozapine', 'clozapine', 'clozaril', 'fazaclo odt', 'gen-clozapine', 'versacloz']",False
+clozapine,2,"['aa-clozapine', 'clozapine', 'clozaril', 'fazaclo odt', 'gen-clozapine', 'versacloz']",False
 coagulation factor ix (human),1,['immunine vh'],True
 coagulation factor ix (human); coagulation factor vii (human); coagulation factor ii (human); protein c; protein s; coagulation factor x (human),1,['octaplex'],True
 coagulation factor ix (recombinant),1,['benefix'],True
@@ -1009,11 +985,10 @@ colestilan,1,['bindren'],True
 colestipol hydrochloride,2,"['colestid tablets', 'colestipol hydrochloride']",False
 colistimethate sodium,4,"['colistimethate for injection usp', 'colistimethate sodium', 'colobreathe', 'tadim']",False
 colistin (colistimethate sodium),1,"['colistimethate for injection u.s.p.', 'colistimethate for injection, usp']",True
-collagenase,1,['xiaflex'],True
 collagenase clostridium histolyticum,3,"['xiaflex', 'xiapex']",False
 collagenase clostridium histolyticum-aaes,1,['qwo'],True
 concentrate of proteolytic enzymes enriched in bromelain,2,['nexobrid'],True
-concizumab,4,['alhemo'],True
+concizumab,3,['alhemo'],True
 concizumab-mtci,1,['alhemo'],True
 conestat alfa,1,['ruconest'],True
 conivaptan hydrochloride,1,"['vaprisol', 'vaprisol; vaprisol in 5% dextrose in plastic container']",True
@@ -1028,15 +1003,11 @@ copper (copper gluconate); vitamin d3 (cholecalciferol); zinc (zinc oxide); magn
 copper (cupric sulfate); selenium (selenious acid); zinc (zinc sulfate); iodide (sodium iodide); manganese (manganese sulfate),1,['micro+ te pediatric'],True
 copper cu-64 dotatate,1,['detectnet'],True
 corifollitropin alfa,2,['elonva'],True
-coronavirus (sars-cov-2) rna vaccine,1,"['comirnaty', 'daichirona', 'kostaive', 'spikevax']",True
-coronavirus modified uridine rna vaccine,1,"['comirnaty', 'covid-19 vaccine moderna', 'spikevax']",True
-coronavirus rna vaccine,1,['spikevax'],True
 corticorelin ovine triflutate,1,['acthrel'],True
 cortisone acetate,1,['cortisone acetate'],True
 corynebacterium diphtheriae crm-197 protein; meningococcal group c oligosaccharide,1,['menjugate liquid'],True
 cosibelimab-ipdl,1,['unloxcyt'],True
 cosyntropin,1,['cosyntropin'],True
-covid-19 (sars-cov-2) vaccine,1,"['jcovden', 'vaxzevria']",True
 covid-19 mrna vaccine (nucleoside-modified),1,"['comirnaty', 'covid-19 vaccine moderna']",True
 covid-19 vaccine (chadox1-s [recombinant]),1,['covid-19 vaccine astrazeneca'],True
 "covid-19 vaccine (recombinant, adjuvanted)",1,"['bimervax', 'nuvaxovid', 'vidprevtyn beta']",True
@@ -1045,10 +1016,10 @@ crisaborole,4,"['eucrisa', 'staquis']",False
 crisantaspase,4,"['enrylaze', 'erwinase', 'rylaze']",False
 crizanlizumab,2,['adakveo'],True
 crizanlizumab-tmca,1,['adakveo'],True
-crizotinib,5,['xalkori'],True
+crizotinib,4,['xalkori'],True
 crofelemer,1,['mytesi'],True
 cromolyn sodium,1,"['crolom', 'cromolyn sodium', 'cromoptic', 'gastrocrom', 'nasalcrom']",True
-crovalimab,2,['piasky'],True
+crovalimab,1,['piasky'],True
 crovalimab-akkz,1,['piasky'],True
 cupric chloride,1,['cupric chloride'],True
 cupric sulfate,1,"['cupric sulfate', 'multrys; tralement']",True
@@ -1077,17 +1048,15 @@ dabigatran etexilate,2,"['dabigatran etexilate accord', 'dabigatran etexilate le
 dabigatran etexilate (dabigatran etexilate mesilate),1,"['apo-dabigatran', 'pradaxa']",True
 dabigatran etexilate mesilate,1,['pradaxa'],True
 dabigatran etexilate mesylate,1,"['dabigatran etexilate mesylate', 'pradaxa']",True
-dabigatran etexilate methanesulfonate,1,['pradaxa'],True
-dabrafenib,2,"['finlee', 'tafinlar']",True
+dabrafenib,1,"['finlee', 'tafinlar']",True
 dabrafenib (dabrafenib mesylate),1,['tafinlar'],True
-dabrafenib mesilate,2,['tafinlar'],True
+dabrafenib mesilate,1,['tafinlar'],True
 dabrafenib mesylate,1,['tafinlar'],True
 dacarbazine,2,"['dacarbazine', 'dacarbazine for injection bp']",False
-daclatasvir,3,['daklinza'],True
+daclatasvir,2,['daklinza'],True
 daclatasvir dihydrochloride,1,['daklinza'],True
-daclatasvir hydrochloride/asunaprevir/beclabuvir hydrochloride,1,['ximency'],True
 daclizumab,3,['zinbryta'],True
-dacomitinib,3,['vizimpro'],True
+dacomitinib,2,['vizimpro'],True
 dactinomycin,1,['dactinomycin'],True
 dalbavancin,1,"['exulett', 'xydalba']",True
 dalbavancin (dalbavancin hydrochloride),1,['xydalba'],True
@@ -1096,13 +1065,13 @@ dalfampridine,1,"['ampyra', 'dalfampridine']",True
 dalfopristin,1,['synercid'],True
 dalteparin,1,['fragmin'],True
 dalteparin sodium,1,['fragmin'],True
-damoctocog alfa pegol,3,['jivi'],True
+damoctocog alfa pegol,2,['jivi'],True
 danaparoid sodium,2,['orgaran'],True
 danazol,1,['danazol'],True
-danicopan,5,['voydeya'],True
+danicopan,4,['voydeya'],True
 dantrolene sodium,2,"['dantrolene sodium', 'dantrolene sodium for injection, usp', 'revonto', 'ryanodex']",False
 "dantrolene sodium, hemiheptahydrate",1,['agilus'],True
-dapagliflozin,5,"['ag-dapagliflozin', 'apo-dapagliflozin', 'appebb, az dapagliflozin, bms dapagliflozin, bms/az dapagliflozin, edistride, empliciti and forxiga', 'auro-dapagliflozin', 'dapagliflozin', 'dapagliflozin and saxagliptin', 'dapagliflozin viatris', 'dapagliflozin;metformin hydrochloride', 'edistride', 'farxiga', 'forxiga', 'gln-dapagliflozin', 'jamp dapagliflozin', 'm-dapagliflozin', 'nra-dapagliflozin', 'pms-dapagliflozin', 'pro-dapagliflozin', 'qtern', 'qternmet xr', 'riva-dapagliflozin', 'sandoz dapagliflozin', 'xigduo xr']",False
+dapagliflozin,4,"['ag-dapagliflozin', 'apo-dapagliflozin', 'appebb, az dapagliflozin, bms dapagliflozin, bms/az dapagliflozin, edistride, empliciti and forxiga', 'auro-dapagliflozin', 'dapagliflozin', 'dapagliflozin and saxagliptin', 'dapagliflozin viatris', 'dapagliflozin;metformin hydrochloride', 'edistride', 'farxiga', 'forxiga', 'gln-dapagliflozin', 'jamp dapagliflozin', 'm-dapagliflozin', 'nra-dapagliflozin', 'pms-dapagliflozin', 'pro-dapagliflozin', 'qtern', 'qternmet xr', 'riva-dapagliflozin', 'sandoz dapagliflozin', 'xigduo xr']",False
 dapagliflozin (dapagliflozin propanediol monohydrate),1,['forxiga'],True
 dapagliflozin (dapagliflozin propanediol monohydrate); metformin hydrochloride,1,['xigduo'],True
 dapagliflozin / metformin,1,"['ebymect', 'xigduo']",True
@@ -1116,7 +1085,7 @@ dapoxetine,1,['priligy'],True
 daprodustat,2,['jesduvroq'],True
 dapsone,3,"['aczone', 'dapsone', 'mar-dapsone']",True
 daptomycin,4,"['cubicin', 'cubicin rf', 'cubicin; cubicin rf', 'daptomycin', 'daptomycin for injection', 'daptomycin hospira', 'daptomycin in 0.9% sodium chloride; dapzura rt']",False
-daratumumab,5,"['darzalex', 'darzalex sc']",False
+daratumumab,4,"['darzalex', 'darzalex sc']",False
 daratumumab and hyaluronidase-fihj,1,['darzalex faspro'],True
 darbepoetin alfa,3,['aranesp'],True
 daridorexant,2,['quviviq'],True
@@ -1124,9 +1093,8 @@ daridorexant (daridorexant hydrochloride),1,['quviviq'],True
 daridorexant hydrochloride,1,['quviviq'],True
 darifenacin (darifenacin hydrobromide),1,"['apo-darifenacin', 'enablex', 'jamp darifenacin']",True
 darifenacin hydrobromide,1,"['darifenacin', 'darifenacin hydrobromide', 'enablex']",True
-darinaparsin,1,['darvias'],True
 darolutamid,1,['nubeqa'],True
-darolutamide,5,['nubeqa'],True
+darolutamide,4,['nubeqa'],True
 darolutamidum,1,['nubeqa'],True
 darunavir,3,"['apo-darunavir', 'darunavir', 'darunavir krka', 'darunavir mylan', 'prezista']",False
 darunavir (darunavir propylene glycolate),1,['auro-darunavir'],True
@@ -1168,15 +1136,15 @@ degarelix acetate,1,['firmagon'],True
 dehydrated alcohol,1,['dehydrated alcohol'],True
 delafloxacin,1,['quofenix'],True
 delafloxacin meglumine,1,['baxdela'],True
-delamanid,2,['deltyba'],True
+delamanid,1,['deltyba'],True
 delavirdine mesylate,1,['rescriptor'],True
-delgocitinib,2,"['anzupgo', 'corectim']",False
+delgocitinib,1,['anzupgo'],True
 delta-9-tetrahydrocannabinol (cannabis sativa extract); cannabidiol (cannabis sativa extract),1,['sativex'],True
 demeclocycline hydrochloride,1,['demeclocycline hydrochloride'],True
 "dengue tetravalent vaccine (live, attenuated)",1,"['dengvaxia', 'qdenga']",True
 denileukin diftitox,1,['ontak'],True
 denileukin diftitox-cxdl,1,['lymphir'],True
-denosumab,5,"['jubbonti', 'jubbonti/wyost', 'obodence', 'osenvelt', 'pralia', 'prolia', 'prolia; xgeva', 'stoboclo', 'wyost', 'xgeva']",False
+denosumab,4,"['jubbonti', 'jubbonti/wyost', 'obodence', 'osenvelt', 'prolia', 'prolia; xgeva', 'stoboclo', 'wyost', 'xgeva']",False
 denosumab-bbdz,1,['jubbonti; wyost'],True
 denosumab-bmwo,1,['osenvelt; stoboclo'],True
 denosumab-bnht,1,['bomyntra; conexxence; denosumab-bnht'],True
@@ -1216,7 +1184,7 @@ dexchlorpheniramine maleate,1,['polmon'],True
 dexlansoprazole,2,"['apo-dexlansoprazole', 'dexilant', 'dexilant solutab', 'dexlansoprazole']",True
 dexmedetomidine,1,['dexdor'],True
 dexmedetomidine (dexmedetomidine hydrochloride),1,"['dexmedetomidine hydrochloride for injection', 'dexmedetomidine hydrochloride for injection, usp', 'dexmedetomidine hydrochloride injection', 'precedex']",True
-dexmedetomidine hydrochloride,2,"['dexmedetomidine hydrochloride', 'igalmi', 'precedex']",True
+dexmedetomidine hydrochloride,1,"['dexmedetomidine hydrochloride', 'igalmi', 'precedex']",True
 dexmethylphenidate hydrochloride,1,"['azstarys', 'dexmethylphenidate hydrochloride', 'focalin', 'focalin xr']",True
 dexrazoxane,2,"['savene', 'zinecard']",False
 dexrazoxane hydrochloride,1,"['dexrazoxane hydrochloride', 'totect', 'zinecard']",True
@@ -1301,7 +1269,6 @@ dicyclomine hydrochloride,2,"['dicyclomine hydrochloride', 'dicyclomine hydrochl
 didanosine,1,"['didanosine', 'videx ec']",True
 dienogest,3,"['aspen-dienogest', 'estradiol valerate and dienogest', 'jamp dienogest', 'm-dienogest', 'natazia', 'visanne']",False
 diethylpropion hydrochloride,1,['diethylpropion hydrochloride'],True
-difamilast,1,['moizerto'],True
 difelikefalin,3,"['kapruvia', 'korsuva']",False
 difelikefalin (difelikefalin acetate),1,['korsuva'],True
 difelikefalin acetate,1,['korsuva'],True
@@ -1341,7 +1308,6 @@ diphtheria toxoid adsorbed; pertactin adsorbed; filamentous haemagglutinin adsor
 "diphtheria, tetanus, pertussis, hepatitis b, poliovirus, and haemophilus influenzae type b conjugate",1,['vaxelis'],True
 dipivefrin hydrochloride,1,"['akpro', 'dipivefrin hydrochloride']",True
 dipyridamole,2,"['dipyridamole', 'dipyridamole injection, usp']",False
-diquafosol sodium,1,['moistear'],True
 dirithromycin,1,['dynabac'],True
 diroximel fumarate,3,['vumerity'],True
 disofenin,1,['stannous disida kit'],True
@@ -1363,12 +1329,12 @@ dolutegravir / abacavir / lamivudine,1,['triumeq'],True
 dolutegravir / lamivudine,1,['dovato'],True
 dolutegravir / rilpivirine,1,['juluca'],True
 dolutegravir lamivudine tenofovir alafenamide,1,['dolutegravir lamivudine tenofovir alafenamide'],True
-dolutegravir sodium,2,"['dolutegravir sodium', 'dovato', 'juluca', 'tivicay', 'tivicay pd']",True
+dolutegravir sodium,1,"['dolutegravir sodium', 'dovato', 'juluca', 'tivicay', 'tivicay pd']",True
 dolutegravir sodium/abacavir sulfate/lamivudine,1,['triumeq'],True
 "dolutegravir, emtricitabine and tenofovir alafenamide",1,"['dolutegravir, emtricitabine and tenofovir alafenamide']",True
 dolutegravir/lamivudine,1,['dovato'],True
 domperidone (domperidone maleate),1,"['apo-domperidone', 'bio-domperidone', 'domperidone', 'domperidone-10', 'jamp-domperidone', 'mar-domperidone', 'prz-domperidone', 'taro-domperidone']",True
-donanemab,2,['kisunla'],True
+donanemab,1,['kisunla'],True
 donanemab-azbt,1,['kisunla'],True
 donepezil hydrochloride,2,"['ach-donepezil', 'adlarity', 'ag-donepezil', 'aricept', 'aricept odt', 'auro-donepezil', 'bio-donepezil', 'donepezil', 'donepezil hydrochloride', 'donepezil hydrochloride and memantine hydrochloride', 'jamp-donepezil tablets', 'm-donepezil', 'mar-donepezil', 'memantine hydrochloride and donepezil hydrochloride', 'mint-donepezil', 'namzaric', 'nat-donepezil', 'nra-donepezil', 'sandoz donepezil', 'taro-donepezil', 'teva-donepezil']",True
 donepezil hydrochloride (donepezil hydrochloride monohydrate),1,"['apo-donepezil', 'donepezil', 'pms-donepezil']",True
@@ -1404,7 +1370,6 @@ doxylamine succinate; dextromethorphan hydrobromide; phenylephrine hydrochloride
 doxylamine succinate; phenylephrine hydrochloride; acetaminophen; dextromethorphan hydrobromide,1,['nyquil complete + vicks vapocool'],True
 doxylamine succinate; phenylephrine hydrochloride; dextromethorphan hydrobromide; acetaminophen,1,['nyquil complete + vicks vapocool cold & flu liquid'],True
 doxylamine succinate; sodium citrate; alcohol anhydrous; etafedrin hydrochloride; hydrocodone bitartrate,1,['dalmacol'],True
-dried recombinant herpes zoster vaccine,1,['shingrix'],True
 drisapersen,1,['kyndrisa'],True
 drometrizole trisiloxane; avobenzone; octisalate; octocrylene; terephthalylidene dicamphor sulfonic acid; homosalate,1,['bare skin feel uv lotion'],True
 drometrizole trisiloxane; avobenzone; octocrylene; octisalate; homosalate,1,['anti-shine dry touch uv lotion'],True
@@ -1426,13 +1391,13 @@ drospirenone; ethinyl estradiol,1,"['drospirenone and ethinyl estradiol tablets 
 drotaverine hydrochloride,1,['spaverin'],True
 droxidopa,1,"['droxidopa', 'northera']",True
 dulaglutide,4,['trulicity'],True
-duloxetine,3,"['cymbalta', 'duloxetine boehringer ingelheim', 'duloxetine lilly', 'duloxetine mylan', 'duloxetine sandoz', 'duloxetine zentiva']",False
+duloxetine,2,"['cymbalta', 'duloxetine boehringer ingelheim', 'duloxetine lilly', 'duloxetine mylan', 'duloxetine sandoz', 'duloxetine zentiva']",False
 duloxetine (duloxetine hydrochloride),1,"['accel-duloxetine', 'ag-duloxetine', 'apo-duloxetine', 'auro-duloxetine', 'bio-duloxetine', 'duloxetine', 'jamp duloxetine capsules', 'jamp-duloxetine', 'm-duloxetine', 'mar-duloxetine', 'mint-duloxetine', 'nra-duloxetine', 'pms-duloxetine', 'sandoz duloxetine', 'teva-duloxetine']",True
 duloxetine hydrochloride,1,"['cymbalta', 'drizalma sprinkle', 'duloxetine hydrochloride']",True
-dupilumab,5,['dupixent'],True
+dupilumab,4,['dupixent'],True
 durlobactam sodium,1,['xacduro (copackaged)'],True
-durvalumab,5,['imfinzi'],True
-dutasteride,4,"['act dutasteride', 'apo-dutasteride', 'auro-dutasteride', 'avodart', 'dutasteride', 'dutasteride and tamsulosin hydrochloride', 'jalyn', 'jamp dutasteride', 'jamp dutasteride capsules', 'med-dutasteride', 'mint-dutasteride', 'nra-dutasteride', 'pro-dutasteride', 'riva-dutasteride', 'sandoz dutasteride', 'teva-dutasteride', 'zagallo']",False
+durvalumab,4,['imfinzi'],True
+dutasteride,3,"['act dutasteride', 'apo-dutasteride', 'auro-dutasteride', 'avodart', 'dutasteride', 'dutasteride and tamsulosin hydrochloride', 'jalyn', 'jamp dutasteride', 'jamp dutasteride capsules', 'med-dutasteride', 'mint-dutasteride', 'nra-dutasteride', 'pro-dutasteride', 'riva-dutasteride', 'sandoz dutasteride', 'teva-dutasteride']",True
 dutasteride and tamsulosin,1,['duodart'],True
 dutasteride; tamsulosin hydrochloride,1,['jalyn'],True
 duvelisib,2,['copiktra'],True
@@ -1443,15 +1408,14 @@ ebola vaccine (ad26.zebov-gp [recombinant]),1,['zabdeno'],True
 "ebola zaire vaccine (rvsvδg-zebov-gp, live)",1,['ervebo'],True
 ecallantide,2,['kalbitor'],True
 econazole nitrate,1,"['econazole nitrate', 'ecoza']",True
-eculizumab,5,"['bekemv', 'epysqli', 'soliris']",True
+eculizumab,4,"['bekemv', 'epysqli', 'soliris']",True
 eculizumab-aagh,1,['epysqli'],True
 eculizumab-aeeb,1,['bkemv'],True
-edaravone,5,"['edaravone', 'radicava', 'radicava ors', 'radicut']",False
+edaravone,4,"['edaravone', 'radicava', 'radicava ors']",True
 edetate calcium disodium,1,['edetate calcium disodium'],True
 edotreotide,1,['somakit toc'],True
 edoxaban,2,"['edoxaban', 'lixiana', 'roteas']",False
 edoxaban (edoxaban tosylate monohydrate),1,"['jamp edoxaban', 'lixiana', 'sandoz edoxaban', 'teva-edoxaban']",True
-edoxaban tosilate hydrate,1,['lixiana'],True
 edoxaban tosylate,1,['savaysa'],True
 edrophonium chloride,1,['edrophonium chloride'],True
 efanesoctocog alfa,2,['altuvoct'],True
@@ -1462,9 +1426,9 @@ efavirenz; emtricitabine; tenofovir disoproxil fumarate,1,['auro-efavirenz-emtri
 efavirenz; tenofovir disoproxil fumarate; emtricitabine,1,['apo-efavirenz-emtricitabine-tenofovir'],True
 efbemalenograstim alfa,1,['ryzneuta'],True
 efbemalenograstim alfa-vuxw,1,['ryzneuta'],True
-efgartigimod alfa,5,['vyvgart'],True
+efgartigimod alfa,4,['vyvgart'],True
 efgartigimod alfa and hyaluronidase-qvfc,1,['vyvgart hytrulo'],True
-efinaconazole,3,"['clenafin', 'efinaconazole', 'jublia']",False
+efinaconazole,2,"['efinaconazole', 'jublia']",True
 eflapegrastim-xnst,1,['rolvedon'],True
 eflornithine / sulindac,1,['flynpovi'],True
 eflornithine hydrochloride,2,"['iwilfin', 'vaniqa']",True
@@ -1480,39 +1444,35 @@ elagolix,1,['elagolix'],True
 elagolix (elagolix sodium),1,['orilissa'],True
 elagolix sodium,1,['orilissa'],True
 "elagolix sodium,estradiol,norethindrone acetate",1,['oriahnn (copackaged)'],True
-elapegademase,1,['revcovi'],True
 elapegademase-lvlr,1,['revcovi'],True
 elasomeran,1,['spikevax'],True
 elasomeran and davesomeran,1,['spikevax bivalent original/omicron ba.4-5'],True
 elasomeran and imelasomeran,1,['spikevax bivalent original/omicron'],True
-elbasvir,2,"['erelsa', 'zepatier']",False
+elbasvir,1,['zepatier'],True
 elbasvir / grazoprevir,1,['zepatier'],True
 eletriptan (eletriptan hydrobromide),1,"['apo-eletriptan tablets', 'auro-eletriptan', 'eletriptan', 'jamp eletriptan', 'mylan-eletriptan', 'relpax', 'teva-eletriptan']",True
 eletriptan hydrobromide,1,"['eletriptan hydrobromide', 'relpax']",True
 "elexacaftor, ivacaftor, tezacaftor",2,"['trikafta', 'trikafta (copackaged)']",False
-eliglustat,3,"['cerdelga', 'cerdelga/eliglustat']",False
+eliglustat,2,"['cerdelga', 'cerdelga/eliglustat']",False
 eliglustat (eliglustat tartrate),1,['cerdelga'],True
 eliglustat tartrate,1,"['cerdelga', 'eliglustat tartrate']",True
 elivaldogene autotemcel,1,['skysona'],True
-elobixibat,1,['goofice'],True
 elosulfase alfa,4,['vimizim'],True
-elotuzumab,3,['empliciti'],True
+elotuzumab,2,['empliciti'],True
 elranatamab,5,['elrexfio'],True
-eltrombopag,4,"['eltrombopag', 'eltrombopag accord', 'eltrombopag viatris', 'revolade']",False
+eltrombopag,3,"['eltrombopag', 'eltrombopag accord', 'eltrombopag viatris', 'revolade']",False
 eltrombopag (eltrombopag olamine),1,"['apo-eltrombopag', 'revolade']",True
 eltrombopag choline,1,['alvaiz'],True
-eltrombopag olamine,3,"['eltrombopag olamine', 'promacta', 'promacta kit', 'revolade']",False
+eltrombopag olamine,2,"['eltrombopag olamine', 'promacta', 'promacta kit', 'revolade']",False
 eluxadoline,4,"['eluxadoline', 'truberzi', 'viberzi']",False
 elvitegravir,3,['vitekta'],True
 elvitegravir / cobicistat / emtricitabine / tenofovir alafenamide,2,['genvoya'],True
 elvitegravir / cobicistat / emtricitabine / tenofovir disoproxil,1,['stribild'],True
 "elvitegravir, cobicistat, emtricitabine, tenofovir alafenamide",1,['genvoya'],True
-elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide,1,['genvoya'],True
-elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil fumarate,1,['stribild'],True
 emapalumab,1,['gamifant'],True
 emapalumab-lzsg,1,['gamifant'],True
 emedastine difumarate,1,['emadine'],True
-emicizumab,4,['hemlibra'],True
+emicizumab,3,['hemlibra'],True
 empagliflozin,4,"['empagliflozin', 'empagliflozin and linagliptin', 'empagliflozin and metformin hydrochloride', 'empagliflozin metformin hydrochloride', 'empagliflozin; linagliptin', 'empagliflozin; linagliptin; metformin hydrochloride', 'empagliflozin; metformin hydrochloride', 'empagliflozin;metformin hydrochloride', 'glyxambi', 'jardiance', 'synjardy', 'synjardy xr', 'trijardy xr']",True
 empagliflozin / linagliptin,1,['glyxambi'],True
 empagliflozin / metformin,1,['synjardy'],True
@@ -1529,24 +1489,21 @@ emtricitabine; efavirenz; tenofovir disoproxil fumarate,1,['riva-efavirenz/emtri
 emtricitabine; rilpivirine (rilpivirine hydrochloride); tenofovir disoproxil fumarate,1,['complera'],True
 emtricitabine; tenofovir disoproxil fumarate,1,"['apo-emtricitabine-tenofovir', 'auro-emtricitabine-tenofovir', 'mylan-emtricitabine/tenofovir disoproxil', 'pms-emtricitabine-tenofovir', 'teva-emtricitabine/tenofovir', 'truvada']",True
 emtricitabine; tenofovir disoproxil fumarate; efavirenz,1,"['jamp efavirenz/emtricitabine/tenofovir disoproxil fumarate', 'pms-efavirenz-emtricitabine-tenofovir']",True
-emulsion-adjuvanted cell-culture derived influenza ha vaccine,1,['emulsion-adjuvanted cell-culture derived influenza ha vaccine'],True
 enalapril maleate,3,"['aqumeldi', 'enalapril', 'enalapril maleate', 'enalapril maleate and hydrochlorothiazide', 'epaned', 'epaned kit', 'jamp enalapril', 'lexxel', 'mar-enalapril', 'pro-enalapril - 10', 'pro-enalapril - 2.5', 'pro-enalapril - 20', 'pro-enalapril - 5']",False
 enalapril maleate; hydrochlorothiazide,1,['enalapril maleate/hctz'],True
 enalapril sodium,1,"['sandoz enalapril', 'taro-enalapril']",True
 enalapril sodium (enalapril maleate),1,"['act enalapril', 'enalapril']",True
 enalaprilat,2,"['enalaprilat', 'enalaprilat injection usp']",False
-enarodustat,1,['enaroy'],True
 enasidenib,2,['idhifa'],True
 enasidenib mesylate,1,['idhifa'],True
 enclomifene,1,['encyzix'],True
-encorafenib,4,['braftovi'],True
+encorafenib,3,['braftovi'],True
 enfortumab vedotin,3,['padcev'],True
 enfortumab vedotin-ejfv,1,['padcev'],True
 enfuvirtide,1,['fuzeon'],True
 enoxaparin sodium,4,"['axberi', 'axberi hp', 'crusia-aft; crusia-aft forte', 'elonox', 'elonox hp', 'enoxaparin sodium', 'enoxaparin sodium (preservative free)', 'enoxapo', 'exarane/exarane forte', 'inclunox', 'inclunox hp', 'inhixa', 'lovenox', 'lovenox hp', 'lovenox with preservative 300mg/3ml', 'noromby', 'noromby hp', 'redesca', 'redesca hp', 'thorinane']",False
 ensartinib hydrochloride,1,['ensacove'],True
 ensifentrine,1,['ohtuvayre'],True
-ensitrelvir fumaric acid,1,['xocova'],True
 ensulizole,1,['covergirl trublend base business skin primer base pour la peau'],True
 ensulizole; avobenzone; octocrylene,1,['refreshing day cream'],True
 ensulizole; bemotrizinol; octisalate; octocrylene; homosalate; drometrizole trisiloxane; avobenzone,1,['ultra fluide corps'],True
@@ -1557,7 +1514,7 @@ entacapone; levodopa; carbidopa,1,['stalevo'],True
 entecavir,3,"['apo-entecavir', 'baraclude', 'entecavir', 'entecavir accord', 'entecavir mylan', 'pms-entecavir']",True
 entecavir (entecavir monohydrate),1,"['accel-entecavir', 'auro-entecavir', 'entecavir tablets', 'jamp entecavir', 'mint-entecavir']",True
 entolimod,1,['entolimod tmc'],True
-entrectinib,6,['rozlytrek'],True
+entrectinib,5,['rozlytrek'],True
 enzalutamide,4,"['enzalutamide', 'enzalutamide viatris', 'xtandi']",True
 epcoritamab,3,"['epkinly', 'tepkinly']",False
 epcoritamab-bysp,1,['epkinly'],True
@@ -1584,7 +1541,7 @@ epoetin beta,1,['neorecormon'],True
 epoetin theta,1,"['biopoin', 'eporatio']",True
 epoetin zeta,1,['sb309'],True
 epoprostenol (epoprostenol sodium),1,"['caripul', 'flolan']",True
-epoprostenol sodium,2,"['epoprostenol act', 'epoprostenol sodium', 'flolan', 'veletri']",False
+epoprostenol sodium,1,"['epoprostenol sodium', 'flolan', 'veletri']",True
 eprodisate disodium,1,['kiacta'],True
 eprosartan mesylate,1,"['eprosartan mesylate', 'teveten', 'teveten hct']",True
 eptacog alfa (activated),2,"['hemaryo', 'niastase rt']",False
@@ -1601,7 +1558,7 @@ erenumab-aooe,1,['aimovig'],True
 ergocalciferol,1,['ergocalciferol'],True
 ergonovine maleate,1,['ergonovine maleate injection usp'],True
 eribulin,1,"['eribulin baxter', 'halaven', 'mevlyq']",True
-eribulin mesilate,2,['halaven'],True
+eribulin mesilate,1,['halaven'],True
 eribulin mesylate,2,"['eribulin mesylate', 'halaven', 'nat-eribulin']",True
 erlotinib,1,['tarceva'],True
 erlotinib (erlotinib hydrochloride),1,"['apo-erlotinib', 'nat-erlotinib', 'pms-erlotinib', 'teva-erlotinib']",True
@@ -1617,13 +1574,11 @@ erythromycin,2,"['e-glades', 'erythro-statin', 'erythromycin', 'erythromycin oph
 erythromycin ethylsuccinate,1,['erythromycin ethylsuccinate'],True
 erythromycin lactobionate,1,['erythromycin lactobionate'],True
 erythromycin; benzoyl peroxide,1,['benzamycin'],True
-esaxerenone,1,['minnebro'],True
 escherichia coli lysate (strain laves),1,['colibiogen oral'],True
 escitalopram,1,['act escitalopram odt'],True
 escitalopram (escitalopram oxalate),1,"['ach-escitalopram', 'ag-escitalopram', 'ag-escitalopram tablets', 'apo-escitalopram', 'auro-escitalopram', 'bio-escitalopram', 'cipralex  -10mg', 'cipralex  -20mg', 'escitalopram', 'jamp escitalopram', 'kye-escitalopram', 'm-escitalopram', 'mar-escitalopram', 'mint-escitalopram', 'mylan-escitalopram', 'nat-escitalopram', 'nra-escitalopram', 'pms-escitalopram', 'pmsc-escitalopram', 'riva-escitalopram', 'sandoz escitalopram', 'taro-escitalopram', 'teva-escitalopram']",True
 escitalopram oxalate,1,"['escitalopram', 'escitalopram oxalate', 'lexapro']",True
 esculin; hydrocortisone (hydrocortisone acetate); framycetin sulfate; dibucaine hydrochloride,1,['teva-proctosone'],True
-esflurbiprofen,1,['loqoa'],True
 esketamine,1,['spravato'],True
 esketamine (esketamine hydrochloride),1,['spravato'],True
 esketamine as esketamine hydrochloride,1,['spravato'],True
@@ -1660,7 +1615,7 @@ etanercept,4,"['benepali', 'brenzys', 'enbrel', 'erelzi', 'lifmior', 'nepexto', 
 etanercept-szzs,1,['erelzi'],True
 etanercept-ykro,1,['eticovo'],True
 etarfolatide,1,['folcepri'],True
-etelcalcetide,3,['parsabiv'],True
+etelcalcetide,2,['parsabiv'],True
 eteplirsen,1,['exondys 51'],True
 ethacrynate sodium,1,['ethacrynate sodium'],True
 ethacrynic acid,2,"['edecrin', 'ethacrynic acid']",False
@@ -1697,17 +1652,15 @@ etravirine,3,"['etravirine', 'intelence']",True
 everolimus,4,"['afinitor', 'afinitor disperz', 'certican', 'everolimus', 'nat-everolimus', 'pms-everolimus', 'reddy-everolimus', 'sandoz everolimus', 'teva-everolimus', 'votubia', 'zortress']",True
 evinacumab,1,['evkeeza'],True
 evinacumab-dgnb,1,['evkeeza'],True
-evocalcet,1,['orkedia'],True
-evolocumab,5,['repatha'],True
+evolocumab,4,['repatha'],True
 ex vivo expanded autologous human corneal epithelial cells containing stem cells,1,['holoclar'],True
 exagamglogene autotemcel,2,['casgevy'],True
 exametazime,1,"['ceretec', 'drax exametazime']",True
 exemestane,2,"['act exemestane', 'aromasin', 'exemestane', 'med-exemestane']",True
 exenatide,2,"['bydureon', 'byetta', 'byetta and bydureon']",False
 exenatide synthetic,1,"['bydureon bcise', 'bydureon; bydureon pen', 'byetta', 'exenatide synthetic']",True
-ezetimibe,4,"['ach-ezetimibe', 'ag-ezetimibe', 'auro-ezetimibe', 'bio-ezetimibe', 'ezetimibe', 'ezetimibe and simvastatin', 'ezetrol', 'ezetrol and vytorin', 'gln-ezetimibe', 'jamp-ezetimibe', 'm-ezetimibe', 'mar-ezetimibe', 'mint-ezetimibe', 'nra-ezetimibe tablets', 'pms-ezetimibe', 'roszet', 'sandoz ezetimibe', 'taro-ezetimibe', 'teva-ezetimibe', 'vytorin', 'zetia']",False
+ezetimibe,3,"['ach-ezetimibe', 'ag-ezetimibe', 'auro-ezetimibe', 'bio-ezetimibe', 'ezetimibe', 'ezetimibe and simvastatin', 'ezetrol', 'ezetrol and vytorin', 'gln-ezetimibe', 'jamp-ezetimibe', 'm-ezetimibe', 'mar-ezetimibe', 'mint-ezetimibe', 'nra-ezetimibe tablets', 'pms-ezetimibe', 'roszet', 'sandoz ezetimibe', 'taro-ezetimibe', 'teva-ezetimibe', 'vytorin', 'zetia']",False
 ezetimibe + atorvastatin,1,['atozet composite pack / zeteze composite pack'],True
-ezetimibe / rosuvastatin calcium,1,['rosuzet'],True
 ezetimibe and atorvastatin,1,"['atozet / zeteze', 'atozet, zeteze']",True
 ezetimibe and rosuvastatin,1,"['ezalo composite pack / rosuzet composite pack', 'rosuzet, ezalo']",True
 ezetimibe and simvastatin,1,['vytorin'],True
@@ -1720,8 +1673,7 @@ famotidine,2,"['ag-famotidine', 'duexis', 'famotidine', 'famotidine omega  -(wit
 fampridine,3,"['fampridine accord', 'fampyra', 'pms-fampridine', 'taro-fampridine']",True
 faricimab,4,['vabysmo'],True
 faricimab-svoa,1,['vabysmo'],True
-favipiravir,1,['avigan'],True
-febuxostat,5,"['adenuric', 'feburic', 'febuxostat', 'febuxostat krka', 'febuxostat mylan', 'jamp febuxostat', 'uloric']",False
+febuxostat,4,"['adenuric', 'febuxostat', 'febuxostat krka', 'febuxostat mylan', 'jamp febuxostat', 'uloric']",False
 febuxostat (febuxostat hemihydrate),1,"['auro-febuxostat', 'febuxostat', 'm-febuxostat', 'mar-febuxostat', 'teva-febuxostat']",True
 fedratinib,1,['inrebic'],True
 fedratinib (fedratinib hydrochloride),1,['inrebic'],True
@@ -1768,7 +1720,6 @@ fibrinogen (human); thrombin (human),1,['vistaseal'],True
 fidanacogene elaparvovec,1,['durveqtix'],True
 fidaxomicin,4,"['dificid', 'dificlir', 'fidaxomicin']",False
 filgotinib,1,['jyseleca'],True
-filgotinib maleate,1,['jyseleca'],True
 filgrastim,3,"['accofil', 'biograstim', 'filgrastim hexal', 'filgrastim ratiopharm', 'grastofil', 'neupogen', 'nivestim', 'nivestym', 'nypozi', 'ratiograstim', 'tevagrastim', 'zarzio', 'zefylti']",False
 filgrastim-aafi,1,['nivestym'],True
 filgrastim-ayow,1,['releuko'],True
@@ -1777,7 +1728,7 @@ filgrastim-txid,1,['nypozi'],True
 fimbriae types 2 and 3 (fim); poliovirus type 1 mahoney (inactivated); diphtheria toxoid; pertactin; pertussis toxoid; poliovirus type 3 saukett (inactivated); tetanus toxoid; poliovirus type 2 mef1 (inactivated); filamentous haemagglutinin,1,['quadracel'],True
 finafloxacin,1,['xtoro'],True
 finasteride,2,"['ach-finasteride', 'ag-finasteride', 'auro-finasteride', 'auro-finasteride 1mg', 'bio-finasteride', 'entadfi', 'finasteride', 'finasteride and tadalafil', 'jamp-finasteride', 'm-finasteride', 'mint-finasteride', 'pms-finasteride', 'propecia', 'riva-finasteride', 'sandoz finasteride', 'sandoz finasteride a', 'teva-finasteride']",True
-finerenone,6,['kerendia'],True
+finerenone,5,['kerendia'],True
 fingolimod,3,"['fingolimod', 'fingolimod accord', 'fingolimod mylan', 'gilenya', 'gilenya, fynefta & filosir']",False
 fingolimod (fingolimod hydrochloride),1,"['ach-fingolimod', 'apo-fingolimod', 'gilenya', 'jamp fingolimod', 'mylan-fingolimod', 'pms-fingolimod', 'sandoz fingolimod', 'taro-fingolimod', 'teva-fingolimod']",True
 fingolimod hydrochloride,1,"['fingolimod hydrochloride', 'gilenya']",True
@@ -1863,11 +1814,9 @@ formoterol fumarate,1,"['bevespi aerosphere', 'dulera', 'foradil', 'foradil cert
 formoterol fumarate dihydrate,1,['oxeze turbuhaler'],True
 formoterol fumarate dihydrate; mometasone furoate,1,['zenhale'],True
 formoterol/ glycopyrronium bromide / budesonide,1,['riltrava aerosphere'],True
-forodesine hydrochloride,1,['mundesine'],True
 fosamprenavir calcium,1,"['fosamprenavir calcium', 'lexiva']",True
 fosaprepitant (fosaprepitant dimeglumine),1,['emend iv'],True
 fosaprepitant dimeglumine,2,"['emend', 'focinvez', 'fosaprepitant dimeglumine', 'ivemend']",False
-fosaprepitant meglumine,1,['proemend'],True
 foscarbidopa,1,['vyalev'],True
 foscarnet sodium,2,"['foscarnet sodium', 'vocarvi']",False
 fosdenopterin,1,['nulibry'],True
@@ -1891,7 +1840,6 @@ fostemsavir (fostemsavir tromethamine),1,['rukobia'],True
 fostemsavir trometamol,1,['rukobia'],True
 fostemsavir tromethamine,1,['rukobia'],True
 framycetin sulfate; esculin; hydrocortisone; dibucaine hydrochloride,1,['proctol ointment'],True
-freeze-dried smallpox vaccine prepared in cell culture,1,['freeze-dried smallpox vaccine prepared in cell culture lc16 “kmb”'],True
 fremanezumab,3,['ajovy'],True
 fremanezumab-vfrm,1,['ajovy'],True
 frovatriptan (frovatriptan succinate monohydrate),1,"['apo-frovatriptan', 'jamp frovatriptan']",True
@@ -1904,7 +1852,7 @@ furosemide injection,1,['lasix onyu'],True
 fusidic acid,1,['fucithalmic'],True
 fusidic acid (fusidic acid hemihydrate),1,['taro-fusidic acid'],True
 fusidic acid; hydrocortisone acetate,1,['fucidin h'],True
-futibatinib,4,['lytgobi'],True
+futibatinib,3,['lytgobi'],True
 gabapentin,2,"['apo-gabapentin', 'auro-gabapentin', 'auro-gabapentin tablets', 'gabapentin', 'gabapentin capsules usp', 'gabapentin tablets usp', 'gln-gabapentin', 'gralise', 'jamp gabapentin capsules', 'jamp-gabapentin', 'mint-gabapentin', 'neurontin', 'pms-gabapentin', 'pro-gabapentin', 'riva-gabapentin', 'teva-gabapentin']",True
 gabapentin enacarbil,1,['horizant'],True
 gabapentin encarbil,1,['gabapentin encarbil'],True
@@ -1920,7 +1868,7 @@ gadoversetamide,1,"['optimark', 'optimark in plastic container']",True
 gadoxetate disodium,2,"['eovist', 'primovist']",False
 galantamine (galantamine hydrobromide),1,"['auro-galantamine er', 'galantamine er', 'mylan-galantamine er', 'pat-galantamine er']",True
 galantamine hydrobromide,1,"['galantamine hydrobromide', 'razadyne', 'razadyne er']",True
-galcanezumab,4,['emgality'],True
+galcanezumab,3,['emgality'],True
 galcanezumab-gnlm,1,['emgality'],True
 gallium (68ga) gozetotide,1,"['illuccix', 'locametz']",True
 gallium 68 ga chloride,1,"['galli eo', 'galliapharm']",True
@@ -1937,12 +1885,10 @@ ganirelix,1,['ganirelix gedeon richter'],True
 ganirelix (ganirelix acetate),1,['orgalutran'],True
 ganirelix acetate,1,"['fyremadel', 'ganirelix acetate']",True
 garadacimab,2,['andembry'],True
-garenoxacin mesilate hydrate,1,['geninax'],True
 gatifloxacin,2,"['gatifloxacin', 'jamp gatifloxacin', 'zymar', 'zymaxid']",True
 gatifloxacin (gatifloxacin hemihydrate),1,['apo-gatifloxacin'],True
 gbp510,1,['skycovion'],True
 gefapixant,2,"['gefzuris', 'lyfnua']",True
-gefapixant citrate,1,['lyfnua'],True
 gefitinib,4,"['apo-gefitinib', 'gefitinib', 'gefitinib mylan', 'iressa', 'jamp gefitinib', 'nat-gefitinib', 'sandoz gefitinib']",True
 gemcitabine,1,['gemcitabine'],True
 gemcitabine (gemcitabine hydrochloride),1,"['gemcitabine for injection', 'gemcitabine injection']",True
@@ -1956,7 +1902,7 @@ gentamicin sulfate,1,"['gentak', 'gentamicin sulfate']",True
 gepirone hydrochloride,1,['exxua'],True
 gepotidacin mesylate,1,['blujepa'],True
 germanium (68ge) chloride / gallium (68ga) chloride,1,"['galliapharm', 'gegant']",True
-gilteritinib,3,['xospata'],True
+gilteritinib,2,['xospata'],True
 gilteritinib (gilteritinib fumarate),1,['xospata'],True
 gilteritinib fumarate,1,['xospata'],True
 "gilteritinib, gilteritinib hemifumarate",1,['xospata'],True
@@ -1970,7 +1916,6 @@ glasdegib maleate,1,['daurismo'],True
 glatiramer acetate,2,"['copaxone', 'glatect', 'glatiramer acetate', 'glatiramer acetate injection', 'glatopa']",True
 glecaprevir,1,['mavyret'],True
 glecaprevir / pibrentasvir,2,['maviret'],True
-glecaprevir hydrate/pibrentasvir,1,['maviret'],True
 glecaprevir/pibrentasvir,1,['maviret'],True
 glibenclamide,1,['amglidia'],True
 gliclazide,2,"['ag-gliclazide mr', 'apo-gliclazide', 'apo-gliclazide mr', 'diamicron mr', 'gliclazide', 'gliclazide gppl mr 30; gliclazide gxp mr 60; gliclazide genpar mr 60', 'gliclazide mr', 'jamp gliclazide-mr', 'mint-gliclazide mr', 'mylan-gliclazide mr', 'sandoz gliclazide mr', 'taro-gliclazide mr', 'teva-gliclazide']",False
@@ -1998,9 +1943,8 @@ glycopyrronium,1,['seebri breezhaler/tovanor breezhaler'],True
 glycopyrronium (glycopyrronium bromide),1,['seebri breezhaler'],True
 glycopyrronium (glycopyrronium bromide); formoterol fumarate dihydrate; budesonide,1,['breztri aerosphere'],True
 glycopyrronium (glycopyrronium bromide); indacaterol (indacaterol maleate),1,['ultibro breezhaler'],True
-glycopyrronium bromide,2,"['enurev breezhaler', 'seebri', 'seebri breezhaler', 'sialanar', 'tovanor breezhaler']",False
+glycopyrronium bromide,1,"['enurev breezhaler', 'seebri breezhaler', 'sialanar', 'tovanor breezhaler']",True
 glycopyrronium bromide / formoterol,1,['bevespi aerosphere'],True
-glycopyrronium bromide /formoterol fumarate hydrate,1,['bevespi aerosphere'],True
 glycopyrronium tosylate,1,['qbrexza'],True
 golimumab,4,"['simponi', 'simponi and simponi smartject injector', 'simponi aria', 'simponi i.v.']",True
 golodirsen,1,['vyondys 53'],True
@@ -2020,7 +1964,6 @@ granisetron,3,"['sancuso', 'sustol']",True
 granisetron (granisetron hydrochloride),1,"['apo-granisetron', 'granisetron hydrochloride injection', 'nat-granisetron']",True
 granisetron hydrochloride,1,"['granisetron hydrochloride', 'granisetron hydrochloride preservative free', 'granisetron hydrochloride; granisetron hydrochloride preservative free', 'granisol', 'kytril']",True
 grass pollen allergen extract,1,['oralair'],True
-grazoprevir,1,['grazyna'],True
 grazoprevir / elbasvir,1,['zepatier'],True
 grepafloxacin hydrochloride,1,['raxar'],True
 "griseofulvin, microsize",1,['griseofulvin'],True
@@ -2040,10 +1983,10 @@ guaifenesin; phenylephrine hydrochloride; acetaminophen; dextromethorphan hydrob
 guaifenesin; phenylephrine hydrochloride; dextromethorphan hydrobromide,1,['dayquil cough dm + congestion'],True
 guaifenesin; pseudoephedrine hydrochloride; acetaminophen; dextromethorphan hydrobromide,1,"['cold and sinus complete liquid gels', 'extra strength tylenol complete cold, cough & flu', 'flu, cough & cold complete']",True
 guanabenz acetate,1,['guanabenz acetate'],True
-guanfacine,3,"['intuniv', 'paxneury']",True
+guanfacine,2,"['intuniv', 'paxneury']",True
 guanfacine (guanfacine hydrochloride),1,"['apo-guanfacine xr', 'intuniv xr', 'jamp guanfacine xr']",True
 guanfacine hydrochloride,1,"['guanfacine hydrochloride', 'intuniv']",True
-guselkumab,5,"['tremfya', 'tremfya / janssen guselkumab', 'tremfya one-press']",True
+guselkumab,4,"['tremfya', 'tremfya / janssen guselkumab', 'tremfya one-press']",True
 gusperimus,1,['spanidin'],True
 haemagglutinin-strain a (h1n1); haemagglutinin-strain a (h3n2); haemagglutinin-strain b,1,['fluad'],True
 haemagglutinin-strain a (h1n1); haemagglutinin-strain b (victoria); haemagglutinin-strain b (yamagata); haemagglutinin-strain a (h3n2),1,"['fluzone high-dose quadrivalent', 'fluzone quadrivalent']",True
@@ -2081,7 +2024,7 @@ hexaminolevulinate hydrochloride,2,"['cysview', 'cysview kit']",False
 hexylresorcinol,1,['strepsils anaesthetic formula'],True
 hexylresorcinol; levomenthol,1,['strepsils extra black cherry'],True
 histamine (histamine dihydrochloride),1,['positive skin test control-histamine'],True
-histamine dihydrochloride,2,"['allergen scratch extract positive control “torii”', 'ceplene']",False
+histamine dihydrochloride,1,['ceplene'],True
 histidine; dextrose; tryptophan; l-arginine; l-isoleucine; l-phenylalanine; l-tyrosine; l-lysine hydrochloride; l-threonine; l-proline; glycine; l-valine; l-leucine; alanine; methionine; serine,1,['clinimix'],True
 histidine; l-threonine; glycine; l-isoleucine; l-phenylalanine hydrochloride; l-arginine; dextrose; l-valine; methionine; l-alanine; l-leucine hydrochloride; l-lysine hydrochloride; tryptophan; l-proline; l-tyrosine,1,['clinimix'],True
 histidine; l-valine; glycine; l-tyrosine; l-leucine; serine; l-arginine; tryptophan; methionine; dextrose; l-proline; alanine; l-phenylalanine; l-threonine; l-lysine hydrochloride; l-isoleucine,1,['clinimix'],True
@@ -2180,7 +2123,7 @@ ibandronate sodium,1,"['boniva', 'ibandronate sodium']",True
 ibandronic acid,1,"['iasibon', 'ibandronic acid accord', 'ibandronic acid hexal', 'ibandronic acid sandoz', 'ibandronic acid teva']",True
 ibrexafungerp citrate,1,['brexafemme'],True
 ibritumomab tiuxetan,1,['zevalin'],True
-ibrutinib,4,"['ibrutinib', 'imbruvica']",True
+ibrutinib,3,"['ibrutinib', 'imbruvica']",True
 ibuprofen,4,"['advil 12 hour', 'advil arthritis pain', 'advil cold and sinus', 'advil congestion relief', 'advil extra strength caplets', 'advil extra strength liqui-gels', 'advil liqui-gels', 'advil liqui-gels; advil migraine liqui-gels', 'advil mini-gels', 'advil muscle and joint', 'advil pediatric drops', 'advil pediatric drops fever from colds or flu', 'caldolor', ""children's advil"", ""children's advil cold"", ""children's advil fever from colds or flu"", ""children's advil; children's advil-flavored"", ""children's advil; junior strength advil"", ""children's elixsure"", ""children's ibuprofen"", ""children's ibuprofen suspension"", ""children's motrin"", ""children's motrin cold"", ""children's motrin; junior strength motrin"", 'combunox', 'extra strength ibuprofen', 'extra strength ibuprofen liquid capsules', 'extra strength ibuprofen liquid gel capsules', 'ibuprofen', 'ibuprofen 200 mg', 'ibuprofen 400 mg', 'ibuprofen and phenylephrine hydrochloride', 'ibuprofen and pseudoephedrine hydrochloride', 'ibuprofen caplets', 'ibuprofen caplets 200 mg', 'ibuprofen extra strength caplets', 'ibuprofen gen.orph', 'ibuprofen liquid capsules', 'ibuprofen liquid gel capsules', 'ibuprofen liquid gels', 'ibuprofen muscle and joint', 'ibuprofen tablets', 'ibuprofen tablets 200 mg', 'ibuprohm cold and sinus', ""infant's advil; pediatric advil"", ""infants' motrin"", 'junior strength advil', 'junior strength advil fever from colds or flu', 'junior strength ibuprofen', 'junior strength motrin', 'midol liquid gels', 'motrin', 'motrin 300mg', 'motrin 400mg', 'motrin liquid gels 200mg', 'motrin liquid gels 400 mg', 'muscle & joint', 'oxycodone hydrochloride and ibuprofen', 'pedea']",False
 ibuprofen (ibuprofen sodium dihydrate); acetaminophen,1,['combogesic iv'],True
 ibuprofen and diphenhydramine hydrochloride,1,['ibuprofen/diphenhydramine hydrochloride wyeth'],True
@@ -2201,7 +2144,7 @@ icodextrin,1,['extraneal'],True
 icodextrin; calcium chloride; magnesium chloride; sodium chloride; sodium lactate,1,['extraneal'],True
 icosapent ethyl,5,"['icosapent ethyl', 'vascepa', 'vazkepa']",False
 idarubicin hydrochloride,2,"['idamycin pfs', 'idarubicin', 'idarubicin hydrochloride']",False
-idarucizumab,5,"['praxbind', 'prizbind']",False
+idarucizumab,4,['praxbind'],True
 idebenone,3,"['puldysa', 'raxone', 'sovrima']",True
 idecabtagene vicleucel,1,['abecma'],True
 idelalisib,4,['zydelig'],True
@@ -2214,7 +2157,6 @@ imatinib (imatinib mesylate),1,"['ach-imatinib', 'apo-imatinib', 'gleevec', 'ima
 imatinib mesilate,1,"['glivec', 'ruvise']",True
 imatinib mesylate,1,"['gleevec', 'imatinib mesylate', 'imkeldi']",True
 imciromab pentetate,1,['myoscint'],True
-imeglimin hydrochloride,1,['twymeeg'],True
 imetelstat,1,['rytelo'],True
 imetelstat sodium,1,['rytelo'],True
 imiglucerase,1,['cerezyme'],True
@@ -2264,7 +2206,7 @@ inebilizumab,3,['uplizna'],True
 inebilizumab-cdon,1,['uplizna'],True
 infigratinib,2,"['febseltiq', 'truseltiq']",False
 infigratinib phosphate,1,['truseltiq'],True
-infliximab,5,"['avsola', 'flixabi', 'inflectra', 'ixifi', 'remdantry', 'remicade', 'remsima', 'remsima sc', 'remsima, emisima, flixceli, inflectra', 'renflexis', 'zessly']",False
+infliximab,4,"['avsola', 'flixabi', 'inflectra', 'ixifi', 'remdantry', 'remicade', 'remsima', 'remsima sc', 'remsima, emisima, flixceli, inflectra', 'renflexis', 'zessly']",False
 infliximab-abda,1,['renflexis'],True
 infliximab-axxq,1,['avsola'],True
 infliximab-dyyb,1,"['inflectra', 'zymfentra']",True
@@ -2286,7 +2228,7 @@ ingenol mebutate,3,"['ingenol mebutate', 'picato', 'picato 0.015% and 0.05% gel'
 inosine pranobex,1,['imunovir'],True
 inotersen,2,"['tegsedi', 'tegsedi®']",False
 inotersen sodium,1,['tegsedi'],True
-inotuzumab ozogamicin,5,['besponsa'],True
+inotuzumab ozogamicin,4,['besponsa'],True
 insulin (human),1,['myxredlin'],True
 insulin aspart,4,"['fiasp', 'fiasp, fiasp penfill, and fiasp flex touch', 'fiasp; fiasp flextouch; fiasp penfill', 'insulin aspart sanofi', 'kirsty', 'kixelle', 'novorapid', 'ryzodeg 70/30', 'trurapi', 'truvelog', 'truvelog mix 30']",False
 insulin aspart protamine recombinant,1,"['novolog mix 50/50', 'novolog mix 70/30; novolog mix 70/30 flexpen; novolog mix 70/30 penfill']",True
@@ -2294,16 +2236,16 @@ insulin aspart protamine; insulin aspart,1,['novomix 30'],True
 insulin aspart recombinant,1,['novolog; novolog flexpen; novolog flextouch; novolog innolet; novolog penfill'],True
 insulin aspart-szjj,1,['merilog; merilog solostar'],True
 insulin biosynthetic human br,1,['humulin r (kwikpen)'],True
-insulin degludec,5,"['tresiba', 'tresiba flextouch, tresiba penfill', 'xultophy 100/3.6']",False
+insulin degludec,4,"['tresiba', 'tresiba flextouch, tresiba penfill', 'xultophy 100/3.6']",False
 insulin degludec / liraglutide,1,['xultophy'],True
 "insulin degludec, insulin aspart",1,"['ryzodeg 70/30 flextouch, ryzodeg 70/30 penfill']",True
-insulin degludec/insulin aspart,2,['ryzodeg'],True
+insulin degludec/insulin aspart,1,['ryzodeg'],True
 insulin degludec/liraglutide,1,['xultophy'],True
 insulin degludec; insulin aspart,1,['ryzodeg 70/30 flextouch; ryzodeg 70/30 penfill'],True
 insulin degludec; liraglutide,1,['xultophy'],True
 insulin detemir,3,"['levemir', 'levemir penfill']",False
 insulin detemir recombinant,1,['levemir; levemir flexpen; levemir flextouch; levemir innolet; levemir penfill'],True
-insulin glargine,5,"['abasria', 'abasria, abasria kwikpen', 'basaglar', 'insulin glargine bs', 'lantus', 'lusduna', 'semglee', 'soliqua 100/33', 'toujeo / edomlus / lambeto', 'toujeo doublestar', 'toujeo solostar']",False
+insulin glargine,4,"['abasria', 'abasria, abasria kwikpen', 'basaglar', 'lantus', 'lusduna', 'semglee', 'soliqua 100/33', 'toujeo / edomlus / lambeto', 'toujeo doublestar', 'toujeo solostar']",False
 insulin glargine / lixisenatide,1,['suliqua'],True
 insulin glargine recombinant,1,"['lantus; lantus solostar', 'toujeo max solostar; toujeo solostar']",True
 insulin glargine-aglr,1,['rezvoglar'],True
@@ -2313,7 +2255,7 @@ insulin glulisine (recombinant dna origin),1,['apidra'],True
 insulin glulisine recombinant,1,['apidra; apidra solostar'],True
 insulin human,2,"['combimarv', 'isomarv medium', 'myxredlin', 'solumarv']",False
 insulin human (rdna),1,['inpremzia'],True
-insulin icodec,4,"['awiqli', 'awiqli flextouch']",False
+insulin icodec,3,"['awiqli', 'awiqli flextouch']",False
 insulin injection human biosynthetic,1,['entuzity kwikpen'],True
 insulin injection pork,1,['hypurin regular insulin pork'],True
 insulin isophane human biosynthetic,1,['humulin n (kwikpen)'],True
@@ -2346,11 +2288,10 @@ iopromide,1,"['ultravist (pharmacy bulk)', 'ultravist 150; ultravist 240; ultrav
 iothalamate sodium,1,['angio-conray'],True
 ioversol,2,"['optiray 240; optiray 300; optiray 320; optiray 350', 'optiray 320 (ultraject)']",False
 ioxilan,1,['oxilan-300; oxilan-350'],True
-ipilimumab,5,"['yervoy', 'yervoy/winglore']",False
-ipragliflozin,1,['suglat'],True
+ipilimumab,4,"['yervoy', 'yervoy/winglore']",False
 ipratropium bromide,2,"['atrovent', 'atrovent hfa', 'ipratropium bromide', 'ipravent', 'jamp ipratropium hfa', 'pms-ipratropium', 'teva-ipratropium sterinebs']",True
 ipratropium bromide (ipratropium bromide monohydrate); salbutamol (salbutamol sulfate),1,['combivent respimat'],True
-iptacopan,3,['fabhalta'],True
+iptacopan,2,['fabhalta'],True
 iptacopan (iptacopan hydrochloride),1,['fabhalta'],True
 iptacopan hydrochloride,1,['fabhalta'],True
 irbesartan,3,"['ag-irbesartan', 'avapro', 'irbesartan', 'irbesartan krka', 'irbesartan teva', 'irbesartan; hydrochlorothiazide', 'jamp irbesartan', 'm-irbesartan', 'mint-irbesartan', 'pms-irbesartan', 'riva-irbesartan', 'sabervel', 'sandoz irbesartan', 'taro-irbesartan', 'teva-irbesartan']",False
@@ -2366,7 +2307,7 @@ iron (ferric maltol),1,['accrufer'],True
 iron (iron sucrose),1,"['pms-iron sucrose', 'venofer']",True
 iron (sodium ferric gluconate complex in sucrose injection),1,['ferrlecit'],True
 iron (sucroferric oxyhydroxide),1,['velphoro'],True
-isatuximab,5,['sarclisa'],True
+isatuximab,4,['sarclisa'],True
 isatuximab-irfc,1,['sarclisa'],True
 isavuconazole,2,['cresemba'],True
 isavuconazole (isavuconazonium sulfate),1,['cresemba'],True
@@ -2385,7 +2326,7 @@ isosorbide-5-mononitrate,1,"['apo-ismn', 'pms-ismn', 'pro-ismn - 60']",True
 isosulfan blue,1,['isosulfan blue'],True
 isotretinoin,2,"['absorica', 'absorica ld', 'amnesteem', 'claravis', 'clarus', 'epuris', 'isotretinoin', 'myorisan', 'sotret', 'zenatane']",True
 isradipine,1,['isradipine'],True
-istradefylline,3,"['nourianz', 'nouriast', 'nouryant']",False
+istradefylline,2,"['nourianz', 'nouryant']",False
 itraconazole,2,"['itraconazole', 'jamp itraconazole oral solution', 'mint-itraconazole', 'odan itraconazole', 'onmel', 'sporanox', 'tolsura']",False
 ivabradine,3,"['coralan', 'corlanor', 'ivabradine accord', 'ivabradine anpharm', 'ivabradine jensonr', 'ivabradine zentiva']",False
 ivabradine (ivabradine hydrochloride),1,['lancora'],True
@@ -2400,8 +2341,8 @@ ivosidenib,5,"['tibsovo', 'tidhesco']",True
 ixabepilone,2,"['ixempra', 'ixempra kit']",False
 ixazomib,2,['ninlaro'],True
 ixazomib (ixazomib citrate),1,['ninlaro'],True
-ixazomib citrate,2,['ninlaro'],True
-ixekizumab,5,['taltz'],True
+ixazomib citrate,1,['ninlaro'],True
+ixekizumab,4,['taltz'],True
 japanese encephalitis chimeric virus,1,['imojev'],True
 japanese encephalitis vaccine,1,['imojev'],True
 "japanese encephalitis vaccine (inactivated, adsorbed)",1,['ixiaro'],True
@@ -2434,7 +2375,6 @@ lamotrigine,2,"['ag-lamotrigine', 'apo-lamotrigine', 'auro-lamotrigine', 'jamp l
 lanadelumab,3,['takhzyro'],True
 lanadelumab-flyo,1,['takhzyro'],True
 landiolol hydrochloride,3,"['rapibloc', 'rapiblyk', 'sibboran']",False
-laninamivir octanoate hydrate,1,['inavir'],True
 lanreotide (lanreotide acetate),1,['somatuline autogel'],True
 lanreotide acetate,1,"['lanreotide acetate', 'somatuline depot']",True
 lansoprazole,2,"['apo-lansoprazole', 'lansoprazole', 'm-lansoprazole', 'mylan-lansoprazole', 'prevacid', 'prevacid 24 hr', 'prevacid fastab', 'prevacid iv', 'prevacid naprapac 250 (copackaged); prevacid naprapac 375 (copackaged); prevacid naprapac 500 (copackaged)', 'pro-lansoprazole', 'riva-lansoprazole', 'sandoz lansoprazole', 'taro-lansoprazole', 'teva-lansoprazole']",True
@@ -2460,30 +2400,27 @@ latanoprostene bunod,2,"['latanoprostene bunod', 'vyzulta']",True
 lazertinib,1,['lazcluze'],True
 lazertinib (lazertinib mesylate),1,['lazcluze'],True
 lazertinib mesylate,1,['lazcluze'],True
-lebrikizumab,4,['ebglyss'],True
+lebrikizumab,3,['ebglyss'],True
 lebrikizumab-lbkz,1,['ebglyss'],True
-lecanemab,3,['leqembi'],True
+lecanemab,2,['leqembi'],True
 lecanemab-irmb,1,['leqembi'],True
 ledipasvir,1,['harvoni'],True
 ledipasvir / sofosbuvir,2,['harvoni'],True
-ledipasvir acetonate/sofosbuvir,1,['harvoni'],True
 lefamulin,1,['xenleta'],True
 lefamulin acetate,1,['xenleta'],True
 leflunomide,3,"['accel-leflunomide', 'apo-leflunomide', 'arava', 'leflunomide', 'leflunomide medac', 'leflunomide ratiopharm', 'leflunomide teva', 'leflunomide winthrop', 'mar-leflunomide', 'repso', 'sandoz leflunomide', 'teva-leflunomide']",False
-lemborexant,4,['dayvigo'],True
+lemborexant,3,['dayvigo'],True
 lenacapavir,2,['sunlenca'],True
 lenacapavir (lenacapavir sodium),1,['sunlenca'],True
 lenacapavir sodium,1,['sunlenca'],True
 lenalidomide,4,"['apo-lenalidomide', 'jamp lenalidomide', 'lenalidomide', 'lenalidomide accord', 'lenalidomide celgene europe', 'lenalidomide krka', 'lenalidomide krka d.d.', 'lenalidomide krka d.d. novo mesto', 'lenalidomide mylan', 'nat-lenalidomide', 'reddy-lenalidomide', 'revlimid', 'sandoz lenalidomide', 'taro-lenalidomide']",True
-lenalidomide hydrate,1,['revlimid'],True
 leniolisib phosphate,1,['joenja'],True
 lenvatinib,2,"['kisplyx', 'lenvima']",True
 lenvatinib (lenvatinib mesylate),1,['lenvima'],True
-lenvatinib mesilate,1,['lenvima'],True
 lenvatinib mesylate,1,"['lenvatinib', 'lenvima']",True
 leriglitazone,1,['nezglyal'],True
 lesinurad,2,['zurampic'],True
-letermovir,4,"['letermovir', 'prevymis']",True
+letermovir,3,"['letermovir', 'prevymis']",True
 letibotulinumtoxina,2,['letybo'],True
 letibotulinumtoxina-wlbg,1,['letybo'],True
 letrozole,2,"['ach-letrozole', 'ag-letrozole', 'ag-letrozole tablets', 'apo-letrozole', 'bio-letrozole', 'femara', 'jamp letrozole tablets', 'jamp-letrozole', 'kisqali femara co-pack (copackaged)', 'letrozole', 'letrozole;vribociclib succinate', 'm-letrozole', 'mar-letrozole', 'mint-letrozole', 'nat-letrozole', 'nra-letrozole', 'pms-letrozole', 'riva-letrozole', 'sandoz letrozole', 'teva-letrozole']",True
@@ -2555,7 +2492,7 @@ liothyronine sodium,1,['liothyronine sodium'],True
 lipase; amylase; protease,1,['creon minimicrospheres 35'],True
 lipegfilgrastim,2,['lonquex'],True
 "lipids, glucose, amino acids",1,['smofkabiven and smofkabiven electrolyte free emulsion'],True
-liraglutide,5,"['liraglutide', 'saxenda', 'victoza', 'victoza, saxenda']",True
+liraglutide,4,"['liraglutide', 'saxenda', 'victoza', 'victoza, saxenda']",True
 lisdexamfetamine dimesilate,1,['vyvanse'],True
 lisdexamfetamine dimesylate,2,"['apo-lisdexamfetamine capsules', 'apo-lisdexamfetamine chewable tablets', 'lisdexamfetamine dimesylate', 'pro-lisdexamfetamine', 'sandoz lisdexamfetamine capsules', 'taro-lisdexamfetamine chewable tablets', 'teva-lisdexamfetamine', 'vyvanse']",True
 lisinopril,2,"['apo-lisinopril', 'lisinopril', 'lisinopril (type z)', 'pro-lisinopril - 10', 'pro-lisinopril - 20', 'pro-lisinopril - 5', 'qbrelis', 'teva-lisinopril (type z)']",True
@@ -2569,7 +2506,7 @@ lithium citrate,1,['lithium citrate'],True
 live lactobacillus plantarum p 17630,1,['softigyn'],True
 "live, attenuated dengue virus serotype 1; live, attenuated dengue virus serotype 2; live, attenuated dengue virus serotype 3; live, attenuated dengue virus serotype 4",1,['qdenga'],True
 "live, attenuated, chimeric yellow fever dengue virus",1,['dengvaxia'],True
-lixisenatide,4,"['adlyxin', 'lyxumia']",False
+lixisenatide,3,"['adlyxin', 'lyxumia']",False
 lixisenatide; insulin glargine,1,['soliqua'],True
 lofexidine hydrochloride,1,"['lofexidine hydrochloride', 'lucemyra']",True
 lomitapide,1,['lojuxta'],True
@@ -2580,7 +2517,7 @@ lonapegsomatropin,1,['lonapegsomatropin ascendis pharma'],True
 lonapegsomatropin-tcgd,1,['skytrofa'],True
 loncastuximab tesirine,1,['zynlonta'],True
 loncastuximab tesirine-lpyl,1,['zynlonta'],True
-lonoctocog alfa,3,['afstyla'],True
+lonoctocog alfa,2,['afstyla'],True
 loperamide hydrochloride,2,"['diarrhea relief', 'diarrhea relief fast dissolve', 'imodium a-d ez chews', 'imodium calming liquid', 'imodium liqui-gels', 'imodium multi-symptom relief', 'imodium quick dissolve', 'jamp loperamide', 'loperamide hydrochloride', 'loperamide hydrochloride and simethicone', 'loperamide-2', 'pms-loperamide - caplet 2mg', 'riva-loperamide', 'teva-loperamide']",False
 loperamide hydrochloride; simethicone,1,['imodium complete'],True
 lopinavir,1,"['kaletra', 'lopinavir and ritonavir', 'lopinavir; ritonavir']",True
@@ -2589,7 +2526,7 @@ loratadine,2,"['24 hour allergy remedy', 'alavert', 'allergy remedy', 'allertin'
 lorazepam,2,"['ativan', 'lorazepam', 'lorazepam injection usp', 'lorazepam preservative free', 'lorazepam sublingual', 'loreev xr']",False
 lorcaserin,1,['belviq'],True
 lorcaserin hydrochloride,1,['lorcaserin hydrochloride'],True
-lorlatinib,5,"['lorbrena', 'lorviqua']",False
+lorlatinib,4,"['lorbrena', 'lorviqua']",False
 losartan potassium,2,"['arbli', 'auro-losartan', 'cozaar', 'jamp-losartan', 'losartan', 'losartan potassium', 'mint-losartan', 'pms-losartan', 'sandoz losartan', 'teva-losartan']",True
 losartan potassium; hydrochlorothiazide,1,"['auro-losartan hct', 'losartan/hctz', 'mint-losartan/hctz', 'mint-losartan/hctz ds', 'pms-losartan-hctz', 'sandoz losartan hct', 'teva-losartan/hctz']",True
 loteprednol etabonate,3,"['alrex', 'eysuvis', 'inveltys', 'lotemax', 'lotemax gel', 'lotemax ointment', 'lotemax sm', 'loteprednol etabonate', 'zylet']",True
@@ -2614,7 +2551,7 @@ lurasidone hydrochloride,3,"['auro-lurasidone', 'jamp lurasidone', 'latuda', 'lu
 lurbinectedin,4,['zepzelca'],True
 luspatercept,3,['reblozyl'],True
 luspatercept-aamt,1,['reblozyl'],True
-lusutrombopag,3,"['lusutrombopag shionogi', 'mulpleta']",False
+lusutrombopag,2,"['lusutrombopag shionogi', 'mulpleta']",False
 lutetium (177 lu) chloride,1,['endolucinbeta'],True
 lutetium (177lu) chloride,2,"['illuzyce', 'lutetium (177lu) chloride', 'theralugand']",False
 lutetium (177lu) oxodotreotide,2,['lutathera'],True
@@ -2699,7 +2636,7 @@ melphalan (melphalan hydrochloride); buffer solution,1,['alkeran'],True
 melphalan flufenamide,1,['pepaxti'],True
 melphalan hydrochloride,1,"['evomela', 'hepzato', 'ivra', 'melphalan hydrochloride']",True
 memantine,2,"['maruxa', 'memantine accord', 'memantine lek', 'memantine merz', 'memantine mylan', 'memantine ratiopharm', 'memantine;donepezil hydrochlorides', 'nemdatine']",False
-memantine hydrochloride,4,"['act memantine', 'apo-memantine', 'ebixa', 'memantine', 'memantine fgk', 'memantine hydrochloride', 'memary', 'mint-memantine', 'namenda', 'namenda xr', 'pms-memantine', 'riva-memantine', 'sandoz memantine fct']",False
+memantine hydrochloride,3,"['act memantine', 'apo-memantine', 'ebixa', 'memantine', 'memantine fgk', 'memantine hydrochloride', 'mint-memantine', 'namenda', 'namenda xr', 'pms-memantine', 'riva-memantine', 'sandoz memantine fct']",False
 memantine hydrochloride / donepezil hydrochloride,1,"['acrescent', 'balaxur']",True
 "meningococcal (groups a, c, w-135, y) polysaccharide tetanus toxoid conjugate vaccine",1,['nimenrix'],True
 "meningococcal (groups a, c, y and w-135) polysaccharide diphtheria toxoid conjugate vaccine",1,['menactra'],True
@@ -2727,7 +2664,7 @@ menthol; lidocaine hydrochloride,1,['tpr20'],True
 menthol; pramoxine hydrochloride,1,['gold bond medicated anti-itch cream'],True
 meperidine hydrochloride,1,"['meperidine hydrochloride', 'meperidine hydrochloride preservative free']",True
 mepivacaine hydrochloride,2,"['3% polocaine dental', 'carbocaine 1%', 'carbocaine 2%', 'carbocaine 3%', 'mepivacaine hydrochloride']",False
-mepolizumab,5,"['bosatria', 'nucala']",True
+mepolizumab,4,"['bosatria', 'nucala']",True
 meprobamate,1,['meprobamate'],True
 mequinol,1,['solage'],True
 mercaptamine,1,"['cystadrops', 'dropcys', 'procysbi']",True
@@ -2797,7 +2734,7 @@ metoclopramide hydrochloride,2,"['gimoti', 'mar-metoclopramide', 'metoclopramide
 metolazone,1,['metolazone'],True
 metoprolol succinate,1,"['kapspargo sprinkle', 'metoprolol succinate']",True
 metoprolol tartrate,2,"['aa-metoprolol sr', 'ag-metoprolol-l', 'apo-metoprolol', 'jamp-metoprolol-l', 'lopressor', 'metoprolol', 'metoprolol tartrate', 'metoprolol tartrate injection usp', 'metoprolol-l', 'pms-metoprolol-l', 'riva-metoprolol-l', 'teva-metoprolol']",False
-metreleptin,4,"['metreleptin', 'myalept', 'myalepta']",False
+metreleptin,3,"['myalept', 'myalepta']",False
 metronidazole,2,"['apo-metronidazole', 'auro-metronidazole', 'flagyl', 'flagyl er', 'likmez', 'm-metronidazole', 'metrocream', 'metrogel', 'metrogel 1%', 'metrolotion', 'metromidol', 'metronidazole', 'metronidazole in plastic container', 'mint-metronidazole', 'noritate', 'nuvessa', 'vandazole']",True
 metyrosine,1,['metyrosine'],True
 mexiletine,1,['namuscla'],True
@@ -2817,7 +2754,7 @@ mifamurtide,1,['mepact'],True
 mifepristone,3,"['corluxin', 'korlym', 'mifeprex', 'mifepristone', 'mifepristone linepharma']",False
 mifepristone & misoprostol,1,['ms-2 step composite pack'],True
 mifepristone/misoprostol,1,['ms-2 step'],True
-migalastat,3,['galafold'],True
+migalastat,2,['galafold'],True
 migalastat (migalastat hydrochloride),1,['galafold'],True
 migalastat hydrochloride,1,['galafold'],True
 miglitol,1,"['glyset', 'miglitol']",True
@@ -2836,9 +2773,9 @@ minocycline hydrochloride,1,"['amzeeq', 'arestin', 'emrosi', 'minocycline hydroc
 minoxidil,2,"['hair regrowth formula', 'jamp minoxidil solution', ""men's minoxidil foam"", ""men's rogaine foam 5%"", ""men's rogaine; women's rogaine"", 'minoxidil', 'minoxidil (for men)', 'minoxidil (for men); minoxidil (for women)', 'minoxidil (for women)', 'minoxidil extra strength (for men)', 'rogaine extra strength (for men)', 'theroxidil', ""women's minoxidil foam"", ""women's rogaine foam 5%""]",False
 mipomersen,1,['kynamro'],True
 mipomersen sodium,1,['kynamro'],True
-mirabegron,5,"['betanis', 'betmiga', 'mirabegron', 'myrbetriq', 'myrbetriq granule']",False
+mirabegron,4,"['betmiga', 'mirabegron', 'myrbetriq', 'myrbetriq granule']",False
 mirdametinib,1,['gomekli'],True
-mirikizumab,5,['omvoh'],True
+mirikizumab,4,['omvoh'],True
 mirikizumab-mrkz,1,['omvoh'],True
 mirtazapine,2,"['apo-mirtazapine', 'auro-mirtazapine', 'auro-mirtazapine od', 'mirtazapine', 'mylan-mirtazapine', 'nra-mirtazapine', 'pms-mirtazapine', 'pro-mirtazapine', 'remeron', 'remeron rd', 'remeron soltab', 'sandoz mirtazapine', 'teva-mirtazapine']",True
 mirvetuximab soravtansine,1,['elahere'],True
@@ -2860,10 +2797,10 @@ modafinil,2,"['alertec', 'apo-modafinil', 'auro-modafinil', 'jamp modafinil', 'm
 modified vaccinia ankara virus,1,['imvanex'],True
 "modified vaccinia ankara virus, live attenuated",1,['jynneos'],True
 moexipril hydrochloride,1,"['moexipril hydrochloride', 'univasc']",True
-mogamulizumab,5,['poteligeo'],True
+mogamulizumab,4,['poteligeo'],True
 mogamulizumab-kpkc,1,['poteligeo'],True
 molindone hydrochloride,1,['molindone hydrochloride'],True
-molnupiravir,3,['lagevrio'],True
+molnupiravir,2,['lagevrio'],True
 momelotinib,1,['omjjara'],True
 momelotinib (momelotinib dihydrochloride),1,['ojjaara'],True
 momelotinib dihydrochloride,1,['ojjaara'],True
@@ -2908,10 +2845,8 @@ nafcillin sodium,1,['nafcillin sodium'],True
 naftifine hydrochloride,1,"['naftifine hydrochloride', 'naftin']",True
 nalbuphine hydrochloride,1,['nalbuphine hydrochloride'],True
 naldemedine,1,['rizmoic'],True
-naldemedine tosilate,1,['symproic'],True
 naldemedine tosylate,1,['symproic'],True
 nalfurafine,1,['winfuran'],True
-nalfurafine hydrochloride,1,"['nopicor', 'remitch']",True
 nalmefene,2,['selincro'],True
 nalmefene hydrochloride,1,"['nalmefene hydrochloride', 'opvee', 'revex', 'zurnai (autoinjector)']",True
 naloxegol,2,"['moventig', 'naloxegol']",False
@@ -2953,7 +2888,7 @@ neisseria meningitidis group b factor h binding protein fusion protein,1,['bexse
 neisseria meningitidis grp b recombinant lipoprotein 2086 subfamily b; neisseria meningitidis grp b recombinant lipoprotein 2086 subfamily a,1,['trumenba'],True
 nelarabine,4,"['arranon', 'atriance', 'nelarabine', 'nelarabine-reach']",False
 nelfinavir mesylate,1,['viracept'],True
-nemolizumab,2,"['mitchga', 'nemluvio']",False
+nemolizumab,1,['nemluvio'],True
 nemolizumab-ilto,1,['nemluvio'],True
 neomycin sulfate,1,"['mycifradin', 'neo-fradin', 'neomycin and polymyxin b sulfate', 'neomycin sulfate']",True
 neostigmine methylsulfate,2,"['bloxiverz', 'neostigmine methylsulfate', 'neostigmine methylsulfate injection usp', 'neostigmine methylsulfate injection, usp', 'neostigmine omega']",False
@@ -2985,18 +2920,18 @@ nilotinib hydrochloride dihydrate,1,['nilotinib hydrochloride dihydrate'],True
 nilotinib tartrate,1,['danziten'],True
 nilutamide,1,"['nilandron', 'nilutamide']",True
 nimodipine,2,"['nimodipine', 'nimotop', 'nymalize']",False
-nintedanib,4,"['nintedanib', 'nintedanib accord', 'ofev', 'ofev /vargatef', 'vargatef']",False
+nintedanib,3,"['nintedanib', 'nintedanib accord', 'ofev', 'ofev /vargatef', 'vargatef']",False
 nintedanib (nintedanib esilate),1,['ofev'],True
 nintedanib esilate,1,['ofev and vargatef'],True
 nintedanib esylate,1,"['nintedanib', 'ofev']",True
 nipocalimab-aahu,1,['imaavy'],True
-niraparib,3,['zejula'],True
+niraparib,2,['zejula'],True
 niraparib (niraparib tosylate),1,['zejula'],True
 niraparib (niraparib tosylate); abiraterone acetate,1,['akeega'],True
 niraparib / abiraterone acetate,1,['akeega'],True
 niraparib tosylate,1,['zejula'],True
 nirmatrelvir,1,['paxlovid (copackaged)'],True
-nirmatrelvir and ritonavir,2,['paxlovid'],True
+nirmatrelvir and ritonavir,1,['paxlovid'],True
 "nirmatrelvir, ritonavir",1,['paxlovid'],True
 nirmatrelvir/ritonavir,1,['paxlovid'],True
 nirmatrelvir; ritonavir,1,['paxlovid'],True
@@ -3005,7 +2940,7 @@ nirsevimab,4,['beyfortus'],True
 nirsevimab-alip,1,['beyfortus'],True
 nisoldipine,1,"['nisoldipine', 'sular']",True
 nitazoxanide,1,"['alinia', 'nitazoxanide']",True
-nitisinone,6,"['mdk-nitisinone', 'nitisinone', 'nitisinone mendelikabs', 'nitisinone tablets', 'nityr', 'orfadin']",False
+nitisinone,5,"['mdk-nitisinone', 'nitisinone', 'nitisinone mendelikabs', 'nitisinone tablets', 'nityr', 'orfadin']",False
 nitric oxide,3,"['genosyl', 'inomax', 'kinox', 'noxivent', 'ulspira', 'vasokinox']",True
 nitrofurantoin,2,"['auro-nitrofurantoin bid', 'jamp nitrofurantoin', 'jamp nitrofurantoin bid', 'nitrofurantoin', 'nitrofurantoin (monohydrate/macrocrystals)', 'pms-nitrofurantoin bid', 'teva-nitrofurantoin']",False
 "nitrofurantoin, macrocrystalline",1,['nitrofurantoin'],True
@@ -3016,7 +2951,7 @@ nitroglycerin,2,"['gonitro', 'minitran', 'mylan-nitro patch 0.2', 'mylan-nitro p
 nitroglycerin; dextrose,1,['nitroglycerin in 5% dextrose inj.-400mcg/ml'],True
 nitrous oxide,2,"['nitrous oxide u.s.p.', 'nitrous oxide, usp']",False
 nitrous oxide; oxygen,1,['alnox gas'],True
-nivolumab,5,"['nivolumab bms', 'opdivo', 'opdivo qvantig', 'opdualag']",True
+nivolumab,4,"['nivolumab bms', 'opdivo', 'opdivo qvantig', 'opdualag']",True
 nivolumab / relatlimab,1,['opdualag'],True
 nivolumab and relatlimab,1,['opdualag'],True
 nivolumab; relatlimab,1,['opdualag'],True
@@ -3026,9 +2961,8 @@ nomegestrol acetate,1,['zoely'],True
 nomegestrol/estradiol,1,"['ioa', 'zoely']",True
 non pollen,1,"['allergenic extract - non-pollens', 'non standardized allergenic extracts - non pollens']",True
 nonacog alfa,1,['benefix'],True
-nonacog beta pegol,3,['refixia'],True
+nonacog beta pegol,2,['refixia'],True
 nonacog gamma,3,['rixubis'],True
-none,1,"['actair', 'cedartolen', 'miticure']",True
 norepinephrine (norepinephrine bitartrate),1,"['norepinephrine bitartrate in 5% dextrose injection', 'norepinephrine bitartrate injection', 'norepinephrine bitartrate injection usp', 'norepinephrine bitartrate injection, usp']",True
 norepinephrine bitartrate,1,"['norepinephrine bitartrate', 'norepinephrine bitartrate in 0.9% sodium chloride', 'norepinephrine bitartrate in 5% dextrose']",True
 norethindrone,2,"['camila', 'emzahh', 'errin', 'heather', 'incassia', 'jencycla', 'maeve', 'movisse', 'norethindrone']",True
@@ -3041,7 +2975,7 @@ normal human immunoglobulin,1,['hizentra'],True
 normal immunoglobulin (human),1,"['gamunex', 'intragam 10 nf', 'kiovig']",True
 nortriptyline hydrochloride,1,['nortriptyline hydrochloride'],True
 not applicable,1,['solmucol bronchoprotect'],True
-nusinersen,3,['spinraza'],True
+nusinersen,2,['spinraza'],True
 nusinersen (nusinersen sodium),1,['spinraza'],True
 nusinersen sodium,1,['spinraza'],True
 nystatin,2,"['jamp-nystatin oral suspension usp', 'nystatin', 'nystatin and triamcinolone acetonide', 'nystop', 'teva-nystatin']",False
@@ -3150,15 +3084,14 @@ odronextamab,1,['ordspono'],True
 oestradiol valerate,1,['qlaira'],True
 ofatumumab,4,"['arzerra', 'arzerra; kesimpta', 'kesimpta']",False
 ofloxacin,2,"['floxin otic', 'ocuflox', 'ofloxacin']",False
-olanexidine gluconate,1,['olanedine'],True
 olanzapine,3,"['ag-olanzapine fc', 'apo-olanzapine', 'apo-olanzapine odt', 'auro-olanzapine odt', 'jamp olanzapine fc', 'jamp olanzapine odt', 'lybalvi', 'mint-olanzapine', 'mint-olanzapine odt', 'nra-olanzapine', 'nra-olanzapine odt', 'olanzapine', 'olanzapine apotex', 'olanzapine glenmark', 'olanzapine glenmark europe', 'olanzapine mylan', 'olanzapine odt', 'olazax', 'olazax disperzi', 'pms-olanzapine', 'pms-olanzapine odt', 'riva-olanzapine', 'sandoz olanzapine', 'sandoz olanzapine odt', 'teva-olanzapine', 'zypadhera', 'zyprexa', 'zyprexa zydis']",False
 olanzapine (olanzapine tartrate),1,['zyprexa intramuscular'],True
 olanzapine pamoate,1,['zyprexa relprevv'],True
-olaparib,5,"['lynparza', 'olaparib']",True
+olaparib,4,"['lynparza', 'olaparib']",True
 olaratumab,2,['lartruvo'],True
 olezarsen sodium,1,['tryngolza (autoinjector)'],True
 oliceridine,1,['olinvyk'],True
-olipudase alfa,5,['xenpozyme'],True
+olipudase alfa,4,['xenpozyme'],True
 olipudase alfa-rpcp,1,['xenpozyme'],True
 olive oil,1,['clinolipid 20%'],True
 olive oil; alanine; l-aspartic acid; l-valine; l-phenylalanine; l-threonine; serine; histidine; glycine; methionine; l-isoleucine; l-tyrosine; soybean oil; l-arginine; l-proline; l-leucine; dextrose; lysine (l-lysine acetate); glutamic acid; tryptophan,1,['olimel 7.6%'],True
@@ -3180,13 +3113,12 @@ olsalazine sodium,1,['dipentum'],True
 olutasidenib,1,['rezlidhia'],True
 omacetaxine mepesuccinate,1,['synribo'],True
 omadacycline tosylate,2,['nuzyra'],True
-omalizumab,5,"['omlyclo', 'xolair']",False
+omalizumab,4,"['omlyclo', 'xolair']",False
 omalizumab-igec,1,['omlyclo'],True
 omaveloxolon,1,['skyclarys'],True
 omaveloxolone,2,['skyclarys'],True
 ombitasvir,1,['technivie'],True
 ombitasvir / paritaprevir / ritonavir,1,['viekirax'],True
-ombitasvir hydrate/paritaprevir hydrate/ritonavir,1,['viekirax'],True
 omecamtiv mecarbil,1,['kinharto'],True
 omega-3-acid ethyl esters,1,"['lovaza', 'omega-3-acid ethyl esters']",True
 omega-3-acid ethyl esters 90,1,['omacor'],True
@@ -3204,7 +3136,7 @@ ondansetron (ondansetron hydrochloride dihydrate),1,"['accel-ondansetron', 'apo-
 ondansetron (ondansetron hydrochloride),1,"['jamp-ondansetron', 'mar-ondansetron', 'mint-ondansetron', 'mint-ondansetron solution']",True
 ondansetron hydrochloride,1,"['ondansetron hydrochloride', 'ondansetron hydrochloride and dextrose in plastic container', 'ondansetron hydrochloride preservative free', 'zofran', 'zofran and dextrose in plastic container']",True
 ondansetron; ondansetron hydrochloride,1,['ondansetron; ondansetron hydrochloride preservative free'],True
-opicapone,4,"['ongentys', 'ontilyv']",True
+opicapone,3,"['ongentys', 'ontilyv']",True
 oportuzumab monatox,1,['oportuzumab monatox'],True
 oritavancin,2,"['orbactiv', 'ramvocid', 'tenkasi']",False
 oritavancin diphosphate,1,"['kimyrsa', 'orbactiv']",True
@@ -3217,7 +3149,7 @@ osilodrostat,2,['isturisa'],True
 osilodrostat phosphate,1,['isturisa'],True
 osimertinib,1,['tagrisso'],True
 osimertinib (osimertinib mesylate),1,['tagrisso'],True
-osimertinib mesilate,2,['tagrisso'],True
+osimertinib mesilate,1,['tagrisso'],True
 osimertinib mesylate,1,"['osimertinib mesylate', 'tagrisso']",True
 ospemifene,3,"['ospemifene', 'osphena', 'senshio']",False
 oteseconazole,2,['vivjoa'],True
@@ -3265,8 +3197,7 @@ ozanimod (ozanimod hydrochloride),1,['zeposia'],True
 ozanimod as ozanimod hydrochloride,1,['zeposia'],True
 ozanimod hydrochloride,2,['zeposia'],True
 ozenoxacin,1,['xepi'],True
-pabinafusp alfa,1,['izcargo'],True
-paclitaxel,5,"['abraxane', 'abraxane for injectable suspension', 'apealea', 'apexelsin', 'naveruclif', 'paclitaxel', 'paclitaxel for injection', 'paclitaxel injection usp', 'paclitaxel powder for injectable suspension nanoparticle, albumin-bound paclitaxel', 'pazenir']",False
+paclitaxel,4,"['abraxane', 'abraxane for injectable suspension', 'apealea', 'apexelsin', 'naveruclif', 'paclitaxel', 'paclitaxel for injection', 'paclitaxel injection usp', 'paclitaxel powder for injectable suspension nanoparticle, albumin-bound paclitaxel', 'pazenir']",False
 pacritinib,1,['enpaxiq'],True
 pacritinib citrate,1,['vonjo'],True
 padeliporfin,1,['tookad'],True
@@ -3295,7 +3226,7 @@ pandemic influenza vaccine,1,"['arepanrix h5n1', 'pandemic influenza vaccine h5n
 "pandemic influenza vaccine (h5n1) (split virion, inactivated, adjuvanted)",1,"['adjupanrix', 'pandemrix', 'pumarix']",True
 "pandemic influenza vaccine (h5n1) (surface antigen, inactivated, adjuvanted, prepared in cell cultures)",1,['incellipan'],True
 panitumumab,3,['vectibix'],True
-panobinostat,3,['farydak'],True
+panobinostat,2,['farydak'],True
 panobinostat lactate,1,['farydak'],True
 pantoprazole,1,"['controloc control', 'pantecta control', 'pantoloc control', 'pantozol control', 'somac control']",True
 pantoprazole (pantoprazole magnesium hemipentahydrate),1,"['mylan-pantoprazole t', 'pantoprazole magnesium', 'pantoprazole t']",True
@@ -3315,7 +3246,7 @@ paroxetine (paroxetine hydrochloride hemihydrate),1,"['auro-paroxetine', 'bio-pa
 paroxetine (paroxetine hydrochloride),1,"['ag-paroxetine tablets', 'apo-paroxetine', 'jamp paroxetine tablets', 'paroxetine', 'paroxetine-10', 'paroxetine-20', 'paroxetine-30', 'paxil cr', 'pms-paroxetine']",True
 paroxetine hydrochloride,1,"['paroxetine', 'paroxetine hydrochloride', 'paxil', 'paxil cr']",True
 paroxetine mesylate,1,"['brisdelle', 'paroxetine mesylate', 'pexeva']",True
-pasireotide,3,['signifor'],True
+pasireotide,2,['signifor'],True
 pasireotide (pasireotide diaspartate),1,['signifor'],True
 pasireotide (pasireotide pamoate),1,['signifor lar'],True
 pasireotide diaspartate,1,['signifor'],True
@@ -3328,10 +3259,9 @@ patisiran (patisiran sodium),1,['onpattro'],True
 patisiran sodium,1,['onpattro'],True
 pazopanib,1,['votrient'],True
 pazopanib (pazopanib hydrochloride),1,"['pms-pazopanib', 'votrient']",True
-pazopanib hydrochloride,3,"['pazopanib hydrochloride', 'votrient']",True
+pazopanib hydrochloride,2,"['pazopanib hydrochloride', 'votrient']",True
 pectin; carboxymethylcellulose sodium; gelatin,1,['orabase paste'],True
-peficitinib,1,['smyraf'],True
-pegaptanib sodium,2,['macugen'],True
+pegaptanib sodium,1,['macugen'],True
 pegaspargase,3,['oncaspar'],True
 pegcetacoplan,5,"['aspaveli', 'empaveli', 'syfovre']",False
 pegfilgrastim,4,"['cavoley', 'dyrupeg', 'efgratin', 'filpegla', 'fulphila', 'grasustek', 'lapelga', 'lutholaz', 'neulasta', 'niopeg', 'nyvepria', 'pegfilgrastim mundipharma', 'pelgraz', 'pelmeg', 'ristempa', 'stimufend', 'udenyca', 'ziextenzo', 'zioxtenzo']",False
@@ -3357,8 +3287,7 @@ pegvaliase,3,['palynziq'],True
 pegvaliase-pqpz,1,['palynziq'],True
 pegvisomant,2,['somavert'],True
 pegzilarginase,1,['loargys'],True
-pemafibrate,1,"['parmodia', 'parmodia xr']",True
-pembrolizumab,5,['keytruda'],True
+pembrolizumab,4,['keytruda'],True
 pemetrexed,2,"['alimta', 'ciambra', 'pemetrexed', 'pemetrexed accord', 'pemetrexed actavis', 'pemetrexed baxter', 'pemetrexed ditromethamine hospira', 'pemetrexed for injection', 'pemetrexed fresenius kabi', 'pemetrexed hospira', 'pemetrexed hospira uk limited', 'pemetrexed krka', 'pemetrexed lilly', 'pemetrexed medac', 'pemetrexed sandoz', 'pemfexy']",False
 pemetrexed (pemetrexed disodium hemipentahydrate),1,"['pemetrexed disodium for injection', 'pemetrexed for injection']",True
 pemetrexed (pemetrexed disodium),1,"['alimta', 'pemetrexed disodium for injection', 'pemetrexed for injection, usp', 'taro-pemetrexed']",True
@@ -3387,7 +3316,7 @@ pentobarbital sodium,1,['pentobarbital sodium'],True
 pentosan polysulfate sodium,2,['elmiron'],True
 pentostatin,1,['pentostatin'],True
 pentoxifylline,2,"['jamp pentoxifylline sr', 'pentoxifylline', 'pentoxifylline sr', 'pentoxil']",False
-peramivir,4,"['alpivab', 'rapiacta', 'rapivab']",False
+peramivir,3,"['alpivab', 'rapivab']",False
 perampanel,4,"['fycompa', 'perampanel', 'taro-perampanel']",True
 perampanel hemisesquihydrate,1,['fycompa'],True
 perfluorohexyloctane,2,['miebo'],True
@@ -3402,7 +3331,7 @@ permethrin,2,"['kwellada-p crème rinse', 'kwellada-p lotion', 'nix dermal cream
 perphenazine,1,['perphenazine'],True
 pertactin; filamentous haemagglutinin; diphtheria toxoid; tetanus toxoid; pertussis toxoid,1,['boostrix'],True
 pertussis vaccine - acellular combined with diphtheria and tetanus toxoids (adsorbed),1,['adacel'],True
-pertuzumab,5,['perjeta'],True
+pertuzumab,4,['perjeta'],True
 pertuzumab / trastuzumab,1,['phesgo'],True
 "pertuzumab, trastuzumab, and hyaluronidase-zzxf",1,['phesgo'],True
 pertuzumab/trastuzumab,1,['phesgo sc'],True
@@ -3447,7 +3376,6 @@ pilocarpine nitrate,1,['minims pilocarpine nitrate'],True
 pimavanserin,1,['pimavanserin'],True
 pimavanserin tartrate,1,"['nuplazid', 'pimavanserin']",True
 pimecrolimus,2,"['elidel', 'pimecrolimus']",True
-pimitespib,1,['jeselhy'],True
 pimozide,2,['pimozide'],True
 pinaverium bromide,1,"['dicetel', 'pinaverium']",True
 pindolol,1,['pindolol'],True
@@ -3459,12 +3387,11 @@ piperacillin (piperacillin sodium); tazobactam (tazobactam sodium),1,"['piperaci
 piperacillin sodium,1,"['piperacillin', 'piperacillin and tazobactam', 'piperacillin and tazobactam and sodium chloride in duplex container', 'zosyn in plastic container']",True
 "piperacillin sodium; piperacillin,tazobactam",1,['piperacillin and tazobactam'],True
 piperonyl butoxide,1,['rid mousse'],True
-pirfenidone,5,"['auro-pirfenidone', 'esbriet', 'jamp pirfenidone', 'm-pirfenidone', 'pirespa', 'pirfenidone', 'pirfenidone aet', 'pirfenidone viatris', 'pms-pirfenidone', 'sandoz pirfenidone capsules', 'sandoz pirfenidone tablets']",False
+pirfenidone,4,"['auro-pirfenidone', 'esbriet', 'jamp pirfenidone', 'm-pirfenidone', 'pirfenidone', 'pirfenidone aet', 'pirfenidone viatris', 'pms-pirfenidone', 'sandoz pirfenidone capsules', 'sandoz pirfenidone tablets']",True
 piroxicam,1,['piroxicam'],True
-pirtobrutinib,4,['jaypirca'],True
+pirtobrutinib,3,['jaypirca'],True
 pitavastatin,1,['livalo'],True
 pitavastatin calcium,1,"['livalo', 'pitavastatin calcium']",True
-pitavastatin calcium hydrate,1,['livalo'],True
 pitavastatin magnesium,1,['zypitamag'],True
 pitavastatin sodium,1,['nikita'],True
 pitolisant,2,"['ozawade', 'pitolisant', 'wakix']",False
@@ -3475,7 +3402,6 @@ plazomicin sulfate,1,['zemdri'],True
 plecanatide,2,['trulance'],True
 plerixafor,4,"['mozobil', 'plerixafor', 'plerixafor accord', 'plerixafor injection']",True
 plitidepsin,1,['aplidin'],True
-pneumococcal 10-valent conjugate vaccine,1,['synflorix'],True
 pneumococcal 15-valent conjugate vaccine,1,['vaxneuvance'],True
 pneumococcal polysaccharide conjugate vaccine,1,"['prevenar 13', 'prevenar 20', 'synflorix']",True
 "pneumococcal polysaccharide conjugate vaccine (13-valent, adsorbed)",1,['prevenar 13'],True
@@ -3503,7 +3429,6 @@ pollen,1,"['allergenic extract - pollens', 'non standardized allergenic extracts
 polyethylene glycol 3350,2,"['clearlax', 'clenz-lyte', 'comfilax', 'emolax', 'glycolax', 'hydralax', 'lax-a-day', 'lax-a-day pharma', 'lax-lyte with flavor packs', 'm-peg 3350', 'miralax', 'peg 3350', 'peg 3350 and electrolytes', 'peg-3350, potassium chloride, sodium bicarbonate, sodium chloride', 'polyethylene glycol 3350', 'polyethylene glycol 3350 and electrolytes', 'polyethylene glycol 3350; sodium chloride; sodium bicarbonate; potassium chloride; bisacodyl', 'relaxa', 'restoralax', 'trilyte']",False
 polyethylene glycol 400; povidone; dextran 70; tetrahydrozoline hydrochloride,1,['advanced relief eye drops'],True
 polyethylene glycol 400; tetrahydrozoline hydrochloride,1,['red eye workplace'],True
-polyethylene glycol-treated human normal immunoglobulin,1,['kenketu glovenin-i'],True
 polymyxin b (polymyxin b sulfate); bacitracin zinc,1,['polysporin antibiotic ointment'],True
 polymyxin b (polymyxin b sulfate); bacitracin; lidocaine hydrochloride,1,['ozonol antibiotics plus'],True
 polymyxin b (polymyxin b sulfate); gramicidin,1,['polysporin eye and ear drops sterile'],True
@@ -3514,7 +3439,7 @@ polymyxin b sulfate; gramicidin,1,['soothe antibiotic drops'],True
 polymyxin b sulfate; trimethoprim (trimethoprim sulfate),1,['sandoz polytrimethoprim'],True
 "polysaccharida neisseriae meningitidis (a, c, w-135, y) conjugatum cum toxoidum tetani",1,['menquadfi'],True
 polyvinyl alcohol,1,['refresh'],True
-pomalidomide,5,"['apo-pomalidomide', 'jamp pomalidomide', 'nat-pomalidomide', 'pomalidomide', 'pomalidomide accord', 'pomalidomide celgene', 'pomalidomide krka', 'pomalidomide teva', 'pomalidomide viatris', 'pomalidomide zentiva', 'pomalyst', 'reddy-pomalidomide', 'sandoz pomalidomide']",False
+pomalidomide,4,"['apo-pomalidomide', 'jamp pomalidomide', 'nat-pomalidomide', 'pomalidomide', 'pomalidomide accord', 'pomalidomide celgene', 'pomalidomide krka', 'pomalidomide teva', 'pomalidomide viatris', 'pomalidomide zentiva', 'pomalyst', 'reddy-pomalidomide', 'sandoz pomalidomide']",False
 ponatinib,2,['iclusig'],True
 ponatinib (ponatinib hydrochloride),1,['iclusig'],True
 ponatinib hydrochloride,1,"['iclusig', 'ponatinib hydrochloride']",True
@@ -3563,7 +3488,7 @@ pramoxine hydrochloride; zinc acetate,1,['polysporin itch relief'],True
 prasterone,4,['intrarosa'],True
 prasugrel,1,"['efient', 'prasugrel mylan']",True
 prasugrel (prasugrel hydrochloride),1,['jamp prasugrel'],True
-prasugrel hydrochloride,2,"['effient', 'efient', 'prasugrel', 'prasugrel hydrochloride']",False
+prasugrel hydrochloride,1,"['effient', 'prasugrel', 'prasugrel hydrochloride']",True
 pravastatin sodium,2,"['ach-pravastatin', 'ag-pravastatin', 'apo-pravastatin', 'auro-pravastatin', 'bio-pravastatin', 'jamp-pravastatin', 'm-pravastatin', 'mar-pravastatin', 'mint-pravastatin', 'pms-pravastatin', 'pravastatin', 'pravastatin sodium', 'pro-pravastatin', 'sandoz pravastatin tablets', 'taro-pravastatin', 'teva-pravastatin']",False
 praziquantel,2,"['biltricide', 'praziquantel']",False
 prazosin hydrochloride,1,['prazosin hydrochloride'],True
@@ -3598,7 +3523,7 @@ propofol,2,"['propofol', 'propofol injection']",False
 propoxyphene hydrochloride,1,['propoxyphene hydrochloride'],True
 propranolol,1,['hemangiol'],True
 propranolol (propranolol hydrochloride),1,['hemangiol'],True
-propranolol hydrochloride,4,"['hemangeol', 'hemangiol', 'innopran xl', 'lupin-propranolol la', 'propranolol hydrochloride', 'propranolol hydrochloride injection usp', 'prz-propranolol']",False
+propranolol hydrochloride,3,"['hemangeol', 'hemangiol', 'innopran xl', 'lupin-propranolol la', 'propranolol hydrochloride', 'propranolol hydrochloride injection usp', 'prz-propranolol']",False
 propylene glycol; glycerine,1,"['lubricant eye drops/ artificial tears', 'soothe dry eyes']",True
 propylene glycol; macrogol,1,['rhinaris nasal mist'],True
 propylthiouracil,2,"['halycil', 'propylthiouracil', 'propylthiouracil tablets']",False
@@ -3657,7 +3582,6 @@ quinine sulfate,2,"['pro-quinine - 200', 'pro-quinine - 300', 'qualaquin', 'quin
 quinupristin,1,['synercid'],True
 quizartinib,1,['vanflyta'],True
 quizartinib dihydrochloride,1,['vanflyta'],True
-quizartinib hydrochloride,1,['vanflyta'],True
 rabeprazole sodium,2,"['aciphex', 'aciphex sprinkle', 'jamp rabeprazole', 'pariet, enteric-coated tablet 10mg', 'pariet, enteric-coated tablet 20mg', 'rabeprazole', 'rabeprazole ec', 'rabeprazole sodium', 'sandoz rabeprazole']",False
 rabies immunoglobulin,1,['kamrab'],True
 rabies immunoglobulin (human),1,"['hyperrab', 'kamrab']",True
@@ -3669,13 +3593,12 @@ raloxifene,1,['raloxifene teva'],True
 raloxifene hydrochloride,3,"['act raloxifene', 'apo-raloxifene', 'evista', 'jamp raloxifene', 'optruma', 'raloxifene hydrochloride']",True
 raltegravir,2,['isentress'],True
 raltegravir (raltegravir potassium),1,"['isentress', 'isentress hd']",True
-raltegravir potassium,3,"['isentress', 'isentress; isentress hd', 'raltegravir potassium', 'raltegravir viatris']",False
+raltegravir potassium,2,"['isentress', 'isentress; isentress hd', 'raltegravir potassium', 'raltegravir viatris']",False
 raltitrexed (raltitrexed),1,['tomudex'],True
-ramelteon,3,"['ramelteon', 'rozerem']",False
+ramelteon,2,"['ramelteon', 'rozerem']",True
 ramipril,2,"['ag-ramipril', 'altace', 'apo-ramipril', 'auro-ramipril', 'jamp-ramipril', 'mar-ramipril', 'mint-ramipril', 'nra-ramipril', 'pharma-ramipril', 'pro-ramipril - 1.25', 'pro-ramipril - 10', 'pro-ramipril - 2.5', 'pro-ramipril - 5', 'ramipril', 'taro-ramipril', 'teva-ramipril']",True
 ramipril; hydrochlorothiazide,1,"['altace hct', 'pms-ramipril-hctz', 'taro-ramipril hctz']",True
-ramosetron hydrochloride,1,['irribow'],True
-ramucirumab,4,['cyramza'],True
+ramucirumab,3,['cyramza'],True
 ranibizumab,4,"['byooviz', 'lucentis', 'ranibizumab midas', 'ranivisio', 'raniviz', 'ranopto', 'rimmyrah', 'susvimo', 'ximluci']",True
 ranibizumab-eqrn,1,['cimerli'],True
 ranibizumab-nuna,1,['byooviz'],True
@@ -3687,7 +3610,7 @@ rapacuronium bromide,1,['raplon'],True
 rasagiline,2,"['azilect', 'rasagiline mylan', 'rasagiline ratiopharm']",False
 rasagiline (rasagiline mesylate),1,"['apo-rasagiline', 'azilect', 'jamp rasagiline', 'teva-rasagiline']",True
 rasagiline mesylate,1,"['azilect', 'rasagiline mesylate']",True
-rasburicase,3,"['elitek', 'fasturtec', 'rasuritek']",False
+rasburicase,2,"['elitek', 'fasturtec']",False
 ravulizumab,4,['ultomiris'],True
 ravulizumab-cwvz,1,['ultomiris'],True
 ravulizumabum,1,['ultomiris'],True
@@ -3695,9 +3618,7 @@ raxibacumab,1,['raxibacumab'],True
 raxtozinameran,1,['comirnaty omicron xbb.1.5'],True
 rdesat-6 / rcfp-10,1,['siiltibcy'],True
 "reassortant live attenuated influenza virus strains of types a/h1n1, a/h3n2, b/yamagata and b/victoria",1,['fluenz tetra'],True
-recombinant adsorbed bivalent human papillomavirus-like particle vaccine,1,['cervarix'],True
 recombinant coagulation factor ix (trenonacog alfa),1,['ixinity'],True
-recombinant coronavirus (sars-cov-2) vaccine,1,['nuvaxovid'],True
 recombinant human c1 inhibitor,1,['rhucin'],True
 "recombinant human coagulation factor ix, fc fusion protein",1,['alprolix'],True
 recombinant human interferon-alfa-2a,1,['alpheon'],True
@@ -3707,12 +3628,12 @@ recombinant respiratory syncytial virus pre-fusion f protein,1,['arexvy'],True
 recombinant varicella zoster virus glycoprotein e antigen,1,['shingrix'],True
 regadenoson,2,"['lexiscan', 'rapiscan', 'regadenoson']",False
 regdanvimab,3,['regkirona'],True
-regorafenib,5,"['regorafenib', 'stivarga']",True
+regorafenib,4,"['regorafenib', 'stivarga']",True
 "relatlimab, nivolumab",1,['opdualag'],True
-relugolix,4,"['orgovyx', 'relumina']",False
+relugolix,3,['orgovyx'],True
 relugolix / estradiol / norethisterone acetate,1,['ryeqo'],True
 "relugolix, estradiol as estradiol hemihydrate, norethisterone acetate",1,['ryeqo'],True
-remdesivir,6,['veklury'],True
+remdesivir,5,['veklury'],True
 remestemcel-l,1,['prochymal'],True
 remifentanil,1,['ultiva'],True
 remifentanil (remifentanil hydrochloride),1,['remifentanil hydrochloride for injection'],True
@@ -3738,7 +3659,7 @@ revefenacin,1,"['revefenacin', 'yupelri']",True
 revumenib citrate,1,['revuforj'],True
 rezafungin,1,['rezzayo'],True
 rezafungin acetate,1,['rezzayo'],True
-ribavirin,4,"['copegus', 'rebetol', 'ribasphere', 'ribavirin', 'ribavirin biopartners', 'ribavirin teva', 'ribavirin teva pharma b.v.', 'ribavirin three rivers', 'virazole']",False
+ribavirin,3,"['copegus', 'rebetol', 'ribasphere', 'ribavirin', 'ribavirin biopartners', 'ribavirin teva', 'ribavirin teva pharma b.v.', 'ribavirin three rivers', 'virazole']",False
 ribociclib,2,"['kisqali', 'ribociclib']",False
 ribociclib (ribociclib succinate),1,['kisqali'],True
 ribociclib succinate,2,['kisqali'],True
@@ -3759,28 +3680,27 @@ rimantadine hydrochloride,1,['rimantadine hydrochloride'],True
 rimegepant,3,"['nurtec odt', 'vydura']",False
 rimegepant (rimegepant sulfate),1,['nurtec odt'],True
 rimegepant sulfate,1,['nurtec odt'],True
-riociguat,5,"['adempas', 'riociguat', 'sandoz riociguat']",True
+riociguat,4,"['adempas', 'riociguat', 'sandoz riociguat']",True
 ripretinib,5,['qinlock'],True
-risankizumab,4,['skyrizi'],True
+risankizumab,3,['skyrizi'],True
 risankizumab-rzaa,1,['skyrizi'],True
 risdiplam,5,['evrysdi'],True
 risedronate sodium,1,"['actonel', 'atelvia', 'risedronate sodium']",True
 risedronate sodium (risedronate sodium hemipentahydrate),1,"['aa-risedronate dr', 'actonel', 'actonel dr', 'apo-risedronate', 'auro-risedronate', 'pms-risedronate', 'risedronate', 'riva-risedronate', 'sandoz risedronate']",True
 risedronate sodium (risedronate sodium monohydrate),1,"['risedronate', 'teva-risedronate']",True
-risperidone,5,"['apo-risperidone', 'jamp-risperidone', 'mar-risperidone', 'mint-risperidon', 'okedi', 'perseris kit', 'pms-risperidone', 'pro-risperidone', 'risperdal', 'risperdal consta', 'risperidone', 'risvan', 'riva-risperidone', 'rykindo', 'sandoz risperidone', 'taro-risperidone', 'teva-risperidone', 'uzedy']",False
+risperidone,4,"['apo-risperidone', 'jamp-risperidone', 'mar-risperidone', 'mint-risperidon', 'okedi', 'perseris kit', 'pms-risperidone', 'pro-risperidone', 'risperdal', 'risperdal consta', 'risperidone', 'risvan', 'riva-risperidone', 'rykindo', 'sandoz risperidone', 'taro-risperidone', 'teva-risperidone', 'uzedy']",False
 risperidone (risperidone tartrate),1,"['jamp-risperidone', 'pms-risperidone']",True
 ritlecitinib,2,['litfulo'],True
 ritlecitinib (ritlecitinib tosylate),1,['litfulo'],True
-ritlecitinib tosilate,1,['litfulo'],True
 ritlecitinib tosylate,1,['litfulo'],True
 ritonavir,3,"['auro-ritonavir', 'norvir', 'ritonavir', 'ritonavir mylan']",False
 ritonavir; lopinavir,1,['kaletra'],True
 ritonavir; nirmatrelvir,1,['paxlovid'],True
-rituximab,5,"['blitzima', 'ituxredi', 'mabthera', 'mabthera sc', 'ritemvia', 'rituxan', 'rituxan hycela', 'rituxan sc', 'rituximab mabion', 'rixathon', 'riximyo', 'ruxience', 'truxima', 'truxima; ritemvia', 'tuxella']",False
+rituximab,4,"['blitzima', 'ituxredi', 'mabthera', 'mabthera sc', 'ritemvia', 'rituxan', 'rituxan hycela', 'rituxan sc', 'rituximab mabion', 'rixathon', 'riximyo', 'ruxience', 'truxima', 'truxima; ritemvia', 'tuxella']",False
 rituximab-abbs,1,['truxima'],True
 rituximab-arrx,1,['riabni'],True
 rituximab-pvvr,1,['ruxience'],True
-rivaroxaban,5,"['ag-rivaroxaban', 'apo-rivaroxaban', 'jamp rivaroxaban', 'pms-rivaroxaban', 'pro-rivaroxaban', 'reddy-rivaroxaban', 'riva rivaroxaban', 'rivaroxaban', 'rivaroxaban accord', 'rivaroxaban mylan', 'sandoz rivaroxaban', 'taro-rivaroxaban', 'teva-rivaroxaban', 'xarelto']",True
+rivaroxaban,4,"['ag-rivaroxaban', 'apo-rivaroxaban', 'jamp rivaroxaban', 'pms-rivaroxaban', 'pro-rivaroxaban', 'reddy-rivaroxaban', 'riva rivaroxaban', 'rivaroxaban', 'rivaroxaban accord', 'rivaroxaban mylan', 'sandoz rivaroxaban', 'taro-rivaroxaban', 'teva-rivaroxaban', 'xarelto']",True
 rivastigmine,3,"['exelon', 'exelon patch 10', 'exelon patch 15', 'exelon patch 5', 'mylan-rivastigmine patch 10', 'mylan-rivastigmine patch 5', 'nimvastid', 'rivastigmine', 'rivastigmine 3m health care ltd', 'rivastigmine actavis', 'rivastigmine hexal', 'rivastigmine sandoz', 'rivastigmine teva', 'sandoz rivastigmine patch 10', 'sandoz rivastigmine patch 5']",False
 rivastigmine (rivastigmine hydrogen tartrate),1,"['apo-rivastigmine', 'exelon', 'jamp rivastigmine', 'med-rivastigmine', 'rivastigmine', 'sandoz rivastigmine']",True
 rivastigmine tartrate,1,"['exelon', 'rivastigmine', 'rivastigmine tartrate']",True
@@ -3792,9 +3712,9 @@ rofecoxib,1,['vioxx'],True
 roflumilast,4,"['daliresp', 'daxas', 'daxas/xevex/dalveza', 'libertek', 'roflumilast', 'zoryve']",False
 rolapitant,1,['varuby'],True
 rolapitant hydrochloride,1,['varubi'],True
-romidepsin,5,"['istodax', 'romidepsin']",True
-romiplostim,4,"['nplate', 'romiplate']",False
-romosozumab,4,['evenity'],True
+romidepsin,4,"['istodax', 'romidepsin']",True
+romiplostim,3,['nplate'],True
+romosozumab,3,['evenity'],True
 romosozumab-aqqg,1,['evenity'],True
 ropeginterferon alfa-2b,2,['besremi'],True
 ropeginterferon alfa-2b-njft,1,['besremi'],True
@@ -3810,7 +3730,7 @@ rosuvastatin calcium,1,"['crestor', 'ezallor sprinkle', 'rosuvastatin calcium']"
 rosuvastatin zinc,1,['rosuvastatin zinc'],True
 "rotavirus vaccine (rix4414 strain), live, oral, attenuated (human)",1,['rotarix'],True
 rotigotine,4,"['leganto', 'neupro', 'rotigotine mylan']",False
-roxadustat,2,['evrenzo'],True
+roxadustat,1,['evrenzo'],True
 rozanolixizumab,1,['rystiggo'],True
 rozanolixizumab-noli,1,['rystiggo'],True
 "rsv subgroup a stabilised prefusion f antigen, rsv subgroup b stabilised prefusion f antigen",1,['abrysvo'],True
@@ -3827,7 +3747,7 @@ rucaparib camsylate,2,['rubraca'],True
 rufinamide,4,"['auro-rufinamide', 'banzel', 'inovelon', 'rufinamide']",False
 rupatadine,1,['rupafin'],True
 rupatadine (rupatadine fumarate),1,"['apo-rupatadine', 'pms-rupatadine', 'rupall']",True
-rurioctocog alfa pegol,2,"['adynovate', 'adynovi']",False
+rurioctocog alfa pegol,1,['adynovi'],True
 ruxolitinib,2,"['jakavi', 'opzelura']",True
 ruxolitinib (ruxolitinib phosphate),1,"['jakavi', 'opzelura']",True
 ruxolitinib phosphate,2,"['jakafi', 'jakavi', 'opzelura']",False
@@ -3856,14 +3776,13 @@ sapropterin dihydrochloride,3,"['kuvan', 'reddy-sapropterin', 'sapropterin dihyd
 saquinavir,1,['fortovase'],True
 saquinavir mesylate,1,['invirase'],True
 sarecycline hydrochloride,1,['seysara'],True
-sargramostim,1,['sargmalin'],True
-sarilumab,5,['kevzara'],True
+sarilumab,4,['kevzara'],True
 sars cov-2 recombinant spike protein (rs nvx-cov2373),1,['nuvaxovid'],True
 sars-cov-2 recombinant spike protein,2,['nuvaxovid'],True
 sars-cov-2 rs,1,['nuvaxovid'],True
 sars-cov-2 rs vaccine,1,['nuvaxovid'],True
 sars-cov-2-rs,1,['nuvaxovid'],True
-satralizumab,5,['enspryng'],True
+satralizumab,4,['enspryng'],True
 satralizumabum,1,['enspryng'],True
 satraplatin,1,['orplatna'],True
 saxagliptin,3,"['onglyza', 'saxagliptin', 'saxagliptin;metformin hydrochloride']",False
@@ -3875,24 +3794,24 @@ saxagliptin / metformin hydrochloride,1,['kombiglyze'],True
 saxagliptin hydrochloride,1,"['onglyza', 'saxagliptin']",True
 scopolamine,1,['scopolamine'],True
 scopolamine hydrobromide,1,['scopolamine hydrobromide injection'],True
-sebelipase alfa,5,['kanuma'],True
+sebelipase alfa,4,['kanuma'],True
 secnidazole,1,['solosec'],True
 secretin human,1,['secreflo'],True
 secretin synthetic human,1,['chirhostim'],True
 secretin synthetic porcine,1,['secreflo'],True
-secukinumab,5,"['cosentyx', 'cosentyx / zafrez']",True
+secukinumab,4,"['cosentyx', 'cosentyx / zafrez']",True
 seladelpar,1,['seladelpar gilead'],True
 seladelpar lysine,1,['livdelzi'],True
 selegiline,1,['emsam'],True
 selegiline hydrochloride,2,"['eldepryl', 'selegiline', 'selegiline hydrochloride', 'zelapar']",False
 selenious acid,1,['selenious acid'],True
-selexipag,5,"['selexipag', 'uptravi']",True
+selexipag,4,"['selexipag', 'uptravi']",True
 selinexor,4,"['nexpovio', 'xpovio']",False
 selpercatinib,5,"['retevmo', 'retsevmo']",False
 selumetinib,3,['koselugo'],True
 selumetinib (selumetinib sulfate),1,['koselugo'],True
 selumetinib sulfate,1,['koselugo'],True
-semaglutide,6,"['ozempic', 'rybelsus', 'wegovy']",False
+semaglutide,5,"['ozempic', 'rybelsus', 'wegovy']",True
 sennosides; docusate sodium,1,['sandoz senna s'],True
 serelaxin,1,['reasanz'],True
 sermorelin acetate,1,['geref'],True
@@ -3915,7 +3834,7 @@ silicone,1,['barriere cream 20%'],True
 silodosin,4,"['auro-silodosin', 'jamp silodosin', 'pms-silodosin', 'rapaflo', 'sandoz silodosin', 'silodosin', 'silodosin recordati', 'silodyx', 'urorec']",False
 siltuximab,3,['sylvant'],True
 simeprevir,2,"['olysio', 'olysio/janssen simeprevir']",False
-simeprevir sodium,2,"['olysio', 'sovriad']",False
+simeprevir sodium,1,['olysio'],True
 simethicone,1,"['gas relief tablets', 'gas x ultra strength', 'infacol', 'ovol for gas 180 mg capsule', 'ovol for gas 180 mg tablet', 'pediacol', 'ultra strength gas relief', 'ultra strength phazyme 180mg softgels']",True
 simethicone-cellulose,1,['sonorx'],True
 simoctocog alfa,2,"['nuwiq', 'vihuma']",True
@@ -3925,10 +3844,10 @@ sincalide,2,"['kinevac', 'sincalide', 'sincalide for injection']",False
 sinecatechins,2,['veregen'],True
 single-stranded 5' capped mrna encoding the respiratory syncytial virus glycoprotein f stabilised in the prefusion conformation,1,['mresvia'],True
 sipavibart,1,['kavigale'],True
-siponimod,5,"['mayzent', 'siponimod']",True
-sirolimus,4,"['fyarro', 'hyftor', 'opsiria', 'rapalimus', 'rapamune', 'sirolimus']",False
+siponimod,4,"['mayzent', 'siponimod']",True
+sirolimus,3,"['fyarro', 'hyftor', 'opsiria', 'rapamune', 'sirolimus']",False
 sirukumab,1,['plivensia'],True
-sitagliptin,4,"['januvia', 'ristaben', 'sitagliptin', 'sitagliptin accord', 'sitagliptin and metformin hydrochloride', 'sitagliptin; metformin hydrochloride', 'tesavel', 'xelevia', 'zituvio']",False
+sitagliptin,3,"['januvia', 'ristaben', 'sitagliptin', 'sitagliptin accord', 'sitagliptin and metformin hydrochloride', 'sitagliptin; metformin hydrochloride', 'tesavel', 'xelevia', 'zituvio']",False
 sitagliptin (sitagliptin fumarate),1,['taro-sitagliptin fumarate'],True
 sitagliptin (sitagliptin hydrochloride monohydrate),1,"['ag-sitagliptin', 'auro-sitagliptin', 'jamp sitagliptin']",True
 sitagliptin (sitagliptin malate),1,"['apo-sitagliptin malate', 'pro-sitagliptin malate', 'teva-sitagliptin malate']",True
@@ -4000,7 +3919,7 @@ sodium tetradecyl sulfate,1,"['sodium tetradecyl sulfate', 'sotradecol']",True
 sodium thiosulfate,3,"['pedmark', 'pedmarqsi', 'seacalphyx', 'sodium thiosulfate', 'sodium thiosulfate injection usp', 'sulfur colloid kit']",False
 sodium zirconium cyclosilicate,4,['lokelma'],True
 sodium zirconium cyclosilicate hydrate,1,['lokelma'],True
-sofosbuvir,5,"['epclusa', 'sofosbuvir', 'sovaldi', 'vosevi']",True
+sofosbuvir,4,"['epclusa', 'sofosbuvir', 'sovaldi', 'vosevi']",True
 sofosbuvir / velpatasvir,1,['epclusa'],True
 sofosbuvir / velpatasvir / voxilaprevir,2,['vosevi'],True
 sofosbuvir/velpatasvir,1,['epclusa'],True
@@ -4031,7 +3950,7 @@ sotalol hydrochloride,2,"['apo-sotalol', 'betapace af', 'pms-sotalol - 160 mg', 
 sotatercept,3,['winrevair'],True
 sotatercept-csrk,1,['winrevair'],True
 sotorasib,5,"['lumakras', 'lumykras']",False
-sotrovimab,4,['xevudy'],True
+sotrovimab,3,['xevudy'],True
 soybean oil,2,"['intralipid 20%', 'liposyn iii 30%']",True
 sparfloxacin,1,['zagam'],True
 sparsentan,3,['filspari'],True
@@ -4074,7 +3993,7 @@ sufentanil (sufentanil citrate),1,['sufentanil citrate injection usp'],True
 sufentanil citrate,1,"['dsuvia', 'sufentanil citrate']",True
 sugammadex,2,"['bridion', 'sugammadex', 'sugammadex adroiq', 'sugammadex amomed', 'sugammadex fresenius kabi', 'sugammadex lorien', 'sugammadex mylan', 'sugammadex piramal']",False
 sugammadex (sugammadex sodium),1,"['bridion', 'pms-sugammadex']",True
-sugammadex sodium,2,"['bridion', 'sugammadex sodium']",True
+sugammadex sodium,1,"['bridion', 'sugammadex sodium']",True
 sugemalimab,1,['cejemly'],True
 sulesomab,1,['leukoscan'],True
 sulfacetamide sodium,1,"['klaron', 'sulf-15', 'sulfacetamide sodium']",True
@@ -4104,7 +4023,7 @@ tacrolimus,4,"['ach-tacrolimus', 'advagraf', 'astagraf xl', 'envarsus', 'envarsu
 tacrolimus (tacrolimus monohydrate),1,"['ach-tacrolimus', 'sandoz tacrolimus']",True
 tadalafil,4,"['ach-tadalafil', 'adcirca', 'ag-tadalafil', 'alyq', 'apo-tadalafil', 'apo-tadalafil pah', 'auro-tadalafil', 'bio-tadalafil', 'chewtadzy', 'cialis', 'jamp-tadalafil', 'm-tadalafil', 'mar-tadalafil', 'mint-tadalafil', 'mylan-tadalafil', 'nra-tadalafil', 'nra-tadalafil tablets', 'pms-tadalafil', 'prz-tadalafil', 'riva-tadalafil', 'tadalafil', 'tadalafil generics', 'tadalafil lilly', 'tadalafil mylan', 'tadliq', 'taro-tadalafil', 'teva-tadalafil']",False
 tafamidis,4,"['vyndamax', 'vyndamax and vyndaqel', 'vyndaqel']",False
-tafamidis meglumine,4,['vyndaqel'],True
+tafamidis meglumine,3,['vyndaqel'],True
 tafasitamab,4,['minjuvi'],True
 tafasitamab-cxix,1,['monjuvi'],True
 tafenoquine,1,['kozenis'],True
@@ -4113,10 +4032,8 @@ tafluprost,2,"['saflutan', 'tafluprost', 'zioptan']",False
 tafluprost / timolol,1,['taptiqom 15/5'],True
 tagraxofusp,2,['elzonris'],True
 tagraxofusp-erzs,1,['elzonris'],True
-talaporfin sodium,1,['laserphyrin'],True
 talazoparib,2,['talzenna'],True
 talazoparib (talazoparib tosylate),1,['talzenna'],True
-talazoparib tosilate,1,['talzenna'],True
 talazoparib tosylate,1,['talzenna'],True
 talc,1,"['sclerosol', 'steritalc', 'talc']",True
 taliglucerase alfa,3,['elelyso'],True
@@ -4137,7 +4054,7 @@ tasimelteon,2,"['hetlioz', 'hetlioz lq', 'tasimelteon']",True
 tavaborole,1,"['kerydin', 'tavaborole']",True
 tazarotene,2,"['arazlo', 'avage; tazorac', 'fabior', 'tazarotene', 'tazorac']",True
 tazarotene; halobetasol propionate,1,['duobrii'],True
-tazemetostat hydrobromide,2,['tazverik'],True
+tazemetostat hydrobromide,1,['tazverik'],True
 tazobactam (tazobactam sodium); ceftolozane (ceftolozane sulfate),1,['zerbaxa'],True
 tazobactam (tazobactam sodium); piperacillin (piperacillin sodium),1,"['piperacillin / tazobactam powder for injection', 'piperacillin and tazobactam for injection']",True
 tbo-filgrastim,1,['granix'],True
@@ -4165,7 +4082,6 @@ tecovirimat,2,"['tecovirimat siga', 'tpoxx']",False
 tedizolid phosphate,2,['sivextro'],True
 teduglutide,4,"['gattex kit', 'revestive']",False
 tegafur/gimeracil/oteracil,1,['teysuno'],True
-tegafur/gimeracil/oteracil potassium,1,['ts-1'],True
 tegaserod,1,['zelnorm'],True
 tegaserod maleate,1,['zelnorm'],True
 telaprevir,3,"['incivek', 'incivo']",False
@@ -4189,15 +4105,14 @@ temazepam,1,['temazepam'],True
 temozolomide,3,"['ach-temozolomide', 'jamp temozolomide', 'taro-temozolomide', 'temodal', 'temodar', 'temomedac', 'temozolomide', 'temozolomide hexal', 'temozolomide hospira', 'temozolomide sandoz', 'temozolomide sun', 'temozolomide teva', 'teva-temozolomide']",False
 temsirolimus,2,"['temsirolimus', 'torisel']",True
 tenapanor (tenapanor hydrochloride),1,['ibsrela'],True
-tenapanor hydrochloride,2,"['ibsrela', 'phozevel', 'xphozah']",False
+tenapanor hydrochloride,1,"['ibsrela', 'xphozah']",True
 tenecteplase,2,['tnkase'],True
-teneligliptin hydrobromide hydrate,1,['tenelia'],True
 tenofovir alafenamide,2,"['tenofovir alafenamide', 'vemlidy']",False
 tenofovir alafenamide (tenofovir alafenamide hemifumarate),1,['vemlidy'],True
 tenofovir alafenamide (tenofovir alafenamide hemifumarate); cobicistat; emtricitabine; elvitegravir,1,['genvoya'],True
 tenofovir alafenamide (tenofovir alafenamide hemifumarate); emtricitabine,1,['descovy'],True
 tenofovir alafenamide (tenofovir alafenamide hemifumarate); emtricitabine; rilpivirine (rilpivirine hydrochloride),1,['odefsey'],True
-tenofovir alafenamide fumarate,2,"['tenofovir alafenamide', 'tenofovir alafenamide fumarate', 'vemlidy']",True
+tenofovir alafenamide fumarate,1,"['tenofovir alafenamide', 'tenofovir alafenamide fumarate', 'vemlidy']",True
 tenofovir disoproxil,1,"['tenofovir disoproxil mylan', 'tenofovir disoproxil zentiva']",True
 tenofovir disoproxil fumarate,3,"['ag-tenofovir', 'apo-tenofovir', 'auro-tenofovir', 'jamp-tenofovir', 'mint-tenofovir', 'mylan-tenofovir disoproxil', 'nat-tenofovir', 'pms-tenofovir', 'riva-tenofovir', 'tenofovir', 'tenofovir disoproxil fumarate', 'teva-tenofovir', 'viread']",True
 tenofovir disoproxil fumarate / emtricitabine,1,['truvada'],True
@@ -4213,7 +4128,6 @@ tepotinib,2,['tepmetko'],True
 tepotinib (tepotinib hydrochloride),1,['tepmetko'],True
 tepotinib as tepotinib hydrochloride monohydrate,1,['tepmetko'],True
 tepotinib hydrochloride,1,['tepmetko'],True
-tepotinib hydrochloride hydrate,1,['tepmetko'],True
 teprotumumab-trbw,1,['tepezza'],True
 terazosin (terazosin hydrochloride),1,"['apo-terazosin', 'pms-terazosin', 'teva-terazosin']",True
 terazosin hydrochloride,1,"['terazosin hydrochloride', 'tezruly']",True
@@ -4227,7 +4141,7 @@ terephthalylidene dicamphor sulfonic acid; drometrizole trisiloxane; octocrylene
 terephthalylidene dicamphor sulfonic acid; octisalate; drometrizole trisiloxane; homosalate; avobenzone; titanium dioxide; bemotrizinol,1,['anthelios dermo-kids 50+'],True
 terephthalylidene dicamphor sulfonic acid; octisalate; octocrylene; avobenzone; drometrizole trisiloxane; homosalate,1,['spf 60 anthelios xl lotion'],True
 teriflunomide,4,"['apo-teriflunomide', 'aubagio', 'aubagio/teriflunomide winthrop/teriflunomide sanofi', 'jamp teriflunomide', 'm-teriflunomide', 'mar-teriflunomide', 'nat-teriflunomide', 'pms-teriflunomide', 'sandoz teriflunomide', 'teriflunomide', 'teriflunomide accord', 'teriflunomide mylan', 'teva-teriflunomide']",False
-teriparatide,5,"['apo-teriparatide injection', 'bonsity', 'forteo', 'kauliv', 'livogiva', 'movymia', 'osnuvo', 'qutavina', 'sondelbay', 'teriparatide', 'teriparatide lupin/teriparatide lapl/teriparatide gh', 'teriparatide sun', 'terrosa']",False
+teriparatide,4,"['apo-teriparatide injection', 'bonsity', 'forteo', 'kauliv', 'livogiva', 'movymia', 'osnuvo', 'qutavina', 'sondelbay', 'teriparatide', 'teriparatide lupin/teriparatide lapl/teriparatide gh', 'teriparatide sun', 'terrosa']",False
 teriparatide (teriparatide acetate),1,['teva-teriparatide injection'],True
 terlipressin,1,['lucassin'],True
 terlipressin acetate,2,"['glypressin', 'terlivaz']",False
@@ -4257,7 +4171,7 @@ tezacaftor; elexacaftor; ivacaftor,1,['trikafta'],True
 tezacaftor; ivacaftor; elexacaftor,1,['trikafta'],True
 tezepelumab,3,['tezspire'],True
 tezepelumab-ekko,1,['tezspire'],True
-thalidomide,4,"['thaled', 'thalidomide', 'thalidomide lipomed', 'thalidomide pharmion', 'thalomid']",False
+thalidomide,3,"['thalidomide', 'thalidomide lipomed', 'thalidomide pharmion', 'thalomid']",False
 thallium chloride(ti 201),1,['thallous chloride ti-201 injection'],True
 thallous chloride tl-201,1,['thallous chloride tl 201'],True
 theophylline,2,"['elixophyllin', 'elixophyllin sr', 'somophyllin-crt', 'theo er', 'theophylline', 'uni-dur']",False
@@ -4295,11 +4209,9 @@ tiopronin,1,"['thiola ec', 'tiopronin']",True
 tiotropium,1,['braltus'],True
 tiotropium (tiotropium bromide monohydrate),1,"['apo-tiotropium', 'lupin-tiotropium', 'spiriva', 'spiriva respimat']",True
 tiotropium bromide,2,"['spiriva', 'spiriva respimat', 'spiriva respimat / favint respimat', 'tiotropium bromide']",False
-tiotropium bromide hydrate/olodaterol hydrochloride,1,['spiolto respimat'],True
 tipiracil (tipiracil hydrochloride); trifluridine,1,['lonsurf'],True
 tipiracil hydrochloride,1,"['lonsurf', 'tipiracil hydrochloride and trifluridine']",True
 tipranavir,2,['aptivus'],True
-tirabrutinib hydrochloride,1,['velexbru'],True
 tiratricol,1,['emcitate'],True
 tirbanibulin,4,"['klisyri', 'onakta']",False
 tirofiban (tirofiban hydrochloride),1,['aggrastat'],True
@@ -4320,7 +4232,7 @@ titanium dioxide; zinc oxide; octisalate; octinoxate,1,['bb premium beauty balm'
 tivozanib,1,['fotivda'],True
 tivozanib hydrochloride,1,['fotivda'],True
 tixagevimab + cilgavimab,1,['evusheld'],True
-tixagevimab and cilgavimab,2,['evusheld'],True
+tixagevimab and cilgavimab,1,['evusheld'],True
 "tixagevimab, cilgavimab",1,['evusheld'],True
 tixagevimab/cilgavimab,1,['evusheld'],True
 tizanidine (tizanidine hydrochloride),1,"['apo-tizanidine', 'mint-tizanidine']",True
@@ -4328,23 +4240,21 @@ tizanidine hydrochloride,1,"['ontralfy', 'tizanidine hydrochloride', 'zanaflex']
 tobramycin,4,"['aktob', 'bethkis', 'kitabis pak', 'sandoz tobramycin', 'tobi', 'tobi podhaler', 'tobramycin', 'tobramycin pari', 'vantobra']",False
 tobramycin (tobramycin sulfate),1,"['teva-tobramycin', 'tobi', 'tobramycin injection', 'tobramycin injection usp']",True
 tobramycin sulfate,1,"['tobramycin sulfate', 'tobramycin sulfate (pharmacy bulk)']",True
-tocilizumab,5,"['actemra', 'avtozma', 'roactemra', 'tofidence', 'tyenne']",False
+tocilizumab,4,"['actemra', 'avtozma', 'roactemra', 'tofidence', 'tyenne']",False
 tocilizumab-aazg,1,['tyenne'],True
 tocilizumab-anoh,1,['avtozma'],True
 tocilizumab-bavi,1,['tofidence'],True
 tocofersolan,1,['vedrop'],True
 tofacitinib,3,"['tofacitinib', 'xeljanz']",False
 tofacitinib (tofacitinib citrate),1,"['auro-tofacitinib', 'jamp tofacitinib', 'pms-tofacitinib', 'taro-tofacitinib', 'taro-tofacitinib xr', 'xeljanz', 'xeljanz xr']",True
-tofacitinib citrate,2,"['tofacitinib', 'tofacitinib citrate', 'xeljanz', 'xeljanz xr']",True
+tofacitinib citrate,1,"['tofacitinib', 'tofacitinib citrate', 'xeljanz', 'xeljanz xr']",True
 tofersen,3,['qalsody'],True
 tolcapone,2,"['tasmar', 'tolcapone']",True
 tolmetin sodium,1,['tolmetin sodium'],True
 tolnaftate,1,"['flexitol medicated anti-fungal cream', 'foot care foam', 'footrenew', 'odor-eaters', 'tinactin chill deodorant powder spray', 'tinactin chill liquid spray', 'tolnaftate cream usp, 1%']",True
 tolterodine tartrate,2,"['detrol', 'detrol la', 'jamp tolterodine', 'mint-tolterodine', 'sandoz tolterodine la', 'teva-tolterodine', 'teva-tolterodine la', 'tolterodine', 'tolterodine tartrate']",True
-tolvaptan,5,"['jinarc', 'jynarque', 'samsca', 'tolvaptan', 'tolvaptan accord']",True
-tolvaptan sodium phosphate,1,['samtasu'],True
-topiramate,3,"['ach-topiramate', 'ag-topiramate', 'ag-topiramate tablets', 'apo-topiramate', 'auro-topiramate', 'eprontia', 'gln-topiramate', 'jamp topiramate tablets', 'jamp-topiramate', 'mint-topiramate', 'mylan-topiramate', 'nra-topiramate', 'pms-topiramate', 'pro-topiramate', 'qudexy xr', 'teva-topiramate', 'topamax', 'topamax 100mg', 'topamax 200mg', 'topamax 25mg', 'topamax; topamax sprinkle', 'topina', 'topiramate', 'trokendi xr']",False
-topiroxostat,1,['topiloric'],True
+tolvaptan,4,"['jinarc', 'jynarque', 'samsca', 'tolvaptan', 'tolvaptan accord']",True
+topiramate,2,"['ach-topiramate', 'ag-topiramate', 'ag-topiramate tablets', 'apo-topiramate', 'auro-topiramate', 'eprontia', 'gln-topiramate', 'jamp topiramate tablets', 'jamp-topiramate', 'mint-topiramate', 'mylan-topiramate', 'nra-topiramate', 'pms-topiramate', 'pro-topiramate', 'qudexy xr', 'teva-topiramate', 'topamax', 'topamax 100mg', 'topamax 200mg', 'topamax 25mg', 'topamax; topamax sprinkle', 'topiramate', 'trokendi xr']",True
 topotecan,1,"['potactasol', 'topotecan actavis', 'topotecan eagle', 'topotecan hospira', 'topotecan teva']",True
 topotecan (topotecan hydrochloride),1,"['teva-topotecan', 'topotecan hydrochloride for injection', 'topotecan injection']",True
 topotecan hydrochloride,1,"['hycamtin', 'topotecan', 'topotecan hydrochloride']",True
@@ -4358,25 +4268,24 @@ tozinameran and famtozinameran,1,"['comirnaty original/omicron ba.4-5', 'comirna
 tozinameran and riltozinameran,1,['comirnaty original /omicron ba.1 covid-19 vaccine'],True
 tozinameran/famtozinameran,1,['comirnaty original/omicron ba.4-5'],True
 tozinameranum,1,['comirnaty'],True
-trabectedin,4,"['trabectedin', 'yondelis']",True
-trafermin,1,['regroth dental kit'],True
+trabectedin,3,"['trabectedin', 'yondelis']",True
 tralokinumab,4,"['adbry', 'adtralza']",False
 tramadol hydrochloride,2,"['apo-tramadol', 'auro-tramadol', 'conzip', 'durela', 'jamp tramadol hcl', 'mar-tramadol', 'qdolo', 'ralivia', 'rybix odt', 'ryzolt', 'taro-tramadol er', 'tramadol hydrochloride', 'tridural', 'ultram', 'ultram er', 'zytram xl']",False
 tramadol hydrochloride / paracetamol,1,['zaldiar'],True
 tramadol hydrochloride; acetaminophen,1,"['apo-tramadol/acet', 'jamp-acet-tramadol', 'mint-tramadol/acet', 'pms-tramadol-acet', 'taro-tramadol/acet']",True
-trametinib,4,"['mekinist', 'spexotras']",True
+trametinib,3,"['mekinist', 'spexotras']",True
 trametinib and dabrafenib,1,['mekinist and tafinlar'],True
-trametinib dimethyl sulfoxide,2,"['mekinist', 'trametinib dimethyl sulfoxide']",True
+trametinib dimethyl sulfoxide,1,"['mekinist', 'trametinib dimethyl sulfoxide']",True
 trametinib; trametinib dimethyl sulfoxide,1,['mekinist'],True
 trandolapril,2,"['auro-trandolapril', 'mavik', 'pms-trandolapril', 'sandoz trandolapril', 'tarka', 'teva-trandolapril', 'trandolapril', 'trandolapril and verapamil hydrochloride']",True
 tranexamic acid,3,"['cyklokapron', 'cyklokapron 100 mg/ml', 'cyklokapron 500 mg', 'gd-tranexamic acid', 'lysteda', 'm-tranexamic acid', 'mar-tranexamic acid', 'tranexamic acid', 'tranexamic acid injection', 'tranexamic acid injection bp', 'tranexamic acid tablets']",False
 tranylcypromine (tranylcypromine sulfate),1,['m-tranylcypromine'],True
 tranylcypromine sulfate,1,['tranylcypromine sulfate'],True
-trastuzumab,5,"['herceptin', 'herceptin sc', 'hervelous', 'herwenda', 'herzuma', 'kanjinti', 'ogivri', 'ontruzant', 'trastucip and tuzucip', 'trazimera', 'tuznue', 'zercepac']",False
+trastuzumab,4,"['herceptin', 'herceptin sc', 'hervelous', 'herwenda', 'herzuma', 'kanjinti', 'ogivri', 'ontruzant', 'trastucip and tuzucip', 'trazimera', 'tuznue', 'zercepac']",False
 trastuzumab and hyaluronidase-oysk,1,['herceptin hylecta'],True
-trastuzumab deruxtecan,5,['enhertu'],True
+trastuzumab deruxtecan,4,['enhertu'],True
 trastuzumab duocarmazine,1,['jivadco'],True
-trastuzumab emtansine,4,['kadcyla'],True
+trastuzumab emtansine,3,['kadcyla'],True
 trastuzumab-anns,1,['kanjinti'],True
 trastuzumab-dkst,1,['ogivri'],True
 trastuzumab-dttb,1,['ontruzant'],True
@@ -4386,7 +4295,6 @@ trastuzumab-strf,1,['hercessi'],True
 trastuzumab; pertuzumab,1,['perjeta-herceptin'],True
 travoprost,3,"['idose tr', 'izba', 'jamp travoprost z', 'sandoz travoprost', 'travatan', 'travatan z', 'travoprost']",True
 trazodone hydrochloride,2,"['ag-trazodone', 'apo-trazodone d tablets 150mg', 'apo-trazodone tablets 100mg', 'apo-trazodone tablets 50mg', 'jamp trazodone', 'oleptro', 'pms-trazodone', 'raldesy', 'teva-trazodone', 'trazodone', 'trazodone hydrochloride', 'trazodone-100', 'trazodone-150 d', 'trazodone-50']",False
-trelagliptin succinate,1,['zafatek'],True
 tremelimumab,4,"['imjudo', 'tremelimumab astrazeneca']",True
 tremelimumab-actl,1,['imjudo'],True
 treosulfan,4,"['grafapex', 'trecondi', 'trecondyv']",False
@@ -4409,7 +4317,6 @@ trifarotene,4,['aklief'],True
 trifluoperazine hydrochloride,1,['trifluoperazine hydrochloride'],True
 trifluridine,1,"['trifluridine', 'trifluridine; tipiracil']",True
 trifluridine / tipiracil,1,['lonsurf'],True
-trifluridine and tipiracil hydrochloride,1,['lonsurf'],True
 trifluridine/tipiracil,1,['lonsurf and orcantas'],True
 trifluridine; tipiracil (tipiracil hydrochloride),1,['lonsurf'],True
 triheptanoin,2,['dojolvi'],True
@@ -4434,8 +4341,7 @@ trypan blue,2,"['membraneblue', 'visionblue']",True
 tryptophan,1,"['apo-tryptophan', 'teva-tryptophan', 'tryptan']",True
 tucatinib,4,['tukysa'],True
 tucatinibum,1,['tukysa'],True
-tucidinostat,1,['hiyasta'],True
-turoctocog alfa,4,"['novoeight', 'zonovate']",False
+turoctocog alfa,3,"['novoeight', 'zonovate']",False
 turoctocog alfa pegol,2,['esperoct'],True
 ublituximab,1,['briumvi'],True
 ublituximab-xiiy,1,['briumvi'],True
@@ -4449,11 +4355,9 @@ umeclidinium (umeclidinium bromide); fluticasone furoate; vilanterol (vilanterol
 umeclidinium bromide,3,"['anoro ellipta', 'incruse', 'incruse ellipta']",False
 umeclidinium bromide / vilanterol,1,"['anoro', 'laventair']",True
 umeclidinium bromide and vilanterol trifenatate,1,['anoro ellipta'],True
-umeclidinium bromide/ vilanterol trifenatate,1,['anoro ellipta'],True
 unoprostone isopropyl,1,['rescula'],True
 upadacitinib,5,"['rinvoq', 'rinvoq lq', 'upadacitinib']",True
 upadacitinib as upadacitinib hemihydrate,1,['rinvoq'],True
-upadacitinib hydrate,1,['rinvoq'],True
 "upadacitinib, upadacitinib hemihydrate",1,['rinvoq'],True
 urea c-13,1,"['breathtek ubt for h-pylori; meretek ubt kit (w/ pranactin)', 'helicosol', 'pylori-chek breath test']",True
 "urea, c-14",1,['pytest; pytest kit'],True
@@ -4461,7 +4365,7 @@ uridine triacetate,1,"['vistogard', 'xuriden']",True
 urofollitropin,1,['bravelle'],True
 ursodeoxycholic acid,1,['urso/ursofalk'],True
 ursodiol,2,"['ag-ursodiol', 'gln-ursodiol', 'jamp-ursodiol', 'nra-ursodiol', 'pms-ursodiol c', 'urso 250; urso forte', 'ursodiol', 'ursodiol c']",False
-ustekinumab,5,"['absimky', 'eksunbi', 'finlius', 'finlius i.v.', 'fymskina', 'imuldosa', 'jamteki', 'otulfi', 'otulfi i.v.', 'pyzchiva', 'stelara', 'stelara i.v.', 'steqeyma', 'steqeyma iv', 'upstelda', 'uzpruvo', 'wezenla', 'wezlana', 'wezlana i.v.', 'yesintek']",True
+ustekinumab,4,"['absimky', 'eksunbi', 'finlius', 'finlius i.v.', 'fymskina', 'imuldosa', 'jamteki', 'otulfi', 'otulfi i.v.', 'pyzchiva', 'stelara', 'stelara i.v.', 'steqeyma', 'steqeyma iv', 'upstelda', 'uzpruvo', 'wezenla', 'wezlana', 'wezlana i.v.', 'yesintek']",True
 ustekinumab-aauz,1,['otulfi'],True
 ustekinumab-aekn,1,['selarsdi'],True
 ustekinumab-auub,1,['wezlana'],True
@@ -4470,17 +4374,14 @@ ustekinumab-kfce,1,['yesintek'],True
 ustekinumab-srlf,1,['imuldosa'],True
 ustekinumab-stba,1,['steqeyma'],True
 ustekinumab-ttwe,1,['pyzchiva'],True
-vadadustat,5,['vafseo'],True
+vadadustat,4,['vafseo'],True
 valacyclovir (valacyclovir hydrochloride monohydrate),1,['sandoz valacyclovir'],True
 valacyclovir (valacyclovir hydrochloride),1,"['ag-valacyclovir', 'apo-valacyclovir', 'auro-valacyclovir', 'jamp valacyclovir', 'mylan-valacyclovir', 'pms-valacyclovir', 'pro-valacyclovir', 'riva-valacyclovir', 'teva-valacyclovir', 'valacyclovir', 'valtrex']",True
 valacyclovir hydrochloride,1,"['valacyclovir hydrochloride', 'valtrex']",True
 valbenazine,1,['valbenazine'],True
-valbenazine tosilate,1,['dysval'],True
 valbenazine tosylate,1,"['ingrezza', 'ingrezza sprinkle', 'valbenazine tosylate']",True
 valdecoxib,1,['bextra'],True
-valemetostat,1,['ezharmia'],True
-valemetostat tosilate,1,['ezharmia'],True
-valganciclovir,2,"['valcyte', 'valixa']",False
+valganciclovir,1,['valcyte'],True
 valganciclovir (valganciclovir hydrochloride),1,"['auro-valganciclovir', 'mint-valganciclovir', 'teva-valganciclovir', 'valcyte']",True
 valganciclovir hydrochloride,1,"['valcyte', 'valganciclovir hydrochloride']",True
 valine; methionine; glycine; phenylalanine; medium chain triglycerides (mct); threonine; fish oil; proline; histidine; taurine; tyrosine; leucine; alanine; tryptophan; arginine; lysine (lysine acetate); serine; isoleucine; soybean oil; olive oil; dextrose,1,['smofkabiven electrolyte free'],True
@@ -4522,7 +4423,7 @@ venlafaxine (venlafaxine hydrochloride),1,"['act venlafaxine xr', 'auro-venlafax
 venlafaxine besylate,1,['venlafaxine besylate'],True
 venlafaxine hydrochloride,1,"['effexor xr', 'venlafaxine hydrochloride']",True
 verapamil hydrochloride,2,"['covera-hs', 'mylan-verapamil sr', 'verapamil hydrochloride', 'verapamil hydrochloride injection usp', 'verelan pm']",False
-vericiguat,6,['verquvo'],True
+vericiguat,5,['verquvo'],True
 vernakalant,2,['brinavess'],True
 vernakalant hydrochloride,1,['brinavess'],True
 verteporfin,2,['visudyne'],True
@@ -4542,7 +4443,7 @@ vildagliptin and metformin hydrochloride,1,['eucreas'],True
 vildagliptin/metformin hydrochloride,1,['galvumet/sobrea'],True
 vilobelimab,1,['gohibic'],True
 viloxazine hydrochloride,1,['qelbree'],True
-viltolarsen,2,['viltepso'],True
+viltolarsen,1,['viltepso'],True
 vimseltinib,1,['romvimza'],True
 vinblastine sulfate,1,"['vinblastine sulfate injection', 'vinblastine sulphate injection']",True
 vincristine sulfate,2,"['marqibo kit', 'vincristine sulfate', 'vincristine sulfate injection usp', 'vincristine sulfate pfs']",False
@@ -4566,7 +4467,7 @@ volanesorsen,1,['waylivra'],True
 von willebrand factor (human); antihemophilic factor (human),1,['humate-p'],True
 von willebrand factor (human); antihemophilic factor (human); human plasma proteins,1,['wilate'],True
 vonicog alfa,2,['veyvondi'],True
-vonoprazan fumarate,2,"['takecab', 'voquezna']",False
+vonoprazan fumarate,1,['voquezna'],True
 vorapaxar,1,['zontivity'],True
 vorapaxar sulfate,1,['zontivity'],True
 vorasidenib,3,['voranigo'],True
@@ -4610,7 +4511,7 @@ zenocutuzumab-zbco,1,['bizengri'],True
 ziconotide acetate,1,['prialt'],True
 zidovudine,1,"['retrovir', 'zidovudine']",True
 zileuton,1,"['zileuton', 'zyflo', 'zyflo cr']",True
-zilucoplan,2,['zilbrysq'],True
+zilucoplan,1,['zilbrysq'],True
 zilucoplan (zilucoplan sodium),1,['zilbrysq'],True
 zilucoplan sodium,1,['zilbrysq'],True
 zinc (zinc sulfate),1,"['zinc sulfate injection, usp']",True
@@ -4640,13 +4541,13 @@ ziprasidone (ziprasidone hydrochloride monohydrate),1,"['auro-ziprasidone', 'zel
 ziprasidone hydrochloride,1,"['geodon', 'ziprasidone hydrochloride']",True
 ziprasidone mesylate,1,"['geodon', 'ziprasidone mesylate']",True
 ziv-aflibercept,1,['zaltrap'],True
-zolbetuximab,3,['vyloy'],True
+zolbetuximab,2,['vyloy'],True
 zolbetuximab-clzb,1,['vyloy'],True
 zoledronic acid,3,"['aclasta/osteovan', 'reclast', 'zoledronic acid', 'zoledronic acid accord', 'zoledronic acid actavis', 'zoledronic acid hospira', 'zoledronic acid medac', 'zoledronic acid mylan', 'zoledronic acid teva', 'zoledronic acid teva generics', 'zoledronic acid teva pharma', 'zoledronic; zoledronic acid', 'zometa']",False
 zoledronic acid (zoledronic acid monohydrate),1,"['aclasta', 'jamp-zoledronic acid', 'taro-zoledronic acid concentrate', 'zoledronic acid - z', 'zoledronic acid for injection', 'zoledronic acid for injection concentrate', 'zoledronic acid injection', 'zometa concentrate']",True
 zolmitriptan,2,"['auro-zolmitriptan', 'bio-zolmitriptan', 'jamp-zolmitriptan', 'mint-zolmitriptan', 'nat-zolmitriptan', 'nra-zolmitriptan', 'sandoz zolmitriptan', 'sandoz zolmitriptan odt', 'teva-zolmitriptan', 'teva-zolmitriptan od', 'zolmitriptan', 'zolmitriptan odt', 'zomig', 'zomig nasal spray', 'zomig rapimelt', 'zomig-zmt']",True
 zolpidem tartrate,2,"['ambien cr', 'apo-zolpidem odt', 'edluar', 'intermezzo', 'jamp zolpidem odt', 'mint-zolpidem odt', 'pms-zolpidem odt', 'pro-zolpidem odt', 'sublinox', 'tovalt odt', 'zolpidem tartrate', 'zolpimist']",False
-zonisamide,4,"['trerief', 'zonegran', 'zonisade', 'zonisamide', 'zonisamide mylan']",False
+zonisamide,3,"['zonegran', 'zonisade', 'zonisamide', 'zonisamide mylan']",False
 zoonotic influenza vaccine (h5n1),1,['zoonotic influenza vaccine seqirus'],True
 "zoonotic influenza vaccine (h5n1) (surface antigen, inactivated, adjuvanted, prepared in cell cultures)",1,['celldemic'],True
 zopiclone,1,"['act zopiclone', 'ag-zopiclone', 'apo-zopiclone', 'bio-zopiclone', 'jamp zopiclone', 'jamp-zopiclone tablets', 'm-zopiclone', 'mar-zopiclone', 'mint-zopiclone', 'nra-zopiclone', 'pms-zopiclone', 'pro-zopiclone', 'riva-zopiclone', 'teva-zopiclone', 'zopiclone']",True
