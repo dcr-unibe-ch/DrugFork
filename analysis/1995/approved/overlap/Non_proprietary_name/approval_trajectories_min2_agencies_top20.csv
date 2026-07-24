@@ -1,21 +1,21 @@
 Trajectory,Count
-FDA -> HealthCanada,257
-HealthCanada -> FDA,119
-EMA -> TGA,50
-FDA -> EMA,31
-FDA -> HealthCanada -> EMA,31
-EMA -> FDA,30
-FDA -> EMA -> HealthCanada -> TGA,26
-FDA -> HealthCanada -> TGA,26
-FDA -> TGA,25
-FDA -> EMA -> HealthCanada,23
-EMA -> Swissmedic,18
-HealthCanada -> FDA -> TGA,14
-FDA -> PMDA,14
-FDA -> HealthCanada -> TGA -> EMA,13
-FDA -> EMA -> TGA,12
-FDA -> EMA -> TGA -> HealthCanada,12
+FDA -> HealthCanada,265
+HealthCanada -> FDA,120
+EMA -> TGA,63
+FDA -> EMA -> HealthCanada -> TGA,41
+FDA -> EMA,34
+FDA -> EMA -> HealthCanada,33
+FDA -> HealthCanada -> TGA,32
+FDA -> HealthCanada -> EMA,32
+EMA -> FDA,31
+FDA -> TGA,29
+FDA -> HealthCanada -> TGA -> EMA,22
+EMA -> FDA -> HealthCanada -> TGA,20
+EMA -> Swissmedic,20
+FDA -> HealthCanada -> EMA -> TGA,16
+HealthCanada -> FDA -> TGA,16
+FDA -> EMA -> TGA -> HealthCanada,14
+EMA -> TGA -> FDA,13
+FDA -> EMA -> TGA,13
 EMA -> Swissmedic -> TGA,11
-EMA -> FDA -> HealthCanada -> TGA,10
-EMA -> TGA -> FDA,10
-TGA -> EMA,10
+TGA -> EMA,11

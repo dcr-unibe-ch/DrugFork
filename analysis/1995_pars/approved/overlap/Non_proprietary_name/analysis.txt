@@ -5,29 +5,26 @@ Drug Sharing Analysis by Agency (unique deduped entries based on Non_proprietary
 
 Percentages represent proportion of each agency's unique deduped entries by Non_proprietary_name:
 
-            Unique to agency  Shared with 1 other  Shared with 2 others  Shared with 3 others
-EMA                    52.17                28.36                 17.39                  2.07
-PMDA                   41.37                17.92                 34.20                  6.51
-Swissmedic             33.82                22.06                 34.31                  9.80
-TGA                    42.76                32.03                 22.42                  2.79
+            Unique to agency  Shared with 1 other  Shared with 2 others
+EMA                    55.59                35.82                  8.59
+Swissmedic             33.82                25.49                 40.69
+TGA                    45.82                42.62                 11.56
 
 
 ================================================================================
 Absolute counts (by unique deduped entry in Non_proprietary_name):
 ================================================================================
 
-            Unique to agency  Shared with 1 other  Shared with 2 others  Shared with 3 others
-EMA                      504                  274                   168                    20
-PMDA                     127                   55                   105                    20
-Swissmedic                69                   45                    70                    20
-TGA                      307                  230                   161                    20
+            Unique to agency  Shared with 1 other  Shared with 2 others
+EMA                      537                  346                    83
+Swissmedic                69                   52                    83
+TGA                      329                  306                    83
 
 
 ================================================================================
 Summary Statistics by unique deduped Non_proprietary_name:
 ================================================================================
 
-EMA             - Total: 1488, Total deduped:  966, Unique to this agency:  504 (52.2%)
-PMDA            - Total:  407, Total deduped:  307, Unique to this agency:  127 (41.4%)
+EMA             - Total: 1488, Total deduped:  966, Unique to this agency:  537 (55.6%)
 Swissmedic      - Total:  233, Total deduped:  204, Unique to this agency:   69 (33.8%)
-TGA             - Total:  988, Total deduped:  718, Unique to this agency:  307 (42.8%)
+TGA             - Total:  988, Total deduped:  718, Unique to this agency:  329 (45.8%)

@@ -1,0 +1,24 @@
+Dataset Statistics (DEDUPLICATED - one entry per drug-agency pair):
+============================================================
+Total rows in dataset: 10,374
+Unique Non-proprietary names: 3,597
+Unique Drug names (brand): 9,533
+Unique agencies: 2
+Agencies: FDA, HealthCanada
+============================================================
+
+Unique Non-proprietary names per agency:
+  FDA                  2,076
+  HealthCanada         2,242
+
+============================================================
+Drug Sharing Analysis (by Non-proprietary name):
+============================================================
+
+Unique to exactly 1 agency (total): 2,876 drugs (80.0%)
+
+Number of drugs by agency count:
+  Unique to 1 agency:            2,876 drugs (80.0%)
+  Shared by 2 agencies:         721 drugs (20.0%)
+
+Total shared (2+ agencies): 721 drugs (20.0%)

@@ -1,5 +1,3 @@
 Trajectory,Count
-HealthCanada,1569
-FDA,1373
 FDA -> HealthCanada,554
 HealthCanada -> FDA,171

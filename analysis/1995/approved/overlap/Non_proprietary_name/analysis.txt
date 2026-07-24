@@ -5,35 +5,32 @@ Drug Sharing Analysis by Agency (unique deduped entries based on Non_proprietary
 
 Percentages represent proportion of each agency's unique deduped entries by Non_proprietary_name:
 
-              Unique to agency  Shared with 1 other  Shared with 2 others  Shared with 3 others  Shared with 4 others  Shared with 5 others
-EMA                      36.75                17.60                 17.49                 16.98                 10.25                  0.93
-FDA                      56.91                23.36                  8.10                  6.77                  4.43                  0.43
-HealthCanada             64.91                16.83                  6.54                  7.11                  4.23                  0.39
-PMDA                     32.25                13.68                 11.07                 15.31                 24.76                  2.93
-Swissmedic               31.37                12.25                 15.69                 20.10                 16.18                  4.41
-TGA                      31.34                15.18                 17.13                 21.59                 13.51                  1.25
+              Unique to agency  Shared with 1 other  Shared with 2 others  Shared with 3 others  Shared with 4 others
+EMA                      38.20                18.32                 19.25                 20.91                  3.31
+FDA                      57.82                23.26                  8.87                  8.53                  1.53
+HealthCanada             64.91                17.26                  7.59                  8.85                  1.39
+Swissmedic               31.37                13.24                 17.65                 22.06                 15.69
+TGA                      32.59                16.43                 18.80                 27.72                  4.46
 
 
 ================================================================================
 Absolute counts (by unique deduped entry in Non_proprietary_name):
 ================================================================================
 
-              Unique to agency  Shared with 1 other  Shared with 2 others  Shared with 3 others  Shared with 4 others  Shared with 5 others
-EMA                        355                  170                   169                   164                    99                     9
-FDA                       1194                  490                   170                   142                    93                     9
-HealthCanada              1489                  386                   150                   163                    97                     9
-PMDA                        99                   42                    34                    47                    76                     9
-Swissmedic                  64                   25                    32                    41                    33                     9
-TGA                        225                  109                   123                   155                    97                     9
+              Unique to agency  Shared with 1 other  Shared with 2 others  Shared with 3 others  Shared with 4 others
+EMA                        369                  177                   186                   202                    32
+FDA                       1213                  488                   186                   179                    32
+HealthCanada              1489                  396                   174                   203                    32
+Swissmedic                  64                   27                    36                    45                    32
+TGA                        234                  118                   135                   199                    32
 
 
 ================================================================================
 Summary Statistics by unique deduped Non_proprietary_name:
 ================================================================================
 
-EMA             - Total: 1488, Total deduped:  966, Unique to this agency:  355 (36.7%)
-FDA             - Total: 18212, Total deduped: 2098, Unique to this agency: 1194 (56.9%)
+EMA             - Total: 1488, Total deduped:  966, Unique to this agency:  369 (38.2%)
+FDA             - Total: 18212, Total deduped: 2098, Unique to this agency: 1213 (57.8%)
 HealthCanada    - Total: 10286, Total deduped: 2294, Unique to this agency: 1489 (64.9%)
-PMDA            - Total:  407, Total deduped:  307, Unique to this agency:   99 (32.2%)
 Swissmedic      - Total:  233, Total deduped:  204, Unique to this agency:   64 (31.4%)
-TGA             - Total:  988, Total deduped:  718, Unique to this agency:  225 (31.3%)
+TGA             - Total:  988, Total deduped:  718, Unique to this agency:  234 (32.6%)

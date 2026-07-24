@@ -2,36 +2,24 @@
 Time Lag Statistics Between Agencies (consecutive approvals) - DAYS
 ================================================================================
 
-                    Count  Mean (days)  Median (days)  Std (days)  Min (days)  Max (days)
-agency_pair                                                                              
-EMA -> TGA            238        766.9          332.0      1104.0           4        6060
-EMA -> Swissmedic      77        534.4          300.0       667.1          21        3500
-TGA -> EMA             68       1198.4          434.0      1397.0           1        4902
-EMA -> PMDA            62        571.3          179.0       951.0           0        5656
-PMDA -> EMA            51        608.9          183.0       827.2           6        3195
-PMDA -> TGA            51        774.0          350.0       952.1           0        3773
-TGA -> PMDA            47       1009.1          711.0       903.9          10        3165
-TGA -> Swissmedic      39        255.3          124.0       302.8           2        1493
-Swissmedic -> TGA      36        345.3          196.5       345.8           2        1152
-Swissmedic -> EMA      17        110.4           37.0       153.7           1         436
-PMDA -> Swissmedic      4        335.8          294.0       348.0           8         747
-Swissmedic -> PMDA      2        287.0          287.0       178.2         161         413
+                   Count  Mean (days)  Median (days)  Std (days)  Min (days)  Max (days)
+agency_pair                                                                             
+EMA -> TGA           269        781.0          351.0      1077.6           4        6060
+EMA -> Swissmedic     79        529.6          300.0       659.8          21        3500
+TGA -> EMA            73       1269.7          463.0      1424.6           1        4902
+TGA -> Swissmedic     40        249.8          124.0       300.9           2        1493
+Swissmedic -> TGA     36        345.3          196.5       345.8           2        1152
+Swissmedic -> EMA     17        110.4           37.0       153.7           1         436
 
 ================================================================================
 Time Lag Statistics in Months
 ================================================================================
 
-                    Count  Mean (months)  Median (months)  Std (months)  Min (months)  Max (months)
-agency_pair                                                                                        
-EMA -> TGA            238           25.2             10.9          36.3           0.1         199.1
-EMA -> Swissmedic      77           17.6              9.9          21.9           0.7         115.0
-TGA -> EMA             68           39.4             14.3          45.9           0.0         161.0
-EMA -> PMDA            62           18.8              5.9          31.2           0.0         185.8
-PMDA -> EMA            51           20.0              6.0          27.2           0.2         105.0
-PMDA -> TGA            51           25.4             11.5          31.3           0.0         123.9
-TGA -> PMDA            47           33.2             23.4          29.7           0.3         104.0
-TGA -> Swissmedic      39            8.4              4.1           9.9           0.1          49.0
-Swissmedic -> TGA      36           11.3              6.5          11.4           0.1          37.8
-Swissmedic -> EMA      17            3.6              1.2           5.0           0.0          14.3
-PMDA -> Swissmedic      4           11.0              9.7          11.4           0.3          24.5
-Swissmedic -> PMDA      2            9.4              9.4           5.9           5.3          13.6
+                   Count  Mean (months)  Median (months)  Std (months)  Min (months)  Max (months)
+agency_pair                                                                                       
+EMA -> TGA           269           25.7             11.5          35.4           0.1         199.1
+EMA -> Swissmedic     79           17.4              9.9          21.7           0.7         115.0
+TGA -> EMA            73           41.7             15.2          46.8           0.0         161.0
+TGA -> Swissmedic     40            8.2              4.1           9.9           0.1          49.0
+Swissmedic -> TGA     36           11.3              6.5          11.4           0.1          37.8
+Swissmedic -> EMA     17            3.6              1.2           5.0           0.0          14.3

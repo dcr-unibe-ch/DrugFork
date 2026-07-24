@@ -1,107 +1,106 @@
 ================================================================================
 Most common trajectories (minimum 2 agencies)
-Total drugs meeting threshold: 1117
-Unique trajectories: 200
+Total drugs meeting threshold: 1076
+Unique trajectories: 110
 Top 20 trajectories:
-   1. [257] FDA -> HealthCanada
-   2. [119] HealthCanada -> FDA
-   3. [ 50] EMA -> TGA
-   4. [ 31] FDA -> EMA
-   5. [ 31] FDA -> HealthCanada -> EMA
-   6. [ 30] EMA -> FDA
-   7. [ 26] FDA -> EMA -> HealthCanada -> TGA
-   8. [ 26] FDA -> HealthCanada -> TGA
-   9. [ 25] FDA -> TGA
-  10. [ 23] FDA -> EMA -> HealthCanada
-  11. [ 18] EMA -> Swissmedic
-  12. [ 14] HealthCanada -> FDA -> TGA
-  13. [ 14] FDA -> PMDA
-  14. [ 13] FDA -> HealthCanada -> TGA -> EMA
-  15. [ 12] FDA -> EMA -> TGA
-  16. [ 12] FDA -> EMA -> TGA -> HealthCanada
-  17. [ 11] EMA -> Swissmedic -> TGA
-  18. [ 10] EMA -> FDA -> HealthCanada -> TGA
-  19. [ 10] EMA -> TGA -> FDA
-  20. [ 10] TGA -> EMA
+   1. [265] FDA -> HealthCanada
+   2. [120] HealthCanada -> FDA
+   3. [ 63] EMA -> TGA
+   4. [ 41] FDA -> EMA -> HealthCanada -> TGA
+   5. [ 34] FDA -> EMA
+   6. [ 33] FDA -> EMA -> HealthCanada
+   7. [ 32] FDA -> HealthCanada -> TGA
+   8. [ 32] FDA -> HealthCanada -> EMA
+   9. [ 31] EMA -> FDA
+  10. [ 29] FDA -> TGA
+  11. [ 22] FDA -> HealthCanada -> TGA -> EMA
+  12. [ 20] EMA -> FDA -> HealthCanada -> TGA
+  13. [ 20] EMA -> Swissmedic
+  14. [ 16] FDA -> HealthCanada -> EMA -> TGA
+  15. [ 16] HealthCanada -> FDA -> TGA
+  16. [ 14] FDA -> EMA -> TGA -> HealthCanada
+  17. [ 13] EMA -> TGA -> FDA
+  18. [ 13] FDA -> EMA -> TGA
+  19. [ 11] EMA -> Swissmedic -> TGA
+  20. [ 11] TGA -> EMA
 Saved CSV: ./../analysis/1995/approved/overlap/Non_proprietary_name/approval_trajectories_min2_agencies_top20.csv
 
 ================================================================================
 Most common trajectories (minimum 3 agencies)
-Total drugs meeting threshold: 504
-Unique trajectories: 178
+Total drugs meeting threshold: 470
+Unique trajectories: 94
 Top 20 trajectories:
-   1. [ 31] FDA -> HealthCanada -> EMA
-   2. [ 26] FDA -> EMA -> HealthCanada -> TGA
-   3. [ 26] FDA -> HealthCanada -> TGA
-   4. [ 23] FDA -> EMA -> HealthCanada
-   5. [ 14] HealthCanada -> FDA -> TGA
-   6. [ 13] FDA -> HealthCanada -> TGA -> EMA
-   7. [ 12] FDA -> EMA -> TGA
-   8. [ 12] FDA -> EMA -> TGA -> HealthCanada
-   9. [ 11] EMA -> Swissmedic -> TGA
-  10. [ 10] EMA -> FDA -> HealthCanada -> TGA
-  11. [ 10] EMA -> TGA -> FDA
-  12. [  7] FDA -> HealthCanada -> EMA -> TGA
-  13. [  7] FDA -> HealthCanada -> PMDA
-  14. [  7] FDA -> EMA -> HealthCanada -> PMDA -> TGA
-  15. [  7] EMA -> TGA -> HealthCanada
-  16. [  6] EMA -> FDA -> HealthCanada
-  17. [  6] EMA -> TGA -> PMDA
-  18. [  5] EMA -> FDA -> TGA
-  19. [  5] EMA -> FDA -> HealthCanada -> TGA -> PMDA
-  20. [  5] FDA -> HealthCanada -> TGA -> EMA -> PMDA
+   1. [ 41] FDA -> EMA -> HealthCanada -> TGA
+   2. [ 33] FDA -> EMA -> HealthCanada
+   3. [ 32] FDA -> HealthCanada -> TGA
+   4. [ 32] FDA -> HealthCanada -> EMA
+   5. [ 22] FDA -> HealthCanada -> TGA -> EMA
+   6. [ 20] EMA -> FDA -> HealthCanada -> TGA
+   7. [ 16] FDA -> HealthCanada -> EMA -> TGA
+   8. [ 16] HealthCanada -> FDA -> TGA
+   9. [ 14] FDA -> EMA -> TGA -> HealthCanada
+  10. [ 13] EMA -> TGA -> FDA
+  11. [ 13] FDA -> EMA -> TGA
+  12. [ 11] EMA -> Swissmedic -> TGA
+  13. [ 11] EMA -> TGA -> HealthCanada
+  14. [  8] FDA -> TGA -> EMA -> HealthCanada
+  15. [  8] EMA -> HealthCanada -> TGA -> Swissmedic
+  16. [  7] EMA -> FDA -> TGA
+  17. [  7] EMA -> FDA -> HealthCanada
+  18. [  6] HealthCanada -> FDA -> TGA -> EMA
+  19. [  6] HealthCanada -> FDA -> EMA -> TGA
+  20. [  6] FDA -> TGA -> HealthCanada
 Saved CSV: ./../analysis/1995/approved/overlap/Non_proprietary_name/approval_trajectories_min3_agencies_top20.csv
 
 ================================================================================
 Most common trajectories (minimum 4 agencies)
-Total drugs meeting threshold: 282
-Unique trajectories: 132
+Total drugs meeting threshold: 236
+Unique trajectories: 61
 Top 20 trajectories:
-   1. [ 26] FDA -> EMA -> HealthCanada -> TGA
-   2. [ 13] FDA -> HealthCanada -> TGA -> EMA
-   3. [ 12] FDA -> EMA -> TGA -> HealthCanada
-   4. [ 10] EMA -> FDA -> HealthCanada -> TGA
-   5. [  7] FDA -> HealthCanada -> EMA -> TGA
-   6. [  7] FDA -> EMA -> HealthCanada -> PMDA -> TGA
-   7. [  5] EMA -> FDA -> HealthCanada -> TGA -> PMDA
-   8. [  5] FDA -> HealthCanada -> TGA -> EMA -> PMDA
-   9. [  5] FDA -> TGA -> HealthCanada -> EMA
-  10. [  5] EMA -> HealthCanada -> TGA -> Swissmedic
-  11. [  5] FDA -> EMA -> PMDA -> HealthCanada
-  12. [  5] HealthCanada -> FDA -> TGA -> EMA
-  13. [  5] FDA -> TGA -> EMA -> HealthCanada
-  14. [  4] FDA -> HealthCanada -> EMA -> TGA -> PMDA
-  15. [  4] FDA -> HealthCanada -> EMA -> TGA -> Swissmedic
-  16. [  4] HealthCanada -> FDA -> EMA -> TGA
-  17. [  3] FDA -> HealthCanada -> TGA -> PMDA
-  18. [  3] FDA -> TGA -> EMA -> HealthCanada -> PMDA
-  19. [  3] EMA -> HealthCanada -> TGA -> FDA
-  20. [  3] HealthCanada -> EMA -> TGA -> Swissmedic
+   1. [ 41] FDA -> EMA -> HealthCanada -> TGA
+   2. [ 22] FDA -> HealthCanada -> TGA -> EMA
+   3. [ 20] EMA -> FDA -> HealthCanada -> TGA
+   4. [ 16] FDA -> HealthCanada -> EMA -> TGA
+   5. [ 14] FDA -> EMA -> TGA -> HealthCanada
+   6. [  8] FDA -> TGA -> EMA -> HealthCanada
+   7. [  8] EMA -> HealthCanada -> TGA -> Swissmedic
+   8. [  6] HealthCanada -> FDA -> TGA -> EMA
+   9. [  6] HealthCanada -> FDA -> EMA -> TGA
+  10. [  6] EMA -> FDA -> TGA -> HealthCanada
+  11. [  5] FDA -> TGA -> HealthCanada -> EMA
+  12. [  4] EMA -> HealthCanada -> TGA -> FDA
+  13. [  4] FDA -> HealthCanada -> EMA -> TGA -> Swissmedic
+  14. [  4] FDA -> EMA -> HealthCanada -> Swissmedic -> TGA
+  15. [  4] EMA -> TGA -> FDA -> HealthCanada
+  16. [  3] FDA -> HealthCanada -> TGA -> EMA -> Swissmedic
+  17. [  3] HealthCanada -> EMA -> TGA -> Swissmedic
+  18. [  3] FDA -> EMA -> Swissmedic -> HealthCanada
+  19. [  3] EMA -> TGA -> HealthCanada -> Swissmedic
+  20. [  3] FDA -> HealthCanada -> Swissmedic -> TGA
 Saved CSV: ./../analysis/1995/approved/overlap/Non_proprietary_name/approval_trajectories_min4_agencies_top20.csv
 
 ================================================================================
 Most common trajectories (minimum 5 agencies)
-Total drugs meeting threshold: 108
-Unique trajectories: 66
+Total drugs meeting threshold: 32
+Unique trajectories: 19
 Top 20 trajectories:
-   1. [  7] FDA -> EMA -> HealthCanada -> PMDA -> TGA
-   2. [  5] EMA -> FDA -> HealthCanada -> TGA -> PMDA
-   3. [  5] FDA -> HealthCanada -> TGA -> EMA -> PMDA
-   4. [  4] FDA -> HealthCanada -> EMA -> TGA -> PMDA
-   5. [  4] FDA -> HealthCanada -> EMA -> TGA -> Swissmedic
-   6. [  3] FDA -> TGA -> EMA -> HealthCanada -> PMDA
-   7. [  3] PMDA -> EMA -> HealthCanada -> TGA -> Swissmedic
-   8. [  3] FDA -> EMA -> HealthCanada -> TGA -> PMDA
-   9. [  3] FDA -> HealthCanada -> PMDA -> EMA -> TGA
-  10. [  2] FDA -> HealthCanada -> TGA -> EMA -> Swissmedic
-  11. [  2] FDA -> HealthCanada -> TGA -> PMDA -> EMA
-  12. [  2] FDA -> HealthCanada -> TGA -> Swissmedic -> EMA
-  13. [  2] FDA -> EMA -> PMDA -> HealthCanada -> TGA
-  14. [  2] EMA -> PMDA -> TGA -> FDA -> HealthCanada
-  15. [  2] FDA -> EMA -> TGA -> Swissmedic -> HealthCanada
-  16. [  2] FDA -> HealthCanada -> PMDA -> TGA -> EMA
-  17. [  2] EMA -> FDA -> PMDA -> TGA -> HealthCanada
-  18. [  2] PMDA -> EMA -> FDA -> HealthCanada -> TGA
-  19. [  2] FDA -> EMA -> HealthCanada -> TGA -> Swissmedic
-  20. [  2] PMDA -> FDA -> EMA -> HealthCanada -> TGA
+   1. [  4] FDA -> HealthCanada -> EMA -> TGA -> Swissmedic
+   2. [  4] FDA -> EMA -> HealthCanada -> Swissmedic -> TGA
+   3. [  3] FDA -> HealthCanada -> TGA -> EMA -> Swissmedic
+   4. [  2] FDA -> HealthCanada -> TGA -> Swissmedic -> EMA
+   5. [  2] FDA -> EMA -> TGA -> Swissmedic -> HealthCanada
+   6. [  2] FDA -> EMA -> HealthCanada -> TGA -> Swissmedic
+   7. [  2] FDA -> EMA -> Swissmedic -> HealthCanada -> TGA
+   8. [  2] FDA -> EMA -> Swissmedic -> TGA -> HealthCanada
+   9. [  1] EMA -> FDA -> Swissmedic -> HealthCanada -> TGA
+  10. [  1] FDA -> Swissmedic -> TGA -> EMA -> HealthCanada
+  11. [  1] EMA -> FDA -> TGA -> Swissmedic -> HealthCanada
+  12. [  1] FDA -> HealthCanada -> Swissmedic -> EMA -> TGA
+  13. [  1] FDA -> Swissmedic -> EMA -> HealthCanada -> TGA
+  14. [  1] FDA -> TGA -> Swissmedic -> EMA -> HealthCanada
+  15. [  1] FDA -> TGA -> HealthCanada -> Swissmedic -> EMA
+  16. [  1] FDA -> TGA -> HealthCanada -> EMA -> Swissmedic
+  17. [  1] FDA -> EMA -> TGA -> HealthCanada -> Swissmedic
+  18. [  1] EMA -> TGA -> HealthCanada -> FDA -> Swissmedic
+  19. [  1] FDA -> HealthCanada -> EMA -> Swissmedic -> TGA
 Saved CSV: ./../analysis/1995/approved/overlap/Non_proprietary_name/approval_trajectories_min5_agencies_top20.csv

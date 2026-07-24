@@ -1,0 +1,32 @@
+================================================================================
+Most common trajectories (minimum 2 agencies)
+Total drugs meeting threshold: 725
+Unique trajectories: 2
+Top 20 trajectories:
+   1. [554] FDA -> HealthCanada
+   2. [171] HealthCanada -> FDA
+Saved CSV: ./../analysis/1995_nonpars/approved/overlap/Non_proprietary_name/approval_trajectories_min2_agencies_top20.csv
+
+================================================================================
+Most common trajectories (minimum 3 agencies)
+Total drugs meeting threshold: 0
+Unique trajectories: 0
+Top 20 trajectories:
+  No trajectories available for this threshold.
+Saved CSV: ./../analysis/1995_nonpars/approved/overlap/Non_proprietary_name/approval_trajectories_min3_agencies_top20.csv
+
+================================================================================
+Most common trajectories (minimum 4 agencies)
+Total drugs meeting threshold: 0
+Unique trajectories: 0
+Top 20 trajectories:
+  No trajectories available for this threshold.
+Saved CSV: ./../analysis/1995_nonpars/approved/overlap/Non_proprietary_name/approval_trajectories_min4_agencies_top20.csv
+
+================================================================================
+Most common trajectories (minimum 5 agencies)
+Total drugs meeting threshold: 0
+Unique trajectories: 0
+Top 20 trajectories:
+  No trajectories available for this threshold.
+Saved CSV: ./../analysis/1995_nonpars/approved/overlap/Non_proprietary_name/approval_trajectories_min5_agencies_top20.csv
