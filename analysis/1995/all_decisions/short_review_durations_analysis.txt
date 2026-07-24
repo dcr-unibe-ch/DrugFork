@@ -1,0 +1,40 @@
+Analysis of Suspiciously Short Review Durations
+============================================================
+
+EMA:
+  Total with both dates: 1479
+  Review < 30 days: 11 (0.7%)
+  Negative duration: 0 (0.0%)
+  Min duration: 2.0 days
+  First 3 examples of < 30 days:
+     Drug_name Application_date Decision_date  Review_duration_days
+80   arepanrix       2010-01-18    2010-01-20                   2.0
+145   bimervax       2023-03-21    2023-03-30                   9.0
+253  comirnaty       2020-11-30    2020-12-21                  21.0
+
+Swissmedic:
+  Total with both dates: 234
+  Review < 30 days: 0 (0.0%)
+  Negative duration: 0 (0.0%)
+
+TGA:
+  Total with both dates: 507
+  Review < 30 days: 3 (0.6%)
+  Negative duration: 0 (0.0%)
+  Min duration: 4.0 days
+  All cases < 30 days:
+      Drug_name Application_date Decision_date  Review_duration_days
+2042  comirnaty       2021-10-15    2021-10-26                  11.0
+2199   spikevax       2021-11-08    2021-12-07                  29.0
+2692    veklury       2020-07-06    2020-07-10                   4.0
+
+Overall:
+  Total with both dates: 2220
+  Review < 30 days: 14 (0.6%)
+  Negative duration: 0 (0.0%)
+  Min duration: 2.0 days
+  First 3 examples of < 30 days:
+     Drug_name Application_date Decision_date  Review_duration_days
+80   arepanrix       2010-01-18    2010-01-20                   2.0
+145   bimervax       2023-03-21    2023-03-30                   9.0
+253  comirnaty       2020-11-30    2020-12-21                  21.0
